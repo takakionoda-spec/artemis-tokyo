@@ -9,7 +9,8 @@
     "lint": "eslint",
     "typecheck": "tsc --noEmit",
     "cron:publish": "tsx src/scripts/cron-publisher.ts",
-    "cron:publish:dry": "tsx src/scripts/cron-publisher.ts --dry-run"
+    "cron:publish:dry": "tsx src/scripts/cron-publisher.ts --dry-run",
+    "cron:backfill": "tsx src/scripts/cron-publisher.ts --backfill"
   },
   "dependencies": {
     "next": "16.2.6",

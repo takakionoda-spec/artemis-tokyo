@@ -1,5 +1,975 @@
 [
   {
+    "slug": "the-lunar-scientist-crafting-a-new-profession-on-artemis",
+    "category": "artemis",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-05-19T15:00:00.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
+    },
+    "title": {
+      "en": "The Lunar Scientist: Crafting a New Profession on Artemis",
+      "ja": "月面科学者：アルテミスが育む新たな専門職"
+    },
+    "dek": {
+      "en": "As Artemis missions prepare to return to the Moon, a meticulous curriculum is shaping the first generation of lunar researchers.",
+      "ja": "アルテミス計画が月への帰還を準備する中、緻密なカリキュラムが月面研究者の第一世代を形成しつつある。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO, May 19, 2026",
+      "ja": "東京、2026年5月19日"
+    },
+    "tags": [
+      {
+        "en": "space-tech",
+        "ja": "宇宙技術"
+      },
+      {
+        "en": "artemis",
+        "ja": "アルテミス"
+      },
+      {
+        "en": "research",
+        "ja": "研究"
+      },
+      {
+        "en": "lunar",
+        "ja": "月"
+      }
+    ],
+    "body": {
+      "en": [
+        "The rigorous training for lunar missions is not solely focused on survival. It is about the work itself, the science that will define humanity's sustained presence beyond Earth.",
+        "At Johnson Space Center, teams are being readied not just as astronauts, but as field scientists. They are learning to navigate the lunar surface with precision, to identify geological markers, and to operate complex instruments under alien conditions.",
+        "This preparation extends to the minutiae of sample collection, the careful handling of regolith, and the deployment of sensors designed to probe the Moon's deep interior. Every gesture is practiced, every procedure refined.",
+        "The silence of a simulated lunar landscape echoes with the quiet dedication required to unlock cosmic secrets.",
+        "For those who will eventually live and work off-world, this methodical approach to lunar science lays a foundational layer. It means that future lunar settlements will not merely be outposts, but centers of research and discovery.",
+        "It implies the emergence of new lunar professions: not just pilots and engineers, but dedicated geologists, astrobiologists, and technicians whose daily routine involves the careful study of an extraterrestrial environment. Their work defines a new form of lunar labor, driven by inquiry."
+      ],
+      "ja": [
+        "月面ミッションに向けた厳格な訓練は、単なる生存術にとどまらない。それは、地球外での人類の持続的な存在を定義する、月面での「仕事」、すなわち科学そのものに焦点を当てている。",
+        "ジョンソン宇宙センターでは、チームは宇宙飛行士としてだけでなく、フィールド科学者として訓練を受けている。彼らは月面を正確に移動し、地質学的特徴を識別し、異質な環境下で複雑な機器を操作する方法を学んでいる。",
+        "この準備は、サンプル採取の微細な作業、レゴリスの慎重な取り扱い、そして月の深部を探るために設計されたセンサーの展開に至るまで、多岐にわたる。一つ一つの動作が練習され、手順が洗練されていく。",
+        "シミュレーションされた月面の静寂は、宇宙の秘密を解き明かすために求められる、静かな献身を響かせている。",
+        "やがて月で暮らし、働く人々にとって、この月面科学への体系的なアプローチは、重要な基盤を築く。それは、将来の月面居住地が単なる前哨基地ではなく、研究と発見の中心地となることを意味する。",
+        "これは、パイロットやエンジニアだけでなく、専門の地質学者、宇宙生物学者、技術者といった新たな月面専門職の出現を示唆している。彼らの日常は、地球外環境の綿密な調査によって形成される。彼らの仕事は、探求によって推進される新たな月面労働の形を定義するだろう。"
+      ]
+    },
+    "source": {
+      "name": "NASA Artemis",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/johnsons-cindy-evans-prepares-artemis-teams-for-lunar-science/"
+    },
+    "sourceGuid": "https://www.nasa.gov/?p=996942",
+    "status": "published"
+  },
+  {
+    "slug": "lunar-powers-quiet-revolution",
+    "category": "space-tech",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-05-20T22:16:29.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/HFCTMNVPzkuuxDURLkW6N8-1280-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Lunar Power's Quiet Revolution",
+      "ja": "月面電力の静かなる革新"
+    },
+    "dek": {
+      "en": "New solar technologies promise reliable energy for permanent lunar settlements, shifting the calculus of off-world living.",
+      "ja": "新たな太陽光発電技術が月面定住地の安定したエネルギー供給を約束し、地球外生活の条件を変えつつある。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO, May 20, 2026",
+      "ja": "東京、2026年5月20日"
+    },
+    "tags": [
+      {
+        "en": "Lunar",
+        "ja": "月面"
+      },
+      {
+        "en": "Power",
+        "ja": "電力"
+      },
+      {
+        "en": "Energy",
+        "ja": "エネルギー"
+      },
+      {
+        "en": "Infrastructure",
+        "ja": "インフラ"
+      }
+    ],
+    "body": {
+      "en": [
+        "The lunar regolith, fine and abrasive, is a constant adversary. It coats sensors, grinds gears, and obscures solar panels, threatening the very lifelines of any sustained presence beyond Earth.",
+        "Recent advancements in photovoltaic technology, however, offer a quiet counter-measure. Engineers are developing new solar arrays designed for the Moon's harsh environment. These panels integrate novel composite materials, enhancing resistance to both dust accumulation and solar radiation.",
+        "Crucially, these systems boast significantly higher power-to-mass ratios. This means more energy can be generated from smaller, lighter units, deployed with greater speed and autonomy. Reliability in the face of lunar dust storms becomes a tangible promise, not just an aspiration.",
+        "The sun's unforgiving glare, once a challenge, is slowly being tamed into a dependable current.",
+        "For those who will inhabit lunar outposts, this translates directly into a new calculus of comfort and cost. Less mass dedicated to power generation frees up cargo space for personal effects, scientific instruments, or even fresh produce. It means fewer maintenance hours spent brushing dust from surfaces, and more reliable access to the light and warmth that define a habitable space. The steady hum of power, a given on Earth, becomes a hard-won luxury, now more attainable."
+      ],
+      "ja": [
+        "月面のレゴリスは、細かく、そして摩耗性が高い。それはセンサーを覆い、ギアを削り、太陽電池パネルを曇らせ、地球外での持続的な存在の生命線を常に脅かしている。",
+        "しかし、近年の太陽光発電技術の進歩は、静かな対抗策を提示する。技術者たちは、月の過酷な環境に特化した新しいソーラーアレイを開発している。これらのパネルは、革新的な複合材料を組み込み、塵の堆積と太陽放射の両方に対する耐性を高めている。",
+        "重要なのは、これらのシステムが大幅に高い出力対質量比を誇ることだ。これは、より小さく、より軽いユニットから、より多くのエネルギーを生成できることを意味し、展開も迅速かつ自律的に行われる。月面の塵嵐に直面しても、信頼性が具体的な約束となり、単なる願望ではなくなる。",
+        "容赦ない太陽の輝きは、かつての挑戦から、信頼できる電流へと静かに馴らされつつある。",
+        "月の基地に住む人々にとって、これは快適さとコストに関する新たな計算式に直結する。電力生成に割かれる質量が減れば、貨物スペースを個人的な持ち物、科学機器、あるいは新鮮な農産物のために確保できる。表面の塵を払うメンテナンス時間が減り、居住空間を定義する光と熱へのアクセスがより確実になるだろう。地球上では当たり前の電力の安定した稼働は、月では苦労して手に入れた贅沢となり、今やそれがより身近なものとなる。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/space-exploration/satellites/space-debris-is-forcing-satellites-to-dodge-more-often-costing-us-vital-science-things-will-get-worse-before-they-get-better"
+    },
+    "sourceGuid": "2nNKJ2osbMQREwf9dkrEaS",
+    "status": "published"
+  },
+  {
+    "slug": "the-unseen-architect-of-space",
+    "category": "research",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-05-19T17:59:56.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101010"
+    },
+    "title": {
+      "en": "The Unseen Architect of Space",
+      "ja": "宇宙の不可視なる設計者"
+    },
+    "dek": {
+      "en": "New research suggests dark matter interacts even less than previously thought, deepening a fundamental cosmic mystery.",
+      "ja": "新たな研究は、暗黒物質がこれまで考えられていた以上に相互作用が希薄である可能性を示唆し、宇宙の根源的な謎を深める。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, June 2026",
+      "ja": "東京、2026年6月"
+    },
+    "tags": [
+      {
+        "en": "Dark Matter",
+        "ja": "暗黒物質"
+      },
+      {
+        "en": "Cosmology",
+        "ja": "宇宙論"
+      },
+      {
+        "en": "Astrophysics",
+        "ja": "宇宙物理学"
+      },
+      {
+        "en": "Space Exploration",
+        "ja": "宇宙探査"
+      }
+    ],
+    "body": {
+      "en": [
+        "The cosmos is largely defined by what we cannot see. For decades, the search for dark matter has been predicated on the idea of its subtle interaction with the visible universe. Standard models suggested a shared thermal past, a cosmic dance of particles.",
+        "New research from arXiv challenges this foundational assumption. It proposes that dark matter and the familiar particles of the Standard Model may have decoupled far earlier in the universe's history. Their thermal evolutions, it suggests, proceeded along separate paths.",
+        "This alternative scenario implies an extraordinarily weak coupling between the two sectors. The faint whispers we've sought from dark matter may be even fainter than imagined, pushing direct detection and collider signals beyond our foreseeable technological reach. It suggests a universe where a vast, invisible component moves through all things, yet remains profoundly silent.",
+        "For those building lives off-world, this redefines the very fabric of their new environment. As humanity expands its footprint across the solar system, the fundamental mystery of dark matter persists, an ever-present, yet untouchable, constituent of the void. It is a constant reminder of the universe's scale and the limits of our perception, even as we reach further into its depths."
+      ],
+      "ja": [
+        "宇宙の大部分は、私たちの視覚を超えた存在によって構成されている。長らく、暗黒物質の探求は、それが可視宇宙と微かに相互作用するという前提に基づいていた。標準的なモデルでは、宇宙初期に粒子が熱平衡状態にあったとされてきた。",
+        "しかし、arXivに発表された新たな研究は、この根底にある仮定に一石を投じる。暗黒物質と、私たちが知る標準模型の粒子は、宇宙の歴史の遥か初期に分離していた可能性を示唆している。それぞれの熱的な進化は、異なる道を辿ったというのだ。",
+        "この新たなシナリオが意味するのは、両セクター間の結合が極めて弱いということだ。私たちが探し求めてきた暗黒物質からの微かな信号は、想像以上に希薄であり、現在の直接検出や衝突型加速器による観測能力をはるかに超えるかもしれない。それは、広大で不可視の要素があらゆるものを貫きながらも、深く沈黙している宇宙の姿を示唆する。",
+        "宇宙空間で新たな生活を築く人々にとって、これは彼らが暮らす環境の根源的な理解を問い直す。人類が太陽系へとその足跡を広げるにつれても、暗黒物質の根本的な謎は残る。それは、常に存在するが、決して触れることのできない、宇宙の空虚を構成する要素なのだ。宇宙のスケールと私たちの知覚の限界を常に思い起こさせる、深遠な問いがそこに横たわる。"
+      ]
+    },
+    "source": {
+      "name": "arXiv",
+      "url": "http://arxiv.org/abs/2605.20186v1"
+    },
+    "sourceGuid": "http://arxiv.org/abs/2605.20186v1",
+    "status": "published"
+  },
+  {
+    "slug": "spacexs-new-orbit-data-dreams-and-distant-shores",
+    "category": "space-tech",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-05-20T23:03:02.000Z",
+    "readingMinutes": 4,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
+    },
+    "title": {
+      "en": "SpaceX's New Orbit: Data, Dreams, and Distant Shores",
+      "ja": "SpaceXの新たな軌道：データと夢が描く未来"
+    },
+    "dek": {
+      "en": "A recent disclosure outlines the company's long-term vision, weaving artificial intelligence into its expansive ambitions for off-world settlement.",
+      "ja": "公開された資料から、同社の長期的な展望が見えてくる。人工知能が、地球外居住という壮大な野心にどう織り込まれるのか。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "Starship",
+        "ja": "スターシップ"
+      },
+      {
+        "en": "AI",
+        "ja": "AI"
+      },
+      {
+        "en": "Off-world settlement",
+        "ja": "宇宙居住"
+      },
+      {
+        "en": "Future living",
+        "ja": "未来の生活"
+      }
+    ],
+    "body": {
+      "en": [
+        "The contours of SpaceX's long-term vision are sharpening. Recent disclosures illuminate a strategy where the Starship program is central, not merely as a launch vehicle, but as an enabling platform for a future beyond Earth.",
+        "Beyond its heavy-lift capabilities, a significant emphasis is placed on artificial intelligence. These systems are not just about optimizing rocket launches; they are envisioned to manage complex off-world operations, from resource extraction to habitat maintenance.",
+        "The company's trajectory remains closely tied to the singular vision of its founder. This personal commitment shapes an ethos where ambitious, often speculative, goals are pursued with an unwavering focus on rapid iteration.",
+        "This strategy suggests a future where the infrastructure for off-world living is not just built, but intelligently maintained, adapting to the harsh realities of alien environments. The sheer scale of such an undertaking is difficult to grasp, yet its blueprints are now being laid.",
+        "For those who will eventually inhabit these distant shores, this means a subtle but profound shift. Their daily lives — from the air they breathe to the food they consume — will increasingly rely on autonomous, data-driven systems. The invisible hand of AI will shape the very texture of their built environment, offering a new kind of mediated existence where human ingenuity is augmented by machine precision, perhaps freeing them for pursuits beyond mere survival."
+      ],
+      "ja": [
+        "SpaceXが描く長期的なビジョンの輪郭が、次第に鮮明になってきている。最近公開された資料からは、スターシップ計画が単なる打ち上げ機に留まらず、地球外の未来を可能にする基盤として位置づけられていることが窺える。",
+        "その巨大な輸送能力に加え、人工知能（AI）への注力が顕著だ。これらのシステムはロケットの打ち上げ最適化だけでなく、資源採掘から居住施設の維持管理まで、複雑な地球外運用を自律的に管理することが構想されている。",
+        "同社の軌跡は、創業者個人のビジョンと深く結びついている。この強いコミットメントが、野心的で時に投機的な目標であっても、迅速な反復を通じて追求される企業文化を形成している。",
+        "この戦略は、地球外居住のためのインフラが単に建設されるだけでなく、異星の厳しい現実に適応しながら、インテリジェントに維持される未来を示唆する。その事業の途方もない規模は想像しがたいが、その青写真は今、着実に描かれつつある。",
+        "やがてこれらの遠い地平に暮らす人々にとって、これは静かながらも深い変化を意味するだろう。彼らの日々の生活—呼吸する空気から口にする食物に至るまで—は、自律的でデータ駆動型のシステムにますます依存するようになる。AIという見えない手が、彼らの建築環境の質感そのものを形作り、人間の創意工夫が機械の精度によって拡張される、新たな種類の媒介された生活を提供する。それは、生存以外の追求に彼らを解放する可能性を秘めている。"
+      ]
+    },
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/"
+    },
+    "sourceGuid": "https://techcrunch.com/?p=3124339",
+    "status": "published"
+  },
+  {
+    "slug": "the-human-cost-of-launch-a-reminder-from-starbase",
+    "category": "space-tech",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-05-20T16:06:43.000Z",
+    "readingMinutes": 4,
+    "feature": false,
+    "cover": {
+      "src": "https://futurism.com/wp-content/uploads/2026/05/worker-dies-spacex-starbase.jpg?quality=85",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "The Human Cost of Launch: A Reminder from Starbase",
+      "ja": "打ち上げの代償：スターベースからの問いかけ"
+    },
+    "dek": {
+      "en": "The pursuit of off-world expansion demands an reckoning with the risks inherent in frontier work, as a recent incident at Starbase underscores.",
+      "ja": "宇宙への拡大を追求する中で、フロンティアでの作業に内在するリスクと向き合う必要がある。スターベースでの最近の出来事がそれを浮き彫りにした。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Boca Chica, Texas – May 20, 2026",
+      "ja": "テキサス州ボカチカ — 2026年5月20日"
+    },
+    "tags": [
+      {
+        "en": "SpaceX",
+        "ja": "スペースX"
+      },
+      {
+        "en": "Starbase",
+        "ja": "スターベース"
+      },
+      {
+        "en": "Worker Safety",
+        "ja": "労働安全"
+      },
+      {
+        "en": "Space Culture",
+        "ja": "宇宙文化"
+      }
+    ],
+    "body": {
+      "en": [
+        "The metallic gleam of a Starship prototype dominates the landscape at Starbase, a testament to the relentless ambition driving humanity towards the stars. Yet, beneath the grand aspirations, the ground-level realities of such endeavors remain stark.",
+        "A recent incident at the Texas facility saw a worker lose their life amidst the intense pace of launch preparations. This quiet tragedy serves as a potent reminder of the inherent dangers embedded in the pursuit of orbital capabilities.",
+        "Space exploration has always carried risk. However, the commercialization of space, with its accelerated timelines and competitive pressures, introduces new complexities to worker safety and operational protocols.",
+        "The roar of a distant engine can obscure the quiet human cost on the ground. This event demands a deeper consideration of the ethical frameworks that must underpin rapid technological advancement.",
+        "For the engineers, architects, and service personnel who will eventually populate off-world habitats, such incidents are not distant news. They directly inform the value placed on human life and labor in hazardous environments.",
+        "The culture of safety, the structure of labor rights, and the very architecture of future lunar or Martian settlements will be shaped by these earthly lessons. The silent tragedies of today will define the social contracts of tomorrow's extraterrestrial communities."
+      ],
+      "ja": [
+        "スターベースの地平線にそびえ立つスターシップの試作機は、人類を星々へと駆り立てる飽くなき野心の証である。しかし、壮大な目標の裏側には、こうした事業の厳しい現実が横たわる。",
+        "テキサス州の施設で最近発生した事故では、打ち上げ準備の急ピッチな作業の中で、一人の作業員が命を落とした。この静かな悲劇は、軌道能力の追求に内在する危険性を改めて強く想起させる。",
+        "宇宙探査は常にリスクを伴ってきた。だが、宇宙の商業化が加速するタイムラインと競争圧力の中で、作業員の安全や運用プロトコルに新たな複雑性が加わっている。",
+        "遠くで響くエンジンの轟音は、足元で起こる静かな人的犠牲を覆い隠すことがある。この出来事は、急速な技術進歩の基盤となるべき倫理的枠組みについて、より深い考察を促す。",
+        "やがて地球外の居住地で生活し働くことになるであろう技術者、建築家、そしてサービス従事者にとって、このような事故は決して遠いニュースではない。それは、危険な環境下での人間の生命と労働の価値を直接的に規定する。",
+        "安全文化、労働権の構造、そして将来の月や火星の居住地の建築様式そのものが、これらの地球上での教訓によって形成されるだろう。今日の静かな悲劇が、明日の地球外コミュニティの社会契約を定めることになる。"
+      ]
+    },
+    "source": {
+      "name": "Futurism",
+      "url": "https://futurism.com/space/worker-dies-spacex-starbase"
+    },
+    "sourceGuid": "https://futurism.com/?p=435534",
+    "status": "published"
+  },
+  {
+    "slug": "vitras-reset-system-redefines-adaptive-architecture",
+    "category": "culture",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-05-20T20:00:38.000Z",
+    "readingMinutes": 4,
+    "feature": false,
+    "cover": {
+      "src": "http://static.dezeen.com/uploads/2026/05/vitra-beta-mindset-furniture-sq-411x411.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Vitra's Reset System Redefines Adaptive Architecture",
+      "ja": "VitraのResetシステム：適応する建築の再定義"
+    },
+    "dek": {
+      "en": "Swiss furniture brand Vitra introduces a modular stepped floor system by Stephan Hürlemann, proposing a \"beta mindset\" for dynamic living spaces on Earth and beyond.",
+      "ja": "スイスの家具ブランドVitraは、Stephan Hürlemannによるモジュール式段差構造「Reset」を発表。地球上、そしてその先の居住空間に「ベータ・マインドセット」を提案する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "architecture",
+        "ja": "建築"
+      },
+      {
+        "en": "design",
+        "ja": "デザイン"
+      },
+      {
+        "en": "interiors",
+        "ja": "インテリア"
+      },
+      {
+        "en": "modular",
+        "ja": "モジュール"
+      }
+    ],
+    "body": {
+      "en": [
+        "Static architecture often struggles against the fluid demands of contemporary life. Vitra, known for its enduring designs, now proposes a system that embraces this inherent tension, suggesting adaptability as a core principle for the spaces we inhabit.",
+        "Their new Reset system, conceived by Swiss architect and designer Stephan Hürlemann, introduces a series of stepped floor structures. These modular elements are designed not merely to furnish a room, but to fundamentally alter its topography, creating distinct zones for work, contemplation, or gathering within a single volume.",
+        "This \"beta mindset,\" as Vitra terms it, treats built environments not as finished products but as ongoing experiments. Materials are chosen for their ease of reconfiguration, allowing a space to be \"reset\" and repurposed with minimal intervention, transforming an overlooked corner into a vibrant hub.",
+        "The aesthetic is one of quiet utility, where form follows the potential for change. A gentle rise, a subtle shift in elevation, redefines a room without the permanence of a wall. It speaks to a growing desire for environments that can keep pace with evolving needs, a flexible canvas for daily existence.",
+        "For those anticipating life beyond Earth, such design principles become not merely desirable, but essential. Off-world habitats, constrained by volume, mass, and resource scarcity, will demand spaces that are inherently reconfigurable.",
+        "The ability to redefine an interior with a simple rearrangement of elements offers a profound practical advantage. It suggests a future where the architecture of an off-world settlement is less about its initial blueprint and more about its capacity for constant, iterative transformation — a quiet luxury in confined, high-stakes environments."
+      ],
+      "ja": [
+        "現代の生活は常に変化しており、固定された建築は時にその流れに逆らう。スイスの家具ブランドVitraは、この現代的な課題に応える新たなシステムを提案する。",
+        "Stephan Hürlemannが手がけた「Reset」システムは、モジュール式の段差構造を導入する。これにより、一つの空間内に仕事、休息、交流といった異なる機能を柔軟に生み出すことが可能になる。",
+        "Vitraが提唱する「ベータ・マインドセット」とは、建築を完成品ではなく、常に更新可能な実験と捉える思想だ。空間は最小限の介入で再構築され、利用されていないエリアに新たな価値をもたらす。",
+        "そのデザインは、変化の可能性を内包した静かな機能美を持つ。壁を立てることなく、わずかな段差が空間の境界を曖昧に、しかし明確に区切る。これは、日々の生活の変化に寄り添う、柔軟な環境への需要を反映している。",
+        "地球外での生活を考える時、このような適応性は単なる選択肢ではなく、不可欠な要素となるだろう。限られた容積と資源の中で、月面基地や火星居住区は、内部空間の再構成能力が生命線となる。",
+        "一つの居住モジュールが、昼間は子供の遊び場となり、夜は個人の書斎、あるいは共同のダイニングスペースへと姿を変える。最小限の要素で空間を再定義できるデザインは、地球外での居住において、新たな居住感覚と、ある種の贅沢を創出するだろう。"
+      ]
+    },
+    "source": {
+      "name": "Dezeen",
+      "url": "https://www.dezeen.com/2026/05/20/vitra-beta-mindset-office-furniture/"
+    },
+    "sourceGuid": "https://www.dezeen.com/?p=2324772",
+    "status": "published"
+  },
+  {
+    "slug": "the-iron-heart-of-a-world-psyche-reveals-a-primordial-core",
+    "category": "research",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-05-20T21:26:57.000Z",
+    "readingMinutes": 4,
+    "feature": false,
+    "cover": {
+      "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/1-PIA26771_Mars-crescent-pYdenxFS-1152x648-1779310114.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "The Iron Heart of a World: Psyche Reveals a Primordial Core",
+      "ja": "世界の鉄心：プシケが原始核を露わにする"
+    },
+    "dek": {
+      "en": "NASA's Psyche mission offers unprecedented glimpses into a metallic asteroid, challenging long-held assumptions about planetary formation.",
+      "ja": "NASAのプシケ探査機が金属小惑星の未曾有の姿を捉え、惑星形成に関する長年の仮説に新たな問いを投げかける。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, May 20, 2026",
+      "ja": "東京、2026年5月20日"
+    },
+    "tags": [
+      {
+        "en": "asteroid",
+        "ja": "小惑星"
+      },
+      {
+        "en": "planetary science",
+        "ja": "惑星科学"
+      },
+      {
+        "en": "resource extraction",
+        "ja": "資源採掘"
+      },
+      {
+        "en": "future economy",
+        "ja": "未来経済"
+      }
+    ],
+    "body": {
+      "en": [
+        "The NASA Psyche mission has begun returning data from its encounter with the metallic asteroid 16 Psyche. This celestial body, approximately 226 kilometers in diameter, is unlike most asteroids observed to date. It presents a rare opportunity to study a world composed primarily of nickel-iron.",
+        "Scientists theorize that 16 Psyche could be the exposed core of an early planetesimal, a building block of our solar system that never fully formed. Its study offers a direct window into the deep interiors of terrestrial planets, illuminating the processes of planetary differentiation. Understanding how rocky planets form their layered structures, with molten cores and silicate mantles, is fundamental.",
+        "The initial data, described as \"unfamiliar views,\" is challenging long-held assumptions. Rather than a smooth, uniform metallic sphere, early indications suggest a complex topography and a surprising surface composition. These details are forcing a re-evaluation of models that once seemed settled. The universe, it seems, holds its deepest secrets not in distant nebulae, but sometimes in the very fragments of its violent youth.",
+        "For those who will build lives off-world, the implications are profound. If metallic cores like Psyche are accessible, the future of resource acquisition changes dramatically. The abundant supply of structural metals could reshape material science and architecture, offering new building blocks for lunar bases or orbital habitats.",
+        "This knowledge shifts our understanding of value beyond Earth. A new kind of luxury might emerge: not just the rarity of materials, but the specific elemental composition of a distant asteroid, forged in the solar system's earliest moments. It suggests a future where the very definition of wealth extends beyond terrestrial economies, measured perhaps in the purity of an extraterrestrial iron seam."
+      ],
+      "ja": [
+        "NASAのプシケ探査機が、金属小惑星16プシケとの遭遇からデータの送信を開始した。直径約226キロメートルのこの天体は、これまで観測されてきた小惑星の大部分とは異なる。主にニッケルと鉄で構成された世界を研究する、稀有な機会が訪れている。",
+        "科学者たちは、16プシケが太陽系初期の原始惑星の露出した核である可能性を理論化している。その研究は、地球型惑星の深部構造への直接的な窓を開き、惑星分化の過程を照らすものだ。溶けた核とケイ酸塩のマントルを持つ岩石惑星がどのように層状構造を形成するのかを理解することは、根源的な問いである。",
+        "「見慣れない光景」と表現される初期データは、長年の仮説に挑戦している。滑らかで均一な金属球というよりも、初期の兆候は複雑な地形と驚くべき表面組成を示唆している。これらの詳細が、かつて確固たるものと思われていたモデルの再評価を促している。宇宙は、遠い星雲の中ではなく、その激しい誕生期の破片の中にこそ、最も深い秘密を隠しているのかもしれない。",
+        "宇宙で生活を築く人々にとって、その意味合いは深い。もしプシケのような金属核がアクセス可能であれば、未来の資源獲得のあり方は劇的に変化するだろう。構造用金属の豊富な供給は、材料科学と建築を再構築し、月面基地や軌道上居住地のための新たな建材を提供する可能性がある。",
+        "この知見は、地球を超えた価値の理解を変える。新たな種類の贅沢が生まれるかもしれない — 物質の希少性だけでなく、太陽系初期に鍛えられた遠い小惑星の特定の元素組成そのものが、その価値となる。それは、富の定義が地球経済を超え、おそらくは地球外の鉄鉱脈の純度によって測られる未来を示唆する。"
+      ]
+    },
+    "source": {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/05/nasas-psyche-spacecraft-returns-unfamiliar-views-of-a-familiar-world/"
+    },
+    "sourceGuid": "https://arstechnica.com/space/2026/05/nasas-psyche-spacecraft-returns-unfamiliar-views-of-a-familiar-world/",
+    "status": "published"
+  },
+  {
+    "slug": "capitalizing-the-celestial-horizon",
+    "category": "space-tech",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-05-20T22:16:01.000Z",
+    "readingMinutes": 3,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
+    },
+    "title": {
+      "en": "Capitalizing the Celestial Horizon",
+      "ja": "宇宙への資本、その新たな地平"
+    },
+    "dek": {
+      "en": "SpaceX’s public offering marks a new era for space enterprise, shifting the landscape of investment and ownership beyond Earth.",
+      "ja": "SpaceXの新規株式公開は、宇宙産業における投資と所有のあり方を地球外へと拡張する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, May 20, 2026",
+      "ja": "東京、2026年5月20日"
+    },
+    "tags": [
+      {
+        "en": "SpaceX",
+        "ja": "SpaceX"
+      },
+      {
+        "en": "IPO",
+        "ja": "IPO"
+      },
+      {
+        "en": "Space Economy",
+        "ja": "宇宙経済"
+      },
+      {
+        "en": "Investment",
+        "ja": "投資"
+      }
+    ],
+    "body": {
+      "en": [
+        "For decades, the promise of space commerce resided in the hands of a few private patrons and visionary founders. Now, that dynamic begins to shift.",
+        "SpaceX, a pivotal force in contemporary astronautics, has filed for its initial public offering. This move transforms a closely held enterprise into a publicly traded entity.",
+        "The filing opens the company's financial records and future prospects to a broader market. It signals a new phase of capital acquisition for ambitions once deemed exclusively governmental or the domain of private wealth.",
+        "This public debut will likely inject substantial funds into orbital and deep-space infrastructure. It also introduces new pressures for quarterly returns and shareholder value.",
+        "> \"The true cost of a future off-world is now being calculated on the public ledger.\"",
+        "For those who will eventually reside, work, and build lives beyond Earth, this means a subtle but profound change. The very foundations of their habitats, the networks connecting them, and the transport systems they rely on will increasingly be owned by a diffuse global collective of investors. The future of space migration transitions from a founder's dream to a publicly traded commodity, subject to the ebb and flow of market sentiment."
+      ],
+      "ja": [
+        "かつて、宇宙商業の可能性は、限られた個人投資家や先見の明ある創業者たちの手に委ねられていた。その構図は今、転換点を迎えている。",
+        "現代宇宙開発の重要な牽引役であるSpaceXが、新規株式公開（IPO）の申請を行った。この動きは、非公開企業であった同社を公募企業へと変貌させる。",
+        "この申請により、企業の財務状況と将来の展望は広範な市場に開示される。これは、かつては政府機関か、あるいは富裕層の領域と見なされていた壮大な目標に対し、新たな段階の資金調達が始まることを示唆している。",
+        "この株式公開は、軌道上および深宇宙インフラへの大規模な資金流入を促すだろう。同時に、四半期ごとの収益性や株主価値への新たな圧力が生じる。",
+        "> 「宇宙での未来を築く真のコストは、今や公開された帳簿の上で計算される。」",
+        "将来、地球外で生活し、働き、家族を育む人々にとって、これは微細ながらも深遠な変化を意味する。彼らの住居の基盤、通信ネットワーク、そして移動手段といったものの所有権は、ますます世界中の多様な投資家集団によって分散されることになるだろう。宇宙移住の未来は、一創業者の夢から、市場の変動に左右される公開された商品へと移行していく。"
+      ]
+    },
+    "source": {
+      "name": "SpaceNews",
+      "url": "https://spacenews.com/spacex-files-for-ipo/"
+    },
+    "sourceGuid": "https://spacenews.com/?p=596184",
+    "status": "published"
+  },
+  {
+    "slug": "spacexs-ascent-the-orbit-economy-takes-shape",
+    "category": "space-tech",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-05-20T21:51:54.000Z",
+    "readingMinutes": 4,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
+    },
+    "title": {
+      "en": "SpaceX's Ascent: The Orbit Economy Takes Shape",
+      "ja": "SpaceXの躍進：軌道経済の輪郭"
+    },
+    "dek": {
+      "en": "SpaceX’s recent financial disclosures mark a new chapter in the commercialization of space, signaling a shift from speculative ambition to a tangible, market-driven enterprise.",
+      "ja": "SpaceXの財務開示は、宇宙商業化における新たな局面を画す。それは、投機的な野心から具体的な市場主導型事業への転換を示唆している。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, May 2026",
+      "ja": "東京、2026年5月"
+    },
+    "tags": [
+      {
+        "en": "space-tech",
+        "ja": "宇宙技術"
+      },
+      {
+        "en": "commercial space",
+        "ja": "商業宇宙"
+      },
+      {
+        "en": "economy",
+        "ja": "経済"
+      },
+      {
+        "en": "investment",
+        "ja": "投資"
+      }
+    ],
+    "body": {
+      "en": [
+        "For decades, the cosmos remained largely the domain of national agencies. Space exploration was a matter of state budgets and geopolitical ambition. Now, a different kind of architecture is taking shape around Earth and beyond.",
+        "SpaceX’s reported revenue of $18.67 billion in 2025, ahead of its anticipated IPO, offers a glimpse into this evolving landscape. It is not merely a number; it is a concrete indicator of a maturing industry, one that is beginning to solidify its economic foundations.",
+        "The move towards public ownership through an IPO transforms space access from a private venture into a publicly traded commodity. This shift invites broader investment, but also introduces the rigorous demands of market transparency and shareholder value.",
+        "The quiet hum of the launchpad now echoes with the distant murmur of financial markets. It signifies a future where the cost of a kilogram to orbit, once a prohibitive barrier, now inches closer to a standardized commercial rate, subject to the familiar forces of supply and demand.",
+        "What does this mean for the people who will actually live, work, and build off-world? It suggests a future where the logistics of space travel become more predictable and, critically, more affordable. The texture of a boarding pass for a lunar transit, once purely speculative, now begins to solidify into a tangible asset, managed by an increasingly robust and regulated financial infrastructure.",
+        "This financial scaffolding will underpin the daily realities of off-world existence. It will dictate the price of construction materials delivered to the Moon, the cost of fresh produce on Mars, and the wages for technicians maintaining orbital habitats. The future of space settlement will not only be engineered; it will be financed."
+      ],
+      "ja": [
+        "長らく、宇宙は国家機関の領域だった。宇宙探査は国家予算と地政学的野心の産物であった。しかし今、地球とその先には、異なる種類の構造が姿を現しつつある。",
+        "SpaceXが発表した2025年の収益186.7億ドルは、来月に控えるIPOを前に、この変化する状況の一端を垣間見せる。これは単なる数字ではない。成熟しつつある産業が、その経済的基盤を固め始めている具体的な指標である。",
+        "IPOを通じた公開企業への移行は、宇宙へのアクセスを私的なベンチャーから、公に取引される商品へと変える。この変化は広範な投資を呼び込む一方で、市場の透明性と株主価値という厳格な要求をもたらす。",
+        "発射台の静かな轟音は、今や遠くの金融市場のざわめきと響き合う。それは、かつては法外な障壁であった軌道への1キログラムあたりの費用が、需要と供給というお馴染みの力に左右される商業的な標準価格へと着実に近づく未来を示唆している。",
+        "では、実際に地球外で生活し、働き、建設する人々にとって、これは何を意味するのだろうか。それは、宇宙旅行のロジスティクスがより予測可能になり、そして決定的に、より手頃な価格になる未来を示唆する。月への搭乗券の感触は、かつては純粋な憶測に過ぎなかったが、今や堅固で規制された金融インフラによって管理される、具体的な資産へと固まりつつある。",
+        "この金融の足場こそが、地球外での日常を支えることになるだろう。月へ届けられる建設資材の価格、火星での生鮮食品の費用、そして軌道上居住地を維持する技術者の賃金——その全てを決定づける。宇宙移住の未来は、ただ工学的に構築されるだけでなく、金融によっても支えられていくのである。"
+      ]
+    },
+    "source": {
+      "name": "Payload",
+      "url": "https://payloadspace.com/spacex-reveals-financial-data-ahead-of-ipo/"
+    },
+    "sourceGuid": "https://payloadspace.com/?p=29218",
+    "status": "published"
+  },
+  {
+    "slug": "invisible-currents-hidden-canopies-europes-new-earth-scouts",
+    "category": "space-tech",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-05-20T13:00:00.000Z",
+    "readingMinutes": 4,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
+    },
+    "title": {
+      "en": "Invisible Currents, Hidden Canopies: Europe's New Earth Scouts",
+      "ja": "見えざる地球の脈動：欧州の新衛星が捉えるもの"
+    },
+    "dek": {
+      "en": "The European Space Agency greenlights two compact missions, extending our understanding from the planet's atmospheric ripples to its most biodiverse ecosystems.",
+      "ja": "欧州宇宙機関は、小型地球観測ミッション２件を承認。大気の微細な波動から森林下の生態系まで、地球の隠れた側面への理解を深める。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "May 20, 2026, Paris",
+      "ja": "2026年5月20日、パリ"
+    },
+    "tags": [
+      {
+        "en": "ESA",
+        "ja": "ESA"
+      },
+      {
+        "en": "Earth Observation",
+        "ja": "地球観測"
+      },
+      {
+        "en": "Satellite Technology",
+        "ja": "衛星技術"
+      },
+      {
+        "en": "European Space Agency",
+        "ja": "欧州宇宙機関"
+      }
+    ],
+    "body": {
+      "en": [
+        "From the vast, unseen currents high above the planet to the intricate life nestled beneath dense forest canopies, a new lens is being cast upon Earth.",
+        "The European Space Agency (ESA) has given the green light to two innovative Scout missions, Hibidis and SOVA-S. These compact satellites represent Europe's continued investment in detailed planetary diagnostics.",
+        "Hibidis will delve into the complex biodiversity hidden within forest ecosystems. Its instruments are designed to penetrate the dense foliage, mapping species distribution and health in ways previously impossible from orbit.",
+        "Concurrently, SOVA-S will focus on atmospheric gravity waves, phenomena that subtly yet significantly influence global weather patterns and climate models. These ripples in the upper atmosphere are critical for a holistic understanding of our planet's energy transfer.",
+        "Together, these missions extend our sensory perception of Earth, revealing the subtle mechanics that sustain its intricate life systems. It is a quiet expansion of our collective awareness, mapping the planet's internal rhythm.",
+        "For those envisioning a future beyond Earth, this precise, granular understanding of planetary dynamics is foundational. Whether designing closed-loop habitats on Mars or terraforming concepts for distant exoplanets, the lessons learned from meticulously monitoring our own world—its hidden currents, its unseen life—will inform every architectural decision, every resource management strategy, and every attempt to replicate the delicate balance of a living sphere. It refines the very definition of a viable environment."
+      ],
+      "ja": [
+        "地球の高層大気に流れる見えざる波動から、密林の奥深くで息づく生命の多様性まで、新たな視点が我々の惑星に向けられている。",
+        "欧州宇宙機関（ESA）は、革新的な小型観測ミッション「Hibidis」と「SOVA-S」の実施を承認した。これらのコンパクトな衛星は、詳細な地球診断における欧州の継続的な投資を象徴している。",
+        "Hibidisは、森林生態系に隠された複雑な生物多様性を探る。その観測機器は、密生した樹冠を透過し、これまで軌道上からは不可能だった種分布や健全性をマッピングする。",
+        "一方、SOVA-Sは、地球規模の気象パターンや気候モデルに微妙ながらも大きな影響を与える大気重力波に焦点を当てる。高層大気のこれらの波動は、惑星のエネルギー伝達を包括的に理解するために不可欠である。",
+        "これらのミッションは、地球に対する我々の知覚を拡張し、その複雑な生命システムを維持する微細なメカニズムを明らかにする。それは、惑星の内的リズムをマッピングする、静かなる集合的認識の拡大である。",
+        "地球外での未来を構想する者にとって、惑星ダイナミクスに対するこの精密で詳細な理解は、まさしく基礎となる。火星の閉鎖系居住空間を設計するにせよ、遠い系外惑星のテラフォーミングを考えるにせよ、我々の世界—その隠れた流れ、見えざる生命—を綿密に監視することから得られる教訓は、あらゆる建築的決定、あらゆる資源管理戦略、そして生きる球体の繊細なバランスを再現しようとする試みに情報をもたらすだろう。それは、実行可能な環境というものの定義そのものを洗練させるのだ。"
+      ]
+    },
+    "source": {
+      "name": "ESA",
+      "url": ""
+    },
+    "sourceGuid": "f799b668946d24fb91dbae5f1f90e7a4",
+    "status": "published"
+  },
+  {
+    "slug": "the-lunar-horizon-takes-shape",
+    "category": "artemis",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-05-13T19:17:12.000Z",
+    "readingMinutes": 4,
+    "feature": false,
+    "cover": {
+      "src": "https://www.youtube.com/embed/QquPhtSOxas",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "The Lunar Horizon Takes Shape",
+      "ja": "月の地平線、その輪郭"
+    },
+    "dek": {
+      "en": "As the Artemis program solidifies its political and financial foundations, the abstract ambition of lunar return begins to resolve into concrete plans for habitation and sustained presence.",
+      "ja": "アルテミス計画が政治的・財政的な基盤を固めるにつれて、月への帰還という抽象的な野心は、居住と持続的な滞在のための具体的な計画へと輪郭を現し始めている。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, May 13, 2026",
+      "ja": "東京、2026年5月13日"
+    },
+    "tags": [
+      {
+        "en": "Lunar habitation",
+        "ja": "月面居住"
+      },
+      {
+        "en": "Space economy",
+        "ja": "宇宙経済"
+      },
+      {
+        "en": "Artemis program",
+        "ja": "アルテミス計画"
+      },
+      {
+        "en": "Off-world living",
+        "ja": "宇宙生活"
+      }
+    ],
+    "body": {
+      "en": [
+        "The ambition to return humanity to the Moon has long been framed in grand, sweeping terms. Yet, the true measure of progress often lies in the bureaucratic and financial scaffolding erected beneath such visions.",
+        "Recent discussions within the U.S. capital reflect a deepening commitment, moving beyond initial exploratory phases. This shift suggests a more stable trajectory for lunar infrastructure development and sustained human presence.",
+        "The focus now extends to the long-term logistics of lunar living: power generation, resource extraction, and habitat construction. Architects and engineers are already envisioning structures that will stand against the lunar dust, offering sanctuary beneath the perpetual night.",
+        "The Moon, once a distant silver disc, is slowly being etched into the blueprints of tomorrow's urban planners.",
+        "This bureaucratic momentum carries direct implications for future lunar residents. It suggests a move from temporary visits to a more settled existence, where professions beyond pure exploration will emerge. Consider the lunar architect, not merely designing a capsule, but an entire habitat. Or the engineer tasked with maintaining a closed-loop ecosystem, ensuring breathable air and potable water for years.",
+        "This stability could attract private ventures, fostering a nascent lunar economy. New materials, new energy solutions, and new forms of commerce will emerge, changing the very definition of a 'commute' or a 'neighborhood'. The anxieties of isolation will remain, but the promise of a sustained, evolving culture on another celestial body begins to solidify. Life off-world may soon offer not just adventure, but a new kind of domesticity, a new horizon for raising children, conducting business, and simply existing."
+      ],
+      "ja": [
+        "人類を月へ帰還させるという野心は、これまで壮大な言葉で語られてきた。しかし、そのビジョンの真の進捗は、その下に構築される官僚的、財政的な骨組みの中にこそ見出される。",
+        "米国の首都で行われた最近の議論は、初期の探査段階を超えた、より深いコミットメントを反映している。この変化は、月面インフラ開発と持続的な有人滞在に向けた、より安定した軌道を示唆している。",
+        "焦点は今、月面での生活の長期的なロジスティクス、すなわち電力生成、資源採掘、そして居住施設の建設へと移っている。建築家やエンジニアたちは、月の塵に抗し、永遠の夜の下に安息の地を提供する構造物をすでに構想しているだろう。",
+        "かつて遠い銀色の円盤であった月は、明日の都市計画家たちの青写真に、ゆっくりと刻み込まれつつある。",
+        "この官僚的な勢いは、将来の月面居住者にとって直接的な意味を持つ。それは一時的な訪問から、より定住した生活への移行を示唆し、純粋な探査以外の職業が生まれるだろう。単なるカプセルではなく、居住空間全体を設計する月面建築家を考えてみてほしい。あるいは、何年にもわたって呼吸可能な空気と飲料水を確保するため、閉鎖循環型生態系を維持するエンジニアも必要となる。",
+        "この安定性は、民間企業を惹きつけ、初期の月面経済を育む可能性を秘めている。新しい素材、新しいエネルギーソリューション、そして新しい形態の商業が生まれ、「通勤」や「近所」という概念そのものが変わるだろう。孤立の不安は残るだろうが、別の天体上での持続的で進化する文化の約束が具体化し始める。地球外での生活は、冒険だけでなく、新しい種類の家庭生活、子育てやビジネス、そして単に存在するための新たな地平を提供するかもしれない。"
+      ]
+    },
+    "source": {
+      "name": "NASA Artemis",
+      "url": "https://www.nasa.gov/image-article/rise-goes-to-washington/"
+    },
+    "sourceGuid": "https://www.nasa.gov/?post_type=image-article&#038;p=995622",
+    "status": "published"
+  },
+  {
+    "slug": "lunar-dust-engineered-the-dawn-of-self-sufficient-habitats",
+    "category": "artemis",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-05-20T20:00:00.000Z",
+    "readingMinutes": 4,
+    "feature": false,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/rZGQwdBBQsrKMwBhEWmjbR-1280-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Lunar Dust, Engineered: The Dawn of Self-Sufficient Habitats",
+      "ja": "月面の塵、その工学的な進化：自律型居住空間の夜明け"
+    },
+    "dek": {
+      "en": "A new 3D printing method promises to transform lunar regolith into durable, expansive structures, reshaping the future of off-world architecture.",
+      "ja": "月面レゴリスを活用した新たな3Dプリント技術が、月面建築の様相を一変させ、宇宙での暮らしに新たな可能性をもたらす。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, May 20, 2026",
+      "ja": "東京、2026年5月20日"
+    },
+    "tags": [
+      {
+        "en": "Lunar Architecture",
+        "ja": "月面建築"
+      },
+      {
+        "en": "3D Printing",
+        "ja": "3Dプリント"
+      },
+      {
+        "en": "Lunar Regolith",
+        "ja": "月面レゴリス"
+      },
+      {
+        "en": "Off-world Living",
+        "ja": "宇宙生活"
+      }
+    ],
+    "body": {
+      "en": [
+        "The grey dust of the Moon, long considered an abrasive nuisance to equipment and a challenge for habitation, is being re-evaluated. Recent advancements in sintering technology now allow for the rapid solidification of lunar regolith into robust building blocks.",
+        "This breakthrough means that the very surface material of the Moon can be fused to create structures up to 10 meters tall, complete with integrated shielding against radiation and micrometeoroids. It represents a significant step towards reducing reliance on costly Earth-launched modules.",
+        "Such a capability arrives as the Artemis program prepares for sustained human presence on the lunar surface. The promise is not merely shelter, but a slow, deliberate unfolding of a new kind of permanence in an environment once thought only for transient visits.",
+        "For those who will live and work beyond Earth, this changes the fundamental economics of space settlement. It implies the possibility of custom-designed spaces, perhaps even subterranean dwellings that feel less like capsules and more like homes.",
+        "This shift offers a different quality of light, a new sense of scale in daily life, and the quiet assurance of self-reliance. It moves off-world living from a temporary expedition to a place where culture might genuinely begin to take root, shaped by the very ground beneath one's feet."
+      ],
+      "ja": [
+        "月面の微細な砂塵。かつては探査機にとって厄介な存在であり、居住を阻む挑戦とされてきたその物質が、今、新たな価値を見出されている。最新の焼結技術により、月面レゴリスを高速で固化させ、堅牢な建築構造物へと変えることが可能になった。",
+        "この技術革新は、月面の表土そのものを融合させ、放射線や微小隕石から身を守るためのシールドを組み込んだ、高さ10メートル級の構造物を築くことを意味する。地球からの高価な資材輸送への依存を大幅に減らす、極めて重要な一歩だ。",
+        "このような能力は、アルテミス計画が目指す月面での持続的な人類の滞在準備が進む中で登場した。それは単なるシェルターではなく、かつては一時的な訪問地と見なされていた場所で、ゆっくりと、しかし確かな新たな永続性が立ち上がりつつあることを示唆する。",
+        "これから月で生活し、働く人々にとって、これは宇宙移住の根本的な経済性を変えるだろう。カプセルのような閉鎖空間ではなく、それぞれのニーズに合わせたカスタムメイドの住居、あるいは地下に広がる開放的な空間さえも意味するかもしれない。",
+        "この変化は、これまでの宇宙滞在とは異なる光の質、日々の生活における新たなスケール感、そして自らの手で築き上げるという静かな確信をもたらす。それは、宇宙での暮らしを一時的な探査から、足元の土壌そのものによって形作られる文化が根付き始める場所へと昇華させるだろう。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/astronomy/moon/scientists-find-a-hidden-route-to-the-moon-that-saves-fuel"
+    },
+    "sourceGuid": "KPqdABVcm4V7H2LMd5uTNa",
+    "status": "published"
+  },
+  {
+    "slug": "the-universes-quiet-architects",
+    "category": "research",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-05-19T17:49:34.000Z",
+    "readingMinutes": 4,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#08080a"
+    },
+    "title": {
+      "en": "The Universe's Quiet Architects",
+      "ja": "宇宙の静かなる建築家たち"
+    },
+    "dek": {
+      "en": "A subtle signal from deep within the Earth suggests a new, unseen constituent of reality.",
+      "ja": "地球深部からの微かな信号が、未だ見ぬ宇宙の構成要素を示唆している。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "dark matter",
+        "ja": "ダークマター"
+      },
+      {
+        "en": "neutrino physics",
+        "ja": "ニュートリノ物理学"
+      },
+      {
+        "en": "super-kamiokande",
+        "ja": "スーパーカミオカンデ"
+      },
+      {
+        "en": "cosmic observation",
+        "ja": "宇宙観測"
+      }
+    ],
+    "body": {
+      "en": [
+        "Deep beneath the Japanese Alps, a vast detector seeks the universe's most elusive particles. The Super-Kamiokande observatory, usually a sentinel for distant stellar events, has registered a faint anomaly.",
+        "This anomaly manifests as a slight excess of electron antineutrino events, particularly in the 20 MeV energy range. It is a whisper from the cosmic background, not a roar.",
+        "Physicists are now interpreting this signal as a potential indication of dark matter. If confirmed, it points to a previously unseen particle, annihilating into neutrinos, with a mass in the tens of MeV range.",
+        "Such a discovery would not merely add a line to the Standard Model; it would open a new chapter in our understanding of the universe's fundamental composition. The JUNO experiment, currently under construction in China, is poised to provide crucial verification in the coming years.",
+        "For those envisioning life beyond Earth, this deep dive into the invisible fabric of reality holds profound implications. It underscores the continuous refinement of our observational tools, pushing the boundaries of what can be perceived, even in the most extreme environments.",
+        "The ability to detect such subtle universal forces will eventually inform the design of future habitats and infrastructure. It offers a new layer of cosmic context, transforming the luxury of knowing into a practical imperative for navigating an off-world existence. The universe, it seems, continues to whisper secrets to those patient enough to listen."
+      ],
+      "ja": [
+        "日本のアルプス山脈の地下深く、広大な検出器が宇宙で最も捉えがたい粒子を探し続けている。スーパーカミオカンデ観測所は、通常、遠方の恒星事象を監視する番人だが、今回、微かな異常を記録した。",
+        "この異常は、特に20 MeV帯域における電子反ニュートリノのわずかな過剰として現れた。それは宇宙の背景から届く囁きであり、轟音ではない。",
+        "物理学者たちは現在、この信号をダークマターの潜在的な兆候として解釈している。もし確認されれば、それはニュートリノへと対消滅する、質量が数十MeVの、これまで見えなかった粒子を指し示すだろう。",
+        "このような発見は、素粒子物理学の標準模型に一行を加えるだけでなく、宇宙の根本的な構成要素に対する我々の理解に新たな章を開くことになる。中国で建設中のJUNO実験は、今後数年で決定的な検証を提供する構えだ。",
+        "地球外での生活を構想する人々にとって、この目に見えない現実の深部への探求は、計り知れない意味を持つ。それは、最も過酷な環境下であっても、何が知覚可能であるかの境界を押し広げ、観測ツールの絶え間ない洗練を浮き彫りにする。",
+        "このような微細な宇宙の力を検出する能力は、将来の居住地やインフラ設計にやがて影響を与えるだろう。それは新たな宇宙的文脈を提供し、知るという贅沢を、地球外での存在を航海するための実用的な要請へと変える。宇宙は、耳を傾ける忍耐を持つ者に、静かに秘密を囁き続ける。"
+      ]
+    },
+    "source": {
+      "name": "arXiv",
+      "url": "http://arxiv.org/abs/2605.20162v1"
+    },
+    "sourceGuid": "http://arxiv.org/abs/2605.20162v1",
+    "status": "published"
+  },
+  {
+    "slug": "the-unseen-architecture-investing-in-off-world-intelligence",
+    "category": "space-tech",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-05-20T22:26:08.000Z",
+    "readingMinutes": 6,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
+    },
+    "title": {
+      "en": "The Unseen Architecture: Investing in Off-World Intelligence",
+      "ja": "見えない建築：オフワールドの知性への投資"
+    },
+    "dek": {
+      "en": "Billions are being deployed not just for rockets, but for the sophisticated AI that will define future life beyond Earth.",
+      "ja": "ロケットだけではない。数十億ドル規模の投資は、地球外の未来の生活を定義する高度なAIに向けられている。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, May 22, 2026",
+      "ja": "東京、2026年5月22日"
+    },
+    "tags": [
+      {
+        "en": "space-tech",
+        "ja": "宇宙技術"
+      },
+      {
+        "en": "artificial intelligence",
+        "ja": "人工知能"
+      },
+      {
+        "en": "off-world living",
+        "ja": "オフワールド生活"
+      },
+      {
+        "en": "future economy",
+        "ja": "未来経済"
+      }
+    ],
+    "body": {
+      "en": [
+        "The financial landscape of space migration is shifting, marked by investments that extend far beyond propulsion systems and orbital habitats.",
+        "Recent filings from SpaceX reveal a significant outlay by its sister entity, xAI. This expenditure, reaching into the billions, points to a strategic integration of advanced artificial intelligence into the broader space ecosystem.",
+        "Such capital deployment suggests a commitment to developing the computational backbone for complex off-world operations. It is a quiet investment in the intelligence that will manage habitats, navigate supply chains, and process vast data streams from lunar bases and Martian outposts.",
+        "The algorithms being forged today are the invisible girders of tomorrow's orbital cities.",
+        "For those who will eventually live and work beyond Earth, this signifies a future deeply reliant on sophisticated AI. The environments they inhabit, the tools they operate, and even the daily rhythms of their lives will be orchestrated by unseen digital minds.",
+        "The cost of a lunar apartment, the efficiency of a Martian farm, or the solace of a long-duration journey will, in part, be determined by the precision and robustness of these AI systems. The luxury of seamless operation, of predictive maintenance preventing failure, or of personalized environmental control may become the new standard, built upon these foundational investments.",
+        "This is not merely about faster rockets. It is about building the cognitive architecture of a multi-planetary existence, where human ingenuity meets artificial foresight. The very texture of future off-world life — its efficiency, its safety, its subtle comforts — will be woven with these threads of machine intelligence."
+      ],
+      "ja": [
+        "宇宙移住の未来を形作る資金は、もはや推進技術や軌道上居住施設だけに注がれるものではない。その投資の焦点は、さらに広がりを見せている。",
+        "SpaceXの開示資料からは、その関連企業であるxAIが、莫大な資金を投じている実態が明らかになった。数十億ドル規模に及ぶこの支出は、高度な人工知能が宇宙エコシステムに深く組み込まれる戦略を示唆している。",
+        "このような大規模な資本投下は、月面基地や火星前哨基地における複雑な運用を支える、計算能力のバックボーンを構築するための静かな投資である。居住環境の管理、サプライチェーンの最適化、膨大な宇宙データの処理など、未来のオフワールド生活を支える「頭脳」への先行投資と言えるだろう。",
+        "今日紡がれるアルゴリズムは、明日軌道上に築かれる都市の、見えない梁となる。",
+        "やがて地球を離れて生活し、働く人々にとって、これは洗練されたAIに深く依存する未来を意味する。彼らが暮らす空間、操作するツール、そして日々の生活リズムさえも、目に見えないデジタルな知性によって編成されることになるだろう。",
+        "月面の住居のコスト、火星農場の効率、あるいは長期間の宇宙航海における心の安らぎは、これらAIシステムの精度と堅牢性によって左右される。シームレスな運用、故障を未然に防ぐ予測保守、パーソナライズされた環境制御といった「贅沢」が、この基盤投資の上に築かれる新しい常識となるかもしれない。",
+        "これは単にロケットの速度を上げる話ではない。それは、人間の創意工夫と人工的な先見性が交差する、多惑星にわたる存在の「認知アーキテクチャ」を構築する営みなのだ。オフワールドの生活の、その効率性、安全性、そして微かな快適さという「質感」そのものが、機械知性の糸で織り上げられることになる。"
+      ]
+    },
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/"
+    },
+    "sourceGuid": "https://techcrunch.com/?p=3124868",
+    "status": "published"
+  },
+  {
     "slug": "the-architecture-of-off-world-living",
     "category": "space-tech",
     "issue": "Vol. 05",

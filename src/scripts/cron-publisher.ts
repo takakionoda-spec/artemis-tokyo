@@ -91,10 +91,13 @@ const ROOT = path.resolve(HERE, "..", "..");
 const ARTICLES_JSON = path.join(ROOT, "src", "data", "generated", "articles.json");
 const STATE_JSON = path.join(ROOT, "src", "data", "generated", "state.json");
 
-const LOOKBACK_HOURS = Number(process.env.CRON_LOOKBACK_HOURS ?? 168);
-const MAX_PER_RUN = Number(process.env.CRON_MAX_PER_RUN ?? 6);
-const RETAIN_ARTICLES = Number(process.env.CRON_RETAIN ?? 60);
-const SEEN_RETAIN = Number(process.env.CRON_SEEN_RETAIN ?? 500);
+// `--backfill` widens the defaults dramatically for a one-shot catch-up run.
+const IS_BACKFILL = process.argv.includes("--backfill");
+const LOOKBACK_HOURS = Number(process.env.CRON_LOOKBACK_HOURS ?? (IS_BACKFILL ? 720 : 168));
+const MAX_PER_RUN = Number(process.env.CRON_MAX_PER_RUN ?? (IS_BACKFILL ? 30 : 10));
+const RETAIN_ARTICLES = Number(process.env.CRON_RETAIN ?? 80);
+const SEEN_RETAIN = Number(process.env.CRON_SEEN_RETAIN ?? 800);
+const LLM_DELAY_MS = Number(process.env.CRON_LLM_DELAY_MS ?? 1200);
 const VERBOSE = process.env.CRON_VERBOSE !== "false";
 
 const LLM_PROVIDER = (process.env.LLM_PROVIDER ?? "gemini").toLowerCase();
@@ -153,6 +156,38 @@ const SOURCES: SourceDescriptor[] = [
     parse: "rss",
     category: "culture",
     filter: SPACE_OR_HABITAT_KEYWORDS
+  },
+  // ── Round 2 expansion: gossip / Elon-SpaceX / international politics ──
+  {
+    name: "Ars Technica",
+    url: "https://feeds.arstechnica.com/arstechnica/science",
+    parse: "rss",
+    category: "space-tech",
+    filter: SPACE_KEYWORDS
+  },
+  {
+    name: "The Verge",
+    url: "https://www.theverge.com/space/rss/index.xml",
+    parse: "rss",
+    category: "space-tech"
+  },
+  {
+    name: "SpaceNews",
+    url: "https://spacenews.com/feed/",
+    parse: "rss",
+    category: "space-tech"
+  },
+  {
+    name: "Payload",
+    url: "https://payloadspace.com/feed/",
+    parse: "rss",
+    category: "space-tech"
+  },
+  {
+    name: "ESA",
+    url: "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+    parse: "rss",
+    category: "space-tech"
   }
 ];
 
@@ -430,11 +465,23 @@ function describeSource(src: string): string {
     case "Space.com":
       return "(general space news — find the cultural fact inside the engineering update)";
     case "NASA Artemis":
-      return "(NASA program update — read past the press release for the new normal it implies)";
+      return "(NASA Artemis program update — read past the press release for the new normal it implies)";
+    case "Ars Technica":
+      return "(technical longform — Elon/SpaceX coverage often runs here; keep the tone literate, never breathless)";
+    case "The Verge":
+      return "(pop-tech and gossip-adjacent space stories — treat personality news with calm distance, not amplification)";
+    case "SpaceNews":
+      return "(industry trade publication, often political — note which country, which agency, which appropriations bill; geopolitics matters)";
+    case "Payload":
+      return "(commercial-space business — funding, deals, market structure; read for what it implies about who flies and at what price)";
+    case "ESA":
+      return "(European Space Agency — categorise as 'artemis' when about lunar return cooperation; otherwise 'space-tech'. Note European perspective explicitly)";
     default:
       return "";
   }
 }
+
+const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
 function userPromptForItem(item: RawItem): string {
   return `SOURCE: ${item.source} ${describeSource(item.source)}
@@ -700,8 +747,10 @@ async function main(): Promise<void> {
     model: LLM_PROVIDER === "openai" ? OPENAI_MODEL : GEMINI_MODEL,
     lookbackHours: LOOKBACK_HOURS,
     maxPerRun: MAX_PER_RUN,
-    sources: SOURCES.map((s) => s.name),
+    sources: SOURCES.length,
+    sourceList: SOURCES.map((s) => s.name),
     cutoff: cutoff.toISOString(),
+    backfill: IS_BACKFILL,
     dryRun
   });
 
@@ -816,13 +865,15 @@ async function main(): Promise<void> {
     capped: candidates.length > MAX_PER_RUN
   });
 
-  // ---- 4) Edit through the LLM serially ----------------------
+  // ---- 4) Edit through the LLM serially with throttling -------
   const generated: Article[] = [];
-  for (const { item, decision } of selected) {
+  for (let i = 0; i < selected.length; i++) {
+    if (i > 0 && LLM_DELAY_MS > 0) await sleep(LLM_DELAY_MS); // be polite to the API
+    const { item, decision } = selected[i];
     const tag =
       decision.action === "process" && decision.regenerate ? "[regen]" : "[new]  ";
     try {
-      log("info", `${tag} editing: "${summarizeTitle(item.title)}"  [${item.source}]`);
+      log("info", `${tag} editing ${i + 1}/${selected.length}: "${summarizeTitle(item.title)}"  [${item.source}]`);
       const llm = await callLlm(item);
       const previous = decision.action === "process" ? decision.previous : undefined;
       const article = assembleArticle(item, llm, [...generated, ...existing], previous);

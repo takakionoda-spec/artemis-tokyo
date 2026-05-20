@@ -1,0 +1,98 @@
+name: Daily Publish
+
+# Runs the bilingual editorial pipeline every day at 21:17 UTC
+# (= 06:17 JST, UTC+9). The 17-minute offset is intentional: GitHub
+# Actions documents that workflows scheduled on the hour boundary
+# (xx:00) are deprioritized during high-load windows. Offsetting by
+# a few minutes dramatically reduces queue delay.
+#
+# Also runnable on demand from the Actions tab via workflow_dispatch.
+
+on:
+  schedule:
+    - cron: "17 21 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Run without writing files (smoke test)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write    # required to commit generated articles back to main
+
+concurrency:
+  group: daily-publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    name: Crawl, edit and publish
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Use a token that can push back to the repo (defaults to GITHUB_TOKEN
+          # which has write access because we set permissions.contents above).
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run cron-publisher
+        env:
+          LLM_PROVIDER: ${{ vars.LLM_PROVIDER || 'gemini' }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-2.5-flash' }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4o-mini' }}
+          CRON_LOOKBACK_HOURS: ${{ vars.CRON_LOOKBACK_HOURS || '24' }}
+          CRON_MAX_PER_RUN: ${{ vars.CRON_MAX_PER_RUN || '6' }}
+          NEXT_PUBLIC_SITE_URL: ${{ vars.NEXT_PUBLIC_SITE_URL || 'https://artemis-tokyo.vercel.app' }}
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            npm run cron:publish:dry
+          else
+            npm run cron:publish
+          fi
+
+      - name: Inspect git status
+        run: |
+          echo "=== git status ==="
+          git status --porcelain || true
+          echo "=== diff stat ==="
+          git diff --stat || true
+
+      - name: Commit & push generated content
+        if: ${{ inputs.dry_run != true }}
+        run: |
+          if [ -n "$(git status --porcelain src/data/generated)" ]; then
+            git config user.name  "ARTEMIS TOKYO Bot"
+            git config user.email "bot@artemis-tokyo.local"
+            git add src/data/generated
+            git commit -m "chore(publish): daily editorial dispatch ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git push
+            echo "✓ pushed updated dispatch to main"
+          else
+            echo "— no changes to commit (no fresh items)"
+          fi
+
+      # Vercel auto-deploys on push to main when the repo is connected to a
+      # Vercel project. If you prefer an explicit deploy hook, uncomment the
+      # block below and add VERCEL_DEPLOY_HOOK_URL to repository secrets.
+      #
+      # - name: Trigger Vercel deploy hook (optional)
+      #   if: ${{ inputs.dry_run != true && env.VERCEL_DEPLOY_HOOK_URL != '' }}
+      #   env:
+      #     VERCEL_DEPLOY_HOOK_URL: ${{ secrets.VERCEL_DEPLOY_HOOK_URL }}
+      #   run: curl -fsSL -X POST "$VERCEL_DEPLOY_HOOK_URL"

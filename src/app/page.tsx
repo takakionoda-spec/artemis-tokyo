@@ -1,65 +1,118 @@
-import Image from "next/image";
+"use client";
 
-export default function Home() {
-  return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
+import Link from "next/link";
+import ArticleCard from "@/components/ArticleCard";
+import Newsletter from "@/components/Newsletter";
+import { Container, HeroGrid, LeadGrid, SectionRule, TriColGrid } from "@/components/GridSystem";
+import { useLanguage } from "@/context/LanguageContext";
+import {
+  getFeaturedArticles,
+  getLatestArticles,
+  articles
+} from "@/data/articles";
+
+export default function HomePage() {
+  const { lang, dict } = useLanguage();
+
+  const featured = getFeaturedArticles();
+  const hero = featured[0] ?? articles[0];
+  const heroAside = (featured.slice(1, 3).length > 0 ? featured.slice(1, 3) : articles.slice(1, 3));
+  const lead = articles.find((a) => a !== hero && !heroAside.includes(a));
+  const minimal = articles
+    .filter((a) => a !== hero && !heroAside.includes(a) && a !== lead)
+    .slice(0, 3);
+  const latest = getLatestArticles(6);
+
+  // Empty-state: cron-publisher hasn't run yet
+  if (!hero) {
+    return (
+      <Container className="py-section">
+        <div className="max-w-[68ch]">
+          <p className="eyebrow">{lang === "ja" ? "準備中" : "Standing by"}</p>
+          <h1 className="mt-6 font-display text-[clamp(2.75rem,6vw,5rem)] leading-[0.95] tracking-[-0.025em]">
+            {lang === "ja"
+              ? "リアルタイム編集は\n間もなく始まります。"
+              : "Real-time editorial begins shortly."}
           </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
+          <p className="mt-6 text-lg text-ink-600 leading-relaxed">
+            {lang === "ja"
+              ? "ARTEMIS TOKYOのバイリンガル編集パイプラインは、NASA、Space.com、arXivから直近24時間のニュースを取得し、毎朝6時（日本時間）に再編集して公開します。最初の自動生成が完了次第、この場所に最新の記事が並びます。"
+              : "Our bilingual editorial pipeline pulls the past twenty-four hours of dispatches from NASA, Space.com and arXiv, and re-edits them every morning at 06:00 JST. The first cycle will populate this view as soon as it completes."}
+          </p>
+          <div className="silver-rule mt-12" />
+          <p className="mt-10 byline">
+            {lang === "ja" ? "次回更新：日本時間 朝6時" : "Next dispatch: 06:00 JST"}
           </p>
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+
+        <div className="mt-20">
+          <Newsletter />
         </div>
-      </main>
-    </div>
+      </Container>
+    );
+  }
+
+  return (
+    <>
+      <Container className="pt-10 lg:pt-14 pb-section">
+        <SectionRule label={dict.ui.featured} action={dict.ui.issue + " — " + new Date().toLocaleDateString(lang === "ja" ? "ja-JP" : "en-US", { year: "numeric", month: "long" })} />
+        <div className="mt-10 lg:mt-12">
+          <HeroGrid
+            left={<ArticleCard article={hero} variant="hero" priority />}
+            right={
+              <>
+                {heroAside.map((a) => (
+                  <ArticleCard key={a.slug} article={a} variant="lead" />
+                ))}
+              </>
+            }
+          />
+        </div>
+      </Container>
+
+      {lead ? (
+        <Container className="pb-section">
+          <SectionRule
+            label={dict.ui.latest}
+            action={
+              <Link href="/category/space-tech" className="hover:text-ink">
+                {dict.ui.moreIn} {dict.categories["space-tech"]}
+              </Link>
+            }
+          />
+          <div className="mt-10 lg:mt-12">
+            <LeadGrid
+              lead={<ArticleCard article={lead} variant="lead" />}
+              items={
+                <>
+                  {minimal.map((a, i) => (
+                    <div key={a.slug} className={i === 0 ? "" : "pt-8"}>
+                      <ArticleCard article={a} variant="minimal" />
+                    </div>
+                  ))}
+                </>
+              }
+            />
+          </div>
+        </Container>
+      ) : null}
+
+      <Container>
+        <Newsletter />
+      </Container>
+
+      {latest.length > 0 ? (
+        <Container className="pb-section">
+          <SectionRule label={dict.ui.latest} />
+          <div className="mt-10 lg:mt-12">
+            <TriColGrid>
+              {latest.map((a) => (
+                <ArticleCard key={a.slug} article={a} variant="standard" />
+              ))}
+            </TriColGrid>
+          </div>
+        </Container>
+      ) : null}
+    </>
   );
 }

@@ -1,26 +1,217 @@
+/* Google Fonts must be imported BEFORE Tailwind to satisfy the CSS spec
+   that @import statements precede all other rules (Tailwind v4 expands inline). */
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=EB+Garamond:wght@400;500;600&family=Inter:wght@300;400;500;600;700&family=Noto+Sans+JP:wght@300;400;500;700&family=Noto+Serif+JP:wght@400;500;600;700&display=swap");
+
 @import "tailwindcss";
 
+/* =========================================================
+   ARTEMIS TOKYO — Editorial design tokens (Tailwind v4 @theme)
+   ========================================================= */
+@theme {
+  /* Colors — the monochrome editorial palette */
+  --color-paper: #ffffff;
+  --color-ink: #000000;
+  --color-ink-900: #0a0a0a;
+  --color-ink-800: #111111;
+  --color-ink-700: #1a1a1a;
+  --color-ink-600: #333333;
+  --color-ink-500: #666666;
+  --color-ink-400: #999999;
+  --color-ink-300: #cccccc;
+  --color-ink-200: #e5e5e5;
+  --color-ink-100: #f1f1f1;
+  --color-ink-50: #fafafa;
+  --color-silver: #c8c8c8;
+  --color-accent: #1f4cff;
+
+  /* Type families */
+  --font-display: "Cormorant Garamond", "EB Garamond", Georgia, "Times New Roman", serif;
+  --font-serif: "EB Garamond", "Cormorant Garamond", "Noto Serif JP", Georgia, serif;
+  --font-sans: "Inter", "Helvetica Neue", Helvetica, Arial, "Noto Sans JP", system-ui, sans-serif;
+  --font-mincho: "Noto Serif JP", "Yu Mincho", "YuMincho", "Hiragino Mincho ProN", "Hiragino Mincho Pro", "MS PMincho", serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  /* Tracking */
+  --tracking-widest: 0.22em;
+  --tracking-ultra: 0.32em;
+
+  /* Container max-width */
+  --breakpoint-2xl: 1440px;
+}
+
+/* =========================================================
+   Globals
+   ========================================================= */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --color-line: #e5e5e5;
+  color-scheme: light;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
+html,
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: "Inter", "Noto Sans JP", system-ui, -apple-system, "Helvetica Neue", sans-serif;
+  font-weight: 400;
+  line-height: 1.55;
+  text-rendering: optimizeLegibility;
+}
+
+body[data-lang="ja"] {
+  font-family: "Noto Sans JP", "Inter", "Helvetica Neue", system-ui, sans-serif;
+}
+
+::selection {
+  background-color: #000;
+  color: #fff;
+}
+
+/* =========================================================
+   Editorial typographic primitives
+   ========================================================= */
+.font-display {
+  font-family: "Cormorant Garamond", "EB Garamond", Georgia, serif;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+}
+
+.font-display-ja {
+  font-family: "Noto Serif JP", "Yu Mincho", "Hiragino Mincho ProN", serif;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.eyebrow {
+  font-family: "Inter", "Noto Sans JP", sans-serif;
+  font-size: 0.6875rem;
+  font-weight: 500;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--color-ink-800);
+}
+
+.byline {
+  font-family: "Inter", "Noto Sans JP", sans-serif;
+  font-size: 0.75rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--color-ink-500);
+}
+
+.editorial-rule {
+  height: 1px;
+  background: var(--color-line);
+  width: 100%;
+}
+
+/* Article body typography — drop-cap, blockquote, headings */
+.prose-editorial {
+  font-family: "EB Garamond", "Cormorant Garamond", "Noto Serif JP", Georgia, serif;
+  font-size: 1.1875rem;
+  line-height: 1.75;
+  color: #111;
+  max-width: 68ch;
+  margin-inline: auto;
+}
+
+.prose-editorial p {
+  margin: 1.4em 0;
+}
+
+.prose-editorial p:first-of-type::first-letter {
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 500;
+  float: left;
+  font-size: 4.2em;
+  line-height: 0.86;
+  padding-right: 0.08em;
+  padding-top: 0.06em;
+  color: #000;
+}
+
+.prose-editorial h2 {
+  font-family: "Cormorant Garamond", "Noto Serif JP", serif;
+  font-weight: 600;
+  font-size: 1.65rem;
+  letter-spacing: -0.01em;
+  margin: 2.2em 0 0.6em;
+  line-height: 1.2;
+}
+
+.prose-editorial blockquote {
+  font-family: "Cormorant Garamond", "Noto Serif JP", serif;
+  font-style: italic;
+  font-size: 1.5rem;
+  line-height: 1.4;
+  margin: 2em 0;
+  padding-left: 1.25rem;
+  border-left: 2px solid #000;
+  color: #000;
+}
+
+/* Subtle silver accent gradient line */
+.silver-rule {
+  height: 1px;
+  background: linear-gradient(to right, transparent, #c8c8c8 50%, transparent);
+}
+
+/* Editorial hover-underline link */
+.editorial-link {
+  position: relative;
+  display: inline-block;
+  transition: color 200ms ease;
+}
+
+.editorial-link::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -2px;
+  height: 1px;
+  background: currentColor;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 280ms ease;
+}
+
+.editorial-link:hover::after {
+  transform: scaleX(1);
+}
+
+/* Smooth focus rings */
+:focus-visible {
+  outline: 1px solid var(--color-ink);
+  outline-offset: 3px;
+}
+
+/* Minimal scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: #d4d4d4;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* Section spacing utility */
+.mt-section {
+  margin-top: clamp(3rem, 8vw, 6rem);
+}
+.pb-section {
+  padding-bottom: clamp(3rem, 8vw, 6rem);
+}
+.py-section {
+  padding-block: clamp(3rem, 8vw, 6rem);
+}
+.my-section {
+  margin-block: clamp(3rem, 8vw, 6rem);
 }

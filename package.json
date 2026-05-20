@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit",
+    "cron:publish": "tsx src/scripts/cron-publisher.ts",
+    "cron:publish:dry": "tsx src/scripts/cron-publisher.ts --dry-run"
   },
   "dependencies": {
     "next": "16.2.6",
@@ -21,6 +24,7 @@
     "eslint": "^9",
     "eslint-config-next": "16.2.6",
     "tailwindcss": "^4",
+    "tsx": "^4.22.3",
     "typescript": "^5"
   }
 }

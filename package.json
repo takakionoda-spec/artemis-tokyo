@@ -10,7 +10,8 @@
     "typecheck": "tsc --noEmit",
     "cron:publish": "tsx src/scripts/cron-publisher.ts",
     "cron:publish:dry": "tsx src/scripts/cron-publisher.ts --dry-run",
-    "cron:backfill": "tsx src/scripts/cron-publisher.ts --backfill"
+    "cron:backfill": "tsx src/scripts/cron-publisher.ts --backfill",
+    "cron:retrofit-tokyo-view": "tsx src/scripts/cron-publisher.ts --retrofit-tokyo-view"
   },
   "dependencies": {
     "next": "16.2.6",

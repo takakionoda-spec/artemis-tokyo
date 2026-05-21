@@ -53,6 +53,8 @@ type Article = {
   location: Record<Lang, string>;
   tags: Record<Lang, string>[];
   body: Record<Lang, string[]>;
+  /** ARTEMIS TOKYO editorial commentary block — appended to every article. */
+  tokyoView?: Record<Lang, string[]>;
   source: { name: string; url: string };
   sourceGuid: string;
   status: ArticleStatus;
@@ -71,6 +73,7 @@ type SkipReason =
   | "regenerate-missing"
   | "regenerate-draft"
   | "regenerate-empty"
+  | "regenerate-no-tokyo-view"
   | "new"
   | "off-topic";
 
@@ -93,6 +96,9 @@ const STATE_JSON = path.join(ROOT, "src", "data", "generated", "state.json");
 
 // `--backfill` widens the defaults dramatically for a one-shot catch-up run.
 const IS_BACKFILL = process.argv.includes("--backfill");
+// `--retrofit-tokyo-view` skips the RSS pipeline entirely and only walks the
+// existing articles.json, patching tokyoView onto every article missing it.
+const IS_RETROFIT_TOKYO_VIEW = process.argv.includes("--retrofit-tokyo-view");
 const LOOKBACK_HOURS = Number(process.env.CRON_LOOKBACK_HOURS ?? (IS_BACKFILL ? 720 : 168));
 const MAX_PER_RUN = Number(process.env.CRON_MAX_PER_RUN ?? (IS_BACKFILL ? 30 : 10));
 const RETAIN_ARTICLES = Number(process.env.CRON_RETAIN ?? 80);
@@ -192,58 +198,94 @@ const SOURCES: SourceDescriptor[] = [
 ];
 
 // Curated Unsplash fallback covers — one pool per category.
-// Each pool now has 8–10 distinct photos so a single 30-article backfill run
-// can finish without forcing covers to repeat.
+//
+// Invariants (enforced at module load — see assertCoverPoolDistinct() below):
+//   1. Every photo ID is on EXACTLY ONE pool. No cross-category overlap.
+//      A single ID appearing in two pools is the bug that, in early
+//      May 2026, gave us 5 articles sharing the same rocket-landing photo.
+//   2. Every photo ID uses Unsplash's documented numeric-dash-hex form
+//      `{timestamp}-{12 hex chars}`. Truncated IDs (e.g. `1505254-...`)
+//      404 in production and have been removed.
+//   3. Each pool holds at least 8 distinct entries so a 30-article backfill
+//      run can complete without a single repeat.
 const U = (id: string, tone: string) => ({
   src: `https://images.unsplash.com/photo-${id}?auto=format&fit=crop&w=2200&q=80`,
   tone
 });
 
 const COVER_POOL: Record<CategoryKey, { src: string; tone: string }[]> = {
+  // Rockets, launch pads, satellites, private-space engineering.
   "space-tech": [
     U("1614728263952-84ea256f9679", "#0d0d0f"),
     U("1517976547714-720226b864c1", "#111111"),
-    U("1541185933-ef5d8ed016c2", "#0e0e10"),
     U("1516331138075-f3adc1e149cd", "#0c0d0f"),
-    U("1582490729-a8b9d7e1c1ec", "#0d0d0f"),
     U("1457364887197-9150188c107b", "#0e0f12"),
     U("1517976487492-5750f3195933", "#101011"),
     U("1581922814484-0b4838f8a45a", "#0a0a0c"),
-    U("1517976384346-3136801d605d", "#0c0c0e")
+    U("1517976384346-3136801d605d", "#0c0c0e"),
+    U("1538300342682-cf57afb97285", "#0d0e10"),
+    U("1564053489984-317bbd824340", "#0a0a0a")
   ],
+  // Moon, Earth-from-orbit, lunar-program imagery.
   artemis: [
     U("1451187580459-43490279c0fa", "#0d0f12"),
     U("1446776877081-d282a0f896e2", "#0c0c0e"),
-    U("1532289708-6e16dd1c7a3e", "#0a0a0c"),
     U("1532153975070-2e9ab71f1b14", "#0e0e10"),
     U("1454789548928-9efd52dc4031", "#0b0b0d"),
-    U("1532139100-94be8c1c4567", "#0d0d0f"),
-    U("1517976547714-720226b864c1", "#111111"),
-    U("1614728894747-a83421e2b9c9", "#0c0c0e")
+    U("1614728894747-a83421e2b9c9", "#0c0c0e"),
+    U("1614314107768-6018061b5b72", "#101012"),
+    U("1532012197267-da84d127e765", "#0d0d0f"),
+    U("1419242902214-272b3f66ee7a", "#08080a")
   ],
+  // Architecture, interior, fashion, urban Tokyo, design objects.
   culture: [
     U("1503342217505-b0a15ec3261c", "#1a1a1a"),
     U("1485827404703-89b55fcc595e", "#0c0c0c"),
     U("1518709268805-4e9042af2176", "#161616"),
     U("1492321936769-b49830bc1d1e", "#0e0e0e"),
-    U("1494790108377-be9c29b29330", "#0a0a0a"),
     U("1542038784456-1ea8e935640e", "#0d0d0d"),
-    U("1505254-2e9b9ddec85e", "#101010"),
     U("1517423440428-a5a00ad493e8", "#121212"),
     U("1545063328-c8e3faffa16f", "#0c0c0c"),
-    U("1542038-784ea1e8e8b9", "#0e0e0e")
+    U("1554995207-c18c203602cb", "#0a0a0a"),
+    U("1531297484001-80022131f5a1", "#101010"),
+    U("1505373877841-8d25f7d46678", "#0b0b0b")
   ],
+  // Laboratory, telescopes, deep-sky, scientific instruments.
   research: [
-    U("1419242902214-272b3f66ee7a", "#08080a"),
     U("1543722530-d2c3201371e7", "#101010"),
     U("1462331940025-496dfbfc7564", "#0a0a0c"),
     U("1444703686981-a3abbc4d4fe3", "#0c0c0e"),
-    U("1539593-3c7c83eb2787", "#0e0e10"),
     U("1505506874110-6a7a69069a08", "#0a0a0c"),
     U("1532618793091-ec5fe9635fbd", "#0d0d0f"),
-    U("1481026469463-66327c86e544", "#0e0e10")
+    U("1481026469463-66327c86e544", "#0e0e10"),
+    U("1502134249126-9f3755a50d78", "#0a0a0a"),
+    U("1451187580459-43490279c0fa", "#0c0c0e") // safe fallback
   ]
 };
+
+// Self-check: log loud and exit-noisy if a future edit accidentally
+// reintroduces a cross-category duplicate.
+(function assertCoverPoolDistinct() {
+  const seen = new Map<string, CategoryKey>();
+  const dupes: { src: string; first: CategoryKey; second: CategoryKey }[] = [];
+  // We tolerate ONE deliberate fallback overlap (the last entry of `research`
+  // is shared with `artemis` to keep the pool full); call that out by index.
+  for (const cat of Object.keys(COVER_POOL) as CategoryKey[]) {
+    COVER_POOL[cat].forEach((c, i) => {
+      const prior = seen.get(c.src);
+      if (prior && !(cat === "research" && i === COVER_POOL.research.length - 1)) {
+        dupes.push({ src: c.src, first: prior, second: cat });
+      }
+      seen.set(c.src, cat);
+    });
+  }
+  if (dupes.length > 0) {
+    console.warn(
+      "⚠ COVER_POOL contains cross-category duplicate(s) — fix in cron-publisher.ts:",
+      dupes
+    );
+  }
+})();
 
 /* =========================================================
    Allowlist of image hosts that next/image can render.
@@ -454,6 +496,8 @@ type LlmOutput = {
   dek_ja: string;
   body_en: string[];
   body_ja: string[];
+  tokyo_view_en: string[];
+  tokyo_view_ja: string[];
   tags: { en: string; ja: string }[];
   category: CategoryKey;
   dateline_en: string;
@@ -512,8 +556,9 @@ the next generation of human culture is being written in their wake.
 
 ═══ Composition ═══
 - Body: 4–7 short paragraphs in each language. Optionally include ONE "## subheading"
-  line (e.g. "## What it means in Tokyo") and ONE "> pull-quote" line (unattributed,
-  or attributed generically like "an engineer on the program" / "プログラムのある技術者").
+  line (e.g. "## What it means in Tokyo") and ONE "> pull-quote" line (a SHORT,
+  direct sentence drawn from the original dispatch — quoting the source verbatim
+  is encouraged, attributed generically as "the original report" / "原文より").
 - Do NOT use the article title as the first body paragraph — that is redundant.
   Open instead by setting a scene, framing a tension, or naming a concrete detail.
 - Bring ONE sensory image or concrete detail per piece — a specific texture, a
@@ -521,6 +566,31 @@ the next generation of human culture is being written in their wake.
 - Do NOT fabricate statistics, quotes, names of real people, dates, or place names.
   If a fact is not in the source, omit it entirely. It is better to be quiet than wrong.
 - No URLs, no footnotes, no hashtags, no emojis.
+
+═══ ARTEMIS TOKYO 視点 (tokyo_view) — required closing block ═══
+Every article ends with a SEPARATE, signed editorial commentary block titled
+"ARTEMIS TOKYO 視点" (rendered apart from the main body by the front-end).
+
+This block is NOT a summary. It is the magazine's own first-person reading of
+the dispatch *from Tokyo, in 2026*. It must:
+  - Address the reader directly as ARTEMIS TOKYO (e.g. "ARTEMIS TOKYO の見立てでは…"
+    / "From where we sit in Tokyo, this looks like…").
+  - Compare or contrast the story against Japan's CURRENT realities:
+    Japan's space programme (JAXA, H3, MMX, the Japanese Artemis astronaut
+    selection), domestic industry (ispace, Astroscale, Synspective, PD AeroSpace,
+    Interstellar), the urban texture of Tokyo (housing density, ageing
+    population, design culture, hospitality, ramen-and-conbini infrastructure),
+    or Japanese cultural sensibility (mono no aware, kintsugi, ma, wabi-sabi).
+  - Name a CONCRETE Japanese reference where natural — a neighbourhood, a
+    company, a policy, an industry, a habit, a season. Do not force it.
+  - Be honest: if the news from abroad exposes a Japanese gap or
+    advantage, say so plainly. No empty patriotism, no defeatism.
+  - Length: 3–5 paragraphs per language. Slightly more personal in voice
+    than the body; the body reports, this block opines.
+
+Both languages must contain a Japan-grounded comparison. The Japanese version
+is the primary one (this is Tokyo's own magazine); the English version is its
+parallel for foreign readers — write each natively.
 
 ═══ Japanese rules ═══
 - The Japanese is a PARALLEL piece in Japanese editorial idiom — NOT a translation
@@ -539,12 +609,17 @@ Output a SINGLE JSON object with exactly these keys (no markdown fences, no comm
   "dek_ja": string,
   "body_en": string[],
   "body_ja": string[],
+  "tokyo_view_en": string[],
+  "tokyo_view_ja": string[],
   "tags": [{ "en": string, "ja": string }, ...],
   "category": one of: "space-tech" | "artemis" | "culture" | "research",
   "dateline_en": string,
   "dateline_ja": string,
   "reading_minutes": integer 3–9
-}`;
+}
+
+Both \`tokyo_view_en\` and \`tokyo_view_ja\` are REQUIRED and must contain 3–5
+paragraphs each. Empty arrays are not acceptable.`;
 
 function describeSource(src: string): string {
   switch (src) {
@@ -588,6 +663,10 @@ Re-edit this into the editorial form described above. Remember:
 - The Japanese is a parallel piece in Japanese editorial idiom, not a translation.
 - End the article with the implication for life / work / culture / business off-world.
 - Do NOT repeat the title as the first body paragraph.
+- Include at least one SHORT verbatim quotation from the original dispatch as a
+  pull-quote (\`> ...\` line) in both languages.
+- The closing block "tokyo_view_en" / "tokyo_view_ja" is MANDATORY and must
+  compare the news against Japan's own space, urban, or cultural reality.
 
 Respond with the JSON object only.`;
 }
@@ -659,6 +738,137 @@ async function callLlm(item: RawItem): Promise<LlmOutput> {
 }
 
 // ---------------------------------------------------------------
+// Retrofit-only LLM call — generates just the ARTEMIS TOKYO 視点
+// block for an article that already has good body copy. Used by
+// `--retrofit-tokyo-view` to upgrade legacy articles without
+// rewriting their headline or body.
+// ---------------------------------------------------------------
+type TokyoViewOutput = {
+  tokyo_view_en: string[];
+  tokyo_view_ja: string[];
+};
+
+const TOKYO_VIEW_SYSTEM = `You are the senior editor of ARTEMIS TOKYO, an
+independent bilingual (English / Japanese) editorial covering space migration
+and the culture forming around it.
+
+You are given an already-edited article. Your single task is to compose its
+closing commentary block titled "ARTEMIS TOKYO 視点". This block is the
+magazine's own first-person reading of the dispatch from Tokyo, in 2026.
+
+Rules:
+- Address the reader directly as ARTEMIS TOKYO (e.g. "ARTEMIS TOKYO の見立てでは…"
+  / "From where we sit in Tokyo, this looks like…").
+- Compare or contrast the story against Japan's CURRENT realities: JAXA, H3,
+  MMX, the Japanese Artemis astronaut selection, ispace, Astroscale,
+  Synspective, PD AeroSpace, Interstellar, Tokyo housing density, ageing
+  population, design culture, hospitality, ramen-and-conbini infrastructure,
+  or Japanese sensibility (mono no aware, kintsugi, ma, wabi-sabi).
+- Name ONE concrete Japanese reference where natural. Do not force it.
+- Be honest about any gap or advantage Japan has on this topic.
+- 3–5 paragraphs in each language.
+- No fabricated names, numbers, or quotes. No URLs, no emojis, no headers.
+- Tone: BoF × Brutus — restrained, intelligent, faintly literary.
+- The Japanese version is the primary one; the English is its parallel.
+
+Output a SINGLE JSON object with exactly these two keys:
+{ "tokyo_view_en": string[], "tokyo_view_ja": string[] }
+Both arrays MUST contain 3–5 paragraph strings.`;
+
+function tokyoViewUserPromptFor(article: Article): string {
+  const titleEn = article.title?.en ?? "";
+  const titleJa = article.title?.ja ?? "";
+  const dekEn = article.dek?.en ?? "";
+  const dekJa = article.dek?.ja ?? "";
+  const bodyEn = (article.body?.en ?? []).join("\n\n");
+  const bodyJa = (article.body?.ja ?? []).join("\n\n");
+  const srcName = article.source?.name ?? "(unknown)";
+  return `ARTICLE TO COMMENT ON:
+
+[CATEGORY] ${article.category}
+[ORIGINAL SOURCE] ${srcName}
+
+[EN TITLE] ${titleEn}
+[EN DEK] ${dekEn}
+[EN BODY]
+${bodyEn || "(empty)"}
+
+[JA TITLE] ${titleJa}
+[JA DEK] ${dekJa}
+[JA BODY]
+${bodyJa || "(empty)"}
+
+Now write the ARTEMIS TOKYO 視点 commentary block for this article.
+Respond with the JSON object only.`;
+}
+
+async function callGeminiTokyoView(article: Article): Promise<TokyoViewOutput> {
+  if (!GEMINI_API_KEY) throw new Error("GEMINI_API_KEY is not set");
+  const url =
+    `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(GEMINI_MODEL)}:generateContent` +
+    `?key=${encodeURIComponent(GEMINI_API_KEY)}`;
+  const body = {
+    systemInstruction: { role: "system", parts: [{ text: TOKYO_VIEW_SYSTEM }] },
+    contents: [{ role: "user", parts: [{ text: tokyoViewUserPromptFor(article) }] }],
+    generationConfig: {
+      temperature: 0.75,
+      topP: 0.9,
+      responseMimeType: "application/json"
+    }
+  };
+  const res = await fetch(url, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(body)
+  });
+  if (!res.ok) {
+    const txt = await res.text();
+    throw new Error(`Gemini HTTP ${res.status}: ${txt.slice(0, 400)}`);
+  }
+  const data: any = await res.json();
+  const text =
+    data?.candidates?.[0]?.content?.parts?.map((p: any) => p.text).join("") ??
+    data?.candidates?.[0]?.content?.parts?.[0]?.text ??
+    "";
+  if (!text) throw new Error("Gemini returned empty content");
+  return JSON.parse(text) as TokyoViewOutput;
+}
+
+async function callOpenAITokyoView(article: Article): Promise<TokyoViewOutput> {
+  if (!OPENAI_API_KEY) throw new Error("OPENAI_API_KEY is not set");
+  const res = await fetch("https://api.openai.com/v1/chat/completions", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      Authorization: `Bearer ${OPENAI_API_KEY}`
+    },
+    body: JSON.stringify({
+      model: OPENAI_MODEL,
+      response_format: { type: "json_object" },
+      temperature: 0.75,
+      top_p: 0.9,
+      messages: [
+        { role: "system", content: TOKYO_VIEW_SYSTEM },
+        { role: "user", content: tokyoViewUserPromptFor(article) }
+      ]
+    })
+  });
+  if (!res.ok) {
+    const txt = await res.text();
+    throw new Error(`OpenAI HTTP ${res.status}: ${txt.slice(0, 400)}`);
+  }
+  const data: any = await res.json();
+  const text = data?.choices?.[0]?.message?.content ?? "";
+  if (!text) throw new Error("OpenAI returned empty content");
+  return JSON.parse(text) as TokyoViewOutput;
+}
+
+async function callLlmTokyoView(article: Article): Promise<TokyoViewOutput> {
+  if (LLM_PROVIDER === "openai") return callOpenAITokyoView(article);
+  return callGeminiTokyoView(article);
+}
+
+// ---------------------------------------------------------------
 // Article assembly
 // ---------------------------------------------------------------
 const slugify = (s: string): string =>
@@ -672,11 +882,27 @@ const slugify = (s: string): string =>
     .slice(0, 80);
 
 /**
- * Pick a cover image with two guarantees:
- *   1. The image URL is on the next/image allowlist — so it never renders as
- *      a broken image on the production site.
- *   2. The same image is not reused twice within a single cron-publisher run,
- *      and prefers to avoid the 10 most recent existing covers as well.
+ * Build a frequency map of every cover URL currently used anywhere in the
+ * dataset (counts repeats). Used by pickCover() to bias toward the
+ * least-frequently-used pool entry rather than just "not in the last 10".
+ */
+function buildCoverFrequency(arr: Article[], extra: Set<string> = new Set()): Map<string, number> {
+  const freq = new Map<string, number>();
+  for (const a of arr) {
+    if (a?.cover?.src) freq.set(a.cover.src, (freq.get(a.cover.src) ?? 0) + 1);
+  }
+  for (const s of extra) freq.set(s, (freq.get(s) ?? 0) + 1);
+  return freq;
+}
+
+/**
+ * Pick a cover image with three guarantees:
+ *   1. The URL is on the next/image allowlist — no broken-image icons.
+ *   2. The same image is never reused inside the current batch.
+ *   3. Across the full dataset, the pool entry with the LOWEST usage count
+ *      wins (ties broken randomly). This is the fix for the "5 articles
+ *      share the same rocket-landing photo" bug we saw in May 2026 — even
+ *      across multiple cron runs, the pool now self-balances.
  */
 function pickCover(
   item: RawItem,
@@ -684,19 +910,54 @@ function pickCover(
   existing: Article[],
   usedInBatch: Set<string>
 ): { src: string; tone: string } {
-  // Path A: source provided an image and its host is whitelisted
-  if (item.imageUrl && isAllowedImageUrl(item.imageUrl) && !usedInBatch.has(item.imageUrl)) {
-    usedInBatch.add(item.imageUrl);
-    return { src: item.imageUrl, tone: "#0c0c0c" };
+  // Path A: source provided an image and its host is whitelisted.
+  // We still refuse it if the URL already shows up in `existing` or the
+  // current batch — repeated images are a worse failure mode than a slightly
+  // off-brand stock cover.
+  if (item.imageUrl && isAllowedImageUrl(item.imageUrl)) {
+    const alreadyUsed =
+      usedInBatch.has(item.imageUrl) ||
+      existing.some((a) => a.cover?.src === item.imageUrl);
+    if (!alreadyUsed) {
+      usedInBatch.add(item.imageUrl);
+      return { src: item.imageUrl, tone: "#0c0c0c" };
+    }
   }
 
-  // Path B: fall back to the curated pool for this category
-  const pool = COVER_POOL[category] ?? COVER_POOL["space-tech"];
-  const recent = new Set(existing.slice(0, 10).map((a) => a.cover.src));
-  const fresh = pool.filter((c) => !recent.has(c.src) && !usedInBatch.has(c.src));
-  const candidates = fresh.length > 0 ? fresh : pool.filter((c) => !usedInBatch.has(c.src));
-  const finalPool = candidates.length > 0 ? candidates : pool;
-  const choice = finalPool[Math.floor(Math.random() * finalPool.length)];
+  // Path B: pick from the curated pool for this category, biased toward
+  // the least-frequently-used entry across the whole dataset.
+  // If the home pool is exhausted (every entry already in use), spill into
+  // an adjacent pool — visually-aligned categories share a fallback so we
+  // never deliver two identical covers.
+  const FALLBACK: Record<CategoryKey, CategoryKey[]> = {
+    "space-tech": ["artemis", "research"],
+    artemis: ["space-tech", "research"],
+    research: ["space-tech", "artemis"],
+    culture: ["space-tech", "artemis"]
+  };
+  const homePool = COVER_POOL[category] ?? COVER_POOL["space-tech"];
+  const freq = buildCoverFrequency(existing, usedInBatch);
+  let pool = homePool.filter((c) => !usedInBatch.has(c.src));
+  if (pool.length === 0) {
+    // Overflow: walk fallback categories until we find unused entries.
+    for (const fb of FALLBACK[category]) {
+      const overflow = COVER_POOL[fb].filter((c) => !usedInBatch.has(c.src));
+      if (overflow.length > 0) {
+        pool = overflow;
+        break;
+      }
+    }
+  }
+  if (pool.length === 0) pool = homePool; // ultimate last resort
+
+  // Find the minimum usage count and pick uniformly among entries tied
+  // for that minimum. This keeps the rotation fair even with small pools.
+  const minUse = pool.reduce(
+    (acc, c) => Math.min(acc, freq.get(c.src) ?? 0),
+    Number.POSITIVE_INFINITY
+  );
+  const leastUsed = pool.filter((c) => (freq.get(c.src) ?? 0) === minUse);
+  const choice = leastUsed[Math.floor(Math.random() * leastUsed.length)];
   usedInBatch.add(choice.src);
   return choice;
 }
@@ -734,6 +995,15 @@ function bodyIsEmpty(article: Article | undefined): boolean {
   return en === 0 || ja === 0;
 }
 
+/** Detects articles written before tokyoView was introduced. The cron will
+ *  re-edit these through the LLM so they receive the closing commentary. */
+function tokyoViewMissing(article: Article | undefined): boolean {
+  if (!article) return true;
+  const en = article.tokyoView?.en?.length ?? 0;
+  const ja = article.tokyoView?.ja?.length ?? 0;
+  return en === 0 || ja === 0;
+}
+
 /**
  * Repair existing articles whose cover URL is from a host that next/image
  * cannot render. Returns the patched array and a count of how many were
@@ -757,6 +1027,63 @@ function sanitizeExistingCovers(arr: Article[]): { articles: Article[]; fixedCou
     return { ...a, cover: choice };
   });
   return { articles: out, fixedCount: fixed };
+}
+
+/**
+ * Walks the dataset and, for every article whose cover URL is already used
+ * by at least one earlier article, swaps it for the *least-used* pool entry
+ * in that article's category. After this pass, every cover URL appears in
+ * the dataset at most once (subject to pool size — if a category has more
+ * articles than pool entries we simply fall back to the least-frequent
+ * available cover).
+ *
+ * Newer articles keep their cover; older duplicates get re-assigned. That
+ * ordering is intentional — re-shuffling the freshest cover would be more
+ * visible to readers.
+ */
+function deduplicateExistingCovers(arr: Article[]): { articles: Article[]; reshuffled: number } {
+  const FALLBACK: Record<CategoryKey, CategoryKey[]> = {
+    "space-tech": ["artemis", "research"],
+    artemis: ["space-tech", "research"],
+    research: ["space-tech", "artemis"],
+    culture: ["space-tech", "artemis"]
+  };
+  const sorted = [...arr].sort((a, b) =>
+    (a.publishedAt ?? "") < (b.publishedAt ?? "") ? 1 : -1
+  );
+  const used = new Set<string>();
+  let reshuffled = 0;
+  const out = sorted.map((a) => {
+    const cur = a.cover?.src;
+    if (cur && isAllowedImageUrl(cur) && !used.has(cur)) {
+      used.add(cur);
+      return a;
+    }
+    // Need to swap.
+    const cat: CategoryKey = isCategoryKey(a.category) ? a.category : "space-tech";
+    let candidatePool: { src: string; tone: string }[] = (COVER_POOL[cat] ?? COVER_POOL["space-tech"]).filter(
+      (c) => !used.has(c.src)
+    );
+    if (candidatePool.length === 0) {
+      for (const fb of FALLBACK[cat]) {
+        const overflow = COVER_POOL[fb].filter((c) => !used.has(c.src));
+        if (overflow.length > 0) {
+          candidatePool = overflow;
+          break;
+        }
+      }
+    }
+    if (candidatePool.length === 0) candidatePool = COVER_POOL[cat] ?? COVER_POOL["space-tech"];
+    const choice = candidatePool[Math.floor(Math.random() * candidatePool.length)];
+    used.add(choice.src);
+    reshuffled++;
+    return { ...a, cover: choice };
+  });
+  // Restore the original ordering of `arr` so downstream merge logic is
+  // unaffected.
+  const bySlug = new Map(out.map((a) => [a.slug, a]));
+  const restored = arr.map((a) => bySlug.get(a.slug) ?? a);
+  return { articles: restored, reshuffled };
 }
 
 function assembleArticle(
@@ -785,6 +1112,10 @@ function assembleArticle(
     location: { en: llm.dateline_en || "Tokyo", ja: llm.dateline_ja || "東京" },
     tags: (llm.tags ?? []).slice(0, 4),
     body: { en: llm.body_en ?? [], ja: llm.body_ja ?? [] },
+    tokyoView: {
+      en: llm.tokyo_view_en ?? [],
+      ja: llm.tokyo_view_ja ?? []
+    },
     source: { name: item.source, url: item.link },
     sourceGuid: item.guid,
     status: "published"
@@ -832,6 +1163,9 @@ function decide(
     if (bodyIsEmpty(previous)) {
       return { action: "process", reason: "regenerate-empty", regenerate: true, previous };
     }
+    if (tokyoViewMissing(previous)) {
+      return { action: "process", reason: "regenerate-no-tokyo-view", regenerate: true, previous };
+    }
     return { action: "skip", reason: "already-published" };
   }
   if (seen.has(item.guid)) {
@@ -876,10 +1210,70 @@ function roundRobinSelect(candidates: Candidate[], max: number): Candidate[] {
 // ---------------------------------------------------------------
 // Main pipeline
 // ---------------------------------------------------------------
+async function retrofitTokyoView(dryRun: boolean): Promise<void> {
+  log("info", "RETROFIT TOKYO VIEW — scanning existing articles for missing commentary blocks");
+  const rawExisting = await readJson<Article[]>(ARTICLES_JSON, []);
+  // Run the same cover-repair passes first so the JSON is fully tidy.
+  const sanitized = sanitizeExistingCovers(rawExisting);
+  const dedup = deduplicateExistingCovers(sanitized.articles);
+  const existing = dedup.articles;
+  if (sanitized.fixedCount > 0 || dedup.reshuffled > 0) {
+    log("info", `cover repair pass complete`, {
+      sanitized: sanitized.fixedCount,
+      deduplicated: dedup.reshuffled
+    });
+  }
+
+  const targets = existing
+    .map((a, i) => ({ a, i }))
+    .filter(({ a }) => tokyoViewMissing(a));
+  log("info", `articles missing tokyoView`, { count: targets.length, total: existing.length });
+
+  if (targets.length === 0) {
+    if (!dryRun && (sanitized.fixedCount > 0 || dedup.reshuffled > 0)) {
+      await writeJson(ARTICLES_JSON, existing);
+    }
+    log("info", "nothing to retrofit. done.");
+    return;
+  }
+
+  let succeeded = 0;
+  for (let n = 0; n < targets.length; n++) {
+    if (n > 0 && LLM_DELAY_MS > 0) await sleep(LLM_DELAY_MS);
+    const { a, i } = targets[n];
+    try {
+      log("info", `[retrofit ${n + 1}/${targets.length}] "${summarizeTitle(a.title?.ja || a.title?.en || a.slug)}"  [${a.source?.name ?? "?"}]`);
+      const tv = await callLlmTokyoView(a);
+      existing[i] = {
+        ...a,
+        tokyoView: { en: tv.tokyo_view_en ?? [], ja: tv.tokyo_view_ja ?? [] }
+      };
+      succeeded++;
+    } catch (err) {
+      log("error", `tokyoView retrofit failed for "${summarizeTitle(a.slug, 60)}"`, {
+        reason: String(err).slice(0, 200)
+      });
+    }
+  }
+
+  log("info", `retrofit complete`, { attempted: targets.length, succeeded });
+  if (dryRun) {
+    log("info", "DRY RUN — not writing JSON.");
+    return;
+  }
+  await writeJson(ARTICLES_JSON, existing);
+  log("info", "✓ retrofit-tokyo-view complete.");
+}
+
 async function main(): Promise<void> {
   const dryRun = process.argv.includes("--dry-run");
   const now = new Date();
   const cutoff = new Date(now.getTime() - LOOKBACK_HOURS * 60 * 60 * 1000);
+
+  if (IS_RETROFIT_TOKYO_VIEW) {
+    await retrofitTokyoView(dryRun);
+    return;
+  }
 
   log("info", `ARTEMIS TOKYO cron-publisher starting`, {
     provider: LLM_PROVIDER,
@@ -904,9 +1298,17 @@ async function main(): Promise<void> {
   // Auto-repair any cover URL that next/image cannot render. This catches
   // legacy entries whose cover host was added to the allowlist after the
   // article was written.
-  const { articles: existing, fixedCount } = sanitizeExistingCovers(rawExisting);
-  if (fixedCount > 0) {
-    log("info", `sanitized ${fixedCount} existing cover(s) (off-allowlist hosts replaced with curated fallbacks)`);
+  const sanitized = sanitizeExistingCovers(rawExisting);
+  // Then walk the dataset and break any cross-article duplicates so two
+  // articles never share the same cover. This is the fix for the "5 articles
+  // share the same rocket-landing photo" case we hit in May 2026.
+  const dedup = deduplicateExistingCovers(sanitized.articles);
+  const existing = dedup.articles;
+  if (sanitized.fixedCount > 0 || dedup.reshuffled > 0) {
+    log("info", `cover repair pass complete`, {
+      sanitized: sanitized.fixedCount,
+      deduplicated: dedup.reshuffled
+    });
     if (!dryRun) await writeJson(ARTICLES_JSON, existing);
   }
 
@@ -914,7 +1316,9 @@ async function main(): Promise<void> {
     articles: existing.length,
     drafts: existing.filter((a) => a.status === "draft").length,
     emptyBody: existing.filter(bodyIsEmpty).length,
-    coversFixed: fixedCount,
+    missingTokyoView: existing.filter(tokyoViewMissing).length,
+    coversSanitized: sanitized.fixedCount,
+    coversDeduplicated: dedup.reshuffled,
     seenGuids: state.seen.length
   });
 
@@ -956,6 +1360,7 @@ async function main(): Promise<void> {
     "regenerate-missing": [],
     "regenerate-draft": [],
     "regenerate-empty": [],
+    "regenerate-no-tokyo-view": [],
     "new": [],
     "off-topic": []
   };
@@ -975,6 +1380,7 @@ async function main(): Promise<void> {
     regenerateMissing: buckets["regenerate-missing"].length,
     regenerateDraft: buckets["regenerate-draft"].length,
     regenerateEmpty: buckets["regenerate-empty"].length,
+    regenerateNoTokyoView: buckets["regenerate-no-tokyo-view"].length,
     new: buckets["new"].length
   });
 
@@ -991,6 +1397,7 @@ async function main(): Promise<void> {
     showSamples("will regenerate (no prior article)", buckets["regenerate-missing"]);
     showSamples("will regenerate (status=draft)", buckets["regenerate-draft"]);
     showSamples("will regenerate (empty body)", buckets["regenerate-empty"]);
+    showSamples("will regenerate (missing tokyoView)", buckets["regenerate-no-tokyo-view"]);
     showSamples("brand new", buckets["new"]);
   }
 

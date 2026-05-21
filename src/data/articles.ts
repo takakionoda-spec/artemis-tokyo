@@ -32,6 +32,12 @@ export type Article = {
   location: LocalizedString;
   tags: LocalizedString[];
   body: LocalizedRichText;
+  /** Editorial "ARTEMIS TOKYO 視点" — how the source story reads from a
+   *  Tokyo / Japan vantage point, compared with Japan's own space, urban,
+   *  and cultural realities. Rendered as a callout block at the foot of
+   *  every article. Optional only because legacy articles predate it; the
+   *  cron-publisher backfills any article missing this field. */
+  tokyoView?: LocalizedRichText;
   /** Provenance — every article must record where it came from. */
   source: {
     name: string;

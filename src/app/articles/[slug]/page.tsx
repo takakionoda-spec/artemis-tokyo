@@ -149,6 +149,34 @@ export default function ArticlePage() {
                 <ParagraphBlock key={i} raw={block} />
               ))}
             </div>
+            {article.tokyoView && (article.tokyoView[lang]?.length ?? 0) > 0 ? (
+              <aside
+                aria-label="ARTEMIS TOKYO Editorial Commentary"
+                className="mt-16 lg:mt-20 border-t border-b border-ink-300 py-10 lg:py-12"
+              >
+                <p className="eyebrow text-ink">
+                  {lang === "ja"
+                    ? "ARTEMIS TOKYO 視点"
+                    : "ARTEMIS TOKYO — A View from Tokyo"}
+                </p>
+                <h2 className="mt-4 font-display text-2xl lg:text-3xl tracking-[-0.012em] leading-tight">
+                  {lang === "ja"
+                    ? "東京から、この記事をどう読むか。"
+                    : "How this story reads from Tokyo."}
+                </h2>
+                <div className="silver-rule mt-6 max-w-xs" />
+                <div className="prose-editorial mt-6">
+                  {article.tokyoView[lang].map((block, i) => (
+                    <ParagraphBlock key={`tv-${i}`} raw={block} />
+                  ))}
+                </div>
+                <p className="mt-8 text-[0.6875rem] tracking-[0.22em] uppercase text-ink-500">
+                  {lang === "ja"
+                    ? "編集：ARTEMIS TOKYO 編集部"
+                    : "Editorial: ARTEMIS TOKYO Editors"}
+                </p>
+              </aside>
+            ) : null}
           </div>
         </div>
       </Container>

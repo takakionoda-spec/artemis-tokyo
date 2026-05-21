@@ -23,7 +23,6 @@ export default function Header() {
         </div>
         <div className="flex items-center gap-6">
           <Link href="/about" className="hover:text-ink transition-colors">{dict.nav.about}</Link>
-          <Link href="/issues" className="hover:text-ink transition-colors">{lang === "ja" ? "アーカイブ" : "Archive"}</Link>
           <Link href="/#newsletter" className="hover:text-ink transition-colors">{dict.nav.subscribe}</Link>
           <LanguageToggle />
         </div>

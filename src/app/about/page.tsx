@@ -1,6 +1,6 @@
 "use client";
 
-import { Container, SectionRule } from "@/components/GridSystem";
+import { Container } from "@/components/GridSystem";
 import { useLanguage } from "@/context/LanguageContext";
 import Newsletter from "@/components/Newsletter";
 
@@ -40,25 +40,16 @@ const BLOCKS: { eyebrow: Bilingual; heading: Bilingual; body: Bilingual }[] = [
     }
   },
   {
-    eyebrow: { en: "OUR PROMISES", ja: "編集の約束" },
+    eyebrow: { en: "OUR METHOD", ja: "編集の方法" },
     heading: {
-      en: "Three quiet commitments.",
-      ja: "三つの静かな約束。"
+      en: "Real dispatches, re-edited every morning.",
+      ja: "本物の発信を、毎朝編集し直す。"
     },
     body: {
-      en: "First: every article is published, simultaneously, in both languages — never as a translation, but as two parallel pieces of writing that have been allowed to settle into the grammar of their own language. Second: we publish weekly, not daily; we trust your time. Third: there are no advertisements. The Dispatch newsletter is, and will remain, the only commercial relationship between us and our readers.",
-      ja: "第一 — 全ての記事は、両言語で同時に発行されます。決して翻訳としてではなく、各々の言語の文法に落ち着くことを許された二つの並行する執筆物として。第二 — 私たちは日刊ではなく週刊で発行します。あなたの時間を信頼するためです。第三 — 広告はありません。Dispatchニュースレターは、私たちと読者の間の唯一の商業的関係であり、これからもそうあり続けます。"
+      en: "Every article begins with a real, dated dispatch from a credible source — NASA, ESA, Space.com, arXiv, TechCrunch, SpaceNews, Dezeen, and other publications cited at the foot of each piece. Our editorial pipeline collects these dispatches daily and re-edits them, in both languages, into the calm, considered prose of an editorial magazine. The original source is always linked.",
+      ja: "全ての記事は、信頼できる発信源 — NASA、ESA、Space.com、arXiv、TechCrunch、SpaceNews、Dezeenなど — からの実在する一次情報に基づき、各記事のフッターに出典として明示されます。編集パイプラインが毎日それらを収集し、両言語の編集誌の落ち着いた散文へと書き直します。元記事へのリンクは常に保たれます。"
     }
   }
-];
-
-const MASTHEAD: { role: Bilingual; name: string; location: Bilingual }[] = [
-  { role: { en: "Editor-in-Chief", ja: "編集長" }, name: "Hana Mori 森 ハナ", location: { en: "Tokyo", ja: "東京" } },
-  { role: { en: "Architecture Editor", ja: "建築編集" }, name: "Sora Ishida 石田 蒼", location: { en: "Chiba / Tokyo", ja: "千葉／東京" } },
-  { role: { en: "Culture Editor", ja: "カルチャー編集" }, name: "Mira Klein", location: { en: "Brooklyn", ja: "ブルックリン" } },
-  { role: { en: "Technology Editor", ja: "テクノロジー編集" }, name: "Léa Tanaka 田中 レア", location: { en: "Boca Chica / Tokyo", ja: "ボカチカ／東京" } },
-  { role: { en: "Cartographer-at-Large", ja: "地図担当" }, name: "Daniel Park ダニエル・パク", location: { en: "Yokohama", ja: "横浜" } },
-  { role: { en: "Editorial Assistant", ja: "編集アシスタント" }, name: "Yui Saito 齋藤 唯", location: { en: "Tsukuba", ja: "つくば" } }
 ];
 
 export default function AboutPage() {
@@ -93,19 +84,6 @@ export default function AboutPage() {
                 </p>
               </div>
             </article>
-          ))}
-        </div>
-      </Container>
-
-      <Container className="pb-section">
-        <SectionRule label={lang === "ja" ? "編集部" : "MASTHEAD"} />
-        <div className="mt-10 lg:mt-12 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-10">
-          {MASTHEAD.map((person) => (
-            <div key={person.name}>
-              <p className="eyebrow text-ink-500">{person.role[lang]}</p>
-              <p className="mt-3 font-display text-xl tracking-[-0.005em] text-ink">{person.name}</p>
-              <p className="mt-1 byline">{person.location[lang]}</p>
-            </div>
           ))}
         </div>
       </Container>

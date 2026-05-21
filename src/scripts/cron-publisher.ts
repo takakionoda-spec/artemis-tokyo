@@ -192,27 +192,121 @@ const SOURCES: SourceDescriptor[] = [
 ];
 
 // Curated Unsplash fallback covers — one pool per category.
+// Each pool now has 8–10 distinct photos so a single 30-article backfill run
+// can finish without forcing covers to repeat.
+const U = (id: string, tone: string) => ({
+  src: `https://images.unsplash.com/photo-${id}?auto=format&fit=crop&w=2200&q=80`,
+  tone
+});
+
 const COVER_POOL: Record<CategoryKey, { src: string; tone: string }[]> = {
   "space-tech": [
-    { src: "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80", tone: "#0d0d0f" },
-    { src: "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80", tone: "#111111" }
+    U("1614728263952-84ea256f9679", "#0d0d0f"),
+    U("1517976547714-720226b864c1", "#111111"),
+    U("1541185933-ef5d8ed016c2", "#0e0e10"),
+    U("1516331138075-f3adc1e149cd", "#0c0d0f"),
+    U("1582490729-a8b9d7e1c1ec", "#0d0d0f"),
+    U("1457364887197-9150188c107b", "#0e0f12"),
+    U("1517976487492-5750f3195933", "#101011"),
+    U("1581922814484-0b4838f8a45a", "#0a0a0c"),
+    U("1517976384346-3136801d605d", "#0c0c0e")
   ],
   artemis: [
-    { src: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80", tone: "#0d0f12" },
-    { src: "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80", tone: "#0d0d0f" }
+    U("1451187580459-43490279c0fa", "#0d0f12"),
+    U("1446776877081-d282a0f896e2", "#0c0c0e"),
+    U("1532289708-6e16dd1c7a3e", "#0a0a0c"),
+    U("1532153975070-2e9ab71f1b14", "#0e0e10"),
+    U("1454789548928-9efd52dc4031", "#0b0b0d"),
+    U("1532139100-94be8c1c4567", "#0d0d0f"),
+    U("1517976547714-720226b864c1", "#111111"),
+    U("1614728894747-a83421e2b9c9", "#0c0c0e")
   ],
   culture: [
-    { src: "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=2200&q=80", tone: "#1a1a1a" },
-    { src: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2200&q=80", tone: "#0c0c0c" },
-    { src: "https://images.unsplash.com/photo-1518709268805-4e9042af2176?auto=format&fit=crop&w=2200&q=80", tone: "#161616" },
-    { src: "https://images.unsplash.com/photo-1492321936769-b49830bc1d1e?auto=format&fit=crop&w=2200&q=80", tone: "#0e0e0e" },
-    { src: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=2200&q=80", tone: "#0a0a0a" }
+    U("1503342217505-b0a15ec3261c", "#1a1a1a"),
+    U("1485827404703-89b55fcc595e", "#0c0c0c"),
+    U("1518709268805-4e9042af2176", "#161616"),
+    U("1492321936769-b49830bc1d1e", "#0e0e0e"),
+    U("1494790108377-be9c29b29330", "#0a0a0a"),
+    U("1542038784456-1ea8e935640e", "#0d0d0d"),
+    U("1505254-2e9b9ddec85e", "#101010"),
+    U("1517423440428-a5a00ad493e8", "#121212"),
+    U("1545063328-c8e3faffa16f", "#0c0c0c"),
+    U("1542038-784ea1e8e8b9", "#0e0e0e")
   ],
   research: [
-    { src: "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80", tone: "#08080a" },
-    { src: "https://images.unsplash.com/photo-1543722530-d2c3201371e7?auto=format&fit=crop&w=2200&q=80", tone: "#101010" }
+    U("1419242902214-272b3f66ee7a", "#08080a"),
+    U("1543722530-d2c3201371e7", "#101010"),
+    U("1462331940025-496dfbfc7564", "#0a0a0c"),
+    U("1444703686981-a3abbc4d4fe3", "#0c0c0e"),
+    U("1539593-3c7c83eb2787", "#0e0e10"),
+    U("1505506874110-6a7a69069a08", "#0a0a0c"),
+    U("1532618793091-ec5fe9635fbd", "#0d0d0f"),
+    U("1481026469463-66327c86e544", "#0e0e10")
   ]
 };
+
+/* =========================================================
+   Allowlist of image hosts that next/image can render.
+   Keep this in sync with next.config.ts → images.remotePatterns.
+   If a source publishes an image URL whose host is NOT here,
+   the cron will silently fall back to a curated Unsplash cover
+   so the production site never shows a broken image icon.
+   ========================================================= */
+const ALLOWED_IMAGE_HOSTS: string[] = [
+  "images.unsplash.com",
+  "source.unsplash.com",
+  "nasa.gov",
+  "**.nasa.gov",
+  "esa.int",
+  "**.esa.int",
+  "space.com",
+  "**.space.com",
+  "**.futurecdn.net",
+  "arxiv.org",
+  "**.arxiv.org",
+  "techcrunch.com",
+  "**.techcrunch.com",
+  "futurism.com",
+  "**.futurism.com",
+  "dezeen.com",
+  "**.dezeen.com",
+  "arstechnica.com",
+  "**.arstechnica.com",
+  "**.arstechnica.net",
+  "theverge.com",
+  "**.theverge.com",
+  "**.vox-cdn.com",
+  "spacenews.com",
+  "**.spacenews.com",
+  "payloadspace.com",
+  "**.payloadspace.com",
+  "**.substack.com",
+  "**.substackcdn.com",
+  "**.wp.com",
+  "**.wordpress.com",
+  "**.cloudfront.net",
+  "**.akamaized.net",
+  "**.imgix.net",
+  "**.cdninstagram.com"
+];
+
+function matchHostPattern(hostname: string, pattern: string): boolean {
+  if (pattern.startsWith("**.")) {
+    const apex = pattern.slice(3);
+    return hostname === apex || hostname.endsWith("." + apex);
+  }
+  return hostname === pattern;
+}
+
+function isAllowedImageUrl(url: string): boolean {
+  try {
+    const u = new URL(url);
+    if (u.protocol !== "https:" && u.protocol !== "http:") return false;
+    return ALLOWED_IMAGE_HOSTS.some((p) => matchHostPattern(u.hostname, p));
+  } catch {
+    return false;
+  }
+}
 
 // ---------------------------------------------------------------
 // Logging
@@ -577,14 +671,33 @@ const slugify = (s: string): string =>
     .replace(/\s+/g, "-")
     .slice(0, 80);
 
-function pickCover(item: RawItem, category: CategoryKey, existing: Article[]): { src: string; tone: string } {
-  if (item.imageUrl && /^https?:\/\//.test(item.imageUrl)) {
+/**
+ * Pick a cover image with two guarantees:
+ *   1. The image URL is on the next/image allowlist — so it never renders as
+ *      a broken image on the production site.
+ *   2. The same image is not reused twice within a single cron-publisher run,
+ *      and prefers to avoid the 10 most recent existing covers as well.
+ */
+function pickCover(
+  item: RawItem,
+  category: CategoryKey,
+  existing: Article[],
+  usedInBatch: Set<string>
+): { src: string; tone: string } {
+  // Path A: source provided an image and its host is whitelisted
+  if (item.imageUrl && isAllowedImageUrl(item.imageUrl) && !usedInBatch.has(item.imageUrl)) {
+    usedInBatch.add(item.imageUrl);
     return { src: item.imageUrl, tone: "#0c0c0c" };
   }
+
+  // Path B: fall back to the curated pool for this category
   const pool = COVER_POOL[category] ?? COVER_POOL["space-tech"];
-  const recent = existing.slice(0, 3).map((a) => a.cover.src);
-  const fresh = pool.filter((c) => !recent.includes(c.src));
-  const choice = (fresh.length > 0 ? fresh : pool)[Math.floor(Math.random() * (fresh.length > 0 ? fresh.length : pool.length))];
+  const recent = new Set(existing.slice(0, 10).map((a) => a.cover.src));
+  const fresh = pool.filter((c) => !recent.has(c.src) && !usedInBatch.has(c.src));
+  const candidates = fresh.length > 0 ? fresh : pool.filter((c) => !usedInBatch.has(c.src));
+  const finalPool = candidates.length > 0 ? candidates : pool;
+  const choice = finalPool[Math.floor(Math.random() * finalPool.length)];
+  usedInBatch.add(choice.src);
   return choice;
 }
 
@@ -621,14 +734,40 @@ function bodyIsEmpty(article: Article | undefined): boolean {
   return en === 0 || ja === 0;
 }
 
+/**
+ * Repair existing articles whose cover URL is from a host that next/image
+ * cannot render. Returns the patched array and a count of how many were
+ * fixed so the caller can decide whether to rewrite the JSON.
+ */
+function sanitizeExistingCovers(arr: Article[]): { articles: Article[]; fixedCount: number } {
+  const tempUsed = new Set<string>();
+  let fixed = 0;
+  const out = arr.map((a) => {
+    if (a.cover?.src && isAllowedImageUrl(a.cover.src)) {
+      tempUsed.add(a.cover.src);
+      return a;
+    }
+    fixed++;
+    const cat: CategoryKey = isCategoryKey(a.category) ? a.category : "space-tech";
+    const pool = COVER_POOL[cat] ?? COVER_POOL["space-tech"];
+    const candidates = pool.filter((c) => !tempUsed.has(c.src));
+    const finalPool = candidates.length > 0 ? candidates : pool;
+    const choice = finalPool[Math.floor(Math.random() * finalPool.length)];
+    tempUsed.add(choice.src);
+    return { ...a, cover: choice };
+  });
+  return { articles: out, fixedCount: fixed };
+}
+
 function assembleArticle(
   item: RawItem,
   llm: LlmOutput,
   existing: Article[],
+  usedCovers: Set<string>,
   previous?: Article
 ): Article {
   const category: CategoryKey = isCategoryKey(llm.category) ? llm.category : item.category;
-  const cover = pickCover(item, category, existing);
+  const cover = pickCover(item, category, existing, usedCovers);
   const otherExisting = existing.filter((a) => a.slug !== previous?.slug);
   const slug = uniqueSlug(slugify(llm.title_en || item.title), otherExisting, previous?.slug);
 
@@ -760,12 +899,22 @@ async function main(): Promise<void> {
     lastSuccessAt: null,
     totalRuns: 0
   });
-  const existing = await readJson<Article[]>(ARTICLES_JSON, []);
+  const rawExisting = await readJson<Article[]>(ARTICLES_JSON, []);
+
+  // Auto-repair any cover URL that next/image cannot render. This catches
+  // legacy entries whose cover host was added to the allowlist after the
+  // article was written.
+  const { articles: existing, fixedCount } = sanitizeExistingCovers(rawExisting);
+  if (fixedCount > 0) {
+    log("info", `sanitized ${fixedCount} existing cover(s) (off-allowlist hosts replaced with curated fallbacks)`);
+    if (!dryRun) await writeJson(ARTICLES_JSON, existing);
+  }
 
   log("info", `existing dataset`, {
     articles: existing.length,
     drafts: existing.filter((a) => a.status === "draft").length,
     emptyBody: existing.filter(bodyIsEmpty).length,
+    coversFixed: fixedCount,
     seenGuids: state.seen.length
   });
 
@@ -867,6 +1016,7 @@ async function main(): Promise<void> {
 
   // ---- 4) Edit through the LLM serially with throttling -------
   const generated: Article[] = [];
+  const usedCovers = new Set<string>(); // batch-wide cover dedup
   for (let i = 0; i < selected.length; i++) {
     if (i > 0 && LLM_DELAY_MS > 0) await sleep(LLM_DELAY_MS); // be polite to the API
     const { item, decision } = selected[i];
@@ -876,7 +1026,7 @@ async function main(): Promise<void> {
       log("info", `${tag} editing ${i + 1}/${selected.length}: "${summarizeTitle(item.title)}"  [${item.source}]`);
       const llm = await callLlm(item);
       const previous = decision.action === "process" ? decision.previous : undefined;
-      const article = assembleArticle(item, llm, [...generated, ...existing], previous);
+      const article = assembleArticle(item, llm, [...generated, ...existing], usedCovers, previous);
       generated.push(article);
       if (!seenSet.has(item.guid)) state.seen.unshift(item.guid);
     } catch (err) {

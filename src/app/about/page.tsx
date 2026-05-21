@@ -7,8 +7,8 @@ import Newsletter from "@/components/Newsletter";
 type Bilingual = { en: string; ja: string };
 
 const HEADLINE: Bilingual = {
-  en: "An editor's letter from Tokyo to orbit.",
-  ja: "東京から軌道へ — 編集者からの手紙。"
+  en: "The Artemis era, curated from Tokyo.",
+  ja: "アルテミス時代を、東京から編む。"
 };
 
 const LEDE: Bilingual = {
@@ -20,34 +20,34 @@ const BLOCKS: { eyebrow: Bilingual; heading: Bilingual; body: Bilingual }[] = [
   {
     eyebrow: { en: "OUR LINE", ja: "編集の線" },
     heading: {
-      en: "We write about space the way a magazine writes about a city.",
-      ja: "私たちは、宇宙について — 雑誌が街について書くようにして — 書きます。"
+      en: "A curation magazine for the migration the world is now planning.",
+      ja: "世界が今、本気で準備している移住のための、キュレーションマガジン。"
     },
     body: {
-      en: "Most space journalism is, at its best, an industry trade. We are interested in the second thing: the people, the rooms, the cuts of cloth, the choreography of a Tuesday morning in low gravity. The Moon is, among other things, a place where someone will eventually have to set a table. We write about the table.",
-      ja: "宇宙ジャーナリズムの多くは、その最良の瞬間においても、業界紙の仕事です。私たちは、その次のもの — 人、部屋、布の裁ち方、低重力下の火曜日の朝の振付 — に関心があります。月は、他のあらゆることに加えて、いずれ誰かが食卓を整えなければならない場所です。私たちは、その食卓について書きます。"
+      en: "The Artemis Program — humanity's planned return to the Moon and, in time, its first crewed steps toward Mars — is no longer a slogan. NASA, ESA, JAXA, and a dozen private agencies are now timetabling the 2040s in real budget cycles, with real launch manifests. ARTEMIS TOKYO follows that work, and the wider international conversation it is shaping: who flies, on what terms, into what kind of off-world life.",
+      ja: "「アルテミス計画」は、もはやスローガンではない。NASA、ESA、JAXA、そして民間の宇宙企業群が、2040年代の月面と、その先の火星行きを、現実の予算サイクルと打ち上げスケジュールに織り込み始めている。ARTEMIS TOKYO は、その動きと、それを取り囲む世界の議論 — 誰が、どのような条件で飛び、どのような宇宙生活へ向かうのか — を追いかける。"
     }
   },
   {
     eyebrow: { en: "OUR CITY", ja: "私たちの街" },
     heading: {
-      en: "Tokyo, as a vantage point.",
-      ja: "視座としての東京。"
+      en: "Why Tokyo edits this conversation.",
+      ja: "なぜ、東京から編むのか。"
     },
     body: {
-      en: "Tokyo has, for a century, been the world's most rigorous workshop for living gently inside constraint. The constraints of a small apartment, of an old grandmother's room, of a kitchen drawer four centimeters deep. Living gently inside constraint is, of course, the central problem of every off-world habitat — which makes Tokyo, by accident or by design, the most credible city from which to file these stories.",
-      ja: "東京は1世紀にわたって、制約の内側で穏やかに生きることについての、世界でもっとも厳格な工房であり続けてきました。小さな部屋の制約、祖母の和室の制約、深さ4センチの台所の引き出しの制約。「制約の内側で穏やかに生きる」ことは、もちろん、地球外の居住区すべての中心的な問題です。それは — 偶然か設計か — 東京を、これらの物語を発信するのに最も信頼できる街にします。"
+      en: "Most of the news driving the Artemis era is written outside Japan — in Houston, Toulouse, Bangalore, in California's industrial fringe. Tokyo's job, on this site, is to read those dispatches together: side-by-side, in two languages, with a sober editor's distance. Tokyo has always been a city that listens carefully to elsewhere before forming its own line. That habit is the editorial method here.",
+      ja: "アルテミス時代を駆動するニュースのほとんどは、日本の外側で書かれている — ヒューストン、トゥールーズ、バンガロール、そしてカリフォルニアの工場地帯から。東京の役割は、それらを並べて、二言語で、編集者の冷静な距離をもって読み直すことにある。東京は古くから、「先に他所の声を注意深く聞いてから、自分の線を引く」街だった。それが、このサイトの方法でもある。"
     }
   },
   {
     eyebrow: { en: "OUR METHOD", ja: "編集の方法" },
     heading: {
-      en: "Real dispatches, re-edited every morning.",
-      ja: "本物の発信を、毎朝編集し直す。"
+      en: "Real dispatches, curated and re-edited every morning.",
+      ja: "本物のニュースを、毎朝キュレートし、編集し直す。"
     },
     body: {
-      en: "Every article begins with a real, dated dispatch from a credible source — NASA, ESA, Space.com, arXiv, TechCrunch, SpaceNews, Dezeen, and other publications cited at the foot of each piece. Our editorial pipeline collects these dispatches daily and re-edits them, in both languages, into the calm, considered prose of an editorial magazine. The original source is always linked.",
-      ja: "全ての記事は、信頼できる発信源 — NASA、ESA、Space.com、arXiv、TechCrunch、SpaceNews、Dezeenなど — からの実在する一次情報に基づき、各記事のフッターに出典として明示されます。編集パイプラインが毎日それらを収集し、両言語の編集誌の落ち着いた散文へと書き直します。元記事へのリンクは常に保たれます。"
+      en: "Every article begins with a real, dated dispatch from a credible international source — NASA, ESA, Space.com, arXiv, TechCrunch, SpaceNews, Ars Technica, The Verge, Dezeen, and others cited at the foot of each piece. Our editorial pipeline pulls these dispatches every morning at 06:00 JST, selects what matters for a Tokyo reader, and re-edits each in both languages. Every article closes with an ARTEMIS TOKYO 視点 block — our own first-person reading of the story against Japan's current realities. The original source is always linked.",
+      ja: "全ての記事は、信頼できる海外の一次情報 — NASA、ESA、Space.com、arXiv、TechCrunch、SpaceNews、Ars Technica、The Verge、Dezeen ほか、各記事のフッターに明記する出典 — から始まる。編集パイプラインが毎朝6時（JST）にそれらを取得し、東京の読者にとって意味のあるものを選び、両言語に再編集する。そして全ての記事は、「ARTEMIS TOKYO 視点」 — 日本の現状と照らした、編集部独自の読み解き — で締めくくられる。原文へのリンクは常に保たれる。"
     }
   }
 ];

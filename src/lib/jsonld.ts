@@ -42,6 +42,6 @@ export function buildOrganizationJsonLd() {
     logo: `${SITE_URL}/icon.svg`,
     sameAs: [],
     description:
-      "An independent, bilingual editorial chronicling the cultural and technological architecture of off-world life."
+      "An independent, bilingual curation magazine following the Artemis Program — humanity's planned migration to the Moon, Mars, and beyond — and the international conversation around future off-world life. Edited from Tokyo."
   };
 }

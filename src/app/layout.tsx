@@ -8,25 +8,29 @@ import { buildOrganizationJsonLd } from "@/lib/jsonld";
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "https://artemis-tokyo.vercel.app"),
   title: {
-    default: "ARTEMIS TOKYO — Space migration × culture",
+    default: "ARTEMIS TOKYO — The Artemis era, curated from Tokyo",
     template: "%s · ARTEMIS TOKYO"
   },
   description:
-    "ARTEMIS TOKYO is a bilingual editorial chronicling the cultural and technological architecture of off-world life — from Tokyo, to the stars.",
+    "ARTEMIS TOKYO is a bilingual curation magazine following the Artemis Program and the international conversation around the 2040s human migration to space — edited from Tokyo.",
   keywords: [
+    "Artemis Program",
     "Artemis",
+    "NASA",
+    "ESA",
+    "JAXA",
     "SpaceX",
-    "lunar",
+    "lunar migration",
     "Mars",
+    "2040s",
     "space migration",
-    "culture",
-    "fashion",
-    "architecture",
+    "off-world",
+    "curation",
     "Tokyo"
   ],
   openGraph: {
     title: "ARTEMIS TOKYO",
-    description: "Space migration × culture. From Tokyo, to the stars.",
+    description: "The Artemis era, curated from Tokyo. A bilingual magazine on the 2040s migration off-world.",
     url: "/",
     siteName: "ARTEMIS TOKYO",
     type: "website"
@@ -34,7 +38,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "ARTEMIS TOKYO",
-    description: "Space migration × culture. From Tokyo, to the stars."
+    description: "The Artemis era, curated from Tokyo. A bilingual magazine on the 2040s migration off-world."
   }
 };
 

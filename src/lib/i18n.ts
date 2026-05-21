@@ -78,8 +78,8 @@ export const dictionaries: Record<Lang, Dictionary> = {
       moreIn: "More in",
       newsletter: {
         eyebrow: "The Dispatch",
-        heading: "An editor's letter from Tokyo to orbit.",
-        lede: "A quiet, weekly briefing on the people, places, and ideas defining humanity's second home.",
+        heading: "A weekly briefing on the Artemis era, from Tokyo.",
+        lede: "A curated round-up of how the world's space agencies and private programmes are preparing for the 2040s migration off-world — read from a desk in Tokyo.",
         placeholder: "Your email address",
         cta: "Subscribe",
         disclaimer: "We respect your inbox. Unsubscribe anytime."
@@ -90,7 +90,7 @@ export const dictionaries: Record<Lang, Dictionary> = {
           { name: "Company", items: ["About", "Editorial Standards", "Careers", "Press"] },
           { name: "Connect", items: ["Newsletter", "Instagram", "X / Twitter", "Contact"] }
         ],
-        copy: "ARTEMIS TOKYO is an independent, bilingual editorial chronicling the cultural and technological architecture of off-world life."
+        copy: "ARTEMIS TOKYO is a bilingual curation magazine following the Artemis Program — humanity's planned migration to the Moon, Mars, and beyond — and the wider international conversation around future off-world life. Edited from Tokyo."
       },
       languageToggle: { label: "JA" },
       notFound: {
@@ -128,8 +128,8 @@ export const dictionaries: Record<Lang, Dictionary> = {
       moreIn: "もっと見る:",
       newsletter: {
         eyebrow: "DISPATCH",
-        heading: "東京から、軌道へ。\n編集部からの週次ブリーフィング。",
-        lede: "人類の「第二の故郷」を形作る、人と場所とアイデアについての静かな手紙。",
+        heading: "アルテミス時代の週次ブリーフィング、\n東京から。",
+        lede: "世界の宇宙機関と民間プログラムが、2040年代の地球外移住に向けて何を準備しているか — 東京の編集者の目線で整理した、週ごとのキュレーション。",
         placeholder: "メールアドレス",
         cta: "購読する",
         disclaimer: "受信箱を尊重します。いつでも解除可能。"
@@ -140,7 +140,7 @@ export const dictionaries: Record<Lang, Dictionary> = {
           { name: "編集部", items: ["私たちについて", "編集方針", "採用", "プレス"] },
           { name: "つながる", items: ["ニュースレター", "Instagram", "X / Twitter", "お問い合わせ"] }
         ],
-        copy: "ARTEMIS TOKYO は、軌道上の生活と地上のカルチャーが交差する地点を記録する、独立系バイリンガル・エディトリアル。"
+        copy: "ARTEMIS TOKYO は、人類の月面・火星・その先への移住計画「アルテミス計画」と、世界各国で進む未来の宇宙生活をめぐる議論を、東京に生きる編集者の目線で切り取り発信するバイリンガル・キュレーションマガジン。"
       },
       languageToggle: { label: "EN" },
       notFound: {

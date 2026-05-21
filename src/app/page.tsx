@@ -31,13 +31,13 @@ export default function HomePage() {
           <p className="eyebrow">{lang === "ja" ? "準備中" : "Standing by"}</p>
           <h1 className="mt-6 font-display text-[clamp(2.75rem,6vw,5rem)] leading-[0.95] tracking-[-0.025em]">
             {lang === "ja"
-              ? "リアルタイム編集は\n間もなく始まります。"
-              : "Real-time editorial begins shortly."}
+              ? "アルテミス時代の\nキュレーションは、間もなく始まります。"
+              : "The Artemis curation begins shortly."}
           </h1>
           <p className="mt-6 text-lg text-ink-600 leading-relaxed">
             {lang === "ja"
-              ? "ARTEMIS TOKYOのバイリンガル編集パイプラインは、NASA、Space.com、arXivから直近24時間のニュースを取得し、毎朝6時（日本時間）に再編集して公開します。最初の自動生成が完了次第、この場所に最新の記事が並びます。"
-              : "Our bilingual editorial pipeline pulls the past twenty-four hours of dispatches from NASA, Space.com and arXiv, and re-edits them every morning at 06:00 JST. The first cycle will populate this view as soon as it completes."}
+              ? "ARTEMIS TOKYO のバイリンガル編集パイプラインは、NASA、ESA、Space.com、arXiv、TechCrunch、SpaceNews、Ars Technica、The Verge、Dezeen ほか海外メディアから直近の記事を取得し、毎朝6時（日本時間）に東京の編集者の目線で再編集して公開します。最初の自動生成が完了次第、この場所に世界各国のアルテミス計画関連ニュースが並びます。"
+              : "Our bilingual editorial pipeline pulls the latest dispatches from NASA, ESA, Space.com, arXiv, TechCrunch, SpaceNews, Ars Technica, The Verge, Dezeen and other international outlets, and re-edits them from a Tokyo editor's vantage every morning at 06:00 JST. The first cycle will populate this view with international Artemis-era news as soon as it completes."}
           </p>
           <div className="silver-rule mt-12" />
           <p className="mt-10 byline">

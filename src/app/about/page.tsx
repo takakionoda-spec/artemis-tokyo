@@ -12,8 +12,8 @@ const HEADLINE: Bilingual = {
 };
 
 const LEDE: Bilingual = {
-  en: "ARTEMIS TOKYO is an independent, bilingual editorial. We chronicle the cultural and technological architecture of off-world life from a single, deliberate vantage point: a desk in Tokyo, a window onto the Pacific, and a quiet patience for what the next century will demand of us.",
-  ja: "ARTEMIS TOKYOは、独立系のバイリンガル・エディトリアルです。私たちは、東京の一つの机、太平洋に向く一枚の窓、そして来世紀が私たちに何を求めるかについての静かな忍耐 — その一つの視座から、地球外生活の文化的・技術的アーキテクチャを記録します。"
+  en: "Human migration to space — beginning with the lunar surface — is said to arrive in the 2040s. That plan is the Artemis Program. ARTEMIS TOKYO is a curation magazine that follows the program every nation is now taking seriously, and the wider international conversation about future off-world life, edited through the eyes of a writer who lives in Tokyo.",
+  ja: "2040年代には月面をはじめとする宇宙への人間の移住が実現すると言われている。その計画こそが「アルテミス計画」である。各国が本気で取り組む、この計画にまつわる情報や日本以外の世界各国で現在話題になっている未来の宇宙生活に関する情報を東京に生きる編集者の目線で切り取り発信するキュレーションメディア"
 };
 
 const BLOCKS: { eyebrow: Bilingual; heading: Bilingual; body: Bilingual }[] = [

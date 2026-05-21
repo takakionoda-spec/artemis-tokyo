@@ -58,7 +58,7 @@ export const CATEGORY_ORDER: CategoryKey[] = [
 export const dictionaries: Record<Lang, Dictionary> = {
   en: {
     brand: {
-      tagline: "Space migration × culture. From Tokyo, to the stars.",
+      tagline: "Dispatches from Tokyo on the human migration to space said to arrive in the 2040s — and the technologies shaping it.",
       legal: "© 2026 ARTEMIS TOKYO. All rights reserved."
     },
     nav: {
@@ -108,7 +108,7 @@ export const dictionaries: Record<Lang, Dictionary> = {
   },
   ja: {
     brand: {
-      tagline: "宇宙移住 × カルチャー。東京から、星へ。",
+      tagline: "2040年代に実現すると言われる宇宙への移住や最新のテクノロジーの情報を東京から",
       legal: "© 2026 ARTEMIS TOKYO. 全著作権所有。"
     },
     nav: {

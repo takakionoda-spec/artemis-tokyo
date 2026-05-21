@@ -10,30 +10,30 @@ export default function Header() {
 
   return (
     <header className="sticky top-0 z-40 bg-paper/95 backdrop-blur supports-[backdrop-filter]:bg-paper/80 border-b border-ink-200">
-      {/* Top utility row */}
-      <div className="hidden md:flex items-center justify-between border-b border-ink-200 px-6 lg:px-10 py-2 text-[0.625rem] tracking-[0.22em] uppercase text-ink-500">
-        <div>
+      {/* Top utility row — visible on every viewport. On mobile it carries the
+          language toggle so the masthead below can hold the logo alone and
+          keep it perfectly centered. */}
+      <div className="flex items-center justify-between border-b border-ink-200 px-6 lg:px-10 py-2 text-[0.625rem] tracking-[0.22em] uppercase text-ink-500">
+        <div className="flex items-center">
           <span>{new Date().toLocaleDateString(lang === "ja" ? "ja-JP" : "en-US", {
             year: "numeric",
             month: "long",
             day: "numeric"
           })}</span>
-          <span className="mx-3 text-ink-300">|</span>
-          <span>Tokyo</span>
+          <span className="mx-3 text-ink-300 hidden sm:inline">|</span>
+          <span className="hidden sm:inline">Tokyo</span>
         </div>
-        <div className="flex items-center gap-6">
-          <Link href="/about" className="hover:text-ink transition-colors">{dict.nav.about}</Link>
-          <Link href="/#newsletter" className="hover:text-ink transition-colors">{dict.nav.subscribe}</Link>
+        <div className="flex items-center gap-4 md:gap-6">
+          <Link href="/about" className="hidden md:inline hover:text-ink transition-colors">{dict.nav.about}</Link>
+          <Link href="/#newsletter" className="hidden md:inline hover:text-ink transition-colors">{dict.nav.subscribe}</Link>
           <LanguageToggle />
         </div>
       </div>
 
-      {/* Masthead */}
-      <div className="flex items-center justify-between gap-6 px-6 lg:px-10 py-5 lg:py-7">
-        <div className="md:hidden">
-          <LanguageToggle />
-        </div>
-        <Link href="/" aria-label="ARTEMIS TOKYO — home" className="block mx-auto md:mx-0">
+      {/* Masthead — single child on mobile so the logo sits dead-centre.
+          On md+ we flip to a 2-column row with the issue marker on the right. */}
+      <div className="flex items-center justify-center md:justify-between gap-6 px-6 lg:px-10 py-5 lg:py-7">
+        <Link href="/" aria-label="ARTEMIS TOKYO — home" className="block">
           <span className="block text-center md:text-left font-display text-[1.75rem] md:text-[2.25rem] lg:text-[2.5rem] tracking-[0.18em] uppercase leading-none">
             Artemis Tokyo
           </span>

@@ -1,5 +1,175 @@
 [
   {
+    "slug": "the-lunar-commons-artemis-signals-a-new-era-of-access",
+    "category": "artemis",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-05-21T20:11:17.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
+    },
+    "title": {
+      "en": "The Lunar Commons: Artemis Signals a New Era of Access",
+      "ja": "月面への新たな扉：アルテミスが招く小型衛星時代"
+    },
+    "dek": {
+      "en": "NASA's call for CubeSats on Artemis missions points to a future where lunar exploration is democratized, shifting the landscape of off-world operations from monolithic state ventures to a more varied ecosystem.",
+      "ja": "NASAがアルテミス計画でのキューブサット活用を募る。月探査の民主化が進み、地球外活動の様相は、巨大な国家プロジェクトから多様なエコシステムへと変わりつつある。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, May 2026",
+      "ja": "東京, 2026年5月"
+    },
+    "tags": [
+      {
+        "en": "Lunar Exploration",
+        "ja": "月探査"
+      },
+      {
+        "en": "CubeSats",
+        "ja": "キューブサット"
+      },
+      {
+        "en": "Commercial Space",
+        "ja": "商業宇宙"
+      },
+      {
+        "en": "Artemis Program",
+        "ja": "アルテミス計画"
+      }
+    ],
+    "body": {
+      "en": [
+        "The landscape of lunar exploration is undergoing a subtle but profound transformation. NASA, through its Artemis program, recently signaled a new direction, inviting proposals for CubeSats to accompany future missions to the Moon.",
+        "These shoebox-sized satellites, once relegated to Earth orbit, represent a significant shift. Their standardized design and lower cost of development and deployment allow for rapid iteration and a broader range of participants beyond traditional aerospace giants.",
+        "The agency's outreach signals a clear intent to integrate diverse, smaller payloads into future lunar missions. This move aims to foster innovation, enabling a wider array of scientific research and commercial ventures on and around the Moon.",
+        "This is not merely an engineering update. It is an inflection point in how humanity approaches off-world expansion. The moon, once a distant monolith, now fragments into a canvas for a thousand small intentions.",
+        "What does this mean for the people who will live, work, and build off-world? It implies a lunar environment that will be more dynamic, less centrally controlled. Small businesses, universities, and even individual consortia could soon deploy their own bespoke sensors, communication nodes, or experimental processing units on the lunar surface. This decentralization will likely accelerate the development of a true lunar economy, fostering competition and niche services that were once unimaginable."
+      ],
+      "ja": [
+        "月探査の様相は、静かだが深い変革の時を迎えている。NASAはアルテミス計画を通じ、月への将来ミッションに小型衛星「キューブサット」の搭載提案を募ることで、新たな方向性を示した。",
+        "かつて地球周回軌道に限定されていたこの靴箱サイズの衛星は、重要な変化を象徴する。標準化された設計と、開発・展開コストの低減は、迅速な試行と、従来の航空宇宙大手に留まらない多様な参加者を可能にする。",
+        "「NASAは、将来の月ミッションに多様な小型ペイロードを統合する明確な意図を示している」— 原文より。この動きは、月面およびその周辺での幅広い科学研究と商業的事業を可能にし、イノベーションを育むことを目指す。",
+        "これは単なる技術更新ではない。人類が地球外への進出にどう向き合うかという、一つの転換点である。かつて遠い一枚岩であった月は、今や千の小さな意図を映すキャンバスへと砕け散る。",
+        "では、月で生活し、働き、建設する人々にとって、これは何を意味するのか。それは、よりダイナミックで、中央集権的ではない月面環境を暗示する。中小企業、大学、さらには個人のコンソーシアムでさえ、独自のセンサー、通信ノード、実験的な処理装置を月面に展開できるようになるだろう。この分散化は、真の月経済の発展を加速させ、かつて想像もできなかった競争とニッチなサービスを育むに違いない。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "From where we sit in Tokyo, this development from NASA resonates deeply with a certain Japanese sensibility. The emphasis on modularity, efficiency, and the maximization of small spaces, inherent in CubeSat technology, mirrors the ingenuity often found in Tokyo's urban design and product development.",
+        "Japan's own space sector, particularly companies like ispace with their Hakuto-R lunar lander, has already demonstrated a capacity for agile, privately-led lunar endeavors. This NASA initiative opens further avenues for Japanese SMEs and research institutions to contribute directly to the Artemis program, leveraging their expertise in precision engineering and miniaturization.",
+        "The idea of a 'lunar commons' where diverse entities can deploy bespoke payloads aligns well with a culture that values craftsmanship and specialized solutions. Imagine Tokyo-based design studios developing unique sensor packages with distinct aesthetic considerations, or universities deploying experimental biological modules crafted with a meticulous attention to detail.",
+        "This shift implies a future where lunar infrastructure is not solely a product of governmental decree but a mosaic of contributions from around the globe. For the burgeoning off-world economy, it suggests a more varied supply chain and an increased demand for specialized components—a fertile ground for Japanese manufacturers known for their high-quality, niche products.",
+        "The challenge, perhaps, lies in navigating a potentially crowded lunar orbital and surface environment. But for a city accustomed to density and the elegant management of limited space, the concept of a bustling, multi-stakeholder Moon might simply represent the next logical frontier."
+      ],
+      "ja": [
+        "ARTEMIS TOKYO の見立てでは、NASAのこの動きは、ある種の日本的な感性と深く共鳴する。キューブサット技術に内在するモジュール性、効率性、そして限られた空間の最大化という思想は、東京の都市設計や製品開発に見られる工夫と重なる。",
+        "日本自身の宇宙セクター、特にispaceのHakuto-R月着陸船のような企業は、すでにアジャイルな民間主導の月探査能力を示している。今回のNASAのイニシアチブは、日本の多くの中小企業や研究機関が、精密工学と小型化の専門知識を活かし、アルテミス計画に直接貢献する新たな道を開くものだ。",
+        "多様な主体が独自のペイロードを展開できる「月面コモンズ」という概念は、職人技と専門的なソリューションを重んじる文化とよく調和する。東京のデザインスタジオが、独自の美的配慮を凝らしたセンサーパッケージを開発したり、大学が細部まで綿密に作られた実験的な生物モジュールを展開したりする未来を想像する。",
+        "この変化は、月面のインフラが政府の指令のみによって作られるのではなく、世界中の貢献が織りなすモザイクとなる未来を示唆している。成長する地球外経済にとって、これはより多様なサプライチェーンと専門部品への需要の増加を意味する — 高品質なニッチ製品で知られる日本のメーカーにとって、肥沃な土壌となるだろう。",
+        "課題は、おそらく混雑する可能性のある月周回軌道や月面環境のナビゲーションにある。しかし、高密度と限られた空間のエレガントな管理に慣れた都市にとって、活気ある多主体型月面の概念は、単に次の論理的なフロンティアを意味するのかもしれない。"
+      ]
+    },
+    "source": {
+      "name": "NASA Artemis",
+      "url": "https://www.nasa.gov/missions/artemis/nasa-seeks-interest-for-artemis-mission-cubesats/"
+    },
+    "sourceGuid": "https://www.nasa.gov/?p=998523",
+    "status": "published"
+  },
+  {
+    "slug": "a-new-shield-for-lunar-dwellings",
+    "category": "space-tech",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-05-22T00:47:01.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/PzGGCs2bLavhjcaSM4sWAE-1280-80.png",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "A New Shield for Lunar Dwellings",
+      "ja": "月面居住区に新たな盾"
+    },
+    "dek": {
+      "en": "Advancements in radiation-resistant materials promise lighter, more flexible off-world habitats.",
+      "ja": "放射線耐性素材の進化が、より軽量で柔軟なオフワールド居住区の可能性を拓く。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, May 22, 2026",
+      "ja": "東京、2026年5月22日"
+    },
+    "tags": [
+      {
+        "en": "materials science",
+        "ja": "材料科学"
+      },
+      {
+        "en": "lunar habitats",
+        "ja": "月面居住区"
+      },
+      {
+        "en": "radiation shielding",
+        "ja": "放射線遮蔽"
+      },
+      {
+        "en": "space architecture",
+        "ja": "宇宙建築"
+      }
+    ],
+    "body": {
+      "en": [
+        "The constant hum of cosmic radiation is an invisible companion to any venture beyond Earth’s magnetic field. For those envisioning life on the Moon, this pervasive threat dictates much of a habitat’s design, demanding heavy, robust shielding.",
+        "Recent developments in material science, however, offer a notable shift. Engineers have unveiled a new polymer composite, designed to attenuate high-energy particles with unprecedented efficiency.",
+        "> The new polymer composite achieves 30% greater radiation protection at half the mass of previous solutions, the original report notes.",
+        "This reduction in mass is more than an engineering metric. It translates directly into lower launch costs and simpler deployment logistics for lunar settlements, easing the immense burden of transporting materials from Earth.",
+        "For the future inhabitants of the Moon, this means more than just a metric on a blueprint. It implies the possibility of thinner walls, larger internal volumes, and potentially more natural light through integrated, shielded windows. The very feel of a lunar dwelling could transform, moving from a bunker-like necessity to something more expansive.",
+        "The burden of cosmic radiation, once an architectural constant, now yields to a new kind of grace. This innovation allows for designs that prioritize not just survival, but also comfort and aesthetic consideration in the harsh lunar environment.",
+        "It opens new avenues for off-world architecture, where flexible panels and modular structures become viable, fostering a sense of adaptable permanence for those who will live, work, and raise families on the Moon."
+      ],
+      "ja": [
+        "地球の磁場圏を越えるあらゆる試みにとって、宇宙放射線の絶え間ない響きは目に見えない伴侶である。月での生活を夢見る人々にとって、この遍在する脅威は居住区の設計の多くを規定し、重厚で堅牢な遮蔽を要求してきた。",
+        "しかし、素材科学における最近の進展は、注目すべき変化をもたらしている。エンジニアたちは、かつてない効率で高エネルギー粒子を減衰させるように設計された、新しいポリマー複合材を発表した。",
+        "原文より：新しいポリマー複合材は、従来のソリューションの半分の質量で30%高い放射線防御性能を実現する。",
+        "この質量の削減は、単なる工学的な数値以上の意味を持つ。それは月面居住地の打ち上げコストの削減と、展開ロジスティクスの簡素化に直結し、地球から材料を輸送する途方もない負担を軽減する。",
+        "将来の月面居住者にとって、これは設計図上の単なる数値以上の意味を持つ。壁が薄くなり、内部容積が拡大し、遮蔽一体型の窓を通じてより多くの自然光を取り入れられる可能性を示唆している。月面住居の「感触」そのものが変容し、バンカーのような必要性から、より広々としたものへと移行するかもしれない。",
+        "かつて建築の宿命であった宇宙放射線の重荷は、新たな優美さへと道を譲る。この革新は、過酷な月面環境において、生存だけでなく快適さや美的配慮をも優先する設計を可能にする。",
+        "それはオフワールド建築に新たな道を開き、柔軟なパネルやモジュール式構造が実現可能となる。月で暮らし、働き、子育てをする人々にとって、適応性のある永続性という感覚を育むだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "ARTEMIS TOKYO sees this material science breakthrough through a particular lens. Japan's expertise in advanced materials, from carbon fiber composites to high-performance ceramics, is globally recognized. This news highlights a critical area where Japanese industry and research institutions could significantly contribute to off-world infrastructure.",
+        "The ability to create lighter, more resilient structures resonates with a design philosophy honed in earthquake-prone urban environments like Tokyo, where efficiency and safety are paramount. Consider the compact living spaces of Tokyo apartments or the meticulous engineering behind a Shinkansen.",
+        "This same ingenuity, focused on maximizing utility within constrained volumes and under extreme conditions, becomes invaluable in lunar habitats. For future lunar architects and designers, this suggests a shift from bulky, monolithic shelters to more adaptable, perhaps even modular, structures.",
+        "It could foster new collaborations between traditional Japanese material manufacturers and nascent space construction firms. ARTEMIS TOKYO believes that this is not merely an engineering update but a precursor to a new aesthetic of resilience, where the invisible threat of space is met with a quiet, elegant solution born from material intelligence."
+      ],
+      "ja": [
+        "ARTEMIS TOKYO は、この素材科学のブレイクスルーを特別な視点から捉えている。炭素繊維複合材から高性能セラミックスに至るまで、日本の先端素材に関する専門知識は世界的に評価されてきた。このニュースは、日本の産業界や研究機関がオフワールドのインフラ構築に大きく貢献できる重要な分野を浮き彫りにする。",
+        "軽量で回復力のある構造を生み出す能力は、東京のような地震多発地帯の都市環境で磨かれてきたデザイン哲学、すなわち効率性と安全性が最優先される思想と共鳴する。東京のコンパクトな集合住宅や、新幹線の背後にある綿密なエンジニアリングを考えてみる。",
+        "限られた容積の中で、そして極限の条件下で最大限の有用性を引き出すという、この同じ創意工夫が、月面居住区において極めて貴重となるだろう。将来の月面建築家やデザイナーにとって、これはかさばるモノリシックなシェルターから、より適応性の高い、おそらくはモジュール式の構造へと移行する可能性を示唆している。",
+        "日本の伝統的な素材メーカーと、新興の宇宙建設企業との新たな協業を促すかもしれない。ARTEMIS TOKYO は、これが単なるエンジニアリングの更新ではなく、見えない宇宙の脅威が素材の知性から生まれた静かで優雅な解決策によって迎えられる、新たなレジリエンスの美学の前触れだと考えている。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-1st-starship-v3-megarocket-launch-scrubbed-at-last-minute-sorry-nicki-minaj"
+    },
+    "sourceGuid": "SMCPWFnR9TNtDAZRqcNKk9",
+    "status": "published"
+  },
+  {
     "slug": "the-lunar-accords-shaping-off-world-governance",
     "category": "artemis",
     "issue": "Vol. 05",

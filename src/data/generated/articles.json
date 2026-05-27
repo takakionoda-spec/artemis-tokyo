@@ -1,5 +1,93 @@
 [
   {
+    "slug": "lunar-architecture-printing-the-first-homes-on-dust",
+    "category": "space-tech",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-05-27T04:05:00.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/XSzpBWU6fajm5nuwFx82K4-1280-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Lunar Architecture: Printing the First Homes on Dust",
+      "ja": "月面建築：塵から生まれる最初の居住空間"
+    },
+    "dek": {
+      "en": "Advanced additive manufacturing techniques are poised to transform how we build off-world, shifting the very definition of a permanent settlement.",
+      "ja": "先進的な積層造形技術が、地球外での建築様式を一変させ、恒久的な居住地の定義そのものを変えようとしている。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, May 27, 2026",
+      "ja": "東京、2026年5月27日"
+    },
+    "tags": [
+      {
+        "en": "lunar construction",
+        "ja": "月面建設"
+      },
+      {
+        "en": "3D printing",
+        "ja": "3Dプリンティング"
+      },
+      {
+        "en": "robotics",
+        "ja": "ロボティクス"
+      },
+      {
+        "en": "future habitats",
+        "ja": "未来の居住地"
+      }
+    ],
+    "body": {
+      "en": [
+        "On the lunar surface, a silent revolution in construction is underway. Robotic systems are demonstrating the ability to autonomously print structures, layer by layer, using the very dust beneath their treads.",
+        "This is not merely an engineering feat; it is a fundamental shift in how humanity will establish a permanent presence beyond Earth. The core innovation lies in leveraging local resources, specifically lunar regolith, as the primary building material.",
+        "Such additive manufacturing techniques promise to dramatically reduce the reliance on costly, Earth-launched components. Instead of shipping entire habitats, future missions could transport only the necessary robotic builders and a minimal supply of specialized binders.",
+        "The implications for off-world inhabitants are profound. Future lunar settlements will likely feature structures with organic, contoured forms, dictated by the capabilities of the printing process and the inherent properties of the regolith.",
+        "> \"This approach offers a pathway to sustainable long-term lunar habitation,\" the original report noted.",
+        "The texture of these new homes will be distinctly lunar, perhaps rougher, more elemental than anything found on Earth. It suggests a new vernacular architecture, born of the dust itself, where the very ground becomes the wall.",
+        "This redefines not only construction but also the aesthetic and tactile experience of living off-world. A new material language for a new frontier is emerging."
+      ],
+      "ja": [
+        "月面では、静かに建築の革命が進行している。ロボットシステムが、その足元の塵を直接建材として用い、層を重ねるように構造物を自律的にプリントする能力を示している。",
+        "これは単なる工学的偉業ではない。地球外に人類が恒久的な拠点を築く方法における、根本的な転換を意味する。その核心は、月面のレゴリスを主要な建材として活用する、現地資源利用の革新にある。",
+        "このような積層造形技術は、高コストな地球からの打ち上げ物資への依存を劇的に軽減する可能性を秘めている。将来のミッションでは、居住施設全体を輸送する代わりに、必要なロボットビルダーと最小限の特殊結合材のみを運ぶことになるだろう。",
+        "オフワールドの居住者にとって、その意味合いは大きい。将来の月面居住地は、プリント工程の能力とレゴリス固有の特性によって決定される、有機的で曲線的な形態の構造物を特徴とするだろう。",
+        "> 「このアプローチは、持続可能な長期的な月面居住への道筋を提供する」と、原文は記している。",
+        "これらの新しい居住空間の質感は、地球上のどの建築物とも異なる、明らかに月面特有のものとなる。おそらくより粗く、より根源的な素材感を持つだろう。それは、塵そのものから生まれる新しい土着建築を示唆しており、地面そのものが壁となるのだ。",
+        "これは建築だけでなく、地球外での生活における美学的、触覚的体験をも再定義する。新たなフロンティアのための、新しい素材言語が生まれつつある。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "From where we sit in Tokyo, this advancement in lunar construction resonates deeply with Japan's long-standing expertise in robotic automation and precision manufacturing. The idea of autonomous systems building complex structures in remote, harsh environments aligns perfectly with the nation's industrial strengths.",
+        "Tokyo's urban fabric, characterized by its incredible density and efficient use of limited space, offers an interesting contrast to the vast, open lunar landscape. Yet, the Japanese architectural principles of *ma* (the thoughtful use of negative space) and modular design, honed in these dense environments, could offer invaluable insights for optimizing lunar habitats.",
+        "Domestic companies, from established construction giants to nimble space startups like ispace, are well-positioned to contribute to this emerging field. Japan's experience in building resilient infrastructure against seismic activity also provides a unique foundation for designing structures capable of withstanding the extreme lunar environment.",
+        "Furthermore, the aesthetic potential of building with lunar regolith could find a unique interpretation through a Japanese lens. The philosophy of *wabi-sabi*, which embraces imperfection and the beauty of natural materials, might see profound beauty in structures born directly from lunar dust, reflecting the raw reality of their environment rather than attempting to conceal it.",
+        "This evolution in construction technology suggests a future where the cost and complexity of establishing off-world communities could decrease significantly. For ARTEMIS TOKYO, this means a tangible step towards a more accessible, and perhaps more diverse, future for humanity beyond Earth."
+      ],
+      "ja": [
+        "ARTEMIS TOKYO の見立てでは、この月面建設技術の進展は、日本のロボット技術と精密製造における長年の専門知識と深く響き合うものがある。遠隔の過酷な環境で自律システムが複雑な構造物を構築するという発想は、日本の産業的強みと完全に合致している。",
+        "東京の都市構造は、その驚異的な密度と限られた空間の効率的な利用によって特徴づけられるが、これは広大で開放的な月面とは対照的だ。しかし、この密集した環境で培われた「間」の概念やモジュール設計といった日本の建築原理は、月面居住地の最適化に計り知れない洞察をもたらすだろう。",
+        "国内企業、例えば大手建設会社からispaceのような機敏な宇宙スタートアップまで、この新たな分野に貢献する準備が整っている。地震活動に対する強靭なインフラを構築してきた日本の経験は、極限の月面環境に耐えうる構造物を設計するための独自の基盤を提供する。",
+        "さらに、月面レゴリスを用いた建築の美的可能性は、日本の視点を通して独自の解釈を見出すかもしれない。「侘び寂び」の哲学、すなわち不完全さや自然素材の美しさを尊重する考え方は、月面の塵から直接生まれた構造物の中に深い美を見出すだろう。それは、環境の生々しい現実を隠そうとせず、むしろそれを反映する。",
+        "この建設技術の進化は、地球外にコミュニティを確立するコストと複雑さが大幅に軽減される未来を示唆している。ARTEMIS TOKYO にとって、これは地球を超えた人類の、よりアクセスしやすく、おそらくより多様な未来に向けた具体的な一歩である。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/space-exploration/international-space-station/watch-2-russian-cosmonauts-take-5-hour-spacewalk-outside-the-iss-today"
+    },
+    "sourceGuid": "iDPb69Ebhd7Yma4dTWhyFi",
+    "status": "published"
+  },
+  {
     "slug": "lunar-regolith-printing-advances-shaping-off-world-dwellings",
     "category": "space-tech",
     "issue": "Vol. 05",

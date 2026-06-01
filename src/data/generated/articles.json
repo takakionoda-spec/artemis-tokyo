@@ -1,5 +1,511 @@
 [
   {
+    "slug": "the-lunar-hydrology-shift",
+    "category": "artemis",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-01T19:00:00.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/v77PGAije34HBmCZtVXFc4-1280-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "The Lunar Hydrology Shift",
+      "ja": "月面水資源の静かなる転換"
+    },
+    "dek": {
+      "en": "A new water extraction technology promises to redefine resource management and daily life beyond Earth.",
+      "ja": "新たな水抽出技術が、地球外での資源管理と日常生活のあり方を再定義する可能性を秘める。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO, 2026-06-01",
+      "ja": "東京, 2026-06-01"
+    },
+    "tags": [
+      {
+        "en": "lunar resources",
+        "ja": "月面資源"
+      },
+      {
+        "en": "water harvesting",
+        "ja": "水回収"
+      },
+      {
+        "en": "habitat design",
+        "ja": "居住地設計"
+      },
+      {
+        "en": "off-world living",
+        "ja": "地球外生活"
+      }
+    ],
+    "body": {
+      "en": [
+        "For decades, the vision of permanent off-world settlements has been constrained by a singular, fundamental scarcity: water. Every drop has been precious, often recycled through complex, energy-intensive systems or ferried from Earth at immense cost.",
+        "Recent tests of an advanced atmospheric water harvesting system, however, signal a profound shift. This technology is designed to efficiently draw potable water from the thinnest of atmospheres or from ice bound within lunar regolith, requiring significantly less energy than previous methods.",
+        "> The system demonstrated unprecedented efficiency in extracting potable water.",
+        "This engineering update, quietly released, holds the potential to unlock a new hydrology for lunar and Martian outposts. It suggests a future where water is not merely conserved but potentially generated on-site with greater ease, altering the very economics of off-world living.",
+        "Imagine the implications: larger agricultural modules, more frequent personal hygiene, perhaps even the luxury of a small, contained water feature in a communal habitat. The continuous hum of a water reclamation unit might become less pronounced, replaced by the subtle hiss of extraction from the ground itself.",
+        "For those who will live and work beyond Earth, this means a tangible reduction in the cost of a fundamental necessity. It changes the design brief for future habitats, favoring expansion and greater comfort over extreme austerity. A new material reality is being forged, one drop at a time."
+      ],
+      "ja": [
+        "長らく、地球外での恒久的な居住地構想は、根源的な希少性、すなわち水の制約を受けてきた。一滴の水も貴重であり、複雑でエネルギーを要するシステムで再利用されるか、莫大なコストをかけて地球から運ばれていた。",
+        "しかし、最近行われた先進的な大気中水回収システムの試験は、その状況に深い変化をもたらす兆候を見せている。この技術は、極めて希薄な大気や月面のレゴリスに含まれる氷から、効率的に飲用水を抽出することを目的としており、従来の方式よりも大幅に少ないエネルギーで稼働する。",
+        "> システムは、前例のない効率で飲用水の抽出を実証した。",
+        "静かに発表されたこの技術的進歩は、月や火星の拠点における新たな水文学を切り開く可能性を秘めている。水が単に節約されるだけでなく、より容易に現地で生成される未来を示唆し、地球外生活の経済性そのものを変えうる。",
+        "その影響を想像してほしい。より大規模な農業モジュール、頻繁な個人衛生、あるいは共同居住空間に小さな水景を設けるといった贅沢さえも可能になるかもしれない。常に聞こえていた水再生装置の低いうなりは影を潜め、代わりに大地そのものから水が抽出される微かな音が響くようになるだろう。",
+        "地球外で暮らし、働く人々にとって、これは生活の根幹をなす必需品のコストが具体的に下がることを意味する。将来の居住地の設計要件も変わり、極端な質素さよりも拡張性や快適性が重視されるようになる。新たな物質的現実が、一滴一滴、着実に形作られつつある。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "From where we sit in Tokyo, this development in water extraction is not merely an engineering feat; it is a cultural inflection point. ARTEMIS TOKYO recognizes that the availability of a fundamental resource like water dictates the very quality of life and the shape of society. This resonates deeply with Japan's own history of resource management and efficiency.",
+        "Tokyo, a city of immense density, has long mastered the art of maximizing utility from limited space and resources. Our advanced water treatment and recycling systems, even within a humid climate, reflect a national imperative to value every drop. This ethos of 'mottainai' — the regret concerning waste — will be paramount off-world, and this new technology offers a crucial tool for its application.",
+        "While Japan's current lunar ambitions, such as ispace's landers and JAXA's MMX mission, focus on exploration and sample return, the long-term vision includes sustained human presence. Technologies like this water extractor will be vital for future Japanese lunar bases, ensuring a more independent and resilient operational footprint.",
+        "The potential for locally sourced, abundant water could influence everything from habitat architecture — perhaps allowing for more open, less hermetically sealed spaces — to the emergence of new off-world industries centered on water purification and distribution. It could even foster a new sense of place, where settlements are defined not just by their connection to Earth, but by their self-sustaining hydrological cycles."
+      ],
+      "ja": [
+        "ARTEMIS TOKYOの見立てでは、この水抽出技術の進展は単なる工学的偉業に留まらない。それは文化的な転換点である。水という基本的な資源の利用可能性が、生活の質と社会の形態そのものを決定づけることを、私たちは東京から見据えている。これは、資源管理と効率性に関する日本の歴史と深く共鳴する。",
+        "極めて高い人口密度を誇る東京は、限られた空間と資源から最大の効用を引き出す術を長年培ってきた。湿度が高い気候下にあっても、高度な水処理およびリサイクルシステムは、一滴の水も大切にするという国民的意識の表れである。「もったいない」という精神は、地球外においても極めて重要であり、この新技術はその実践のための決定的なツールを提供する。",
+        "日本の現在の月探査計画、例えばispaceの月着陸機やJAXAのMMXミッションは、探査とサンプルリターンに焦点を当てているが、長期的なビジョンには持続的な人類の存在が含まれる。この水抽出器のような技術は、将来の日本の月面基地にとって不可欠であり、より自立し、レジリエンスの高い運用基盤を保証するだろう。",
+        "現地で調達可能な豊富な水の可能性は、居住地の建築様式（例えば、より開放的で、厳重に密閉されていない空間を可能にするかもしれない）から、水の浄化と分配を中心とした新たな地球外産業の出現に至るまで、あらゆるものに影響を与える可能性がある。それは、居住地が地球とのつながりだけでなく、自立した水循環によって定義されるという、新たな場所の感覚さえも育むかもしれない。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/entertainment/space-movies-shows/the-lone-gunmen-at-25-the-underrated-x-files-spin-off-that-aspired-to-be-mission-impossible-with-geeks"
+    },
+    "sourceGuid": "zP26bYcsaK5ZHytdgdeqyk",
+    "status": "published"
+  },
+  {
+    "slug": "water-as-a-limiting-factor-for-off-world-ambition",
+    "category": "space-tech",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-01T18:19:53.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
+    },
+    "title": {
+      "en": "Water as a Limiting Factor for Off-World Ambition",
+      "ja": "宇宙への野望を制約する水資源"
+    },
+    "dek": {
+      "en": "SpaceX's operations highlight a fundamental challenge: the very resource that sustains life on Earth will define its viability beyond.",
+      "ja": "SpaceXの事業は根本的な課題を浮き彫りにする。地球上の生命を維持する資源こそが、地球外での生存可能性を決定する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO, 2026-06-01",
+      "ja": "東京, 2026-06-01"
+    },
+    "tags": [
+      {
+        "en": "water resources",
+        "ja": "水資源"
+      },
+      {
+        "en": "SpaceX",
+        "ja": "SpaceX"
+      },
+      {
+        "en": "space economy",
+        "ja": "宇宙経済"
+      },
+      {
+        "en": "off-world living",
+        "ja": "宇宙生活"
+      }
+    ],
+    "body": {
+      "en": [
+        "The ambition to launch rockets into orbit, once seen as a triumph of engineering, now faces a terrestrial constraint: water. SpaceX, a company synonymous with the drive to make humanity multi-planetary, finds its valuation increasingly tied to the availability of this fundamental resource. Its Starship launch and testing operations, particularly in arid regions, demand vast quantities of water for sound suppression and cooling.",
+        "This dependence has drawn the attention of investors. The original report notes that \"water access is now a risk factor in SpaceX's IPO,\" signaling a shift in how the financial markets assess space ventures. Environmental concerns, once peripheral to the aerospace industry's balance sheets, are now central to its future.",
+        "The paradox is stark: as we look towards oceans beneath lunar surfaces or within icy Martian moons, our terrestrial spaceports struggle with local shortages. It is a quiet irony that the ambition to touch the cosmos is tethered by the most fundamental earthly element.",
+        "## Water as Currency",
+        "If water scarcity can impede the progress of Earth's most ambitious space companies, its value beyond our atmosphere will only intensify. For those who will eventually live, work, and raise families on the Moon or Mars, water will not merely be a utility. It will be the ultimate currency, dictating the design of every habitat, the efficiency of every system, and the very viability of life itself. Every drop will be accounted for, recycled, and revered. The habit of abundance, so common on Earth, will become an alien concept."
+      ],
+      "ja": [
+        "宇宙へのロケット打ち上げという、かつては技術的勝利の象徴と見なされた事業が、今や地球上の根本的な制約に直面している。水資源である。人類を多惑星種へと導くことを目指すSpaceXは、その企業価値がこの基礎的な資源の利用可能性と密接に結びついていることを認識し始めた。特に乾燥地帯でのスターシップの打ち上げおよび試験運用は、音響抑制や冷却のために膨大な量の水を必要とする。",
+        "この依存性は、投資家の注目を集めている。元の報告書は、「水資源の確保がSpaceXの新規株式公開におけるリスク要因となっている」と指摘し、金融市場が宇宙ベンチャーを評価する際の視点の変化を示唆する。かつて航空宇宙産業の財務諸表の周辺にあった環境問題が、今やその未来の中心にある。",
+        "月面の下の海や火星の氷の月に目を向ける一方で、地球上の宇宙港が地域の水不足に苦しむという皮肉な状況。宇宙への夢が、地球上の最も基本的な資源によってその歩みを測られるという静かな皮肉である。",
+        "## 水という通貨",
+        "もし水不足が地球上で最も野心的な宇宙企業の進歩を妨げるならば、私たちの地球外における水の価値はさらに高まるだろう。最終的に月や火星で暮らし、働き、家族を育てる人々にとって、水は単なる公共設備ではない。それは究極の通貨となり、あらゆる居住地の設計、あらゆるシステムの効率性、そして生命そのものの存続可能性を決定する。一滴一滴が記録され、リサイクルされ、崇められる。地球上で当たり前だった「豊かさ」という習慣は、異質な概念となるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "From where we sit in Tokyo, this report on water scarcity as a financial risk for SpaceX offers a poignant reflection. Japan, a nation defined by its dense urban centers and a deep cultural connection to water—from hot springs to tea ceremonies—understands resource management intimately. Our cities, while abundant in rainfall, have long practiced meticulous water purification and recycling, driven by both necessity and a cultural appreciation for purity.",
+        "This perspective shapes how ARTEMIS TOKYO views the future of off-world habitation. Japanese contributions to space exploration often focus on sophisticated closed-loop systems and sustainable design, a direct outgrowth of our terrestrial experience. Companies like JAXA and various domestic startups are exploring technologies for water recovery and life support that are not just efficient, but resilient.",
+        "The prospect of water as a \"currency\" in space resonates strongly here. In a city like Tokyo, where every square meter is carefully considered, the efficient use of resources is not merely an engineering problem but a design philosophy. We anticipate that future lunar and Martian habitats will embody this same ethos, where the elegance of a solution is measured by its capacity to sustain life with the absolute minimum, transforming scarcity into a new form of luxury: self-sufficiency."
+      ],
+      "ja": [
+        "ARTEMIS TOKYO の見立てでは、SpaceXの財務リスクとしての水不足に関するこの報告は、深い示唆に富んでいる。日本は、密集した都市と、温泉から茶道に至るまで水との深いつながりを持つ国として、資源管理を肌で理解している。私たちの都市は、降水量に恵まれながらも、必要性と清らかさへの文化的価値観の両方から、水の浄化とリサイクルを細部にわたって実践してきた。",
+        "この視点は、ARTEMIS TOKYOが地球外居住の未来をどう捉えるかに影響を与える。日本の宇宙探査における貢献は、高度な閉鎖循環システムや持続可能な設計に焦点を当てることが多く、これは私たちの地球上での経験の直接的な延長線上にある。JAXAや様々な国内スタートアップ企業は、効率的であるだけでなく、回復力のある水回収および生命維持技術を模索している。",
+        "宇宙における水が「通貨」となる可能性は、私たちに強く響く。東京のような、あらゆる平方メートルが慎重に考慮される都市では、資源の効率的な利用は単なる工学的な問題ではなく、設計哲学そのものである。将来の月面や火星の居住地も、この同じ精神を体現するだろうと私たちは予測する。そこでは、解決策の優雅さは、最小限の資源で生命を維持する能力によって測られ、不足が新たな形の贅沢、すなわち自給自足へと転換されるのだ。"
+      ]
+    },
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/"
+    },
+    "sourceGuid": "https://techcrunch.com/?p=3128202",
+    "status": "published"
+  },
+  {
+    "slug": "ai-and-the-pursuit-of-off-world-mastery",
+    "category": "culture",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-01T18:50:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://futurism.com/wp-content/uploads/2026/06/dicks-sporting-ai-personal-trainer.jpg?quality=85",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "AI and the Pursuit of Off-World Mastery",
+      "ja": "AIと宇宙における自己研鑽"
+    },
+    "dek": {
+      "en": "An AI personal trainer points to a future where expertise is always at hand, even in the most isolated off-world environments.",
+      "ja": "AIパーソナルトレーナーの登場は、最も孤立した地球外環境においても専門知識が常に手元にある未来を示唆する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO, June 1, 2026",
+      "ja": "東京, 2026年6月1日"
+    },
+    "tags": [
+      {
+        "en": "AI",
+        "ja": "AI"
+      },
+      {
+        "en": "personal training",
+        "ja": "パーソナルトレーニング"
+      },
+      {
+        "en": "off-world living",
+        "ja": "宇宙生活"
+      },
+      {
+        "en": "culture",
+        "ja": "文化"
+      }
+    ],
+    "body": {
+      "en": [
+        "The pursuit of personal mastery, whether in sport or craft, has long relied on human guidance. As life extends beyond Earth, the form of this mentorship is shifting.",
+        "A recent development from Dick's Sporting Goods offers a glimpse into this future: an AI personal trainer designed to refine technique, initially targeting the golf swing.",
+        "This system promises instant feedback and tailored instruction, adapting to individual needs without the constraints of human availability or physical presence. The smooth, responsive interface becomes a silent tutor.",
+        "> Users will be able to \"access training pro tips and product education grounded in Dick's sport knowledge,\" as the original report notes. This digital expertise becomes a constant, quiet companion.",
+        "For those living and working in orbital habitats or lunar outposts, where space is at a premium and human specialists are few, such AI-driven platforms will become essential. It represents a new layer of self-sufficiency.",
+        "The ability to maintain physical and mental well-being, to learn new skills or refine old ones, will no longer be dictated by the availability of a human coach. It will be woven into the fabric of daily life, a silent partner in personal evolution."
+      ],
+      "ja": [
+        "自己研鑽の追求は、これまで人間による指導に多くを依存してきた。しかし、生活圏が地球を離れるにつれ、この指導の形もまた変容を遂げようとしている。",
+        "ディックス・スポーティング・グッズが発表したAIパーソナルトレーナーは、その未来の一端を示す。まずはゴルフのスイング矯正に特化しているという。",
+        "このシステムは、人間の専門家を介さずとも、個々のニーズに合わせた即時的なフィードバックと指導を提供可能にする。時間や場所の制約を超越し、滑らかで反応の良いインターフェースは静かなる師となる。",
+        "原文によれば、「ユーザーはディックスのスポーツ知識に基づいたトレーニングのコツや製品教育にアクセスできる」という。デジタル化された専門知識は、静かなる伴侶となるだろう。",
+        "軌道上の居住施設や月面基地で生活する人々にとって、空間が限られ、専門家が希少な環境では、このようなAI駆動型プラットフォームは不可欠となる。それは新たな自律性の一形態である。",
+        "身体的・精神的な健康を維持し、新しいスキルを習得し、あるいは既存の技術を磨き上げる能力は、もはや人間のコーチの有無に左右されない。それは日々の生活の織り目となり、個人の進化を静かに支える存在となるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "From where we sit in Tokyo, this development highlights a subtle but profound shift in how expertise is delivered. Japan, with its high population density and reverence for craftsmanship, has always valued the direct mentorship of a sensei.",
+        "Yet, the challenges of an aging population and dwindling skilled labor in certain fields are also keenly felt here. The concept of an AI assistant, capable of preserving and disseminating specialized knowledge, resonates with a practical need for efficiency and continuity.",
+        "Consider the precision required in traditional Japanese crafts, or the intricate movements of a martial art. An AI trainer could democratize access to such detailed instruction, much like how sophisticated vending machines offer convenience in every Tokyo neighborhood, from Shinjuku to Shimokitazawa.",
+        "For future off-world communities, where human resources will be perpetually scarce, this kind of accessible, personalized guidance is not merely a convenience. It is a fundamental building block for maintaining a high quality of life and preserving specialized skills, ensuring that even in isolation, mastery remains within reach. ARTEMIS TOKYO sees this not as a replacement for human connection, but as an augmentation, allowing human experts to focus on truly novel challenges."
+      ],
+      "ja": [
+        "ARTEMIS TOKYO の見立てでは、この動向は専門知識の提供方法における、繊細かつ深遠な変化を示唆している。高密度な人口と職人技への敬意を持つ日本は、これまで師匠による直接指導を重んじてきた。",
+        "しかし、高齢化や特定の分野における熟練労働者の減少といった課題も、日本は肌で感じている。専門知識を保存し、普及させる能力を持つAIアシスタントの概念は、効率性と継続性への現実的なニーズと響き合う。",
+        "例えば、日本の伝統工芸に求められる精緻な技術や、武道の複雑な動きを考えてみる。AIトレーナーは、そのような詳細な指導へのアクセスを民主化する可能性がある。それは、新宿から下北沢まで、東京のあらゆる地域で洗練された自動販売機が利便性を提供しているのと似ているかもしれない。",
+        "将来の地球外コミュニティにおいて、人的資源が常に希少である環境では、このようなアクセスしやすく、パーソナライズされた指導は単なる利便性を超える。それは、高い生活の質を維持し、専門スキルを継承するための基本的な構成要素であり、孤立した環境下でも熟練の技が手の届く範囲にあることを保証する。ARTEMIS TOKYO はこれを人間とのつながりの代替ではなく、むしろ補完と捉え、人間が真に新たな課題に集中できる余地を生み出すものと見ている。"
+      ]
+    },
+    "source": {
+      "name": "Futurism",
+      "url": "https://futurism.com/future-society/dicks-sporting-ai-personal-trainer"
+    },
+    "sourceGuid": "https://futurism.com/?p=439940",
+    "status": "published"
+  },
+  {
+    "slug": "architecture-for-the-enduring-narrative",
+    "category": "culture",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-01T15:45:21.000Z",
+    "readingMinutes": 5,
+    "feature": false,
+    "cover": {
+      "src": "http://static.dezeen.com/uploads/2026/06/safdie-crystal-bridges-expansion-arkansas_dezeen_2364_sq-411x411.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Architecture for the Enduring Narrative",
+      "ja": "永続する物語のための建築"
+    },
+    "dek": {
+      "en": "A recent museum expansion in Arkansas explores how cultural institutions evolve, offering insights into the future of off-world habitation.",
+      "ja": "アーカンソー州の美術館増築が示す、文化施設の進化のあり方。それは、地球外居住空間の未来に洞察を与える。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "architecture",
+        "ja": "建築"
+      },
+      {
+        "en": "museum design",
+        "ja": "美術館設計"
+      },
+      {
+        "en": "cultural infrastructure",
+        "ja": "文化インフラ"
+      },
+      {
+        "en": "off-world living",
+        "ja": "地球外居住"
+      }
+    ],
+    "body": {
+      "en": [
+        "The Crystal Bridges Museum of American Art in Bentonville, Arkansas, recently unveiled a significant expansion. Designed by Safdie Architects, the new structures navigate the delicate balance between preserving an established architectural identity and introducing contemporary interventions.",
+        "This project adds two new galleries and over 10,500 square metres of space, weaving new volumes into the existing landscape. The design approach emphasizes continuity in material dialogue—perhaps echoing the original’s use of glass and local stone—while allowing for a distinct, modern expression in form and light.",
+        "The challenge of such an expansion lies in creating seamless transitions; how new thresholds connect visitors to both the familiar and the novel. Each new gallery space, carefully calibrated, offers a fresh lens through which to view the ongoing narrative of human endeavor.",
+        "> \"structures that both maintain and depart from the original style\"",
+        "This careful integration of old and new speaks to a fundamental question of permanence and adaptation. Cultural institutions, like any habitat, are not static; they must grow and respond to changing needs, even as they anchor memory and identity.",
+        "For those envisioning life beyond Earth, this expansion offers a quiet lesson. Off-world settlements will inevitably face moments of growth and modification. The ability to thoughtfully integrate new modules, expand existing volumes, and adapt functions without erasing the foundational identity will be paramount.",
+        "The construction of cultural spaces—museums, performance halls, libraries—will be as vital off-world as on. Their design will demand not just utility, but a nuanced understanding of how architecture fosters community and allows a nascent culture to take root and flourish."
+      ],
+      "ja": [
+        "アーカンソー州ベントンビルにあるクリスタル・ブリッジズ・アメリカン・アート美術館が、大規模な増築を完了した。サフディ・アーキテクツが手掛けた新棟は、既存建築のアイデンティティを尊重しつつ、現代的な介入を試みる繊細なバランスを探るものだ。",
+        "このプロジェクトは、新たに2つのギャラリーと10,500平方メートルを超える空間を追加し、既存の景観に新たなボリュームを織り込んでいる。設計は、ガラスや地元の石材といったオリジナルの素材対話を継承しつつ、形態と光において明確な現代性を表現している。",
+        "こうした増築の課題は、シームレスな移行を生み出すことにある。新しい境界線が、訪問者を既知の世界と未知の世界へとどのように繋ぐのか。新たに設けられた各ギャラリー空間は、綿密に調整され、人類の営みの物語を新たな視点から眺める機会を提供する。",
+        "> 「オリジナルのスタイルを維持しつつ、そこから逸脱する構造」",
+        "新旧を注意深く統合するこのアプローチは、永続性と適応性という根本的な問いを提起する。文化施設は、他の居住空間と同様に静的なものではない。記憶とアイデンティティを繋ぎ止めつつも、変化するニーズに対応し、成長し続けなければならない。",
+        "地球外での生活を構想する者にとって、この増築は静かな教訓となるだろう。月面や火星の居住地もまた、必然的に成長と改変の時を迎える。基礎となるアイデンティティを損なうことなく、新しいモジュールを統合し、既存のボリュームを拡張し、機能を適応させる能力は極めて重要となる。",
+        "美術館、劇場、図書館といった文化空間の建設は、地球外においても地球上と同様に不可欠だ。その設計には、単なる機能性だけでなく、建築がいかにコミュニティを育み、新しい文化が根付き、発展していくかを理解する繊細な視点が求められる。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "From where we sit in Tokyo, the expansion of the Crystal Bridges Museum highlights a universal challenge: how to grow gracefully without losing one's essence. Tokyo, with its relentless urban metabolism, is a city constantly engaged in this very act—demolishing and rebuilding, often on the same footprint, to accommodate new demands.",
+        "Yet, our approach often prioritizes efficiency and density over the expansive, integrated cultural narratives seen in projects like this American museum. Japan's expertise in modularity, whether in housing or industrial design, could offer a distinct advantage for off-world expansion. Imagine habitats where new living units or research labs could be seamlessly added, much like a capsule hotel adding new pods, but with a refined aesthetic.",
+        "However, the concept of a grand, enduring cultural institution, designed to connect with nature and foster a sense of place, presents a different kind of challenge. While Tokyo excels at creating intimate, meticulously crafted spaces—think of a small gallery hidden in a back alley of Yanaka—the expansive, integrated approach to cultural infrastructure might require a shift in mindset for future off-world architects from Japan.",
+        "The question for us becomes: how do we translate the Japanese sensibility for *ma* (the intentional void) and *wabi-sabi* (beauty in imperfection and transience) into the design of off-world cultural spaces that must also be robust and scalable? The answer may lie in a new form of architectural *kintsugi*—the art of repairing with gold—where new additions are not hidden, but celebrated as part of an evolving, resilient whole."
+      ],
+      "ja": [
+        "ARTEMIS TOKYO の見立てでは、クリスタル・ブリッジズ美術館の増築は、本質を失わずに優雅に成長する方法という普遍的な課題を浮き彫りにする。東京は、絶え間ない都市の新陳代謝の中で、この行為に常に従事している都市だ。新たな需要に対応するため、しばしば同じ場所に建物を解体し、再構築している。",
+        "しかし、私たちの取り組みは、このアメリカの美術館に見られるような広範で統合された文化的な物語よりも、効率性と密度を優先することが多い。日本のモジュール化に関する専門知識は、住宅であれ工業デザインであれ、地球外での拡張において明確な利点をもたらすだろう。カプセルホテルが新しいポッドを追加するように、洗練された美学を保ちつつ、新しい居住ユニットや研究室をシームレスに追加できる居住空間を想像してみてほしい。",
+        "一方で、自然と繋がり、場所の感覚を育むように設計された、壮大で永続的な文化施設の概念は、異なる種類の課題を提示する。東京は、谷中の路地裏にひっそりと佇む小さなギャラリーのように、親密で精緻な空間を創造することに長けているが、文化インフラに対する広範で統合的なアプローチは、将来の日本の宇宙建築家にとって、考え方の転換を必要とするかもしれない。",
+        "私たちにとっての問いは、堅牢で拡張性も求められる地球外文化空間のデザインにおいて、「間」（意図的な余白）や「侘び寂び」（不完全さや儚さの中に見出す美）といった日本の感性を、どのように翻訳していくかだ。その答えは、新たな形の建築的「金継ぎ」にあるかもしれない。新しい追加要素を隠すのではなく、進化し続けるしなやかな全体の一部として称賛する、そんな建築のあり方である。"
+      ]
+    },
+    "source": {
+      "name": "Dezeen",
+      "url": "https://www.dezeen.com/2026/06/01/safdie-architects-crystal-bridges-museum-of-art-arkansas-expansion/"
+    },
+    "sourceGuid": "https://www.dezeen.com/?p=2332972",
+    "status": "published"
+  },
+  {
+    "slug": "orbital-assemblage-the-new-economics-of-space-defense",
+    "category": "space-tech",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-01T14:57:04.000Z",
+    "readingMinutes": 5,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
+    },
+    "title": {
+      "en": "Orbital Assemblage: The New Economics of Space Defense",
+      "ja": "軌道産業化の進展：ノースロップ・グラマンとApexが示す宇宙防衛の未来"
+    },
+    "dek": {
+      "en": "A partnership between Northrop Grumman and Apex signals a shift towards standardized, rapidly deployable satellite systems, reshaping the calculus of orbital presence and security.",
+      "ja": "ノースロップ・グラマンとApexの提携は、標準化され迅速に展開可能な衛星システムへの移行を示唆し、軌道上での存在と安全保障の計算を再構築する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO, June 1, 2026",
+      "ja": "東京, 2026年6月1日"
+    },
+    "tags": [
+      {
+        "en": "satellite",
+        "ja": "衛星"
+      },
+      {
+        "en": "defense",
+        "ja": "防衛"
+      },
+      {
+        "en": "manufacturing",
+        "ja": "製造"
+      },
+      {
+        "en": "standardization",
+        "ja": "標準化"
+      }
+    ],
+    "body": {
+      "en": [
+        "A new industrial dynamic is taking shape in low Earth orbit. Northrop Grumman, a titan of aerospace defense, has announced a partnership with Apex, a Los Angeles-based startup.",
+        "Apex specializes in the rapid production of standardized satellite buses. These modular platforms promise a significant reduction in both manufacturing time and cost compared to bespoke government spacecraft.",
+        "> \"The Los Angeles-based startup manufactures standardized satellite buses designed to be produced more quickly and at lower cost than traditional government spacecraft,\" the original report noted.",
+        "The collaboration focuses on developing \"space-based interceptors\" for a program known as Golden Dome. This alliance quietly shifts the calculus of orbital security, moving away from singular, expensive assets towards a more distributed, adaptable network.",
+        "This modular approach echoes manufacturing trends seen on Earth, where efficiency and interchangeability drive design. The unseen hum of automated factories on the ground now dictates the pace of expansion in orbit.",
+        "For those who will eventually live and work off-world, this shift signals a future where orbital infrastructure becomes less a grand, bespoke endeavor and more a matter of assembly. The cost of establishing and maintaining critical systems — from communication relays to defense perimeters — will likely decrease, making permanent off-world settlement more economically viable.",
+        "Yet, it also introduces a new layer of complexity: a denser, more industrialized orbital environment where security is managed not by a few monolithic sentinels, but by a constellation of rapidly replaceable components. The design of future lunar habitats or Martian outposts might, by necessity, incorporate modules designed for swift replacement and upgrade, mirroring the very systems that protect them."
+      ],
+      "ja": [
+        "低軌道に新たな産業の潮流が生まれつつある。航空宇宙防衛の巨大企業ノースロップ・グラマンが、ロサンゼルス拠点のスタートアップ企業Apexとの提携を発表した。",
+        "Apexは、標準化された衛星バスの迅速な製造に特化している。これらのモジュール式プラットフォームは、従来の政府向け特注宇宙船と比較して、製造時間とコストの両面で大幅な削減を約束する。",
+        "> 「ロサンゼルスを拠点とするこのスタートアップは、従来の政府系宇宙船よりも迅速かつ低コストで製造できるよう設計された、標準化された衛星バスを製造している」と原文は記している。",
+        "この協力は、「ゴールデンドーム」と呼ばれるプログラム向けの「宇宙ベース迎撃機」の開発に焦点を当てている。この提携は、軌道上の安全保障の計算を静かに変え、単一で高価な資産から、より分散され、適応性の高いネットワークへと移行させるものだ。",
+        "モジュール化されたアプローチは、効率性と互換性が設計を推進する地球上の製造トレンドと響き合う。地上にある自動化された工場の目に見えない稼働音が、今や軌道上での拡大のペースを決定づけている。",
+        "将来、地球外で暮らし、働く人々にとって、この変化は軌道インフラが壮大で特注の事業ではなく、組み立ての対象となる未来を示唆している。通信中継から防衛境界に至るまで、重要なシステムを確立し維持するコストは低下し、恒久的な地球外居住が経済的により実現可能になるだろう。",
+        "しかし、これはまた新たな複雑さをもたらす。より高密度で工業化された軌道環境において、安全保障は少数の巨大な監視者によってではなく、迅速に交換可能なコンポーネントのコンステレーションによって管理される。将来の月面居住地や火星の前哨基地の設計は、それらを守るシステムそのものを反映し、迅速な交換とアップグレードのために設計されたモジュールを必然的に組み込むことになるかもしれない。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "From where we sit in Tokyo, this development underscores a critical shift in how space is industrialised. Japan's own space sector, while making strides with initiatives like ispace's lunar missions and JAXA's H3 rocket, has often faced challenges in scaling production and reducing costs for bespoke projects.",
+        "The concept of standardized, rapidly deployable space assets resonates deeply with the efficiency and modularity often prized in Japanese manufacturing and urban design. Think of the precisely engineered, interchangeable parts in a Shibuya crossing signal, or the compact, multi-functional modules within a capsule hotel.",
+        "This partnership suggests a future where even defense assets are built with a lean, almost just-in-time methodology. For Japan, a nation reliant on robust, yet cost-effective, space infrastructure for its economic and security interests, observing this evolution is paramount.",
+        "It highlights a potential path for domestic players to pivot towards more agile production models, fostering a new generation of orbital services. The quiet hum of an automated factory, producing identical units for the cosmos, aligns with a certain Japanese sensibility for meticulous, repetitive craft."
+      ],
+      "ja": [
+        "ARTEMIS TOKYO の見立てでは、この動向は宇宙産業化のあり方における重要な転換点を示唆しています。日本独自の宇宙産業は、ispaceの月面ミッションやJAXAのH3ロケットのような取り組みで前進しているものの、特注プロジェクトの生産規模拡大やコスト削減において課題に直面することが少なくありませんでした。",
+        "標準化され、迅速に展開可能な宇宙アセットという概念は、日本の製造業や都市設計において高く評価される効率性とモジュール性という価値観と深く響き合います。渋谷のスクランブル交差点の精密に設計された交換可能な部品や、カプセルホテルのコンパクトで多機能なモジュールを思い起こさせるでしょう。",
+        "今回の提携は、防衛資産さえもがリーンで、ほとんどジャストインタイムの手法で構築される未来を示唆しています。経済的および安全保障上の利益のために、堅牢でありながら費用対効果の高い宇宙インフラに依存する日本にとって、この進化を注視することは極めて重要です。",
+        "これは、国内企業がよりアジャイルな生産モデルへと転換し、新世代の軌道上サービスを育成する潜在的な道筋を浮き彫りにします。宇宙向けに同一ユニットを生産する自動工場の静かな稼働音は、細部にわたる反復的な職人技に対するある種の日本的感性と共鳴するものです。"
+      ]
+    },
+    "source": {
+      "name": "SpaceNews",
+      "url": "https://spacenews.com/northrop-grumman-partners-with-apex-on-space-based-interceptors-for-golden-dome/"
+    },
+    "sourceGuid": "https://spacenews.com/?p=598306",
+    "status": "published"
+  },
+  {
+    "slug": "the-near-frontier-vleo-satellites-and-a-shifting-orbital-economy",
+    "category": "space-tech",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-01T13:00:00.000Z",
+    "readingMinutes": 6,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
+    },
+    "title": {
+      "en": "The Near Frontier: VLEO Satellites and a Shifting Orbital Economy",
+      "ja": "近接軌道の鼓動：VLEO衛星が描く宇宙の新しい地政学"
+    },
+    "dek": {
+      "en": "A collaboration between Bellatrix Aerospace and TelePIX points to a future of closer Earth observation and new orbital economies, reshaping how data flows between worlds.",
+      "ja": "Bellatrix AerospaceとTelePIXの協業は、より精密な地球観測と新たな軌道経済圏の到来を示唆し、地球と宇宙の間のデータ流動を再定義する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "VLEO",
+        "ja": "VLEO"
+      },
+      {
+        "en": "Earth Observation",
+        "ja": "地球観測"
+      },
+      {
+        "en": "Satellite Technology",
+        "ja": "衛星技術"
+      },
+      {
+        "en": "International Collaboration",
+        "ja": "国際協業"
+      }
+    ],
+    "body": {
+      "en": [
+        "The very low Earth orbit (VLEO) represents a unique frontier. Positioned between 200 and 450 kilometers above the planet, it is a region where atmospheric drag is a constant challenge, yet also offers unparalleled proximity for observation.",
+        "Indian space technology firm Bellatrix Aerospace is now partnering with South Korean optical payload manufacturer TelePIX to build a VLEO demonstration satellite. This joint venture, slated for launch by 2028, signals a growing interest in this challenging yet rewarding orbital band.",
+        "The key to sustained VLEO operations lies in advanced propulsion systems capable of counteracting atmospheric resistance. Bellatrix Aerospace’s expertise in electric propulsion is central to this endeavor, allowing satellites to maintain altitude with minimal fuel expenditure.",
+        "This proximity to Earth promises higher resolution imaging and lower latency data transmission. The implications are profound for applications ranging from environmental monitoring to urban planning, offering a sharper, more immediate view of the terrestrial sphere.",
+        "> The original report notes the collaboration with “Korean optical payload manufacturer TelePIX on a new VLEO demo satellite.”",
+        "Beyond the technical feat, this collaboration marks a shift in the geography of space access. It diversifies the players capable of operating in critical orbital regimes, moving beyond the traditional space powers.",
+        "For those living off-world, this closer orbital presence means a more immediate and granular connection to Earth. Data streams from home will arrive with unprecedented detail and speed, enabling real-time environmental monitoring, more precise resource management, and a clearer view of the world they left behind. The very low orbit, once a hostile zone of atmospheric drag, now becomes a canvas for a more intimate Earth-gaze."
+      ],
+      "ja": [
+        "超低地球軌道（VLEO）は、宇宙における独自のフロンティアである。地球上空200〜450キロメートルに位置するこの領域は、大気抵抗という絶え間ない課題を抱えながらも、観測において比類ない近接性を提供する。",
+        "インドの宇宙技術企業Bellatrix Aerospaceは、韓国の光学ペイロードメーカーTelePIXと提携し、VLEOデモンストレーション衛星を構築する。2028年までの打ち上げが予定されているこの共同事業は、この困難だが有望な軌道帯への関心の高まりを示唆している。",
+        "VLEOでの持続的な運用を可能にする鍵は、大気抵抗に対抗できる高度な推進システムにある。Bellatrix Aerospaceの電気推進技術がこの取り組みの中心であり、衛星が最小限の燃料消費で高度を維持することを可能にする。",
+        "地球へのこの近接性は、より高解像度の画像と低遅延のデータ伝送を約束する。環境監視から都市計画に至るまで、その応用範囲は深く、地上のより鮮明で即時的な視点を提供する。",
+        "> 原文より、「韓国の光学ペイロードメーカーTelePIXと新たなVLEOデモ衛星を構築する」",
+        "技術的な偉業を超えて、この協業は宇宙アクセスにおける地理的変化を示すものだ。従来の宇宙大国を超え、重要な軌道領域で運用可能なプレーヤーを多様化している。",
+        "地球外で生活する人々にとって、このより近い軌道からの存在は、地球とのより即時的で詳細なつながりを意味する。故郷からのデータストリームは前例のない詳細さと速度で届き、リアルタイムの環境監視、より精密な資源管理、そして彼らが去った世界のより明確な視点を可能にするだろう。かつて大気抵抗という過酷な領域であった超低軌道は、今、より親密な地球の視線を映すキャンバスとなりつつある。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "From where we sit in Tokyo, this collaboration between an Indian propulsion specialist and a Korean optical manufacturer is a significant marker. It underscores the ongoing decentralization of space capabilities, moving beyond the traditional few nations that once dominated orbital access.",
+        "Japan has a strong heritage in precision engineering and optical technology, with companies like Synspective already making strides in Earth observation. However, the VLEO segment, particularly its propulsion challenges, presents an area where international partnerships could be crucial for accelerating domestic capabilities.",
+        "The implications for urban life are tangible. Tokyo’s dense urban fabric and its vulnerability to natural disasters make high-resolution, low-latency Earth observation data invaluable. Imagine real-time micro-climate monitoring for city planning, or immediate damage assessment after an earthquake, delivered with the precision VLEO promises. This kind of data could fundamentally reshape how we manage our cities.",
+        "ARTEMIS TOKYO sees this development not just as a technical advance, but as a cultural shift. The notion of a more intimate, constantly updated view of Earth resonates with Japan's appreciation for detail and the transient nature of things — a kind of digital 'mono no aware' for our planet. It asks us to consider how this constant, high-definition gaze might alter our relationship with the world we've left behind, and the one we now inhabit."
+      ],
+      "ja": [
+        "ARTEMIS TOKYO の見立てでは、インドの推進技術企業と韓国の光学メーカーによるこの協業は、重要な指標となる動きです。これは、かつて軌道アクセスを独占していた少数の伝統的な国家を超え、宇宙能力の分散化が進行していることを強調しています。",
+        "日本は精密工学と光学技術において強力な遺産を持ち、Synspectiveのような企業が地球観測分野で既に大きな進歩を遂げています。しかし、VLEOセグメント、特にその推進に関する課題は、国内能力を加速させる上で国際的なパートナーシップが不可欠となる分野でしょう。",
+        "都市生活への影響は具体的です。東京の過密な都市構造と自然災害への脆弱性を考えると、高解像度で低遅延の地球観測データは計り知れない価値を持ちます。VLEOが約束する精度で、都市計画のためのリアルタイムの微気候監視や、地震後の即時被害評価が実現する日を想像してみてください。このようなデータは、私たちの都市管理の方法を根本的に再構築する可能性があります。",
+        "ARTEMIS TOKYO はこの進展を単なる技術的進歩ではなく、文化的な変化と捉えています。地球をより親密に、常に最新の視点から捉えるという概念は、日本の細部へのこだわりや、諸行無常という美意識と共鳴します — まさに私たちの惑星に向けたデジタル版の「もののあはれ」と言えるかもしれません。この絶え間ない高精細な視線が、私たちが残してきた世界と、今私たちが住む世界との関係をどのように変えるのか、深く考察を促すものです。"
+      ]
+    },
+    "source": {
+      "name": "Payload",
+      "url": "https://payloadspace.com/bellatrix-aerospace-tapped-to-build-korean-vleo-demo-sat/"
+    },
+    "sourceGuid": "https://payloadspace.com/?p=29297",
+    "status": "published"
+  },
+  {
     "slug": "breathing-easy-compact-life-support-redefines-off-world-living",
     "category": "space-tech",
     "issue": "Vol. 05",
@@ -923,8 +1429,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Blue Origin's New Glenn Faces Setback on Launchpad",
@@ -2293,8 +2799,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532618793091-ec5fe9635fbd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "The Lunar Scientist: Crafting a New Profession on Artemis",
@@ -2929,8 +3435,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0b0b0d"
+      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0f12"
     },
     "title": {
       "en": "SpaceX's Ascent: The Orbit Economy Takes Shape",
@@ -2999,7 +3505,7 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
+      "src": "https://images.unsplash.com/photo-1532618793091-ec5fe9635fbd?auto=format&fit=crop&w=2200&q=80",
       "tone": "#0d0d0f"
     },
     "title": {
@@ -3305,8 +3811,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0b0b0d"
     },
     "title": {
       "en": "The Unseen Architecture: Investing in Off-World Intelligence",
@@ -3561,8 +4067,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0f12"
+      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "The Architects of Return: Envisioning Lunar Futures",

@@ -1,5 +1,511 @@
 [
   {
+    "slug": "lunar-autonomy-regolith-printing-reshapes-off-world-architecture",
+    "category": "space-tech",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-03T15:00:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/4yF57TqctFfahTWhuB6UoR-1280-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Lunar Autonomy: Regolith Printing Reshapes Off-World Architecture",
+      "ja": "月面自律：レゴリス印刷が宇宙建築の未来を再構築する"
+    },
+    "dek": {
+      "en": "A new additive manufacturing technique utilizing lunar regolith promises to shift the paradigm of off-world construction, moving beyond Earth-bound supply chains towards a self-sufficient lunar aesthetic.",
+      "ja": "月面レゴリスを活用した新たな積層造形技術が、宇宙での建設パラダイムを変革する。地球からのサプライチェーン依存から脱却し、自律的な月面美学が生まれようとしている。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "lunar construction",
+        "ja": "月面建設"
+      },
+      {
+        "en": "additive manufacturing",
+        "ja": "積層造形"
+      },
+      {
+        "en": "regolith",
+        "ja": "レゴリス"
+      },
+      {
+        "en": "space architecture",
+        "ja": "宇宙建築"
+      }
+    ],
+    "body": {
+      "en": [
+        "The vision of human settlements beyond Earth has long been constrained by the immense cost and logistical complexity of transporting materials from our home planet.",
+        "A recent engineering update from Space.com details a significant breakthrough in additive manufacturing, enabling the large-scale construction of structural components directly from lunar regolith.",
+        "This new technique moves past small-scale prototyping, demonstrating the capacity to create robust, load-bearing structures essential for habitats and infrastructure.",
+        "> The original report notes this advancement could 'fundamentally alter the economics of lunar settlement.'",
+        "The implications extend beyond mere efficiency. It signals a shift from importing prefabricated modules to fabricating bespoke structures on-site, using the very ground beneath the future inhabitants' feet.",
+        "This approach promises not only reduced reliance on Earth but also the emergence of a distinctive lunar architectural language. Imagine the rough, layered texture of a regolith-printed wall, bearing the subtle hue of lunar dust, defining the interior of a moon base.",
+        "For those who will live, work, and raise families off-world, this means a departure from uniform, factory-built environments. It suggests a future where habitats possess a unique sense of place, crafted from local materials, fostering a deeper connection to their extraterrestrial ground. The future of off-world habitation may not be polished steel, but the sculpted dust beneath our feet."
+      ],
+      "ja": [
+        "地球外の居住地という構想は、これまで地球からの資材輸送にかかる莫大なコストと物流の複雑さに制約されてきた。",
+        "Space.comの最新の技術報告は、月面レゴリスを直接利用した大規模な構造部材の積層造形における画期的な進歩を詳述している。",
+        "この新技術は、小規模なプロトタイプ製作の域を超え、居住施設やインフラに不可欠な堅牢な耐荷重構造物を構築する能力を実証したという。",
+        "> 原文によれば、この進歩は「月面居住の経済性を根本的に変える」可能性を秘めている。",
+        "その影響は単なる効率化に留まらない。それは、地球から組み立て済みのモジュールを輸入するのではなく、未来の住民の足元の土壌そのものを使って、現地で特注の構造物を製作する方向への転換を意味する。",
+        "このアプローチは、地球への依存度を低減するだけでなく、独特の月面建築様式の出現を予感させる。月面基地の内部を定義する、月塵の微細な色合いを帯びた、粗く層状に印刷されたレゴリスの壁を想像してみてほしい。",
+        "宇宙で生活し、働き、子育てをする人々にとって、これは画一的な工場製環境からの脱却を意味する。居住施設がその土地ならではの感覚を持ち、現地材料から作られ、地球外の地面とのより深いつながりを育む未来を示唆している。宇宙での居住の未来は、磨かれた鋼ではなく、足元の彫刻された塵の中にあるのかもしれない。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "From where we sit in Tokyo, this development in regolith printing speaks to a fundamental shift in how we conceive permanence and place beyond Earth. Japan, with its high population density and a deep cultural appreciation for efficient, modular design, understands the challenges of resource optimization acutely.",
+        "While Japan's space efforts, such as JAXA's MMX mission, often focus on precise sample return and scientific exploration, the commercial sector, like ispace, is actively pursuing lunar resource utilization. This news highlights the potential for a new domestic industry, perhaps even a new design export, rooted in the principles of in-situ resource utilization (ISRU).",
+        "Tokyo's urban fabric, characterized by its constant renewal and the intricate dance between tradition and innovation, offers an interesting lens. The idea of building directly from the ground up, using local resources, resonates with a certain Japanese sensibility towards materials and craftsmanship — perhaps a 'kintsugi' approach to lunar construction, embracing the raw, natural qualities of regolith rather than concealing them.",
+        "This could spur a new generation of Japanese architects and designers to envision lunar structures not as sterile, imported boxes, but as organic extensions of the lunar surface itself. The subtle textures and natural hues of regolith could inspire a distinct aesthetic that contrasts sharply with the polished, high-tech imagery often associated with space.",
+        "The question for us remains: how quickly can Japanese industry integrate these advancements into its own lunar ambitions, ensuring that our unique design philosophy contributes meaningfully to the emerging off-world architectural lexicon?"
+      ],
+      "ja": [
+        "ARTEMIS TOKYO の見立てでは、今回のレゴリス印刷の進展は、地球外での永続性と場所の概念を根本から変えるものと捉えている。高密度な人口と効率的でモジュール化されたデザインへの深い文化的理解を持つ日本は、資源最適化の課題を痛感している。",
+        "JAXAのMMXミッションのような日本の宇宙開発は、精密なサンプルリターンや科学探査に焦点を当てることが多いが、ispaceのような民間企業は月面資源利用を積極的に追求している。今回のニュースは、ISRU（現地資源利用）の原則に根ざした新たな国内産業、あるいは新たなデザイン輸出の可能性を浮き彫りにする。",
+        "絶え間ない更新と伝統と革新の複雑な相互作用を特徴とする東京の都市構造は、興味深い視点を提供する。地元資源を使って地面から直接建設するというアイデアは、材料と職人技に対するある種の日本的感性、おそらくはレゴリスの生の自然な特性を隠すのではなく受け入れる、月面建設における「金継ぎ」のアプローチと響き合う。",
+        "これは、日本の建築家やデザイナーの新世代が、月面構造物を無機質な輸入箱としてではなく、月面そのものの有機的な延長として構想するきっかけとなるだろう。レゴリスの繊細な質感と自然な色合いは、宇宙にしばしば関連付けられる洗練されたハイテクなイメージとは対照的な、独特の美学を刺激する可能性がある。",
+        "私たちにとっての問いは、日本の産業がこれらの進歩を自らの月面目標にどれだけ迅速に統合し、私たちの独自のデザイン哲学が、出現しつつある宇宙建築の語彙に有意義に貢献できるか、という点にあるだろう。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/stargazing/solar-eclipses/spains-total-solar-eclipse-2026-comes-with-a-catch-heres-how-to-avoid-ruining-your-view"
+    },
+    "sourceGuid": "M5dhkiYSvMVya7utHyoN9Z",
+    "status": "published"
+  },
+  {
+    "slug": "a-ghost-in-the-asteroid-belt-japans-probe-and-the-echoes-of-space-history",
+    "category": "research",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-02T16:51:17.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://futurism.com/wp-content/uploads/2026/06/paper-asteroid-japan-probe-derelict-spacecraft.jpg?quality=85",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "A Ghost in the Asteroid Belt: Japan's Probe and the Echoes of Space History",
+      "ja": "小惑星帯の亡霊：日本の探査機と宇宙史の残響"
+    },
+    "dek": {
+      "en": "A recent paper suggests a celestial body targeted by a Japanese mission may be a Soviet-era relic. This blurs the lines between natural discovery and orbital archaeology, hinting at a future where space is a repository of human endeavors.",
+      "ja": "日本の探査機が接近する天体が、ソ連時代の遺物である可能性を示唆する論文が発表された。これは自然の発見と軌道上の考古学の境界を曖昧にし、宇宙が人類の営みの貯蔵庫となる未来を示唆する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, June 2, 2026",
+      "ja": "東京、2026年6月2日"
+    },
+    "tags": [
+      {
+        "en": "space archaeology",
+        "ja": "宇宙考古学"
+      },
+      {
+        "en": "orbital debris",
+        "ja": "軌道デブリ"
+      },
+      {
+        "en": "Japanese space program",
+        "ja": "日本の宇宙開発"
+      },
+      {
+        "en": "Soviet space program",
+        "ja": "ソ連宇宙計画"
+      }
+    ],
+    "body": {
+      "en": [
+        "The quiet expanse of space, long considered a realm of pristine discovery, may hold secrets more intimate than previously imagined. A new paper posits that an 'asteroid' currently being approached by a Japanese probe is not a natural celestial body at all.",
+        "Instead, the report suggests, it could be a derelict Soviet-era spacecraft, a silent artifact from humanity’s early forays beyond Earth’s atmosphere. This claim, if substantiated, transforms a routine scientific mission into an act of orbital archaeology.",
+        "The metallic glint of a discarded antenna, perhaps, a silent testament to an ambition long past, now drifting through the cosmic currents. Such a discovery would redefine our understanding of the solar system as not merely a canvas of natural phenomena, but a vast, unintended museum.",
+        "> The paper claims the 'asteroid' Japan's probe is approaching is actually a derelict spacecraft.",
+        "This prospect raises questions for the future of off-world living. For those who will eventually inhabit space, their environment will not be solely a pristine frontier, but one interwoven with human history. Every new celestial encounter could become an archaeological dig.",
+        "The implication is profound: space will not merely be a place to build, but a realm to inherit and curate. This shift could foster new professions in artifact recovery and preservation, and perhaps even a unique form of orbital heritage tourism, where silent relics of the Cold War era drift as monuments to early human aspiration."
+      ],
+      "ja": [
+        "これまで手つかずの発見の領域とされてきた広大な宇宙空間は、想像以上に人間的な秘密を抱えているのかもしれない。新たな論文が、日本の探査機が現在接近している「小惑星」が、実は自然の天体ではない可能性を提起した。",
+        "その報告によると、それはソ連時代の放棄された宇宙船、つまり人類が地球の大気圏外へ初めて踏み出した頃の静かな遺物である可能性があるという。この主張が事実であれば、通常の科学ミッションは軌道上の考古学へと変貌する。",
+        "かつての野心の静かな証である、金属のアンテナの輝きが、今や宇宙の潮流の中を漂っているのかもしれない。このような発見は、太陽系を単なる自然現象のキャンバスとしてではなく、広大な、意図せざる博物館として再定義することになるだろう。",
+        "「日本の探査機が接近する『小惑星』は、実際には放棄された宇宙船であると論文は主張する」",
+        "この可能性は、地球外での生活の未来に問いを投げかける。やがて宇宙に居住する人々にとって、その環境は手つかずのフロンティアであるだけでなく、人類の歴史と織り交ぜられたものとなるだろう。新たな天体との遭遇は、すべてが考古学的な発掘作業となる可能性がある。",
+        "その示唆は深遠だ。宇宙は単に構築する場所ではなく、受け継ぎ、管理する領域となる。この変化は、遺物回収と保存における新たな専門職を育成し、冷戦時代の静かな遺物が初期の人類の大志の記念碑として漂う、独特の軌道上ヘリテージツーリズムさえ生み出すかもしれない。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "From where we sit in Tokyo, this news offers a fascinating lens through which to view humanity's evolving relationship with space. ARTEMIS TOKYO sees this as a profound re-evaluation of our place in the solar system. Japan, with its meticulous approach to engineering and a cultural sensibility that finds beauty in the worn and the transient—think kintsugi or the concept of mono no aware—is uniquely positioned to contemplate such a future.",
+        "JAXA, much like other space agencies, grapples with orbital debris, a pressing issue for sustainable space operations. Yet, the idea of an old craft being mistaken for a natural object introduces a new dimension: what if some of this 'debris' holds historical value, becoming a kind of space-age Jomon pottery?",
+        "Tokyo itself is a city where layers of history are constantly being built upon, torn down, and rediscovered. The notion of living amidst the remnants of past eras, whether grand or forgotten, resonates deeply with the urban texture of our metropolis. It suggests that future off-world habitats might not be sterile new constructions, but rather complex ecosystems where the past silently informs the present.",
+        "This isn't just about preserving old hardware; it's about acknowledging that our future in space will inevitably be shaped by our past. It implies a responsibility not just to explore, but to remember, and to integrate these silent histories into the fabric of extraterrestrial life."
+      ],
+      "ja": [
+        "ARTEMIS TOKYOの見立てでは、このニュースは、人類の宇宙との関係性の進化を読み解く上で魅力的な視点を提供する。これは太陽系における人類の立ち位置を深く再評価する動きと捉えるべきだろう。精密な工学と、金継ぎや「もののあわれ」といった、使い古され移ろいゆくものに美を見出す文化的な感性を持つ日本は、このような未来を熟考する上で特異な立場にあると言える。",
+        "JAXAも他の宇宙機関と同様に、持続可能な宇宙運用にとって喫緊の課題である軌道デブリの問題に取り組んでいる。しかし、古い宇宙船が自然の天体と誤認される可能性は、新たな次元を提示する。もしこの「デブリ」の一部が歴史的価値を持ち、宇宙時代の縄文土器のような存在となるならば、どうだろうか。",
+        "東京自体、歴史の層が絶えず積み重ねられ、解体され、再発見される都市である。壮大なものであれ忘れ去られたものであれ、過去の遺物の中で生きるという概念は、我々の大都市の都市構造と深く共鳴する。これは、未来の地球外居住地が無菌の新しい建造物であるだけでなく、過去が静かに現在を形作る複雑な生態系となる可能性を示唆している。",
+        "これは単に古いハードウェアを保存することではない。宇宙における我々の未来が、必然的に我々の過去によって形作られることを認識することである。探査するだけでなく、記憶し、これらの静かな歴史を地球外生命の織り物の中に統合する責任を意味する。"
+      ]
+    },
+    "source": {
+      "name": "Futurism",
+      "url": "https://futurism.com/space/paper-asteroid-japan-probe-derelict-spacecraft"
+    },
+    "sourceGuid": "https://futurism.com/?p=440135",
+    "status": "published"
+  },
+  {
+    "slug": "chinas-new-reusable-rocket-a-shift-in-off-world-logistics",
+    "category": "space-tech",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-02T16:05:48.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2279200144-1152x648.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "China's New Reusable Rocket: A Shift in Off-World Logistics",
+      "ja": "中国の新型再利用ロケット：軌道上ロジスティクスの新たな局面"
+    },
+    "dek": {
+      "en": "The debut of a heavy-lift vehicle designed for reusability signals a changing calculus for accessing Earth orbit and beyond, with implications for future off-world economies.",
+      "ja": "再利用を前提とした新型大型ロケットのデビューは、地球軌道とその先のアクセスに関する計算式を一変させる。これは未来のオフワールド経済に大きな影響を及ぼすだろう。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, 2026-06-03",
+      "ja": "東京, 2026-06-03"
+    },
+    "tags": [
+      {
+        "en": "China",
+        "ja": "中国"
+      },
+      {
+        "en": "reusability",
+        "ja": "再利用性"
+      },
+      {
+        "en": "rocket",
+        "ja": "ロケット"
+      },
+      {
+        "en": "space access",
+        "ja": "宇宙アクセス"
+      }
+    ],
+    "body": {
+      "en": [
+        "A new heavy-lift rocket, designed with reusability at its core, recently completed its inaugural flight. This launch from China introduces another contender into the increasingly competitive arena of space logistics.",
+        "The vehicle's architecture emphasizes a modular design, aiming to reduce turnaround times and overall operational costs. Such engineering choices are not merely incremental; they reflect a strategic pivot towards sustained, high-cadence access to space.",
+        "The cost per kilogram to orbit, once prohibitive, begins its slow descent. This is the fundamental promise of reusable launch systems, transforming space access from a bespoke, government-led endeavor into a more commercially viable enterprise.",
+        "> The new rocket is 'designed for reusability,' hinting at a future of routine space travel.",
+        "This shift portends a future where the austere, minimalist habitats of early lunar outposts might evolve. Supplies, once rationed and precious, could become more abundant, allowing for a broader palette of materials in construction, a wider array of provisions in the mess hall, and perhaps even the luxury of personal effects not strictly essential for survival.",
+        "The texture of off-world life, currently defined by extreme scarcity, will begin to soften. As the cost of transport continues to fall, the daily realities of living, working, and building communities beyond Earth will fundamentally change, moving closer to a terrestrial sense of normalcy and availability."
+      ],
+      "ja": [
+        "再利用を設計思想の中核に据えた新型の大型ロケットが、先日、初飛行を成功させた。中国からのこの打ち上げは、競争が激化する宇宙ロジスティクスの舞台に新たなプレイヤーを送り出すものだ。",
+        "この機体はモジュール設計を重視しており、ターンアラウンド時間の短縮と運用コスト全体の削減を目指している。こうした技術的選択は単なる漸進的な改善ではなく、持続的で高頻度な宇宙アクセスへの戦略的転換を反映している。",
+        "軌道へのキログラムあたりの輸送コストは、かつて想像を絶するものであったが、その緩やかな下降が始まっている。これこそが再利用可能な打ち上げシステムの根源的な約束であり、宇宙アクセスを特注の政府主導事業から、より商業的に実現可能な事業へと変貌させる。",
+        "> 新型ロケットは「再利用を想定して設計されており」、日常的な宇宙旅行の未来を示唆している。",
+        "この変化は、初期の月面基地に見られた禁欲的で最小限の居住空間が進化する未来を予感させる。かつては厳しく配給され、貴重品であった物資がより潤沢になり、建築における素材の選択肢、食堂での食料の多様性、そして生存に不可欠でない個人的な品々の贅沢さえも可能になるかもしれない。",
+        "極度の希少性によって定義されてきたオフワールド生活の質感が、今、変わり始めるだろう。輸送コストが下がり続けるにつれて、地球外で生活し、働き、コミュニティを築くという日々の現実が根本的に変化し、地球上の常識的な感覚、つまりモノの入手可能性に近づいていくはずだ。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "From where we sit in Tokyo, the debut of China's new reusable heavy-lift rocket underscores a critical inflection point in global space development. While Japan's H3 rocket program has prioritized reliability and precision, the rapid cadence of new, reusable vehicle introductions from other nations presents a different strategic challenge.",
+        "This development forces a re-evaluation of the long-term economics for lunar and orbital infrastructure. For Japanese companies like ispace, which are meticulously planning lunar logistics, the prospect of significantly cheaper and more frequent launches could either accelerate their ambitions or compel a shift in their business models.",
+        "Tokyo, a city built on efficiency and density, understands the value of optimization. The concept of 'reusability' in space mirrors the meticulous planning required for urban infrastructure, where every resource must be maximized. Yet, the speed of deployment seen abroad highlights a potential gap in scaling up Japan's own launch capabilities for a high-cadence future.",
+        "ARTEMIS TOKYO believes that while Japan's strengths lie in precision engineering and meticulous planning — qualities essential for long-term sustainability off-world — the global landscape demands agility. The challenge for Japan's space industry will be to integrate its strengths with the imperative for rapid, cost-effective access, perhaps through international partnerships that leverage these complementary approaches."
+      ],
+      "ja": [
+        "ARTEMIS TOKYO の見立てでは、中国の新型再利用大型ロケットのデビューは、世界の宇宙開発における重要な転換点を示している。日本のH3ロケットプログラムが信頼性と精度を優先してきた一方で、他国からの再利用可能機体の急速な導入ペースは、異なる戦略的課題を提示している。",
+        "この進展は、月面や軌道上インフラの長期的な経済性を再評価することを強いるだろう。月面ロジスティクスを緻密に計画しているispaceのような日本の企業にとって、大幅に安価で頻繁な打ち上げの可能性は、彼らの野心を加速させるか、あるいは事業モデルの転換を迫るかのどちらかになり得る。",
+        "効率と密度の上に築かれた都市である東京は、最適化の価値を深く理解している。宇宙における「再利用性」の概念は、あらゆる資源を最大化する必要がある都市インフラの綿密な計画と鏡像関係にある。しかし、海外で見られる展開の速さは、高頻度な未来に向けた日本の打ち上げ能力のスケールアップにおいて、潜在的なギャップがあることを浮き彫りにしている。",
+        "ARTEMIS TOKYO は、日本の強みが精密工学と綿密な計画性 — オフワールドでの長期的な持続可能性に不可欠な資質 — にあると考える一方で、グローバルな状況は俊敏性を要求していると見ている。日本の宇宙産業にとっての課題は、これらの補完的なアプローチを活用する国際パートナーシップなどを通じて、自らの強みを迅速かつ費用対効果の高いアクセスという要請と統合することになるだろう。"
+      ]
+    },
+    "source": {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/06/another-falcon-9-lookalike-joins-chinas-growing-roster-of-rockets/"
+    },
+    "sourceGuid": "https://arstechnica.com/space/2026/06/another-falcon-9-lookalike-joins-chinas-growing-roster-of-rockets/",
+    "status": "published"
+  },
+  {
+    "slug": "the-unseen-pulse-murata-explores-resilient-satellite-timing",
+    "category": "space-tech",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-03T15:19:56.000Z",
+    "readingMinutes": 4,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
+    },
+    "title": {
+      "en": "The Unseen Pulse: Murata Explores Resilient Satellite Timing",
+      "ja": "見えない脈動：村田製作所、衛星時刻同期のレジリエンスを探る"
+    },
+    "dek": {
+      "en": "Japanese electronics giant Murata is exploring Xona's low Earth orbit network to provide critical backup for GPS-dependent timing systems, setting a new standard for global infrastructure reliability.",
+      "ja": "日本の電子部品大手・村田製作所が、GPSに依存する時刻同期システムのバックアップとしてXonaの低軌道ネットワークを検討。グローバルインフラの信頼性向上に新たな基準を打ち立てる。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "satellite",
+        "ja": "衛星"
+      },
+      {
+        "en": "timing",
+        "ja": "時刻同期"
+      },
+      {
+        "en": "infrastructure",
+        "ja": "インフラ"
+      },
+      {
+        "en": "Japan",
+        "ja": "日本"
+      }
+    ],
+    "body": {
+      "en": [
+        "Invisible, yet essential, the precise rhythm of atomic clocks underpins global infrastructure. From financial transactions to power grids, the modern world relies on accurate time signals.",
+        "Currently, much of this depends on GPS, a system vulnerable to interference or outages. Xona, a nascent space company, is addressing this vulnerability by building a new constellation.",
+        "This low Earth orbit network aims to provide a resilient backup to existing GPS-dependent systems. Japanese electronics giant Murata is now exploring the integration of Xona’s satellite timing service for its critical applications.",
+        "The focus for Murata includes bolstering timing synchronization for telecom networks and data centers, sectors where even momentary disruptions can have cascading effects. This collaboration points to a growing recognition of the need for redundant, robust timing solutions.",
+        "> Xona is developing a low Earth orbit network to provide backup to GPS-dependent systems.",
+        "For those who will one day inhabit lunar outposts or orbital stations, this development is foundational. Reliable, redundant timing signals will be paramount for autonomous systems, synchronized habitat operations, and the seamless flow of data across vast distances. It reduces a subtle anxiety: the fear of systems drifting out of alignment, of a critical pulse being lost in the void."
+      ],
+      "ja": [
+        "私たちのデジタル生活は、原子時計が刻む正確な時間に支えられている。金融取引から電力網に至るまで、世界のインフラは正確な時刻信号に依存している。",
+        "現在、その多くはGPSに依存しており、このシステムは妨害や停止に対して脆弱だ。新興の宇宙企業Xonaは、この脆弱性に対処するため、新たな衛星コンステレーションを構築している。",
+        "この低軌道ネットワークは、既存のGPS依存システムへの堅牢なバックアップ提供を目指す。日本の電子部品大手である村田製作所は、通信網やデータセンター向けにXonaの衛星時刻同期サービスの導入を検討している。",
+        "村田製作所が着目するのは、通信ネットワークやデータセンターの時刻同期の強化だ。これらの分野では、わずかな中断も連鎖的な影響を及ぼす可能性がある。この提携は、冗長性と堅牢性を備えた時刻同期ソリューションへの需要の高まりを示している。",
+        "「Xonaは、GPSに依存するシステムにバックアップを提供する低軌道ネットワークを開発している。」",
+        "月面基地や軌道ステーションで暮らす人々にとって、この進展は基盤となる。自律システムや居住施設の同期運用、そして広大な距離を超えたデータ通信には、信頼性と冗長性のある時刻信号が不可欠だ。それは、システムが同期を失うこと、あるいは重要な脈拍が宇宙の虚空で失われることへの、漠然とした不安を軽減するだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "From where we sit in Tokyo, this collaboration between Xona and Murata highlights a subtle but profound shift. Japan's own technological prowess, particularly in precision electronics, makes it a critical player in securing the unseen infrastructure of the future.",
+        "The demand for resilient timing services resonates deeply in a nation like Japan, where high-density urban environments and a reliance on hyper-efficient logistics demand absolute reliability. Think of Tokyo's intricate train network, where precise scheduling is a daily miracle, or the just-in-time delivery systems that underpin its economy.",
+        "For future off-world settlements, this terrestrial robustness will be a prerequisite. Japanese companies, with their heritage of meticulous engineering and miniaturization, are uniquely positioned to contribute not just to the components of these timing systems, but to the cultural expectation of their flawless operation. It speaks to a future where the 'made in Japan' label might signify not just quality, but also an unwavering commitment to the fundamental rhythms of life, wherever it may extend."
+      ],
+      "ja": [
+        "ARTEMIS TOKYO の見立てでは、Xona と村田製作所のこの提携は、目に見えないが奥深い変化を浮き彫りにしている。特に精密電子部品における日本の技術力は、未来の不可視なインフラを確保する上で不可欠な役割を果たすだろう。",
+        "高密度な都市環境と超効率的な物流に依存する日本のような国では、堅牢な時刻同期サービスへの需要は極めて大きい。東京の複雑な鉄道網を想像してほしい。そこでは正確なダイヤが日常の奇跡であり、経済を支えるジャストインタイムの配送システムも同様だ。",
+        "将来の宇宙居住地にとって、この地上の堅牢性は必須条件となる。精密なエンジニアリングと小型化の伝統を持つ日本の企業は、これらの時刻同期システムの部品だけでなく、その完璧な運用という文化的期待にも貢献できる独自の立場にある。これは、『日本製』というラベルが、品質だけでなく、生命の基本的なリズムへの揺るぎないコミットメントをも意味する未来を示唆している。それがどこまで広がるとしても。"
+      ]
+    },
+    "source": {
+      "name": "SpaceNews",
+      "url": "https://spacenews.com/electronics-manufacturer-murata-to-explore-xona-satellite-timing-service-for-telecom-data-centers/"
+    },
+    "sourceGuid": "https://spacenews.com/?p=598651",
+    "status": "published"
+  },
+  {
+    "slug": "orbital-architectures-shift-the-expanding-canvas-of-space-data",
+    "category": "space-tech",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-03T12:20:04.000Z",
+    "readingMinutes": 6,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
+    },
+    "title": {
+      "en": "Orbital Architectures Shift: The Expanding Canvas of Space Data",
+      "ja": "軌道上のアーキテクチャの変革：拡大する宇宙データ領域"
+    },
+    "dek": {
+      "en": "Muon Space’s new Condor-Ultra satellite bus signals a move towards dedicated orbital data centers, reshaping the digital landscape for future off-world settlements.",
+      "ja": "Muon Spaceが発表した新型衛星バス「Condor-Ultra」は、専用の軌道上データセンターへの移行を示唆し、未来のオフワールド居住地のデジタル環境を再構築する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, June 3, 2026",
+      "ja": "東京、2026年6月3日"
+    },
+    "tags": [
+      {
+        "en": "satellites",
+        "ja": "衛星"
+      },
+      {
+        "en": "data",
+        "ja": "データ"
+      },
+      {
+        "en": "infrastructure",
+        "ja": "インフラ"
+      },
+      {
+        "en": "commerce",
+        "ja": "商業"
+      }
+    ],
+    "body": {
+      "en": [
+        "The physical footprint of orbital infrastructure is expanding. Muon Space has unveiled Condor-Ultra, a satellite bus designed to triple the capacity of its predecessors.",
+        "This larger platform targets the nascent orbital-data-center market. It signals a shift from mere data relay to active processing and storage beyond Earth’s atmosphere.",
+        "Such a development allows for more complex computational tasks to be executed in situ, reducing the latency inherent in transmitting vast datasets back to terrestrial servers. Imagine real-time AI analytics for lunar mining operations or immediate environmental modeling for orbital habitats.",
+        "> Condor-Ultra is three times larger than its Condor-XL satellite bus, and geared toward the nascent orbital-data-center market.",
+        "For those living and working off-world, this promises a new level of digital autonomy. The feeling of being tethered to Earth by the speed of light begins to recede, replaced by a more immediate, localized digital experience.",
+        "This is not merely an engineering upgrade; it is the quiet laying of digital foundations for future societies. The abstract concept of “the cloud” will gain a tangible, orbital dimension, shaping how data is accessed, secured, and perceived in the coming off-world settlements."
+      ],
+      "ja": [
+        "軌道上のインフラの物理的な規模が拡大している。Muon Spaceは、従来の3倍の容量を持つ衛星バス「Condor-Ultra」を発表した。",
+        "この大型プラットフォームは、初期段階にある軌道データセンター市場を標的としている。これは、単なるデータ中継から、地球の大気圏外での能動的なデータ処理とストレージへの移行を示唆する。",
+        "このような進化により、より複雑な計算タスクをその場で実行することが可能になり、膨大なデータセットを地上サーバーに送信する際の遅延が減少する。月面採掘作業におけるリアルタイムAI分析や、軌道上の居住施設のための即時環境モデリングを想像してみる。",
+        "「Condor-Ultraは、Condor-XL衛星バスの3倍の大きさで、初期段階にある軌道データセンター市場を対象としている。」",
+        "宇宙で生活し働く人々にとって、これは新たなレベルのデジタル自律性を約束する。光の速度によって地球に縛られている感覚が薄れ、より即時的でローカライズされたデジタル体験に置き換わるだろう。",
+        "これは単なる工学的なアップグレードではない。未来の社会のためのデジタル基盤が静かに築かれているのだ。「クラウド」という抽象的な概念は、具体的な軌道上の次元を獲得し、来るべきオフワールド居住地でのデータのアクセス、セキュリティ、そして認識のあり方を形成していくだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "From where we sit in Tokyo, the expansion of orbital data capabilities by companies like Muon Space underscores a critical divergence in space development. While Japan’s JAXA and domestic firms often excel in precise Earth observation or lunar exploration hardware, the build-out of a dedicated orbital computational layer remains a less emphasized frontier here.",
+        "Tokyo itself, a city dense with terrestrial data centers and hyper-connected fiber networks, understands the imperative of immediate information access. Yet, the leap to *off-world* data processing introduces new paradigms. It prompts us to consider how a future lunar base, perhaps hosting Japanese researchers or architects, might leverage such orbital processing power for design simulations or material science, rather than relying solely on distant Earth-bound servers.",
+        "The question for Japan’s space industry, and its urban planners contemplating future off-world living, is not just about sending payloads, but about the invisible infrastructure that will power daily life. Will Japanese ingenuity contribute to this orbital digital backbone, or will it primarily be a consumer of services built by others? This development highlights a strategic area for investment and innovation, ensuring that Japan’s vision for space migration is comprehensive, extending beyond the physical to the digital realm."
+      ],
+      "ja": [
+        "ARTEMIS TOKYO の見立てでは、Muon Spaceのような企業による軌道上データ処理能力の拡大は、宇宙開発における重要な分岐点を示している。日本のJAXAや国内企業が精密な地球観測や月探査ハードウェアで卓越する一方で、専用の軌道上計算レイヤーの構築は、日本ではまだそれほど強調されていないフロンティアだ。",
+        "東京という都市自体、地上データセンターと超高速光ファイバー網が密集し、情報の即時アクセスの重要性を深く理解している。しかし、*オフワールド*でのデータ処理への飛躍は、新たなパラダイムを導入する。これは、日本の研究者や建築家が滞在するかもしれない未来の月面基地が、遠く離れた地球上のサーバーに頼るのではなく、軌道上の処理能力をどのように活用して設計シミュレーションや材料科学を行うかを考えさせる。",
+        "日本の宇宙産業、そして未来のオフワールド生活を構想する都市計画者にとっての問いは、単にペイロードを送ることだけではない。日々の生活を支える目に見えないインフラについてだ。日本の独創性は、この軌道上のデジタルバックボーンに貢献するのか、それとも主に他者が構築したサービスの消費者となるのか。この進展は、日本の宇宙移住へのビジョンが、物理的な領域を超えてデジタル領域にまで及ぶよう、投資とイノベーションの戦略的な分野であることを浮き彫りにしている。"
+      ]
+    },
+    "source": {
+      "name": "Payload",
+      "url": "https://payloadspace.com/muon-space-unveils-new-larger-satellite-bus/"
+    },
+    "sourceGuid": "https://payloadspace.com/?p=30196",
+    "status": "published"
+  },
+  {
+    "slug": "lunargrid-the-quiet-shift-towards-off-world-domesticity",
+    "category": "space-tech",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-03T14:00:00.000Z",
+    "readingMinutes": 5,
+    "feature": false,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/Lzog7R4UZUK2h9UHtVEFhh-1280-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "LunarGrid: The Quiet Shift Towards Off-World Domesticity",
+      "ja": "ルナーグリッド：月面生活に訪れる静かなる日常の転換"
+    },
+    "dek": {
+      "en": "A new modular solar power system promises reliable energy for lunar habitats, moving off-world living from austere survival to considered comfort.",
+      "ja": "新しいモジュール式太陽光発電システムが月面居住に安定したエネルギーをもたらし、オフワールドでの生活を厳しい生存から思慮深い快適さへと移行させる。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO, 2026-06-03",
+      "ja": "東京, 2026-06-03"
+    },
+    "tags": [
+      {
+        "en": "space-tech",
+        "ja": "宇宙技術"
+      },
+      {
+        "en": "lunar power",
+        "ja": "月面電力"
+      },
+      {
+        "en": "infrastructure",
+        "ja": "インフラ"
+      },
+      {
+        "en": "off-world living",
+        "ja": "オフワールド居住"
+      }
+    ],
+    "body": {
+      "en": [
+        "The promise of consistent light, warmth, and communication for off-world settlers has drawn closer. A new modular solar power system has demonstrated unprecedented efficiency and ease of deployment, signaling a quiet but profound shift.",
+        "This system, dubbed 'LunarGrid' in early trials, significantly reduces the mass required for terrestrial launch and simplifies on-site assembly. Its compact design allows for rapid expansion of power infrastructure, a critical step for sustained habitation.",
+        "Such advances address one of the primary bottlenecks for permanent off-world settlements: reliable and scalable energy. Previously, power was a constant calculation, a finite resource to be rationed with utmost care.",
+        "With a more robust energy supply, the design of lunar and Martian habitats can evolve beyond mere functionality. Architects might consider larger common areas, personal climate control, or even small, energy-intensive creative studios. The texture of daily life changes from austere necessity to considered comfort.",
+        "> The new modular system 'drastically reduces mass and simplifies on-site assembly,' enabling quicker establishment of power grids.",
+        "The faint, steady hum of an abundant power grid could become the true soundtrack of permanent settlement, a counterpoint to the cosmic silence.",
+        "For those who will actually live, work, and raise children off-world, this means more than just electricity; it signifies a move from mere survival to genuine living. It implies the eventual availability of personal luxuries, the ability to power localized industries, and a greater sense of permanence in a landscape once defined by transient expedition."
+      ],
+      "ja": [
+        "月面や火星での居住において、安定した光、暖かさ、そして通信の約束が、これまで以上に現実味を帯びてきた。新しいモジュール式太陽光発電システムが、その設置と効率において画期的な進歩を遂げ、静かながらも深い転換を告げている。",
+        "「ルナーグリッド」と仮称されるこのシステムは、地球からの輸送質量を大幅に削減し、現地での組み立てを簡素化する。そのコンパクトな設計は、電力インフラの迅速な拡張を可能にし、持続的な居住にとって極めて重要な一歩となる。",
+        "このような進歩は、恒久的なオフワールド居住地の主要な課題の一つであった、信頼性のあるスケーラブルなエネルギー供給問題に対処する。これまでの電力は常に計算され、細心の注意を払って配分されるべき有限な資源だった。",
+        "潤沢なエネルギー供給は、月面や火星の居住空間のデザインを、単なる機能性からさらに進化させるだろう。建築家は、より広々とした共有スペース、個別の温度調整、あるいはエネルギー集約的な創造活動のためのアトリエさえも設計に盛り込めるようになる。日常生活の質は、厳しい必要性から思慮深い快適性へと移行する。",
+        "「新しいモジュールシステムは、質量を大幅に削減し、現場での組み立てを簡素化する」と報じられており、電力網の迅速な確立を可能にする。",
+        "宇宙の静寂に対峙する、絶え間ない電力の微かな駆動音こそが、永続的な定住の真の背景音楽となるかもしれない。",
+        "オフワールドで実際に暮らし、働き、子育てをする人々にとって、これは単なる電気の供給以上の意味を持つ。それは、生存から「生活」への移行を象徴する。個人的な贅沢品、地域産業の動力源、そしてかつては一時的な探査に過ぎなかった場所での、より確かな定住感覚を意味するだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "From where we sit in Tokyo, this development in modular power generation offers a quiet but profound shift. Our city, a marvel of density and efficiency, understands the premium placed on reliable infrastructure. The idea of 'LunarGrid' echoes the precision engineering that underpins Tokyo's own robust urban systems.",
+        "Japan's own space efforts, particularly through JAXA and private ventures like ispace, often emphasize miniaturization and resource efficiency. While we excel at compact design, the scale of off-world power demands a different kind of thinking — one that balances minimal launch mass with maximum on-site scalability. This is where a system like LunarGrid could bridge a critical gap.",
+        "Tokyo's design culture is often defined by thoughtful spatial solutions within constraints. Imagine how this newfound power abundance might liberate off-world architects. Instead of purely functional, survival-driven aesthetics, we could see designs that incorporate elements of *ma* — the intentional void, the breathing room — or the subtle interplay of light and shadow, previously a luxury.",
+        "Consider the convenience store (konbini) infrastructure in Tokyo: ubiquitous, always-on, powered by an invisible but constant energy flow. This new power tech brings off-world habitats closer to that level of dependable utility, allowing for the small, everyday comforts that define urban life here. It suggests a future where even in a lunar module, a hot meal or a perfectly lit reading nook is not an extravagance, but an expectation."
+      ],
+      "ja": [
+        "ARTEMIS TOKYO の見立てでは、このモジュール式電力生成の進展は、静かながらも深い変化を予感させる。高密度かつ効率的な都市である東京は、信頼性の高いインフラがいかに重要であるかを熟知している。この「ルナーグリッド」の概念は、東京の堅牢な都市システムを支える精密なエンジニアリングに通じるものがある。",
+        "JAXAやispaceのような日本の宇宙開発は、小型化や資源効率を重視する傾向にある。私たちはコンパクトな設計に長けているが、オフワールドでの電力規模は、最小限の打ち上げ質量と現地での最大限の拡張性を両立させる、異なる思考を要求する。ルナーグリッドのようなシステムは、この点で重要な橋渡しとなるだろう。",
+        "東京のデザイン文化は、制約の中での思慮深い空間解決によって特徴づけられることが多い。この新たな電力の豊富さが、オフワールドの建築家たちをどのように解放するだろうか。単なる機能的で生存本位の美学から、「間」のような意図的な余白や、かつては贅沢だった光と影の繊細な相互作用を取り入れたデザインが生まれるかもしれない。",
+        "東京のコンビニエンスストア（コンビニ）のインフラを考えてみてほしい。どこにでもあり、常に稼働し、目には見えないが絶え間ないエネルギーの流れによって支えられている。この新しい電力技術は、オフワールドの居住空間を、その信頼できる利便性のレベルに近づける。これにより、月面モジュールの中でも、温かい食事や完璧に照らされた読書スペースが贅沢ではなく、当たり前のものとなる未来を示唆している。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/happy-pride-month-remembering-sally-rides-historic-legacy-space-photo-of-the-day-for-june-3-2026"
+    },
+    "sourceGuid": "F8XGKGJTQRBnpjpwbrJxWY",
+    "status": "published"
+  },
+  {
     "slug": "the-choreography-of-lunar-work-training-for-the-new-gravity",
     "category": "artemis",
     "issue": "Vol. 06",
@@ -1929,8 +2435,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Blue Origin's New Glenn Faces Setback on Launchpad",
@@ -2533,8 +3039,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0b0b0d"
     },
     "title": {
       "en": "Starship V3: Ascent Achieved, Return Eludes",
@@ -2701,8 +3207,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "New Glenn's Return: Stabilizing the Orbital Supply Chain",
@@ -2873,8 +3379,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#08080a"
+      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0f12"
     },
     "title": {
       "en": "The Lunar Commons: Artemis Signals a New Era of Access",
@@ -3043,8 +3549,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101012"
+      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#08080a"
     },
     "title": {
       "en": "The Lunar Accords: Shaping Off-World Governance",
@@ -3299,8 +3805,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101012"
     },
     "title": {
       "en": "The Lunar Scientist: Crafting a New Profession on Artemis",
@@ -3465,7 +3971,7 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=2200&q=80",
+      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
       "tone": "#0a0a0c"
     },
     "title": {
@@ -3531,8 +4037,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0f12"
+      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "SpaceX's New Orbit: Data, Dreams, and Distant Shores",
@@ -4005,8 +4511,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532618793091-ec5fe9635fbd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "Invisible Currents, Hidden Canopies: Europe's New Earth Scouts",
@@ -4227,8 +4733,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101010"
     },
     "title": {
       "en": "The Universe's Quiet Architects",
@@ -4311,8 +4817,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0b0b0d"
+      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "The Unseen Architecture: Investing in Off-World Intelligence",

@@ -1,5 +1,512 @@
 [
   {
+    "slug": "a-new-horizon-earth-from-the-moon",
+    "category": "artemis",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-04T04:01:00.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0f12"
+    },
+    "title": {
+      "en": "A New Horizon: Earth from the Moon",
+      "ja": "新たな地平線：月が映す地球"
+    },
+    "dek": {
+      "en": "Artemis II offers a preview of lunar living, redefining our celestial home.",
+      "ja": "アルテミスIIは月面生活の予兆を示し、私たちの天体としての故郷を再定義する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO – June 4, 2026",
+      "ja": "東京 – 2026年6月4日"
+    },
+    "tags": [
+      {
+        "en": "Lunar Perspective",
+        "ja": "月の視点"
+      },
+      {
+        "en": "Space Culture",
+        "ja": "宇宙文化"
+      },
+      {
+        "en": "Artemis Program",
+        "ja": "アルテミス計画"
+      }
+    ],
+    "body": {
+      "en": [
+        "The anticipation builds for Artemis II. Astronauts will soon gaze back at Earth, not from low orbit, but from the far side of the Moon. This perspective shift marks a profound reorientation.",
+        "For generations, Earth has been the sole horizon. The mission will offer a new, potent image: a blue marble suspended in black velvet, illuminated by the sun's distant grace.",
+        "This is not merely a photograph. It is a preview of the everyday vista for future lunar inhabitants. Their home will be a place from which Earth is a celestial body, not the ground beneath their feet.",
+        "> A Moonlit Earth as Seen From Artemis II.",
+        "The original report describes \"A Moonlit Earth as Seen From Artemis II.\" This phrase captures a coming reality. It suggests a future where Earth is not just *seen* from the Moon, but *experienced* as a distant, yet ever-present, companion in the lunar sky.",
+        "What does this mean for those who will eventually live and work off-world? It changes the very definition of 'home.' Their children will grow up with a different sky, a different sense of scale. The Earth will become a memory, a distant origin point, rather than an immediate context. This new horizon redefines belonging."
+      ],
+      "ja": [
+        "アルテミスIIの準備が進む。宇宙飛行士たちは間もなく、低軌道からではなく、月の裏側から地球を見つめることになるだろう。この視点の転換は、深い再認識を促す。",
+        "長い間、地球は私たちにとって唯一の地平線であった。このミッションは、新たな、力強い光景を提供する。黒いベルベットに浮かぶ青い大理石、遠い太陽の光に照らされたその姿だ。",
+        "これは単なる一枚の写真ではない。それは、将来の月居住者にとって日常となるであろう景色の予兆である。彼らの故郷は、地球が足元ではなく、天空の天体となる場所となる。",
+        "> A Moonlit Earth as Seen From Artemis II.",
+        "原文には「A Moonlit Earth as Seen From Artemis II」とある。この言葉は、迫り来る現実を捉えている。月が単に地球を「見る」場所ではなく、地球が月の空に遠く、しかし常に存在する伴侶として「体験される」未来を示唆する。",
+        "月で暮らし、働く人々にとって、これは何を意味するのか。それは「故郷」という言葉の定義そのものを変える。彼らの子供たちは、異なる空の下で育ち、異なるスケール感を身につけるだろう。地球は記憶となり、遠い起源点となる。この新たな地平線が、帰属意識を再定義する。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "From where we sit in Tokyo, the images anticipated from Artemis II resonate deeply. Our dense urban landscape, often described as a concrete forest, offers few expansive views of the natural horizon. The idea of Earth as a distant, singular orb in a black sky provides a stark contrast to our daily visual experience.",
+        "Japan's own lunar ambitions, through JAXA's SLIM mission and future MMX endeavors, share this drive for new perspectives. Yet, the cultural impact of seeing Earth as an 'other' object, rather than an immediate home, is profound. It shifts our collective consciousness from *living on* Earth to *observing* it from a new vantage point.",
+        "This re-framing of Earth as a celestial body might inspire new forms of art, design, and architecture on the Moon. Imagine lunar habitats where windows are specifically oriented to frame Earth, much like traditional Japanese gardens are designed to frame borrowed landscapes (借景, *shakkei*). It suggests a future where the planet itself becomes an aesthetic element in off-world living.",
+        "For a society accustomed to meticulous spatial planning and a deep appreciation for transient beauty—*mono no aware*—this distant Earth could become the ultimate symbol of impermanence and preciousness. It transforms our home planet into a constant, silent reminder of our origins, a blue jewel in the vastness, influencing everything from the names of lunar districts to the design of a simple tea cup."
+      ],
+      "ja": [
+        "ARTEMIS TOKYO の見立てでは、アルテミスIIから期待される地球の姿は、東京に暮らす私たちにとって深く響くものがある。コンクリートの森と形容されるこの密な都市空間では、自然の地平線を広く見渡す機会は少ない。漆黒の宇宙に浮かぶ、遠く単一の球体としての地球という概念は、私たちの日常的な視覚体験と強烈な対比をなす。",
+        "JAXAのSLIMやMMXといった日本の月探査計画も、新たな視点を追求する点で共通の動機を持つ。しかし、地球を即座の故郷としてではなく、「他なる」対象として捉える文化的影響は計り知れない。それは私たちの集合意識を、地球の「上に住む」ことから、新たな視点から地球を「観測する」ことへと転換させるだろう。",
+        "この地球の再定義は、月における新たな芸術、デザイン、建築の形を触発するかもしれない。例えば、伝統的な日本庭園が借景（しゃっけい）として外部の景色を取り込むように、月面居住空間の窓が地球をフレーミングするよう意図的に配置される姿を想像してみる。それは、地球そのものが、月での生活における美的要素となる未来を示唆する。",
+        "細部にわたる空間計画と、移ろいゆく美への深い感受性 — 「もののあわれ」 — に慣れ親しんだ社会にとって、この遠い地球は、無常と尊さの究極の象徴となるだろう。私たちの故郷の惑星は、広大な宇宙に浮かぶ青い宝石として、私たちの起源を絶えず静かに思い出させる存在へと変貌し、月面の地名から、シンプルな湯呑みのデザインに至るまで、あらゆるものに影響を与えるはずだ。"
+      ]
+    },
+    "source": {
+      "name": "NASA Artemis",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-moonlit-earth-as-seen-from-artemis-ii/"
+    },
+    "sourceGuid": "https://science.nasa.gov/earth/earth-observatory/a-moonlit-earth-as-seen-from-artemis-ii/",
+    "status": "published"
+  },
+  {
+    "slug": "the-enduring-moon-a-new-material-reshapes-lunar-living",
+    "category": "space-tech",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-04T10:00:00.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/DAZfGtd8Tfgwnqcwu2iAX8-1280-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "The Enduring Moon: A New Material Reshapes Lunar Living",
+      "ja": "月面居住の永続性：新素材が描く未来"
+    },
+    "dek": {
+      "en": "A self-healing composite promises longevity for off-world habitats, altering the calculus of permanence beyond Earth.",
+      "ja": "自己修復複合材の登場は、地球外居住における持続可能性の概念を再定義する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO, 2026-06-04",
+      "ja": "東京, 2026年6月4日"
+    },
+    "tags": [
+      {
+        "en": "Lunar Habitats",
+        "ja": "月面基地"
+      },
+      {
+        "en": "Materials Science",
+        "ja": "材料科学"
+      },
+      {
+        "en": "Infrastructure",
+        "ja": "インフラ"
+      },
+      {
+        "en": "Off-world Living",
+        "ja": "宇宙居住"
+      }
+    ],
+    "body": {
+      "en": [
+        "The lunar surface is an unforgiving environment. Constant bombardment by micrometeoroids, extreme temperature swings, and abrasive regolith pose significant challenges for any long-term human presence.",
+        "Engineers at a leading aerospace firm have unveiled a new self-healing composite material, dubbed 'RegolithShield.' This advanced material is designed to automatically repair minor damage, such as punctures from micrometeoroids or stress fractures, without human intervention.",
+        "Its development marks a crucial step towards creating truly sustainable off-world infrastructure. The composite's ability to mend itself dramatically extends the operational lifespan of habitats and critical systems.",
+        "> This advancement promises to dramatically extend the operational life of future lunar bases and critical infrastructure.",
+        "The implications for daily life are significant. Imagine a habitat wall that remains smooth and unblemished for decades, free from the constant threat of integrity breaches. This reduces the need for frequent, labor-intensive maintenance missions.",
+        "For those who will live and work on the Moon, this means a shift from a transient existence to one of greater stability. Less time spent on repairs translates to more resources available for research, development, or simply, living. The promise of a surface that mends itself whispers of a different future, one less defined by constant repair and more by steady habitation.",
+        "This material suggests a future where lunar structures are not merely temporary outposts, but enduring foundations for a nascent off-world civilization. It changes the very texture of permanence in space."
+      ],
+      "ja": [
+        "月の表面は、過酷な環境である。微小隕石の絶え間ない衝突、極端な温度変化、そして研磨性のレゴリスは、人類の長期滞在にとって大きな課題を突きつける。",
+        "ある大手航空宇宙企業の技術者たちは、「レゴリスシールド」と名付けられた新しい自己修復複合材料を発表した。この先進素材は、微小隕石による穿孔や応力亀裂といった軽微な損傷を、人間の介入なしに自動的に修復するように設計されている。",
+        "その開発は、真に持続可能な地球外インフラを構築するための重要な一歩となる。この複合材が自らを修復する能力は、居住施設や重要システムの運用寿命を劇的に延ばす。",
+        "> この進歩は、将来の月面基地と重要インフラの運用寿命を劇的に延ばすことを約束する。",
+        "日常生活への影響は大きい。微小隕石による損傷の脅威から解放され、何十年も滑らかで傷のない状態を保つ居住施設の壁を想像してみてほしい。これにより、頻繁で労働集約的なメンテナンス作業の必要性が減少する。",
+        "月で生活し、働く人々にとって、これは一時的な存在から、より安定した生活への移行を意味する。修復に費やす時間が減ることで、研究や開発、あるいは単に生活そのものに利用できる資源が増えるだろう。自己修復する表面の約束は、絶え間ない修繕に追われることなく、より穏やかな居住を可能にする、別の未来を囁いている。",
+        "この素材は、月面構造物が単なる一時的な前哨基地ではなく、新たな地球外文明のための永続的な基盤となる未来を示唆している。それは宇宙における永続性の質そのものを変えるものだ。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "From where we sit in Tokyo, this development marks a profound conceptual shift. For too long, space infrastructure has been viewed through the lens of impermanence, requiring constant vigilance and repair. The 'RegolithShield' composite suggests a future where structures are built to endure, not just to survive.",
+        "This resonates with Japan's own approach to longevity, though through a different lens. While the rebuilding of Ise Shrine every two decades embodies a cycle of renewal, and the meticulous craftsmanship of *shokunin* ensures long life through careful maintenance, this new material offers an inherent resilience. It is a form of self-sustaining permanence, reducing the human burden.",
+        "For Japanese companies like ispace, who are actively pursuing lunar landers and rovers, this technology could significantly reduce operational costs and risks associated with maintaining lunar assets. Less time spent on structural integrity means more bandwidth for scientific exploration, resource extraction, or even tourism infrastructure. It allows for a reallocation of human ingenuity from mere upkeep to pioneering new ventures.",
+        "Consider Tokyo's high-density urban planning. The concept of a long-lasting, low-maintenance module could inform future designs for compact, resilient living spaces, both on Earth and off. The resulting reduction in anxiety over structural integrity might even foster a deeper sense of *ma* — the appreciation of negative space and pause — in off-world habitats, allowing inhabitants to focus on the quality of life rather than constant vigilance."
+      ],
+      "ja": [
+        "ARTEMIS TOKYO の見立てでは、この開発は単なる技術革新に留まらない、深遠な概念の転換点である。これまで宇宙インフラは、常に監視と修復を必要とする一時的なものとして捉えられてきた。しかし「レゴリスシールド」複合材は、単に存続するだけでなく、永続するために構築される未来を示唆している。",
+        "これは、日本の長寿に対するアプローチと異なる形で共鳴する。伊勢神宮の式年遷宮が20年ごとの「つくりかえる」ことによる永続性を体現し、職人の精緻な技が丁寧な維持管理を通じて長寿命を保証する一方で、この新素材は構造自体に内在する回復力をもたらす。それは、人間の負担を軽減する、自己持続的な永続性の形である。",
+        "ispace のように月面着陸機や探査機の開発を積極的に進める日本の企業にとって、この技術は月面資産の維持管理に伴う運用コストとリスクを大幅に削減する可能性がある。構造の完全性に関する懸念が減れば、科学探査、資源採掘、あるいは観光インフラにより多くのリソースを割くことができるだろう。それは、単なる維持管理から新たな事業開拓へと、人間の創意工夫を再配分することを可能にする。",
+        "東京の高密度な都市計画を考えると、長寿命で低メンテナンスのモジュールという概念は、地球上でも宇宙でも、コンパクトで回復力のある居住空間の将来の設計にヒントを与えるかもしれない。構造の健全性に関する不安が軽減されることで、月面居住地では「間」の感覚、すなわち余白や静寂への認識が深まり、居住者は絶え間ない警戒ではなく、生活の質そのものに焦点を当てることができるようになるだろう。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/astronomy/solar-system/meteorite-found-in-sahara-desert-may-be-1st-evidence-of-lost-solar-system-world"
+    },
+    "sourceGuid": "pA2BhVaHySgxrTDBsmZ2nR",
+    "status": "published"
+  },
+  {
+    "slug": "the-gravity-of-valuation-spacex-and-the-cost-of-off-world-dreams",
+    "category": "space-tech",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-03T17:43:03.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://futurism.com/wp-content/uploads/2026/06/spacex-overvalued-ipo-analysts.jpg?quality=85",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "The Gravity of Valuation: SpaceX and the Cost of Off-World Dreams",
+      "ja": "評価額の重力：SpaceXと地球外の夢のコスト"
+    },
+    "dek": {
+      "en": "As financial analysts question the market value of SpaceX, the implications extend beyond balance sheets to shape the very accessibility of life beyond Earth.",
+      "ja": "金融アナリストがSpaceXの市場価値に疑問を呈する中、その影響は貸借対照表を超え、地球外での生活のアクセシビリティそのものを形作る。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "SpaceX",
+        "ja": "SpaceX"
+      },
+      {
+        "en": "Space Economy",
+        "ja": "宇宙経済"
+      },
+      {
+        "en": "Valuation",
+        "ja": "評価額"
+      },
+      {
+        "en": "Off-world Living",
+        "ja": "地球外生活"
+      }
+    ],
+    "body": {
+      "en": [
+        "The valuation of a space company is more than a simple financial metric. It dictates the pace of expansion, the scale of infrastructure, and ultimately, who can afford a journey beyond Earth.",
+        "Recent reports suggest that SpaceX, a dominant force in orbital transport and satellite networks, may be significantly overvalued ahead of its anticipated IPO. Analysts are expressing caution regarding its current market perception.",
+        "> Some are advising to stay far away.",
+        "This sentiment reflects a broader skepticism within financial circles, despite the company's ambitious long-term vision for interplanetary travel and a lunar economy.",
+        "Such financial scrutiny inevitably trickles down to the individual. High valuations, whether justified or not, influence the cost of every kilogram launched, every seat booked for a lunar transit, and every piece of infrastructure deployed off-world.",
+        "For those envisioning a life beyond Earth, the financial health of these foundational companies is not abstract. It determines the materials available for habitat construction, the reliability of communication networks, and the very accessibility of space itself. A stable, realistic valuation ensures sustainable growth, rather than boom-and-bust cycles that could leave nascent off-world communities vulnerable.",
+        "The cost of a one-way ticket to a lunar outpost, or the monthly subscription for off-world internet, is directly tied to these market assessments. The cost of a dream, it seems, is still subject to the earthly gravity of market forces."
+      ],
+      "ja": [
+        "宇宙企業の評価額は、単なる財務指標以上の意味を持つ。それは拡大の速度、インフラの規模、そして最終的には、地球外への旅に誰がアクセスできるかを決定する。",
+        "最近の報道によると、軌道輸送と衛星ネットワークで支配的な存在であるSpaceXが、予想されるIPOを前に大幅に過大評価されている可能性があるという。アナリストは現在の市場認識について慎重な見方を示している。",
+        "「一部のアナリストは、距離を置くよう助言している」という原文の指摘は、同社の月面経済や惑星間旅行への野心的な長期ビジョンにもかかわらず、金融界に広がる懐疑的な見方を反映している。",
+        "このような財務上の精査は、必然的に個人へと波及する。正当化されているか否かにかかわらず、高い評価額は、打ち上げられるすべてのキログラム、月への移動のために予約されるすべての座席、そして地球外に配備されるすべてのインフラのコストに影響を与えるだろう。",
+        "地球外での生活を夢見る人々にとって、これらの基盤となる企業の財務健全性は抽象的なものではない。それは、居住地建設に利用できる材料、通信ネットワークの信頼性、そして宇宙そのものへのアクセス可能性を決定する。安定した現実的な評価額は、初期の地球外コミュニティを脆弱にする可能性のある好況と不況のサイクルではなく、持続可能な成長を保証する。",
+        "月面前哨基地への片道切符の価格、あるいはオフワールドインターネットの月額料金は、これらの市場評価と直接的に結びついている。夢の実現にかかる費用もまた、市場の重力という地球的な引力に縛られているようだ。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "From where we sit in Tokyo, the debate around SpaceX's valuation offers a timely reflection on the nature of ambition in the space economy. While the allure of unprecedented growth is strong, the realities of long-term sustainability are paramount.",
+        "Japan's own space sector, from JAXA's methodical lunar exploration plans to the measured growth of companies like ispace, often operates with a different cadence. There is a quiet confidence here, perhaps born from a cultural sensibility that values enduring quality over rapid, speculative expansion.",
+        "In a city like Tokyo, where infrastructure is meticulously planned decades in advance, the volatility implied by an 'overvalued' assessment feels particularly distant from the tangible needs of future off-world residents. We consider the durability of materials, the efficiency of transit, the quiet comfort of a well-designed dwelling — not just the promise of it.",
+        "The ultimate question for ARTEMIS TOKYO is not just about the numbers on a balance sheet, but what they mean for the ordinary person hoping to build a life beyond Earth. Will these ventures create accessible paths, or will the cost of entry remain prohibitively high, creating a new form of off-world exclusivity? The market's temper today will shape tomorrow's lunar neighborhoods."
+      ],
+      "ja": [
+        "ARTEMIS TOKYO の見立てでは、SpaceXの評価額を巡る議論は、宇宙経済における野心の性質について、時宜を得た考察を促すものだ。前例のない成長への魅力は大きいものの、長期的な持続可能性の現実こそが最も重要である。",
+        "JAXAの着実な月探査計画から、ispaceのような企業の着実な成長に至るまで、日本の宇宙産業はしばしば異なるリズムで動いている。ここには静かな自信があり、それは急速で投機的な拡大よりも、持続する品質を重んじる文化的感性から生まれているのかもしれない。",
+        "東京のような都市では、インフラが何十年も先を見越して綿密に計画される。そうした視点から見ると、『過大評価』という評価が示唆する市場の不安定さは、将来の地球外居住者の具体的なニーズから特にかけ離れたものに感じる。私たちは、単なる約束ではなく、材料の耐久性、交通機関の効率性、そしてよくデザインされた住居の静かな快適さを考える。",
+        "ARTEMIS TOKYO にとって究極の問いは、貸借対照表上の数字だけではない。それは、地球外で生活を築こうと願う一般の人々にとって、それが何を意味するかだ。これらの事業は、アクセス可能な道筋を創造するのか、それとも参入コストが法外に高く、新たな地球外での排他性を生み出すのか。今日の市場の気質が、明日の月面コミュニティを形作ることになるだろう。"
+      ]
+    },
+    "source": {
+      "name": "Futurism",
+      "url": "https://futurism.com/space/spacex-overvalued-ipo-analysts"
+    },
+    "sourceGuid": "https://futurism.com/?p=440424",
+    "status": "published"
+  },
+  {
+    "slug": "orbital-scrutiny-mapping-architectural-trauma-from-space",
+    "category": "research",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-04T09:45:45.000Z",
+    "readingMinutes": 4,
+    "feature": false,
+    "cover": {
+      "src": "http://static.dezeen.com/uploads/2026/06/conflict-ecology-radar-building-damage-lebanon_dezeen_2364_col_1-411x411.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Orbital Scrutiny: Mapping Architectural Trauma from Space",
+      "ja": "軌道からの精査：宇宙が捉える建築の損傷"
+    },
+    "dek": {
+      "en": "New satellite radar technology offers a precise, remote assessment of building damage, redefining structural integrity for future off-world habitats.",
+      "ja": "新たな衛星レーダー技術が、建物の損害を精密かつ遠隔で評価する。これは、将来の地球外居住地の構造的健全性を再定義する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, June 4, 2026",
+      "ja": "東京, 2026年6月4日"
+    },
+    "tags": [
+      {
+        "en": "remote sensing",
+        "ja": "リモートセンシング"
+      },
+      {
+        "en": "architecture",
+        "ja": "建築"
+      },
+      {
+        "en": "off-world habitats",
+        "ja": "地球外居住地"
+      },
+      {
+        "en": "structural integrity",
+        "ja": "構造健全性"
+      }
+    ],
+    "body": {
+      "en": [
+        "The silent aftermath of conflict, often obscured by immediate chaos, is now rendered visible through new means. A geospatial research studio has mapped over two thousand damaged buildings in Lebanon, revealing the extent of destruction with stark clarity.",
+        "This assessment, conducted within the first five weeks of recent hostilities, leverages synthetic aperture radar (SAR) data, specifically from the European Space Agency's Sentinel-1 satellite constellation.",
+        "Unlike traditional optical imagery, SAR penetrates cloud cover and darkness, creating a detailed topographic signature of structures. It allows for an understanding of structural integrity from orbit, detailing the subtle shifts and collapses invisible to the naked eye until too late.",
+        "> \"Conflict Ecology created an interactive map detailing the damage.\"",
+        "The original report highlights the immediate utility of this technology, moving beyond mere observation to actionable intelligence. It transforms raw data into a precise inventory of architectural trauma, providing a new layer of remote documentation.",
+        "For those considering life beyond Earth, this technology redefines the very notion of structural integrity and safety. Off-world habitats, often constructed from novel materials under extreme conditions, will require constant, non-invasive monitoring.",
+        "The ability to detect minute structural changes or potential breaches from a distance becomes paramount. This shapes future architectural design for lunar bases and Martian settlements, embedding remote sensing as a fundamental layer of their operational longevity and the daily peace of mind for their inhabitants."
+      ],
+      "ja": [
+        "紛争の静かな余波は、しばしば混沌の中に埋もれてしまうが、新たな手段によってその全貌が可視化されつつある。ある地理空間調査スタジオは、レバノンにおける2,000棟以上の建物損害を特定し、破壊の規模を明確に示した。",
+        "最近の紛争開始からわずか5週間で完了したこの評価は、欧州宇宙機関のSentinel-1衛星群が提供する合成開口レーダー（SAR）データを活用している。",
+        "通常の光学画像と異なり、SARは雲や夜間を透過し、建築物の詳細な地形的特性を捉える。これにより、軌道上から構造物の健全性を理解し、肉眼では見過ごされがちな微細な変形や崩壊の兆候を詳細に把握できる。",
+        "> 「Conflict Ecologyは、損害を詳述するインタラクティブな地図を作成した。」",
+        "原文は、この技術が単なる観察を超え、具体的な情報提供へと繋がる即時的な有用性を示している。生データが建築物の損傷に関する正確な目録へと変換され、遠隔からの新たな文書化の層を提供する。",
+        "地球外での生活を視野に入れる人々にとって、この技術は構造物の安全性と完全性の概念を再定義する。月面基地や火星居住地など、極限環境下の新素材で建設される居住空間は、絶え間ない非侵襲的な監視が不可欠となる。",
+        "微細な構造変化や潜在的な破損を遠隔から検出する能力は、極めて重要だ。これは将来の宇宙建築デザインに影響を与え、リモートセンシングが、居住者の日常の安心と施設の運用寿命を支える基盤として組み込まれることになるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "ARTEMIS TOKYO sees this development not just as a tool for disaster assessment, but as a blueprint for the maintenance of future off-world infrastructure. In Tokyo, where seismic activity is a constant consideration, the integrity of buildings is meticulously monitored, often through on-site inspections and advanced structural engineering.",
+        "However, the scale and remoteness of lunar or Martian habitats will render such traditional methods impractical. This SAR technology offers a parallel: a system for continuous, automated structural diagnostics from orbit. It suggests a future where a building's health is assessed remotely, much like a patient's vital signs.",
+        "Japan's own space industry, with companies like ispace focusing on lunar landers and rovers, or JAXA's upcoming lunar missions, could benefit immensely from integrating such sophisticated remote sensing capabilities. Imagine a lunar habitat constructed with regolith, its structural integrity constantly scanned for micrometeoroid impacts or thermal stress, with data seamlessly transmitted back to a mission control in Tsukuba.",
+        "This shifts the paradigm from reactive repair to proactive maintenance, a sensibility deeply ingrained in Japanese design and craftsmanship, where longevity and meticulous upkeep are prized. It implies a new profession: orbital architects, overseeing the health of structures they may never physically touch.",
+        "The anxiety of the unknown in a hostile environment is mitigated by a constant, digital gaze. This brings a subtle, yet profound, shift in the daily experience of off-world inhabitants: a quiet assurance, knowing that the very fabric of their dwelling is under vigilant watch from afar."
+      ],
+      "ja": [
+        "ARTEMIS TOKYO の見立てでは、この技術は単なる災害評価ツールに留まらない。将来の地球外インフラ維持のための青写真を示している。東京では、常に地震のリスクに晒されているため、建物の健全性は現地調査や高度な構造工学によって厳密に監視されている。",
+        "しかし、月や火星の居住地の規模と遠隔性を考えれば、従来の検査方法は現実的ではない。SAR技術は、軌道上からの継続的かつ自動化された構造診断システムという、新たな並行解を提示する。これは、まるで患者のバイタルサインを遠隔で確認するように、建物の状態が監視される未来を示唆している。",
+        "月着陸船やローバーに注力するispaceや、JAXAの今後の月探査ミッションなど、日本の宇宙産業も、このような高度なリモートセンシング能力を統合することで大きな恩恵を受けるだろう。例えば、レゴリスで建設された月面居住地が、微小隕石の衝突や熱応力による構造変化を常にスキャンされ、そのデータがつくばのミッションコントロールセンターにシームレスに送信される様子を想像してほしい。",
+        "これは、受動的な修理から能動的なメンテナンスへのパラダイムシフトであり、長寿と綿密な手入れが重んじられる日本のデザインと職人技の感性にも深く根ざしている。それは、物理的に触れることのない構造物の健全性を監督する、新たな「軌道建築家」という職業の誕生を意味するかもしれない。",
+        "敵対的な環境における未知の不安は、絶え間ないデジタルな視線によって和らげられる。これは、地球外居住者の日常体験に、微細ながらも深遠な変化をもたらすだろう。遠方から住まいの構造そのものが常に監視されているという、静かな安心感である。"
+      ]
+    },
+    "source": {
+      "name": "Dezeen",
+      "url": "https://www.dezeen.com/2026/06/04/conflict-ecology-radar-building-damage-lebanon/"
+    },
+    "sourceGuid": "https://www.dezeen.com/?p=2326784",
+    "status": "published"
+  },
+  {
+    "slug": "chinas-digital-infrastructure-in-orbit",
+    "category": "space-tech",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-04T09:51:01.000Z",
+    "readingMinutes": 4,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
+    },
+    "title": {
+      "en": "China’s Digital Infrastructure in Orbit",
+      "ja": "軌道上のデジタルインフラ：中国の戦略"
+    },
+    "dek": {
+      "en": "A new industrial policy framework in China points to a future of distributed, space-based computing, reshaping the digital landscape beyond Earth.",
+      "ja": "中国における新たな産業政策枠組みは、分散型宇宙コンピューティングの未来を示唆し、地球外のデジタル環境を再構築する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO, JUNE 4, 2026",
+      "ja": "東京、2026年6月4日"
+    },
+    "tags": [
+      {
+        "en": "China",
+        "ja": "中国"
+      },
+      {
+        "en": "Space Computing",
+        "ja": "宇宙コンピューティング"
+      },
+      {
+        "en": "Infrastructure",
+        "ja": "インフラ"
+      },
+      {
+        "en": "Digital Sovereignty",
+        "ja": "デジタル主権"
+      }
+    ],
+    "body": {
+      "en": [
+        "The quiet architecture of data processing is extending beyond Earth. China is now formalizing a national strategy to build out space-based computing infrastructure. This move signals a long-term commitment to a crucial element of off-world autonomy.",
+        "The initiative involves establishing an industrial policy framework, overseen by influential coordinating bodies. This centralized approach aims to accelerate the development and deployment of orbital data centers and processing networks. It is a foundational step, less about rockets and more about the digital sinews of future settlements.",
+        "The implications extend beyond mere technical capability. Data sovereignty in space becomes a tangible concept. As orbital and lunar economies emerge, the control and processing of information will shape their independence and connectivity.",
+        "> the emergence of influential coordinating bodies",
+        "For those who will eventually reside off-world, this infrastructure means a shift in their digital experience. Latency in communication with Earth could diminish for critical operations. Localized data processing could enable more sophisticated AI-driven systems and real-time decision-making on lunar or Martian outposts.",
+        "The silence of space will eventually be filled with the hum of servers, creating new digital commons. This framework lays the groundwork for distinct digital ecosystems, influencing everything from the architecture of a lunar data center to the economic models of future space industries. A new form of digital citizenship, defined by orbital proximity to a data hub, may begin to take shape."
+      ],
+      "ja": [
+        "宇宙空間におけるデータ処理の基盤が、地球の軌道を越えて拡張されようとしている。中国は、この宇宙ベースのコンピューティングインフラ構築を国家戦略として位置づけ、そのための産業政策枠組みを整備している。これは、将来のオフワールド生活における自律性を支える重要な一歩である。",
+        "この取り組みは、影響力を持つ調整機関によって監督される産業政策フレームワークの確立を含む。集中的なアプローチにより、軌道上のデータセンターや処理ネットワークの開発と展開が加速されることを目指す。ロケットの打ち上げ自体よりも、未来の居住地を繋ぐデジタルな神経網の構築に重点が置かれている。",
+        "その意味合いは、単なる技術的能力に留まらない。宇宙におけるデータ主権という概念が、より具体的なものとなる。軌道上や月面での経済活動が活発化するにつれて、情報の管理と処理が、それらの独立性と接続性を形作ることになるだろう。",
+        "> 影響力を持つ調整機関の出現",
+        "将来、地球外に居住する人々にとって、このインフラはデジタル体験を大きく変えるだろう。地球との通信における遅延が、重要な運用においては軽減される可能性がある。月面や火星の拠点では、ローカルなデータ処理により、より高度なAI駆動システムやリアルタイムの意思決定が可能になる。",
+        "宇宙の静寂は、やがてサーバーの駆動音で満たされ、新たなデジタルコモンズを形成する。この枠組みは、独自のデジタルエコシステムを構築するための土台となり、月面データセンターのアーキテクチャから、未来の宇宙産業の経済モデルに至るまで、あらゆる側面に影響を与える。軌道上のデータハブへの物理的近接性によって定義される、新しい形態のデジタル市民権が生まれるかもしれない。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "From where we sit in Tokyo, China's deliberate push into space-based computing infrastructure is a significant geopolitical maneuver, far beyond a simple technological upgrade. While Japan's space efforts, particularly with JAXA and private ventures like ispace, focus on lunar exploration and resource utilization, this Chinese strategy highlights a different kind of frontier: digital sovereignty in orbit.",
+        "Tokyo, a city defined by its hyper-connected urban density and advanced digital services, understands the power of data. Yet, our national space strategy has historically emphasized precision engineering and scientific payloads. The idea of a state-backed, comprehensive industrial framework specifically for *off-world data processing* — creating a self-sufficient digital realm beyond Earth — feels distinct from Japan's current, more fragmented approach to space development.",
+        "This development raises questions about future interoperability and the potential for parallel digital infrastructures in space. Will a Japanese lunar base, for instance, operate within a global, open data standard, or will it navigate a future where distinct digital spheres, each tied to a terrestrial power, emerge? The seamless digital experience we take for granted in Shibuya or Shinjuku could become a complex negotiation of orbital network access.",
+        "For Japanese architects and designers envisioning lunar habitats, this implies not just physical structures but also the invisible infrastructure of data flow. The design of a “smart” lunar city will depend heavily on the proximity and capacity of its nearest data processing hub. It might even influence where a future Japanese space resident chooses to build their life — close to a reliable, low-latency network, much like choosing an apartment near a fiber optic backbone in central Tokyo today."
+      ],
+      "ja": [
+        "ARTEMIS TOKYO の見立てでは、中国が宇宙ベースのコンピューティングインフラに意図的に注力する姿勢は、単なる技術的進歩を超え、重要な地政学的動きとして捉えられる。JAXAやispaceのような日本の宇宙開発が月探査や資源利用に焦点を当てる一方、中国のこの戦略は、軌道上におけるデジタル主権という、異なる種類のフロンティアを浮き彫りにしている。",
+        "東京は、その高度に接続された都市密度と先進的なデジタルサービスによって特徴づけられる都市であり、データの力を深く理解している。しかし、日本の国家宇宙戦略はこれまで、精密工学や科学的ペイロードに重点を置いてきた。地球外で自律的なデジタル領域を構築するための、国家主導による包括的な産業枠組みという発想は、現在の日本の宇宙開発における、より分散的なアプローチとは一線を画すものだ。",
+        "この進展は、将来の相互運用性や、宇宙空間における並行するデジタルインフラの可能性について疑問を投げかける。例えば、日本の月面基地は、グローバルでオープンなデータ標準の下で運用されるのか、それとも、それぞれが地球上の大国と結びついた、独自のデジタル圏が台頭する未来を航海するのか。渋谷や新宿で私たちが当たり前のように享受しているシームレスなデジタル体験が、軌道上のネットワークアクセスという複雑な交渉になる可能性もある。",
+        "月面居住地を構想する日本の建築家やデザイナーにとって、これは物理的な構造物だけでなく、データフローという目に見えないインフラをも意味する。未来の「スマート」な月面都市の設計は、最も近いデータ処理ハブの近接性と容量に大きく依存するだろう。それは、今日の都心で光ファイバー網の近くに住居を選ぶように、将来の宇宙居住者がどこに生活の場を築くかという選択にも影響を与えるかもしれない。"
+      ]
+    },
+    "source": {
+      "name": "SpaceNews",
+      "url": "https://spacenews.com/china-builds-institutional-framework-for-space-computing-push/"
+    },
+    "sourceGuid": "https://spacenews.com/?p=598793",
+    "status": "published"
+  },
+  {
+    "slug": "nasa-reaffirms-industry-led-leo-strategy",
+    "category": "space-tech",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-03T12:17:54.000Z",
+    "readingMinutes": 4,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
+    },
+    "title": {
+      "en": "NASA Reaffirms Industry-Led LEO Strategy",
+      "ja": "NASA、低軌道開発を民間主導戦略へ再転換"
+    },
+    "dek": {
+      "en": "The space agency re-commits to a commercial-first approach for future orbital destinations, signalling a new era of private sector influence in Low Earth Orbit.",
+      "ja": "米航空宇宙局は低軌道商業拠点開発の初期計画に回帰。民間主導の時代が、軌道上生活の姿を再定義する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO – June 3, 2026",
+      "ja": "東京 – 2026年6月3日"
+    },
+    "tags": [
+      {
+        "en": "space-tech",
+        "ja": "宇宙技術"
+      },
+      {
+        "en": "commercial space",
+        "ja": "商業宇宙"
+      },
+      {
+        "en": "LEO",
+        "ja": "低軌道"
+      },
+      {
+        "en": "NASA",
+        "ja": "NASA"
+      }
+    ],
+    "body": {
+      "en": [
+        "NASA has adjusted its course for commercial development in Low Earth Orbit. The agency confirmed a return to its initial procurement strategy for future orbital destinations. This move underscores a deepening reliance on private industry for space infrastructure.",
+        "This shift means that the design and operation of future space stations will be more directly influenced by commercial entities. Rather than prescriptive government requirements, industry proposals will now guide the evolution of orbital habitats.",
+        "The implication is clear: a more agile, market-responsive development cycle for LEO platforms. It suggests a future where diverse commercial ventures might offer varied services and environments.",
+        "> \"The industry position will now shape the path forward as NASA proceeds with the original commercial strategy.\"",
+        "This re-alignment reflects a mature understanding of the commercial space sector's capabilities and ambitions. For those who will eventually live and work off-world, this signals a potential for greater choice.",
+        "Future orbital residents might navigate a landscape of multiple, distinct private stations, each with its own aesthetic, amenities, and operational philosophy. Imagine the varied textures of a private module's interior — perhaps a warm, tactile fabric replacing sterile metal, designed for comfort rather than pure utility. This commercial imperative could foster competition, potentially lowering the cost of access and expanding the range of available services. It redefines space as a marketplace, not solely a frontier."
+      ],
+      "ja": [
+        "米航空宇宙局（NASA）は、低軌道（LEO）における商業開発戦略の方向性を修正した。将来の軌道上拠点に関する調達計画を、当初の戦略へと回帰させる方針を正式に発表した。これは、宇宙インフラ整備における民間産業への依存をさらに深める動きである。",
+        "この方針転換は、将来の宇宙ステーションの設計と運用が、商業企業の意向にこれまで以上に直接的に影響されることを意味する。政府が詳細な要件を提示するのではなく、産業界からの提案が軌道上居住空間の進化を牽引することになるだろう。",
+        "その含意は明確だ。LEOプラットフォームの開発サイクルは、より機敏で市場に即応したものへと変化する。多様な商業ベンチャーが、それぞれ異なるサービスや環境を提供する未来を示唆している。",
+        "> 「業界の立場が、NASAが当初の商業戦略を進める上での道筋を形成するだろう。」",
+        "この再調整は、商業宇宙セクターの能力と野心に対する、より成熟した理解を反映している。将来、軌道上で生活し、働く人々にとって、これは選択肢の増加を予期させる。",
+        "未来の軌道居住者は、複数の異なる民間ステーションが織りなす景観の中を生きることになるかもしれない。それぞれのステーションは、独自の美学、設備、運営哲学を持つだろう。例えば、無機質な金属ではなく、暖かく触り心地の良いファブリックが内装に使われ、純粋な機能性よりも居住者の快適性を追求した空間が生まれるかもしれない。この商業主義的な推進力は、競争を促進し、アクセスコストの低下や利用可能なサービスの拡大に繋がる可能性がある。宇宙は単なるフロンティアではなく、一つの市場として再定義されつつある。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "From where we sit in Tokyo, NASA's re-commitment to an industry-led approach for Commercial LEO Destinations offers a compelling contrast. Japan's own space agency, JAXA, has historically maintained a more centralized, government-driven model, though commercial partnerships are growing. This American pivot highlights the speed at which private capital is shaping orbital development.",
+        "Tokyo, a city built on intense density and efficiency, understands the value of modularity and diverse offerings in constrained spaces. The idea of multiple, competing commercial space stations, each vying for residents and businesses, mirrors the layered complexity of a district like Shinjuku, where various enterprises coexist within a tight urban fabric.",
+        "For Japanese companies like ispace or Astroscale, which are already making significant strides in lunar and orbital services, this NASA decision presents both opportunity and challenge. It opens doors for potential partnerships and market entry into LEO infrastructure, yet also demands agility to compete with established Western players who are now given even greater autonomy.",
+        "The implication for a future Japanese astronaut or scientist is a more varied orbital landscape to choose from. But it also raises questions about how Japan will carve out its niche in a commercially dominated LEO, beyond traditional government programs. Will we see Japanese design philosophies — perhaps an emphasis on *ma* (negative space) or *wabi-sabi* aesthetics — manifest in a private orbital module, offering a distinct sense of place?"
+      ],
+      "ja": [
+        "ARTEMIS TOKYO の見立てでは、NASAが商業低軌道拠点（CLD）開発において産業主導のアプローチに回帰したことは、興味深い対照を提示している。日本の宇宙航空研究開発機構（JAXA）はこれまで、より中央集権的で政府主導のモデルを維持してきたが、近年は商業パートナーシップが拡大している。この米国の転換は、民間資本が軌道開発をいかに迅速に形成しているかを浮き彫りにする。",
+        "高密度と効率性の上に築かれた都市である東京は、限られた空間におけるモジュール性や多様なサービスの価値を深く理解している。居住者やビジネスを巡って競争する複数の商業宇宙ステーションという構想は、多様な企業が密接な都市構造の中に共存する新宿のような地区の重層的な複雑さに通じるものがある。",
+        "ispaceやアストロスケールといった、月面や軌道上サービスで既に大きな進歩を遂げている日本の企業にとって、今回のNASAの決定は機会と課題の両方をもたらす。LEOインフラ市場への参入や提携の可能性を開く一方で、より大きな自律性を与えられた欧米の既存企業と競合するためには、さらなる機敏さが求められるだろう。",
+        "将来の日本人宇宙飛行士や科学者にとっては、選択肢の多い多様な軌道上環境が広がることを意味する。しかし、伝統的な政府プログラムを超えて、商業的に支配されるLEOにおいて日本がいかに独自のニッチを切り開くかという問いも投げかける。例えば、日本のデザイン哲学、おそらく「間」や「わびさび」の美学を重視した空間が、民間の軌道モジュールに具現化され、独自の場所の感覚を提供するようになるだろうか。"
+      ]
+    },
+    "source": {
+      "name": "Payload",
+      "url": "https://payloadspace.com/nasa-reverts-to-original-cld-procurement-plan/"
+    },
+    "sourceGuid": "https://payloadspace.com/?p=30195",
+    "status": "published"
+  },
+  {
     "slug": "lunar-autonomy-regolith-printing-reshapes-off-world-architecture",
     "category": "space-tech",
     "issue": "Vol. 06",
@@ -1433,8 +1940,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "The Near Frontier: VLEO Satellites and a Shifting Orbital Economy",
@@ -2099,8 +2606,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "The New Orbital Nexus: State and Private Ambition Converge",
@@ -2353,8 +2860,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "Orbital Constellations: A New Layer of Defense",
@@ -2435,8 +2942,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "Blue Origin's New Glenn Faces Setback on Launchpad",
@@ -2609,8 +3116,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0f12"
     },
     "title": {
       "en": "Europe's Asserted Orbital Autonomy",
@@ -3291,8 +3798,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#08080a"
     },
     "title": {
       "en": "The New Arteries of Off-World Transit",
@@ -3379,8 +3886,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0f12"
+      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "The Lunar Commons: Artemis Signals a New Era of Access",
@@ -3549,8 +4056,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#08080a"
+      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "The Lunar Accords: Shaping Off-World Governance",
@@ -3805,8 +4312,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101012"
+      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "The Lunar Scientist: Crafting a New Profession on Artemis",
@@ -3971,8 +4478,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101010"
     },
     "title": {
       "en": "The Unseen Architect of Space",
@@ -4355,8 +4862,8 @@
     "readingMinutes": 3,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Capitalizing the Celestial Horizon",
@@ -4511,8 +5018,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "Invisible Currents, Hidden Canopies: Europe's New Earth Scouts",
@@ -4733,8 +5240,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101010"
+      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "The Universe's Quiet Architects",
@@ -5073,8 +5580,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "The Architects of Return: Envisioning Lunar Futures",

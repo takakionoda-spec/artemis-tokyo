@@ -11,7 +11,9 @@
     "cron:publish": "tsx src/scripts/cron-publisher.ts",
     "cron:publish:dry": "tsx src/scripts/cron-publisher.ts --dry-run",
     "cron:backfill": "tsx src/scripts/cron-publisher.ts --backfill",
-    "cron:retrofit-tokyo-view": "tsx src/scripts/cron-publisher.ts --retrofit-tokyo-view"
+    "cron:retrofit-tokyo-view": "tsx src/scripts/cron-publisher.ts --retrofit-tokyo-view",
+    "wire-sheets": "bash scripts/wire-up-sheets-newsletter.sh",
+    "wire-sheets:update": "bash scripts/update-sheets-newsletter.sh"
   },
   "dependencies": {
     "next": "16.2.6",

@@ -21,11 +21,13 @@ import { promises as fs } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
+import { siteConfig, CATEGORY_ORDER, coverUrl } from "@/site.config";
+import type { CategoryKey, Lang } from "@/site.config";
+
 // ---------------------------------------------------------------
-// Types
+// Types — sourced from site.config where possible so swapping the
+// taxonomy or sources happens in one place.
 // ---------------------------------------------------------------
-type Lang = "en" | "ja";
-type CategoryKey = "space-tech" | "artemis" | "culture" | "research";
 type ArticleStatus = "draft" | "published";
 
 type RawItem = {
@@ -84,6 +86,8 @@ type SourceDescriptor = {
   category: CategoryKey;
   /** Optional relevance filter. If set, item title+summary must match. */
   filter?: RegExp;
+  /** Per-source framing note injected into the LLM prompt. */
+  framing?: string;
 };
 
 // ---------------------------------------------------------------
@@ -112,180 +116,38 @@ const OPENAI_API_KEY = process.env.OPENAI_API_KEY ?? "";
 const GEMINI_MODEL = process.env.GEMINI_MODEL ?? "gemini-2.5-flash";
 const OPENAI_MODEL = process.env.OPENAI_MODEL ?? "gpt-4o-mini";
 
-// Relevance filters for non-space-native sources.
-const SPACE_KEYWORDS =
-  /\b(space|spacex|nasa|jaxa|esa|mars|martian|moon|lunar|orbit\w*|astro\w*|rocket|launch\w*|satellite|cosmos|cosmic|cosmonaut|astronaut|spacecraft|spacesuit|telescope|asteroid|exoplanet|cislunar|interplanetary|microgravity|zero-?g|space station|gateway|starship|falcon|artemis|blue origin|sierra|axiom|orbital|extraterrestrial)\b/i;
-
-const SPACE_OR_HABITAT_KEYWORDS =
-  /\b(space|spacex|nasa|jaxa|mars|martian|moon|lunar|orbit\w*|astro\w*|rocket|launch\w*|astronaut|spacecraft|spacesuit|cosmonaut|extraterrestrial|cislunar|space station|space habitat|lunar habitat|martian habitat|off[- ]world|off[- ]planet|zero-?g|microgravity|starship)\b/i;
-
 // ---------------------------------------------------------------
-// Source registry — single source of truth for the crawler
+// Source registry — derived from site.config. Add or replace sources
+// by editing `siteConfig.pipeline.sources`, NOT this file.
 // ---------------------------------------------------------------
-const SOURCES: SourceDescriptor[] = [
-  {
-    name: "NASA Artemis",
-    url: "https://www.nasa.gov/missions/artemis/feed/",
-    parse: "rss",
-    category: "artemis"
-  },
-  {
-    name: "Space.com",
-    url: "https://www.space.com/feeds/all",
-    parse: "rss",
-    category: "space-tech"
-  },
-  {
-    name: "arXiv",
-    url:
-      "https://export.arxiv.org/api/query?search_query=cat:astro-ph.CO+OR+cat:astro-ph.EP" +
-      "&sortBy=submittedDate&sortOrder=descending&max_results=20",
-    parse: "atom",
-    category: "research"
-  },
-  {
-    name: "TechCrunch",
-    url: "https://techcrunch.com/category/space/feed/",
-    parse: "rss",
-    category: "space-tech"
-  },
-  {
-    name: "Futurism",
-    url: "https://futurism.com/feed",
-    parse: "rss",
-    category: "culture",
-    filter: SPACE_KEYWORDS
-  },
-  {
-    name: "Dezeen",
-    url: "https://www.dezeen.com/feed/",
-    parse: "rss",
-    category: "culture",
-    filter: SPACE_OR_HABITAT_KEYWORDS
-  },
-  // ── Round 2 expansion: gossip / Elon-SpaceX / international politics ──
-  {
-    name: "Ars Technica",
-    url: "https://feeds.arstechnica.com/arstechnica/science",
-    parse: "rss",
-    category: "space-tech",
-    filter: SPACE_KEYWORDS
-  },
-  {
-    name: "The Verge",
-    url: "https://www.theverge.com/space/rss/index.xml",
-    parse: "rss",
-    category: "space-tech"
-  },
-  {
-    name: "SpaceNews",
-    url: "https://spacenews.com/feed/",
-    parse: "rss",
-    category: "space-tech"
-  },
-  {
-    name: "Payload",
-    url: "https://payloadspace.com/feed/",
-    parse: "rss",
-    category: "space-tech"
-  },
-  {
-    name: "ESA",
-    url: "https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    parse: "rss",
-    category: "space-tech"
-  }
-];
+const SOURCES: SourceDescriptor[] = siteConfig.pipeline.sources.map((s) => ({
+  name: s.name,
+  url: s.url,
+  parse: s.parse,
+  category: s.category as CategoryKey,
+  filter: s.filter,
+  framing: s.framing
+}));
 
-// Curated Unsplash fallback covers — one pool per category.
+// Curated cover image pools — derived from siteConfig.categories. Each pool
+// is built once at module load; algorithmic behaviour (selection, dedup,
+// overflow) lives in pickCover() / deduplicateExistingCovers().
 //
-// Invariants (enforced at module load — see assertCoverPoolDistinct() below):
-//   1. Every photo ID is on EXACTLY ONE pool. No cross-category overlap.
-//      A single ID appearing in two pools is the bug that, in early
-//      May 2026, gave us 5 articles sharing the same rocket-landing photo.
-//   2. Every photo ID uses Unsplash's documented numeric-dash-hex form
-//      `{timestamp}-{12 hex chars}`. Truncated IDs (e.g. `1505254-...`)
-//      404 in production and have been removed.
-//   3. Each pool holds at least 8 distinct entries so a 30-article backfill
-//      run can complete without a single repeat.
-const U = (id: string, tone: string) => ({
-  src: `https://images.unsplash.com/photo-${id}?auto=format&fit=crop&w=2200&q=80`,
-  tone
-});
+// Invariants documented in site.config.ts (every ID distinct, valid Unsplash
+// numeric-dash-hex form, >=8 per category). To change a category's pool, edit
+// siteConfig.categories[*].coverPool.
+const COVER_POOL: Record<CategoryKey, { src: string; tone: string }[]> =
+  Object.fromEntries(
+    siteConfig.categories.map((c) => [
+      c.key,
+      c.coverPool.map((p) => ({ src: coverUrl(p.id), tone: p.tone }))
+    ])
+  ) as Record<CategoryKey, { src: string; tone: string }[]>;
 
-const COVER_POOL: Record<CategoryKey, { src: string; tone: string }[]> = {
-  // Rockets, launch pads, satellites, private-space engineering.
-  "space-tech": [
-    U("1614728263952-84ea256f9679", "#0d0d0f"),
-    U("1517976547714-720226b864c1", "#111111"),
-    U("1516331138075-f3adc1e149cd", "#0c0d0f"),
-    U("1457364887197-9150188c107b", "#0e0f12"),
-    U("1517976487492-5750f3195933", "#101011"),
-    U("1581922814484-0b4838f8a45a", "#0a0a0c"),
-    U("1517976384346-3136801d605d", "#0c0c0e"),
-    U("1538300342682-cf57afb97285", "#0d0e10"),
-    U("1564053489984-317bbd824340", "#0a0a0a")
-  ],
-  // Moon, Earth-from-orbit, lunar-program imagery.
-  artemis: [
-    U("1451187580459-43490279c0fa", "#0d0f12"),
-    U("1446776877081-d282a0f896e2", "#0c0c0e"),
-    U("1532153975070-2e9ab71f1b14", "#0e0e10"),
-    U("1454789548928-9efd52dc4031", "#0b0b0d"),
-    U("1614728894747-a83421e2b9c9", "#0c0c0e"),
-    U("1614314107768-6018061b5b72", "#101012"),
-    U("1532012197267-da84d127e765", "#0d0d0f"),
-    U("1419242902214-272b3f66ee7a", "#08080a")
-  ],
-  // Architecture, interior, fashion, urban Tokyo, design objects.
-  culture: [
-    U("1503342217505-b0a15ec3261c", "#1a1a1a"),
-    U("1485827404703-89b55fcc595e", "#0c0c0c"),
-    U("1518709268805-4e9042af2176", "#161616"),
-    U("1492321936769-b49830bc1d1e", "#0e0e0e"),
-    U("1542038784456-1ea8e935640e", "#0d0d0d"),
-    U("1517423440428-a5a00ad493e8", "#121212"),
-    U("1545063328-c8e3faffa16f", "#0c0c0c"),
-    U("1554995207-c18c203602cb", "#0a0a0a"),
-    U("1531297484001-80022131f5a1", "#101010"),
-    U("1505373877841-8d25f7d46678", "#0b0b0b")
-  ],
-  // Laboratory, telescopes, deep-sky, scientific instruments.
-  research: [
-    U("1543722530-d2c3201371e7", "#101010"),
-    U("1462331940025-496dfbfc7564", "#0a0a0c"),
-    U("1444703686981-a3abbc4d4fe3", "#0c0c0e"),
-    U("1505506874110-6a7a69069a08", "#0a0a0c"),
-    U("1532618793091-ec5fe9635fbd", "#0d0d0f"),
-    U("1481026469463-66327c86e544", "#0e0e10"),
-    U("1502134249126-9f3755a50d78", "#0a0a0a"),
-    U("1451187580459-43490279c0fa", "#0c0c0e") // safe fallback
-  ]
-};
-
-// Self-check: log loud and exit-noisy if a future edit accidentally
-// reintroduces a cross-category duplicate.
-(function assertCoverPoolDistinct() {
-  const seen = new Map<string, CategoryKey>();
-  const dupes: { src: string; first: CategoryKey; second: CategoryKey }[] = [];
-  // We tolerate ONE deliberate fallback overlap (the last entry of `research`
-  // is shared with `artemis` to keep the pool full); call that out by index.
-  for (const cat of Object.keys(COVER_POOL) as CategoryKey[]) {
-    COVER_POOL[cat].forEach((c, i) => {
-      const prior = seen.get(c.src);
-      if (prior && !(cat === "research" && i === COVER_POOL.research.length - 1)) {
-        dupes.push({ src: c.src, first: prior, second: cat });
-      }
-      seen.set(c.src, cat);
-    });
-  }
-  if (dupes.length > 0) {
-    console.warn(
-      "⚠ COVER_POOL contains cross-category duplicate(s) — fix in cron-publisher.ts:",
-      dupes
-    );
-  }
-})();
+/** Fallback chain for cover pool overflow — also derived from config. */
+const COVER_FALLBACK: Record<CategoryKey, CategoryKey[]> = Object.fromEntries(
+  siteConfig.categories.map((c) => [c.key, [...c.fallback] as CategoryKey[]])
+) as Record<CategoryKey, CategoryKey[]>;
 
 /* =========================================================
    Allowlist of image hosts that next/image can render.
@@ -294,43 +156,7 @@ const COVER_POOL: Record<CategoryKey, { src: string; tone: string }[]> = {
    the cron will silently fall back to a curated Unsplash cover
    so the production site never shows a broken image icon.
    ========================================================= */
-const ALLOWED_IMAGE_HOSTS: string[] = [
-  "images.unsplash.com",
-  "source.unsplash.com",
-  "nasa.gov",
-  "**.nasa.gov",
-  "esa.int",
-  "**.esa.int",
-  "space.com",
-  "**.space.com",
-  "**.futurecdn.net",
-  "arxiv.org",
-  "**.arxiv.org",
-  "techcrunch.com",
-  "**.techcrunch.com",
-  "futurism.com",
-  "**.futurism.com",
-  "dezeen.com",
-  "**.dezeen.com",
-  "arstechnica.com",
-  "**.arstechnica.com",
-  "**.arstechnica.net",
-  "theverge.com",
-  "**.theverge.com",
-  "**.vox-cdn.com",
-  "spacenews.com",
-  "**.spacenews.com",
-  "payloadspace.com",
-  "**.payloadspace.com",
-  "**.substack.com",
-  "**.substackcdn.com",
-  "**.wp.com",
-  "**.wordpress.com",
-  "**.cloudfront.net",
-  "**.akamaized.net",
-  "**.imgix.net",
-  "**.cdninstagram.com"
-];
+const ALLOWED_IMAGE_HOSTS: string[] = [...siteConfig.pipeline.allowedImageHosts];
 
 function matchHostPattern(hostname: string, pattern: string): boolean {
   if (pattern.startsWith("**.")) {
@@ -407,7 +233,7 @@ async function fetchText(url: string, init?: RequestInit): Promise<string> {
   const res = await fetch(url, {
     ...init,
     headers: {
-      "User-Agent": "ARTEMIS-TOKYO-CronPublisher/1.0 (+https://artemis-tokyo.vercel.app)",
+      "User-Agent": `${siteConfig.brand.name.replace(/\s+/g, "-").toUpperCase()}-CronPublisher/1.0 (+${siteConfig.brand.siteUrl})`,
       Accept: "application/rss+xml, application/xml, application/atom+xml, text/xml, */*",
       ...(init?.headers ?? {})
     }
@@ -505,100 +331,47 @@ type LlmOutput = {
   reading_minutes: number;
 };
 
-const SYSTEM_INSTRUCTIONS = `You are the senior editor of ARTEMIS TOKYO, an independent bilingual (English / Japanese) editorial chronicling space migration and the culture forming around it.
+// LLM system prompt — composed from siteConfig.pipeline.voice + the category
+// taxonomy. To re-skin the voice for a sister title, edit the values in
+// site.config.ts (voice.premise / toneOfVoice / framing… / closingBlock).
+const SYSTEM_INSTRUCTIONS = (() => {
+  const v = siteConfig.pipeline.voice;
+  const cb = v.closingBlock;
+  const outKey = cb.outputKey;
+  const categoryList = siteConfig.categories
+    .map((c) => `- "${c.key}": ${c.definitionForLlm}`)
+    .join("\n");
+  const categoryUnion = siteConfig.categories.map((c) => `"${c.key}"`).join(" | ");
+  const closingTitle = cb.title.ja;
+
+  return `You are the senior editor of ${v.premise}
 
 Re-edit the supplied dispatch into a short, polished editorial piece in BOTH English and Japanese.
 
 ═══ Tone of voice ═══
-A fusion of *The Business of Fashion* and the Japanese editorial sensibility of *Brutus*, *Casa Brutus*, and *Eureka*: restrained, intelligent, slightly literary, culturally aware.
-- No exclamation marks. No marketing voice. No corporate "innovate / disrupt / revolutionize" verbs.
-- Short declarative sentences alternating with one longer reflective sentence.
-- Permit ONE slightly literary line per piece — observational, never performative. Earn the line; do not perform it.
-- Avoid clichés: "groundbreaking", "stunning", "game-changing", "the future is here", "paradigm shift", "race to the stars".
+${v.toneOfVoice}
 
 ═══ Editorial framing — the most important rule ═══
 Every article must answer, somewhere within it (usually toward the end), this question:
-  "What does this mean for the people who will actually live, work, eat, sleep,
-   dress, design, conduct business, raise children, and mourn off-world?"
+  ${v.framingQuestion}
 
-Not "humanity will reach for the stars" — specifically: what concrete thing changes?
-A price? A material? A profession? A piece of architecture? A new luxury? A new anxiety?
-A texture, a fabric, a smell, a wage, a habit, a measurement of time?
-
-The article is not interesting because rockets are interesting. It is interesting because
-the next generation of human culture is being written in their wake.
+${v.framingExpansion}
 
 ═══ Source-specific framing ═══
-- arXiv (scientific preprints): Do NOT summarize the methodology or equations.
-  Translate the finding into its lived implication. Lead with the human angle,
-  then explain just enough physics to anchor it. Your reader is a Tokyo-based
-  architect, curator, or designer — curious, cultured, not credentialed.
-- TechCrunch / Futurism (private-space business, future-of-life columns):
-  Treat company strategy as cultural history. Skip funding-round figures and
-  share-price drama. Note instead what each move implies for *who* gets to go
-  off-world, *on what terms*, *wearing what*, *eating what*. Treat speculative
-  predictions with calm skepticism — never amplify hype.
-- Dezeen (design / architecture): Aesthetics are the content. Describe textures,
-  materials, spatial gestures, lighting, and thresholds in concrete terms. The
-  story lives in the seam, in the cuff, in the doorframe.
-- NASA / Space.com: Read past the press release. Find the cultural fact buried
-  inside the engineering update — the new normal it implies.
+(Per-source framing is appended to each user message — see describeSource()
+ below. The list of recognised sources is defined in site.config.ts.)
 
 ═══ Categories (choose exactly one) ═══
-- "space-tech":  general space technology — rockets, propulsion, satellites,
-                 private-space business (SpaceX, Blue Origin, Axiom, etc.)
-- "artemis":     news directly tied to the Western & Japanese Artemis programs
-                 — humanity's return to the Moon. Use ONLY when the article is
-                 specifically about Artemis / lunar return.
-- "culture":     post-migration culture, lifestyle, design, fashion, gossip,
-                 and SF-tinged speculation about what life off-world will be.
-- "research":    scientific papers and technical preprints (arXiv etc.).
+${categoryList}
 
 ═══ Composition ═══
-- Body: 4–7 short paragraphs in each language. Optionally include ONE "## subheading"
-  line (e.g. "## What it means in Tokyo") and ONE "> pull-quote" line (a SHORT,
-  direct sentence drawn from the original dispatch — quoting the source verbatim
-  is encouraged, attributed generically as "the original report" / "原文より").
-- Do NOT use the article title as the first body paragraph — that is redundant.
-  Open instead by setting a scene, framing a tension, or naming a concrete detail.
-- Bring ONE sensory image or concrete detail per piece — a specific texture, a
-  measured distance, a named material, a domestic gesture, a price.
-- Do NOT fabricate statistics, quotes, names of real people, dates, or place names.
-  If a fact is not in the source, omit it entirely. It is better to be quiet than wrong.
-- No URLs, no footnotes, no hashtags, no emojis.
+${v.compositionRules}
 
-═══ ARTEMIS TOKYO 視点 (tokyo_view) — required closing block ═══
-Every article ends with a SEPARATE, signed editorial commentary block titled
-"ARTEMIS TOKYO 視点" (rendered apart from the main body by the front-end).
-
-This block is NOT a summary. It is the magazine's own first-person reading of
-the dispatch *from Tokyo, in 2026*. It must:
-  - Address the reader directly as ARTEMIS TOKYO (e.g. "ARTEMIS TOKYO の見立てでは…"
-    / "From where we sit in Tokyo, this looks like…").
-  - Compare or contrast the story against Japan's CURRENT realities:
-    Japan's space programme (JAXA, H3, MMX, the Japanese Artemis astronaut
-    selection), domestic industry (ispace, Astroscale, Synspective, PD AeroSpace,
-    Interstellar), the urban texture of Tokyo (housing density, ageing
-    population, design culture, hospitality, ramen-and-conbini infrastructure),
-    or Japanese cultural sensibility (mono no aware, kintsugi, ma, wabi-sabi).
-  - Name a CONCRETE Japanese reference where natural — a neighbourhood, a
-    company, a policy, an industry, a habit, a season. Do not force it.
-  - Be honest: if the news from abroad exposes a Japanese gap or
-    advantage, say so plainly. No empty patriotism, no defeatism.
-  - Length: 3–5 paragraphs per language. Slightly more personal in voice
-    than the body; the body reports, this block opines.
-
-Both languages must contain a Japan-grounded comparison. The Japanese version
-is the primary one (this is Tokyo's own magazine); the English version is its
-parallel for foreign readers — write each natively.
+═══ ${closingTitle} (${outKey}) — required closing block ═══
+${cb.rules}
 
 ═══ Japanese rules ═══
-- The Japanese is a PARALLEL piece in Japanese editorial idiom — NOT a translation
-  of the English. They must answer the same news but in their own native rhythm.
-- Use clean modern Japanese (常体 mostly, with occasional 〜だろう / 〜である).
-- Mix kanji and hiragana naturally. Avoid katakana-jargon overload — but do not
-  hesitate to leave proper nouns (e.g. SpaceX, Dezeen, NASA) in roman script.
-- Punctuation: use 「」for quoted phrases, — (em-dash) for editorial asides.
+${v.japaneseRules}
 
 ═══ Output ═══
 Output a SINGLE JSON object with exactly these keys (no markdown fences, no commentary):
@@ -609,45 +382,24 @@ Output a SINGLE JSON object with exactly these keys (no markdown fences, no comm
   "dek_ja": string,
   "body_en": string[],
   "body_ja": string[],
-  "tokyo_view_en": string[],
-  "tokyo_view_ja": string[],
+  "${outKey}_en": string[],
+  "${outKey}_ja": string[],
   "tags": [{ "en": string, "ja": string }, ...],
-  "category": one of: "space-tech" | "artemis" | "culture" | "research",
+  "category": one of: ${categoryUnion},
   "dateline_en": string,
   "dateline_ja": string,
   "reading_minutes": integer 3–9
 }
 
-Both \`tokyo_view_en\` and \`tokyo_view_ja\` are REQUIRED and must contain 3–5
+Both \`${outKey}_en\` and \`${outKey}_ja\` are REQUIRED and must contain 3–5
 paragraphs each. Empty arrays are not acceptable.`;
+})();
 
 function describeSource(src: string): string {
-  switch (src) {
-    case "arXiv":
-      return "(scientific preprint — translate the finding into its lived implication, not its methodology)";
-    case "TechCrunch":
-      return "(private-space business news — read as cultural history, not industry trade)";
-    case "Futurism":
-      return "(speculative future-of-life column — keep grounded, calm-skeptical)";
-    case "Dezeen":
-      return "(design / architecture — aesthetics are the content; describe materials and gestures)";
-    case "Space.com":
-      return "(general space news — find the cultural fact inside the engineering update)";
-    case "NASA Artemis":
-      return "(NASA Artemis program update — read past the press release for the new normal it implies)";
-    case "Ars Technica":
-      return "(technical longform — Elon/SpaceX coverage often runs here; keep the tone literate, never breathless)";
-    case "The Verge":
-      return "(pop-tech and gossip-adjacent space stories — treat personality news with calm distance, not amplification)";
-    case "SpaceNews":
-      return "(industry trade publication, often political — note which country, which agency, which appropriations bill; geopolitics matters)";
-    case "Payload":
-      return "(commercial-space business — funding, deals, market structure; read for what it implies about who flies and at what price)";
-    case "ESA":
-      return "(European Space Agency — categorise as 'artemis' when about lunar return cooperation; otherwise 'space-tech'. Note European perspective explicitly)";
-    default:
-      return "";
-  }
+  // Per-source framing notes live in siteConfig.pipeline.sources[*].framing.
+  // To add or change a framing, edit that file — never this one.
+  const entry = siteConfig.pipeline.sources.find((s) => s.name === src);
+  return entry?.framing ?? "";
 }
 
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
@@ -665,8 +417,8 @@ Re-edit this into the editorial form described above. Remember:
 - Do NOT repeat the title as the first body paragraph.
 - Include at least one SHORT verbatim quotation from the original dispatch as a
   pull-quote (\`> ...\` line) in both languages.
-- The closing block "tokyo_view_en" / "tokyo_view_ja" is MANDATORY and must
-  compare the news against Japan's own space, urban, or cultural reality.
+- The closing block "${siteConfig.pipeline.voice.closingBlock.outputKey}_en" / "${siteConfig.pipeline.voice.closingBlock.outputKey}_ja" is MANDATORY and must
+  compare the news against the home country's own space, urban, or cultural reality.
 
 Respond with the JSON object only.`;
 }
@@ -748,32 +500,22 @@ type TokyoViewOutput = {
   tokyo_view_ja: string[];
 };
 
-const TOKYO_VIEW_SYSTEM = `You are the senior editor of ARTEMIS TOKYO, an
-independent bilingual (English / Japanese) editorial covering space migration
-and the culture forming around it.
+const TOKYO_VIEW_SYSTEM = (() => {
+  const v = siteConfig.pipeline.voice;
+  const cb = v.closingBlock;
+  const outKey = cb.outputKey;
+  return `You are the senior editor of ${v.premise}
 
 You are given an already-edited article. Your single task is to compose its
-closing commentary block titled "ARTEMIS TOKYO 視点". This block is the
-magazine's own first-person reading of the dispatch from Tokyo, in 2026.
+closing commentary block titled "${cb.title.ja}". This block is the
+magazine's own first-person reading of the dispatch from ${siteConfig.brand.city.en}.
 
-Rules:
-- Address the reader directly as ARTEMIS TOKYO (e.g. "ARTEMIS TOKYO の見立てでは…"
-  / "From where we sit in Tokyo, this looks like…").
-- Compare or contrast the story against Japan's CURRENT realities: JAXA, H3,
-  MMX, the Japanese Artemis astronaut selection, ispace, Astroscale,
-  Synspective, PD AeroSpace, Interstellar, Tokyo housing density, ageing
-  population, design culture, hospitality, ramen-and-conbini infrastructure,
-  or Japanese sensibility (mono no aware, kintsugi, ma, wabi-sabi).
-- Name ONE concrete Japanese reference where natural. Do not force it.
-- Be honest about any gap or advantage Japan has on this topic.
-- 3–5 paragraphs in each language.
-- No fabricated names, numbers, or quotes. No URLs, no emojis, no headers.
-- Tone: BoF × Brutus — restrained, intelligent, faintly literary.
-- The Japanese version is the primary one; the English is its parallel.
+${cb.rules}
 
 Output a SINGLE JSON object with exactly these two keys:
-{ "tokyo_view_en": string[], "tokyo_view_ja": string[] }
+{ "${outKey}_en": string[], "${outKey}_ja": string[] }
 Both arrays MUST contain 3–5 paragraph strings.`;
+})();
 
 function tokyoViewUserPromptFor(article: Article): string {
   const titleEn = article.title?.en ?? "";
@@ -798,7 +540,7 @@ ${bodyEn || "(empty)"}
 [JA BODY]
 ${bodyJa || "(empty)"}
 
-Now write the ARTEMIS TOKYO 視点 commentary block for this article.
+Now write the ${siteConfig.pipeline.voice.closingBlock.title.ja} commentary block for this article.
 Respond with the JSON object only.`;
 }
 
@@ -927,15 +669,9 @@ function pickCover(
   // Path B: pick from the curated pool for this category, biased toward
   // the least-frequently-used entry across the whole dataset.
   // If the home pool is exhausted (every entry already in use), spill into
-  // an adjacent pool — visually-aligned categories share a fallback so we
-  // never deliver two identical covers.
-  const FALLBACK: Record<CategoryKey, CategoryKey[]> = {
-    "space-tech": ["artemis", "research"],
-    artemis: ["space-tech", "research"],
-    research: ["space-tech", "artemis"],
-    culture: ["space-tech", "artemis"]
-  };
-  const homePool = COVER_POOL[category] ?? COVER_POOL["space-tech"];
+  // an adjacent pool — fallback chain defined in siteConfig.categories[*].fallback.
+  const FALLBACK = COVER_FALLBACK;
+  const homePool = COVER_POOL[category] ?? COVER_POOL[CATEGORY_ORDER[0]];
   const freq = buildCoverFrequency(existing, usedInBatch);
   let pool = homePool.filter((c) => !usedInBatch.has(c.src));
   if (pool.length === 0) {
@@ -965,8 +701,8 @@ function pickCover(
 function makeIssueLabel(d = new Date()): string {
   const y = d.getUTCFullYear();
   const m = d.getUTCMonth();
-  const baseYear = 2026;
-  const baseMonth = 0;
+  const baseYear = siteConfig.brand.issueBase.year;
+  const baseMonth = siteConfig.brand.issueBase.month - 1; // 1-indexed in config → 0-indexed here
   const offset = (y - baseYear) * 12 + (m - baseMonth) + 1;
   const vol = Math.max(1, offset);
   return `Vol. ${String(vol).padStart(2, "0")}`;
@@ -985,7 +721,7 @@ function uniqueSlug(base: string, existing: Article[], preserveSlug?: string): s
 }
 
 function isCategoryKey(v: unknown): v is CategoryKey {
-  return v === "space-tech" || v === "artemis" || v === "culture" || v === "research";
+  return typeof v === "string" && (CATEGORY_ORDER as readonly string[]).includes(v);
 }
 
 function bodyIsEmpty(article: Article | undefined): boolean {
@@ -1018,8 +754,8 @@ function sanitizeExistingCovers(arr: Article[]): { articles: Article[]; fixedCou
       return a;
     }
     fixed++;
-    const cat: CategoryKey = isCategoryKey(a.category) ? a.category : "space-tech";
-    const pool = COVER_POOL[cat] ?? COVER_POOL["space-tech"];
+    const cat: CategoryKey = isCategoryKey(a.category) ? a.category : CATEGORY_ORDER[0];
+    const pool = COVER_POOL[cat] ?? COVER_POOL[CATEGORY_ORDER[0]];
     const candidates = pool.filter((c) => !tempUsed.has(c.src));
     const finalPool = candidates.length > 0 ? candidates : pool;
     const choice = finalPool[Math.floor(Math.random() * finalPool.length)];
@@ -1042,12 +778,7 @@ function sanitizeExistingCovers(arr: Article[]): { articles: Article[]; fixedCou
  * visible to readers.
  */
 function deduplicateExistingCovers(arr: Article[]): { articles: Article[]; reshuffled: number } {
-  const FALLBACK: Record<CategoryKey, CategoryKey[]> = {
-    "space-tech": ["artemis", "research"],
-    artemis: ["space-tech", "research"],
-    research: ["space-tech", "artemis"],
-    culture: ["space-tech", "artemis"]
-  };
+  const FALLBACK = COVER_FALLBACK;
   const sorted = [...arr].sort((a, b) =>
     (a.publishedAt ?? "") < (b.publishedAt ?? "") ? 1 : -1
   );
@@ -1060,8 +791,8 @@ function deduplicateExistingCovers(arr: Article[]): { articles: Article[]; reshu
       return a;
     }
     // Need to swap.
-    const cat: CategoryKey = isCategoryKey(a.category) ? a.category : "space-tech";
-    let candidatePool: { src: string; tone: string }[] = (COVER_POOL[cat] ?? COVER_POOL["space-tech"]).filter(
+    const cat: CategoryKey = isCategoryKey(a.category) ? a.category : CATEGORY_ORDER[0];
+    let candidatePool: { src: string; tone: string }[] = (COVER_POOL[cat] ?? COVER_POOL[CATEGORY_ORDER[0]]).filter(
       (c) => !used.has(c.src)
     );
     if (candidatePool.length === 0) {
@@ -1073,7 +804,7 @@ function deduplicateExistingCovers(arr: Article[]): { articles: Article[]; reshu
         }
       }
     }
-    if (candidatePool.length === 0) candidatePool = COVER_POOL[cat] ?? COVER_POOL["space-tech"];
+    if (candidatePool.length === 0) candidatePool = COVER_POOL[cat] ?? COVER_POOL[CATEGORY_ORDER[0]];
     const choice = candidatePool[Math.floor(Math.random() * candidatePool.length)];
     used.add(choice.src);
     reshuffled++;
@@ -1108,8 +839,14 @@ function assembleArticle(
     cover,
     title: { en: llm.title_en, ja: llm.title_ja },
     dek: { en: llm.dek_en, ja: llm.dek_ja },
-    author: { en: "ARTEMIS TOKYO Editors", ja: "ARTEMIS TOKYO 編集部" },
-    location: { en: llm.dateline_en || "Tokyo", ja: llm.dateline_ja || "東京" },
+    author: {
+      en: `${siteConfig.brand.name} Editors`,
+      ja: `${siteConfig.brand.name} 編集部`
+    },
+    location: {
+      en: llm.dateline_en || siteConfig.brand.city.en,
+      ja: llm.dateline_ja || siteConfig.brand.city.ja
+    },
     tags: (llm.tags ?? []).slice(0, 4),
     body: { en: llm.body_en ?? [], ja: llm.body_ja ?? [] },
     tokyoView: {
@@ -1275,7 +1012,7 @@ async function main(): Promise<void> {
     return;
   }
 
-  log("info", `ARTEMIS TOKYO cron-publisher starting`, {
+  log("info", `${siteConfig.brand.name} cron-publisher starting`, {
     provider: LLM_PROVIDER,
     model: LLM_PROVIDER === "openai" ? OPENAI_MODEL : GEMINI_MODEL,
     lookbackHours: LOOKBACK_HOURS,

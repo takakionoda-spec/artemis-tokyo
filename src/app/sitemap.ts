@@ -1,8 +1,9 @@
 import type { MetadataRoute } from "next";
 import { articles } from "@/data/articles";
 import { CATEGORY_ORDER } from "@/lib/i18n";
+import { siteConfig } from "@/site.config";
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://artemis-tokyo.vercel.app";
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? siteConfig.brand.siteUrl;
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();

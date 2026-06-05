@@ -10,9 +10,11 @@ import {
   getLatestArticles,
   articles
 } from "@/data/articles";
+import { siteConfig, CATEGORY_ORDER } from "@/site.config";
 
 export default function HomePage() {
   const { lang, dict } = useLanguage();
+  const empty = siteConfig.chrome.emptyState;
 
   const featured = getFeaturedArticles();
   const hero = featured[0] ?? articles[0];
@@ -28,20 +30,16 @@ export default function HomePage() {
     return (
       <Container className="py-section">
         <div className="max-w-[68ch]">
-          <p className="eyebrow">{lang === "ja" ? "準備中" : "Standing by"}</p>
-          <h1 className="mt-6 font-display text-[clamp(2.75rem,6vw,5rem)] leading-[0.95] tracking-[-0.025em]">
-            {lang === "ja"
-              ? "アルテミス時代の\nキュレーションは、間もなく始まります。"
-              : "The Artemis curation begins shortly."}
+          <p className="eyebrow">{empty.eyebrow[lang]}</p>
+          <h1 className="mt-6 font-display text-[clamp(2.75rem,6vw,5rem)] leading-[0.95] tracking-[-0.025em] whitespace-pre-line">
+            {empty.heading[lang]}
           </h1>
           <p className="mt-6 text-lg text-ink-600 leading-relaxed">
-            {lang === "ja"
-              ? "ARTEMIS TOKYO のバイリンガル編集パイプラインは、NASA、ESA、Space.com、arXiv、TechCrunch、SpaceNews、Ars Technica、The Verge、Dezeen ほか海外メディアから直近の記事を取得し、毎朝6時（日本時間）に東京の編集者の目線で再編集して公開します。最初の自動生成が完了次第、この場所に世界各国のアルテミス計画関連ニュースが並びます。"
-              : "Our bilingual editorial pipeline pulls the latest dispatches from NASA, ESA, Space.com, arXiv, TechCrunch, SpaceNews, Ars Technica, The Verge, Dezeen and other international outlets, and re-edits them from a Tokyo editor's vantage every morning at 06:00 JST. The first cycle will populate this view with international Artemis-era news as soon as it completes."}
+            {empty.lede[lang]}
           </p>
           <div className="silver-rule mt-12" />
           <p className="mt-10 byline">
-            {lang === "ja" ? "次回更新：日本時間 朝6時" : "Next dispatch: 06:00 JST"}
+            {empty.nextDispatch[lang]}
           </p>
         </div>
 
@@ -75,8 +73,8 @@ export default function HomePage() {
           <SectionRule
             label={dict.ui.latest}
             action={
-              <Link href="/category/space-tech" className="hover:text-ink">
-                {dict.ui.moreIn} {dict.categories["space-tech"]}
+              <Link href={`/category/${CATEGORY_ORDER[0]}`} className="hover:text-ink">
+                {dict.ui.moreIn} {dict.categories[CATEGORY_ORDER[0]]}
               </Link>
             }
           />

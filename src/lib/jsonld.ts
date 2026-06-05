@@ -1,9 +1,10 @@
 import type { Article } from "@/data/articles";
 import type { Lang } from "@/lib/i18n";
+import { siteConfig } from "@/site.config";
 
 const SITE_URL =
   (typeof process !== "undefined" && process.env.NEXT_PUBLIC_SITE_URL) ||
-  "https://artemis-tokyo.vercel.app";
+  siteConfig.brand.siteUrl;
 
 export function buildArticleJsonLd(article: Article, lang: Lang) {
   return {
@@ -18,7 +19,7 @@ export function buildArticleJsonLd(article: Article, lang: Lang) {
     author: { "@type": "Person", name: article.author[lang] },
     publisher: {
       "@type": "Organization",
-      name: "ARTEMIS TOKYO",
+      name: siteConfig.brand.name,
       logo: {
         "@type": "ImageObject",
         url: `${SITE_URL}/icon.svg`
@@ -37,11 +38,10 @@ export function buildOrganizationJsonLd() {
   return {
     "@context": "https://schema.org",
     "@type": "NewsMediaOrganization",
-    name: "ARTEMIS TOKYO",
+    name: siteConfig.brand.name,
     url: SITE_URL,
     logo: `${SITE_URL}/icon.svg`,
     sameAs: [],
-    description:
-      "An independent, bilingual curation magazine following the Artemis Program — humanity's planned migration to the Moon, Mars, and beyond — and the international conversation around future off-world life. Edited from Tokyo."
+    description: siteConfig.chrome.footer.copy.en
   };
 }

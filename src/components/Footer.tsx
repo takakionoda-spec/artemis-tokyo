@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useLanguage } from "@/context/LanguageContext";
 import { CATEGORY_ORDER } from "@/lib/i18n";
+import { siteConfig } from "@/site.config";
 
 export default function Footer() {
   const { dict, lang } = useLanguage();
@@ -11,7 +12,7 @@ export default function Footer() {
     <footer className="border-t border-ink-200 mt-section bg-paper">
       <div className="px-6 lg:px-10 py-12 lg:py-16 grid grid-cols-1 md:grid-cols-12 gap-10">
         <div className="md:col-span-6">
-          <p className="font-display text-3xl tracking-[0.12em] uppercase">Artemis Tokyo</p>
+          <p className="font-display text-3xl tracking-[0.12em] uppercase">{siteConfig.brand.wordmark}</p>
           <p className="mt-4 max-w-[68ch] text-sm leading-relaxed text-ink-600">
             {dict.ui.footer.copy}
           </p>
@@ -53,7 +54,7 @@ export default function Footer() {
       </div>
       <div className="border-t border-ink-200 px-6 lg:px-10 py-5 flex flex-col md:flex-row items-start md:items-center justify-between gap-3 text-[0.6875rem] tracking-[0.18em] uppercase text-ink-500">
         <span>{dict.brand.legal}</span>
-        <span>Tokyo · Cislunar · Editorial Independent</span>
+        <span>{siteConfig.chrome.footer.strapline}</span>
       </div>
     </footer>
   );

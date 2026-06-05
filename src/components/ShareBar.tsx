@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { useLanguage } from "@/context/LanguageContext";
+import { siteConfig } from "@/site.config";
 
 type Props = {
   title: string;
@@ -15,7 +16,7 @@ export default function ShareBar({ title, slug }: Props) {
   const url =
     typeof window !== "undefined"
       ? `${window.location.origin}/articles/${slug}`
-      : `https://artemis-tokyo.vercel.app/articles/${slug}`;
+      : `${siteConfig.brand.siteUrl}/articles/${slug}`;
 
   const onCopy = async () => {
     try {

@@ -213,15 +213,42 @@ async function deliverToMailchimp(email: string): Promise<DeliveryResult> {
 }
 
 async function deliverToGoogleSheets(email: string): Promise<DeliveryResult> {
-  /*
-  const res = await fetch(process.env.GOOGLE_SHEETS_WEBHOOK_URL as string, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ email, at: new Date().toISOString() }),
-  });
+  // The webhook URL is set by scripts/wire-up-sheets-newsletter.sh into the
+  // Vercel env. Apps Script Web Apps always return HTTP 200; the logical
+  // outcome is in the JSON body's `success` field. `redirect: "follow"` is
+  // required because Apps Script bounces POSTs through script.googleusercontent.com.
+  const url = process.env.GOOGLE_SHEETS_WEBHOOK_URL!;
+  let res: Response;
+  try {
+    res = await fetch(url, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      redirect: "follow",
+      body: JSON.stringify({
+        email,
+        source: "artemis-tokyo",
+        userAgent: "next-api-subscribe"
+      })
+    });
+  } catch (err) {
+    console.error("[subscribe] sheets fetch failed:", err);
+    return { success: false, error: "upstream_error" };
+  }
+
   if (!res.ok) return { success: false, error: "upstream_error" };
-  return { success: true, provider: "google-sheets" };
-  */
-  void email;
-  throw new Error("Google Sheets integration: not yet implemented. See route.ts.");
+
+  const body = (await res.json().catch(() => null)) as
+    | { success?: boolean; error?: string; provider?: string }
+    | null;
+  if (!body || typeof body !== "object") {
+    return { success: false, error: "upstream_error" };
+  }
+  if (body.success === true) {
+    return { success: true, provider: "google-sheets" };
+  }
+  // Map Apps Script's logical errors back to our SubscribeError union
+  const e = body.error;
+  if (e === "duplicate") return { success: false, error: "duplicate" };
+  if (e === "invalid_email") return { success: false, error: "invalid_email" };
+  return { success: false, error: "upstream_error" };
 }

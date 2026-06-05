@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
+import { siteConfig } from "@/site.config";
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://artemis-tokyo.vercel.app";
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? siteConfig.brand.siteUrl;
 
 export default function robots(): MetadataRoute.Robots {
   return {

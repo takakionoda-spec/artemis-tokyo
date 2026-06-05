@@ -4,41 +4,32 @@ import { LanguageProvider } from "@/context/LanguageContext";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { buildOrganizationJsonLd } from "@/lib/jsonld";
+import { siteConfig } from "@/site.config";
+
+const brand = siteConfig.brand;
+const aboutLede = siteConfig.about.lede.en;
 
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "https://artemis-tokyo.vercel.app"),
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? brand.siteUrl),
   title: {
-    default: "ARTEMIS TOKYO — The Artemis era, curated from Tokyo",
-    template: "%s · ARTEMIS TOKYO"
+    default: `${brand.name} — The Artemis era, curated from Tokyo`,
+    template: `%s · ${brand.name}`
   },
-  description:
-    "ARTEMIS TOKYO is a bilingual curation magazine following the Artemis Program and the international conversation around the 2040s human migration to space — edited from Tokyo.",
-  keywords: [
-    "Artemis Program",
-    "Artemis",
-    "NASA",
-    "ESA",
-    "JAXA",
-    "SpaceX",
-    "lunar migration",
-    "Mars",
-    "2040s",
-    "space migration",
-    "off-world",
-    "curation",
-    "Tokyo"
-  ],
+  description: aboutLede,
+  keywords: [...brand.keywords],
   openGraph: {
-    title: "ARTEMIS TOKYO",
-    description: "The Artemis era, curated from Tokyo. A bilingual magazine on the 2040s migration off-world.",
+    title: brand.name,
+    description:
+      "The Artemis era, curated from Tokyo. A bilingual magazine on the 2040s migration off-world.",
     url: "/",
-    siteName: "ARTEMIS TOKYO",
+    siteName: brand.name,
     type: "website"
   },
   twitter: {
     card: "summary_large_image",
-    title: "ARTEMIS TOKYO",
-    description: "The Artemis era, curated from Tokyo. A bilingual magazine on the 2040s migration off-world."
+    title: brand.name,
+    description:
+      "The Artemis era, curated from Tokyo. A bilingual magazine on the 2040s migration off-world."
   }
 };
 

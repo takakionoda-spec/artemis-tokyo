@@ -4,9 +4,23 @@ import Link from "next/link";
 import LanguageToggle from "./LanguageToggle";
 import Navigation from "./Navigation";
 import { useLanguage } from "@/context/LanguageContext";
+import { siteConfig } from "@/site.config";
+
+// Issue counter derived from siteConfig.brand.issueBase. Vol. 01 corresponds
+// to {issueBase.year, issueBase.month}. Updated on every render so the masthead
+// stays accurate over months.
+function currentIssueLabel(): string {
+  const d = new Date();
+  const base = siteConfig.brand.issueBase;
+  const offset = (d.getFullYear() - base.year) * 12 + (d.getMonth() + 1 - base.month) + 1;
+  const vol = Math.max(1, offset);
+  return `${String(vol).padStart(2, "0")} — ${d.getFullYear()}`;
+}
 
 export default function Header() {
   const { dict, lang } = useLanguage();
+  const issueLabel = currentIssueLabel();
+  const brand = siteConfig.brand;
 
   return (
     <header className="sticky top-0 z-40 bg-paper/95 backdrop-blur supports-[backdrop-filter]:bg-paper/80 border-b border-ink-200">
@@ -33,16 +47,16 @@ export default function Header() {
       {/* Masthead — single child on mobile so the logo sits dead-centre.
           On md+ we flip to a 2-column row with the issue marker on the right. */}
       <div className="flex items-center justify-center md:justify-between gap-6 px-6 lg:px-10 py-5 lg:py-7">
-        <Link href="/" aria-label="ARTEMIS TOKYO — home" className="block">
+        <Link href="/" aria-label={`${brand.name} — home`} className="block">
           <span className="block text-center md:text-left font-display text-[1.75rem] md:text-[2.25rem] lg:text-[2.5rem] tracking-[0.18em] uppercase leading-none">
-            Artemis Tokyo
+            {brand.wordmark}
           </span>
           <span className="hidden md:block mt-2 text-[0.625rem] tracking-[0.32em] uppercase text-ink-500">
             {dict.brand.tagline}
           </span>
         </Link>
         <div className="hidden md:block">
-          <span className="text-[0.625rem] tracking-[0.22em] uppercase text-ink-500">{dict.ui.issue} 04 — 2026</span>
+          <span className="text-[0.625rem] tracking-[0.22em] uppercase text-ink-500">{dict.ui.issue} {issueLabel}</span>
         </div>
       </div>
 

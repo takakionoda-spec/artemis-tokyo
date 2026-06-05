@@ -1,5 +1,423 @@
 [
   {
+    "slug": "the-universes-shifting-constants-a-cosmic-discrepancy-persists",
+    "category": "research",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-04T17:59:59.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
+    },
+    "title": {
+      "en": "The Universe's Shifting Constants: A Cosmic Discrepancy Persists",
+      "ja": "宇宙膨張の矛盾：不変と思われた定数への問い"
+    },
+    "dek": {
+      "en": "New research exploring a variable electron mass attempts to reconcile the Hubble tension, revealing the enduring complexities at the heart of cosmic measurement.",
+      "ja": "新たな研究が、電子質量の変動という可能性からハッブル定数の不一致に挑む。しかし、宇宙の根本的な測定における複雑さは依然として残る。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, June 4, 2026",
+      "ja": "東京, 2026年6月4日"
+    },
+    "tags": [
+      {
+        "en": "cosmology",
+        "ja": "宇宙論"
+      },
+      {
+        "en": "physics",
+        "ja": "物理学"
+      },
+      {
+        "en": "Hubble tension",
+        "ja": "ハッブル・テンション"
+      },
+      {
+        "en": "fundamental constants",
+        "ja": "基礎定数"
+      }
+    ],
+    "body": {
+      "en": [
+        "The universe's expansion rate remains a profound enigma. Measurements from the early cosmos diverge from those taken in the present epoch, creating a persistent \"Hubble tension\" that challenges our foundational cosmological models. This discrepancy hints at physics beyond our current understanding.",
+        "Recent work explored a radical possibility: a subtly time-varying electron mass during the universe's recombination period. Such a modification would alter how light from the early universe reached us, potentially aligning disparate observations. The proposal offered an intriguing, if complex, solution to a fundamental problem.",
+        "Initial findings suggested that this \"perturbative modification to $m_e(z)$\" could indeed fully resolve the tension when considering early universe data alone. The proposed electron mass exhibited an \"oscillatory structure,\" implying a universe more dynamic at its very core than previously conceived.",
+        "> \"perturbative modifications to $m_e(z)$ cannot fully resolve the Hubble tension.\"",
+        "However, the picture changed with the inclusion of later-time cosmological observations. Data from the Dark Energy Spectroscopic Instrument (DESI) introduced new constraints. These observations indicated that a variable electron mass, while easing some discrepancies, could not fully reconcile the conflicting measurements without introducing new inconsistencies regarding the universe's matter density. The fundamental limitation persists.",
+        "This unresolved tension is not merely an academic puzzle. For those contemplating lives off-world, a precise understanding of cosmic parameters is paramount. Whether navigating interstellar distances or designing self-sustaining habitats, the foundational constants of physics inform every calculation. An enduring uncertainty at the universe's largest scale means that the very maps and clocks used for deep-space endeavors carry a subtle, yet profound, unknown. It implies that even the most meticulously engineered off-world settlements will exist within a cosmos whose fundamental rhythm we are still learning to discern."
+      ],
+      "ja": [
+        "宇宙の膨張速度は、依然として深遠な謎に包まれている。初期宇宙の観測データから導かれる値と、現代の宇宙で測定される値との間に「ハッブル・テンション」と呼ばれる矛盾が存在し、私たちの宇宙論の根幹を揺るがしている。この不一致は、現在の理解を超える物理の存在を示唆する。",
+        "最近の研究は、宇宙の再結合期における電子質量が微妙に時間変動するという、大胆な可能性を探った。このような修正は、初期宇宙からの光が私たちに届く様相を変え、異なる観測結果を整合させるかもしれない。それは、根本的な問題に対する興味深くも複雑な解決策を提示した。",
+        "当初の解析では、この「摂動的な電子質量$m_e(z)$の修正」が、初期宇宙のデータのみを考慮した場合、確かにテンションを完全に解消し得ると示唆された。提案された電子質量は「振動的な構造」を示し、宇宙がその核において、これまで考えられていたよりも動的である可能性を暗示していた。",
+        "> 「摂動的な$m_e(z)$の修正では、ハッブル・テンションを完全に解消することはできない」",
+        "しかし、後の時代の宇宙観測データが加わることで、この構図は変化した。ダークエネルギー分光観測装置（DESI）からのデータは新たな制約をもたらした。これらの観測は、電子質量の変動が一部の不一致を緩和するものの、宇宙の物質密度に関する新たな矛盾を引き起こすことなく、相反する測定値を完全に調和させることはできないと示した。根本的な限界は依然として残る。",
+        "この未解決のテンションは、単なる学術的なパズルではない。地球外での生活を構想する人々にとって、宇宙のパラメーターを正確に理解することは極めて重要である。恒星間航行の経路を定めたり、自給自足の居住地を設計したりする際、物理学の基本的な定数がすべての計算の基礎となる。宇宙の最大スケールにおける持続的な不確実性は、深宇宙での活動に用いられる地図や時計に、微妙だが深遠な未知数を伴うことを意味する。それは、最も綿密に設計された地球外居住地でさえ、その根本的なリズムを未だ解き明かしつつある宇宙の中に存在することを示唆している。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "From where we sit in Tokyo, this ongoing cosmic debate feels both distant and deeply relevant. While the global astrophysics community grapples with the universe's largest scales, our own JAXA and private sector partners are focused on the intricate mechanics of lunar landings and orbital servicing. The precision required for SLIM's \"pinpoint landing\" on the Moon, for instance, speaks to an engineering ethos rooted in absolute certainty of physical laws.",
+        "Yet, this research reminds us that even these \"absolute certainties\" are under constant scrutiny at the fringes of scientific inquiry. The idea of a fundamental constant, like electron mass, exhibiting an \"oscillatory structure\" throughout cosmic history is a potent one. It echoes a *mono no aware* sensibility — a recognition of the inherent transience and subtle shifts even in what appears immutable.",
+        "For a city like Tokyo, accustomed to constant evolution and the meticulous calibration of every urban system, the notion of an unresolvable cosmic tension presents a fascinating counterpoint. It suggests that even as humanity expands its presence beyond Earth, the universe itself may hold secrets that defy our most elegant models, requiring a deeper humility in our grand designs. The search continues, and with it, a refining of our understanding of the very ground beneath our off-world ambitions."
+      ],
+      "ja": [
+        "ARTEMIS TOKYO の見立てでは、この宇宙規模の議論は、遠い話であると同時に、私たちの日常に深く関連しているように感じられます。世界の宇宙物理学コミュニティが宇宙の最大スケールに取り組む一方で、日本のJAXAや民間企業は、月面着陸や軌道上サービスといった精密な工学技術に注力しています。例えば、SLIMの「ピンポイント着陸」に求められた精度は、物理法則の絶対的な確実性に根ざした工学精神の証左と言えるでしょう。",
+        "しかし、今回の研究は、その「絶対的な確実性」さえもが、科学的探求の最前線で常に検証されていることを私たちに思い出させます。電子質量のような根本的な定数が、宇宙史を通じて「振動的な構造」を示すというアイデアは、非常に示唆に富んでいます。それは、無常観、つまり「もののあわれ」の感覚、すなわち、不変に見えるものの中にさえ内在する移ろいや微細な変化を認識する感性と響き合うものです。",
+        "絶え間ない進化と、あらゆる都市システムを緻密に調整することに慣れた東京のような都市にとって、未解決の宇宙的テンションという概念は、興味深い対比を提示します。それは、人類が地球外へとその存在を広げる一方で、宇宙そのものが、私たちの最も洗練されたモデルをも凌駕する秘密を抱えている可能性を示唆しています。そして、その秘密は、私たちの壮大な地球外計画の土台にある理解を、さらに深めることを要求しているのです。"
+      ]
+    },
+    "source": {
+      "name": "arXiv",
+      "url": "http://arxiv.org/abs/2606.06495v1"
+    },
+    "sourceGuid": "http://arxiv.org/abs/2606.06495v1",
+    "status": "published"
+  },
+  {
+    "slug": "the-quiet-convergence-defense-tech-ai-and-off-world-futures",
+    "category": "space-tech",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-04T21:30:00.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
+    },
+    "title": {
+      "en": "The Quiet Convergence: Defense Tech, AI, and Off-World Futures",
+      "ja": "静かなる収斂：防衛技術、AI、そして地球外の未来"
+    },
+    "dek": {
+      "en": "Venture capital's shifting focus towards defense technology and artificial intelligence hints at a new paradigm for off-world security and autonomy, shaping the very fabric of future settlements.",
+      "ja": "ベンチャーキャピタルが防衛技術とAIに注力する背景には、地球外におけるセキュリティと自律性の新たな規範があり、未来の居住地の基盤を形作ろうとしている。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO, June 4, 2026",
+      "ja": "東京, 2026年6月4日"
+    },
+    "tags": [
+      {
+        "en": "AI",
+        "ja": "AI"
+      },
+      {
+        "en": "Defense Tech",
+        "ja": "防衛技術"
+      },
+      {
+        "en": "Venture Capital",
+        "ja": "ベンチャーキャピタル"
+      },
+      {
+        "en": "Off-world Living",
+        "ja": "地球外居住"
+      }
+    ],
+    "body": {
+      "en": [
+        "The landscape of venture capital is shifting. A recent gathering in Los Angeles highlighted a growing focus on defense technology and artificial intelligence. These sectors, once distinct, are now converging, drawing significant investment.",
+        "This convergence has profound implications for the nascent off-world economy. As human presence extends beyond Earth, the need for robust infrastructure and autonomous operations intensifies. Defense technologies, in this context, are not merely about conflict, but about safeguarding critical assets and supply lines in a harsh environment.",
+        "AI, meanwhile, promises to automate complex tasks, from resource extraction to habitat maintenance. It could streamline logistics, monitor environmental conditions, and even assist in medical diagnostics. These systems will be integral to daily life.",
+        "> \"Defense tech, AI, and fundraising take center stage.\" — the original report",
+        "The integration of these advanced capabilities shapes the very fabric of future settlements. For those living off-world, this means a future where security is both pervasive and largely invisible, managed by intelligent systems. It implies a new baseline for operational efficiency, but also a re-evaluation of personal autonomy in an environment constantly monitored and optimized by algorithms. The quiet hum of these machines will underpin every aspect of existence, from resource allocation to personal safety."
+      ],
+      "ja": [
+        "ベンチャーキャピタルの投資動向に変化が見られる。ロサンゼルスで最近開催された業界イベントでは、防衛技術と人工知能（AI）への関心が特に高まっていた。かつては個別の領域であったこれらの技術が、今や密接に結びつき、多額の資金を引き寄せている。",
+        "この技術融合は、地球外における新たな経済圏の形成に深い影響を与えるだろう。人類の活動範囲が地球を超えて広がるにつれて、堅牢なインフラと自律的な運用システムの必要性が増している。宇宙における防衛技術は、単なる紛争の概念を超え、過酷な環境下での重要な資産や供給経路を守るためのものとなる。",
+        "一方、AIは資源採掘から居住環境の維持管理まで、複雑なタスクの自動化を約束する。物流の効率化、環境モニタリング、さらには医療診断の補助など、その応用範囲は広い。これらのシステムは、宇宙での日常に不可欠な要素となるだろう。",
+        "> 「防衛技術、AI、そして資金調達が主役の座を占める」 — 原文より",
+        "こうした先進技術の統合は、未来の宇宙居住地の構造そのものを形作る。地球外で暮らす人々にとって、これはセキュリティが遍在し、知的なシステムによって管理される、目に見えない未来を意味する。それは運用効率の新たな基準をもたらす一方で、アルゴリズムによって常に監視・最適化される環境下での個人の自律性について、再考を迫るものとなるだろう。これらの機械が発する静かな駆動音は、資源配分から個人の安全に至るまで、あらゆる生活基盤を支えることになる。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "From where we sit in Tokyo, the spotlight on defense tech and AI in venture capital signals a critical inflection point for off-world development. ARTEMIS TOKYO observes that while Japan's defense sector operates under unique constitutional constraints, its prowess in robotics and artificial intelligence, particularly for civilian applications, is globally recognized.",
+        "This emphasis on autonomous systems and security in space resonates with a certain Japanese sensibility for efficiency and meticulous planning. Imagine a lunar habitat where AI manages every environmental parameter, from air quality to nutrient delivery, akin to the precise operation of Tokyo's urban infrastructure. The concept of a highly automated, seamlessly managed environment might appeal to a society that values harmony and meticulous order.",
+        "However, the integration of \"defense tech\" also introduces a new layer of consideration. For a culture deeply rooted in peace and non-aggression, the implications of militarized space — even for protective purposes — require careful thought. What does \"security\" mean when it is delivered by unseen algorithms and autonomous sentinels?",
+        "Ultimately, this trend suggests that future off-world living will likely be characterized by an unprecedented level of technological mediation. For the Tokyo architect designing a lunar residence, or the urban planner considering a Martian settlement, the challenge will be to integrate these powerful, often invisible, systems in a way that preserves human comfort, privacy, and a sense of belonging, rather than merely optimizing for survival."
+      ],
+      "ja": [
+        "ARTEMIS TOKYO の見立てでは、ベンチャーキャピタルが防衛技術とAIに注力しているという今回の報道は、地球外開発における重要な転換点を示唆している。日本は防衛分野において独自の憲法上の制約を持つ一方で、ロボット工学やAI、特に民生分野でのその実力は世界的に高く評価されている。",
+        "宇宙における自律システムとセキュリティへのこの重点は、効率性と緻密な計画性を重んじる日本の感性と響き合う部分がある。AIが空気の質から栄養供給まで、あらゆる環境パラメータを管理する月面居住地を想像してみよう。それは、東京の都市インフラが持つ精密な運用と似た感覚をもたらすかもしれない。高度に自動化され、シームレスに管理された環境は、調和と秩序を重んじる社会に魅力的に映るだろう。",
+        "しかし、「防衛技術」の統合は、新たな考察の層をもたらす。平和と非攻撃の精神に深く根ざした文化にとって、宇宙の軍事化 — たとえそれが保護目的であっても — の含意は慎重に考えるべき問題である。目に見えないアルゴリズムや自律的な監視システムによって提供される「セキュリティ」とは、一体何を意味するのだろうか。",
+        "結局のところ、この傾向は、未来の地球外生活が前例のないレベルの技術的媒介によって特徴づけられることを示唆している。月面レジデンスを設計する東京の建築家や、火星の居住地を構想する都市計画者にとって、これらの強力でしばしば不可視のシステムを、単なる生存最適化に留まらず、人間の快適さ、プライバシー、そして帰属意識を保つ形で統合することが課題となるだろう。"
+      ]
+    },
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/"
+    },
+    "sourceGuid": "https://techcrunch.com/?p=3129765",
+    "status": "published"
+  },
+  {
+    "slug": "the-architecture-of-unknowing-liminality-in-future-habitats",
+    "category": "culture",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-05T09:45:06.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "http://static.dezeen.com/uploads/2026/06/dezeen-weekly-podcast-5-june-2026-sq_dezeen_1704_col_0-411x411.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "The Architecture of Unknowing: Liminality in Future Habitats",
+      "ja": "未知の建築：未来の居住空間におけるリミナル性"
+    },
+    "dek": {
+      "en": "From viral horror to lunar modules, the unsettling allure of transitional spaces defines a new cultural conversation about where we belong.",
+      "ja": "バイラルホラーから月面モジュールまで、移行空間が持つ不穏な魅力は、私たちが属する場所についての新たな文化的な対話を定義する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO, 2026-06-05",
+      "ja": "東京, 2026年6月5日"
+    },
+    "tags": [
+      {
+        "en": "architecture",
+        "ja": "建築"
+      },
+      {
+        "en": "design",
+        "ja": "デザイン"
+      },
+      {
+        "en": "psychology",
+        "ja": "心理学"
+      },
+      {
+        "en": "off-world living",
+        "ja": "宇宙居住"
+      }
+    ],
+    "body": {
+      "en": [
+        "The concept of the liminal space — a transitional threshold, a place between states — has captured the contemporary imagination. It is a space of waiting, of passage, often characterized by an unsettling emptiness and a familiar, yet dislocated, aesthetic.",
+        "Recently, the *Dezeen Weekly* podcast discussed this phenomenon, particularly in the context of the surprise-hit horror film, 'Backrooms.' The film’s success highlights a collective fascination with these undefined zones.",
+        "These are the fluorescent-lit corridors of a deserted office building, the echoing quiet of an abandoned mall, or the endless, identical hallways of a forgotten hotel. They evoke a sense of uncanny familiarity, yet also a profound absence of purpose or presence.",
+        "> \"an architectural term that one of our hosts has audaciously coined\" — the original report",
+        "Designers and architects have long understood the power of the interstitial. However, this recent cultural resonance suggests a deeper engagement with spaces that resist clear definition, that hover between arrival and departure.",
+        "For those who will live off-world, the very fabric of their existence may be steeped in liminality. Early lunar bases and orbital stations will, by necessity, be utilitarian, modular, and perhaps, strangely repetitive. The hum of life support, the absence of natural light, and the enclosed, functional volumes will create an environment that is perpetually transitional.",
+        "This raises a question for future designers: how will we mitigate the psychological weight of constant liminality, or will we instead learn to find a new aesthetic within it? The definition of 'home' itself may shift, becoming less about fixed location and more about the curated experience within a perpetually undefined envelope."
+      ],
+      "ja": [
+        "リミナルスペース — 移行の敷居、状態と状態の間に位置する場所 — という概念は、現代人の想像力を捉えてきた。それは待機と通過の空間であり、不穏なほどの空虚さと、見慣れているようでいてどこか場違いな美学によって特徴づけられる。",
+        "最近、『Dezeen Weekly』ポッドキャストは、サプライズヒットとなったホラー映画『Backrooms』の文脈でこの現象を議論した。この映画の成功は、定義されていないゾーンに対する集合的な関心を浮き彫りにしている。",
+        "それは、人気のないオフィスビルの蛍光灯に照らされた廊下、廃墟となったショッピングモールの響く静寂、あるいは忘れ去られたホテルの果てしない同じような通路を想起させる。それらは不気味なほどの親密さを呼び起こすと同時に、目的や存在の深い欠如をも示唆する。",
+        "> 「ホストの一人が大胆にも造語した建築用語」 — 原文より",
+        "デザイナーや建築家は、中間的な空間の力を長く理解してきた。しかし、この最近の文化的共鳴は、明確な定義を拒み、到着と出発の間を漂う空間への、より深い関与を示唆している。",
+        "地球外で生活する人々にとって、その存在そのものがリミナル性に深く浸透するかもしれない。初期の月面基地や軌道ステーションは、必然的に実用的でモジュール式であり、そしてある意味、奇妙なほど反復的であるだろう。生命維持装置の駆動音、自然光の不在、そして閉鎖された機能的な容積は、常に移行的な環境を生み出す。",
+        "これは未来のデザイナーに問いを投げかける。絶え間ないリミナル性がもたらす心理的重圧をどう軽減するのか、あるいはその中に新たな美学を見出すことを学ぶのか。 「家」という定義そのものが変化し、固定された場所よりも、常に未定義の包囲空間内でキュレーションされる経験へと移行するかもしれない。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "From where we sit in Tokyo, this fascination with liminal space resonates with a different kind of urban texture. Our city, while densely packed, is also a master of the transient: the meticulously clean train platforms, the anonymous efficiency of a capsule hotel, the quiet hum of a late-night *conbini*. These are spaces of continuous flow, not stark emptiness, yet they too exist between states.",
+        "The Japanese aesthetic, particularly through concepts like *ma* — the deliberate use of negative space and interval — has long explored the power of the undefined. It is not always a void to be filled, but a space for contemplation, for breath. *Mono no aware* too, finds beauty in the ephemeral, in the passing moment.",
+        "For Japanese designers contemplating off-world habitats, this cultural lens will be crucial. Will the inherent liminality of early space architecture evoke a sense of quiet melancholy, a *mono no aware* for the Earth left behind? Or will it be an opportunity to create new forms of *ma* in zero-gravity, imbuing the necessary transitional zones with a sense of purpose or a transient beauty?",
+        "Consider the JAXA Kibo module on the ISS: highly functional, yet within its enclosed volume, one might seek moments of quietude, of 'betweenness.' The challenge for future Japanese space architects will be to design not just for function, but for the psychological and cultural nuances of living in perpetual transition, perhaps drawing from the quiet elegance of a traditional *ryokan* corridor or the carefully orchestrated antechamber of a tea ceremony room."
+      ],
+      "ja": [
+        "ARTEMIS TOKYO の見立てでは、このリミナル空間への関心は、東京の都市が持つ独特のテクスチャと共鳴する。高密度なこの街もまた、過渡的な空間の達人だ。完璧に整頓された駅のプラットフォーム、カプセルホテルの匿名的な効率性、深夜のコンビニの静かな駆動音。これらは、殺風景な空虚さではなく、絶え間ない流れの空間でありながら、やはり「間」に存在する。",
+        "日本の美意識は、「間」 — 余白と間隔を意図的に用いる概念 — を通じて、未定義の空間の力を長らく探求してきた。それは常に埋めるべき空虚ではなく、思索のための、呼吸のための空間なのだ。また、「もののあわれ」も、はかないもの、過ぎゆく瞬間に美を見出す。",
+        "地球外居住空間を構想する日本のデザイナーにとって、この文化的視点は極めて重要となるだろう。初期の宇宙建築に内在するリミナル性は、地球を後にしたことへの静かな哀愁、すなわち「もののあわれ」を呼び起こすのか。あるいは、無重力空間に新たな「間」を創出し、必然的な移行空間に目的意識や束の間の美を吹き込む機会となるのか。",
+        "ISSのJAXA「きぼう」モジュールを考えてみよう。それは極めて機能的でありながら、その閉鎖された容積の中で、人は静寂や「中間性」の瞬間を求めるかもしれない。未来の日本の宇宙建築家にとっての課題は、機能性だけでなく、常に移行する環境で生活する上での心理的・文化的ニュアンスをも設計することだろう。それは、伝統的な旅館の廊下や、 meticulouslyに演出された茶室の待合のような、静かで洗練された空間からインスピレーションを得るのかもしれない。"
+      ]
+    },
+    "source": {
+      "name": "Dezeen",
+      "url": "https://www.dezeen.com/2026/06/05/backrooms-green-walls-gentleism-dezeen-weekly-podcast/"
+    },
+    "sourceGuid": "https://www.dezeen.com/?p=2334680",
+    "status": "published"
+  },
+  {
+    "slug": "mavens-quiet-departure-from-mars",
+    "category": "research",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-04T16:21:06.000Z",
+    "readingMinutes": 4,
+    "feature": false,
+    "cover": {
+      "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/PIA26304-1152x648.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "MAVEN’s Quiet Departure from Mars",
+      "ja": "火星を静かに去るMAVEN探査機"
+    },
+    "dek": {
+      "en": "After eleven years, NASA’s MAVEN spacecraft concludes its mission, leaving behind critical data on Mars’s atmospheric past and a blueprint for future off-world habitability.",
+      "ja": "11年間の任務を終え、NASAのMAVEN探査機が火星を離れる。その遺したデータは、火星の大気史と、未来のオフワールド居住地の設計に不可欠な知見となる。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, 2026-06-04",
+      "ja": "東京, 2026-06-04"
+    },
+    "tags": [
+      {
+        "en": "Mars",
+        "ja": "火星"
+      },
+      {
+        "en": "NASA",
+        "ja": "NASA"
+      },
+      {
+        "en": "Atmosphere",
+        "ja": "大気"
+      },
+      {
+        "en": "Habitability",
+        "ja": "居住可能性"
+      }
+    ],
+    "body": {
+      "en": [
+        "After eleven years orbiting Mars, NASA's MAVEN spacecraft has concluded its mission. Its departure was not sudden, but a quiet fading, a testament to enduring engineering.",
+        "Launched to investigate how Mars shed its once-thicker atmosphere, MAVEN meticulously gathered data on solar wind interactions and atmospheric escape. This mission provided a deeper understanding of the planet's environmental history.",
+        "The spacecraft's instruments mapped the escape of gases, revealing the mechanisms by which Mars transformed from a potentially wetter world into the arid landscape we observe today. It quantified the planet's slow exhalation into space.",
+        "> \"After 11 years at Mars, NASA's MAVEN spacecraft went out with a whisper.\" The original report noted its graceful exit. This long vigil has illuminated the fragility of planetary environments.",
+        "For those who will eventually reside on Mars, MAVEN's legacy is profound. Its data directly informs the design of future habitats, dictating the necessary atmospheric shielding and resource conservation strategies. The very air they breathe, or rather, the air they will not breathe, has been measured by this distant sentinel."
+      ],
+      "ja": [
+        "11年にわたり火星の周回軌道に留まったNASAのMAVEN探査機が、その任務を静かに終えた。その退役は劇的なものではなく、長きにわたる貢献の後に訪れた、穏やかな終焉だった。",
+        "火星がかつて持っていた厚い大気をどのように失ったのかを探るため打ち上げられたMAVENは、太陽風と大気の相互作用、そして大気散逸のメカニズムに関するデータを丹念に収集した。そのミッションは、惑星の環境史に対する深い理解をもたらした。",
+        "探査機の観測は、ガスが宇宙空間へと逃れていく過程を詳細に記録し、火星がかつて水に恵まれた可能性のある世界から、今日見るような乾燥した景観へと変化した経緯を明らかにした。それは、惑星がゆっくりと宇宙へと息を吐き出す様を定量化した。",
+        "「火星での11年を経て、NASAのMAVEN探査機はささやきとともにその生涯を終えた」と元の報告は記している。その静かな退場は、惑星環境の脆さを浮き彫りにした。",
+        "将来、火星に住むことになる人々にとって、MAVENが残した遺産は計り知れない。そのデータは、未来の居住施設の設計に直接的な影響を与え、必要な大気遮蔽や資源保全戦略を決定づけるだろう。彼らが呼吸するであろう空気、あるいは「呼吸できない」であろうその空気そのものが、この遠い番人によって測定されたのである。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "From where we sit in Tokyo, the quiet conclusion of MAVEN's mission offers a moment for reflection. While much of the global space narrative focuses on the launch and the immediate discovery, MAVEN reminds us of the sustained, diligent effort required for deep space exploration.",
+        "Japan, with its own lunar ambitions and the MMX (Martian Moons eXploration) mission, understands the value of such long-duration data. The insights into atmospheric escape are not merely academic; they are foundational for any future human presence on Mars, informing how we might build, protect, and even terraform.",
+        "Tokyo itself is a city built on managing finite resources and optimizing constrained spaces. The meticulous engineering required for a mission like MAVEN, and the subsequent data analysis, mirrors the precision seen in Japanese urban planning or the design of compact, efficient living spaces.",
+        "The \"whisper\" of MAVEN's end echoes a certain Japanese sensibility — perhaps *mono no aware*, the poignant appreciation of ephemerality. Even in the vastness of space, the long, quiet service of a machine, and its eventual, gentle cessation, carries a weight of meaning for those considering the permanence of a new off-world home."
+      ],
+      "ja": [
+        "ARTEMIS TOKYO の見立てでは、MAVEN探査機の静かな任務終了は、一瞬の成果ではなく、持続的な努力の価値を改めて問いかける。グローバルな宇宙開発の話題が打ち上げや即座の発見に集中しがちな中で、MAVENは深宇宙探査における地道な積み重ねの重要性を示唆している。",
+        "日本もまた、月面探査や火星衛星探査計画（MMX）など、長期的な視点を持つミッションを進めている。MAVENが大気散逸について得た知見は、単なる学術的な好奇心に留まらない。それは火星への将来の有人ミッションにおいて、居住施設の構築、環境保護、さらにはテラフォーミングの可能性を議論する上での基盤となる。",
+        "限られた資源と空間を最大限に活用する東京の都市構造は、火星のような閉鎖環境での生活設計と共通する部分を持つ。MAVENのような探査機に求められる精密なエンジニアリングと、その後のデータ解析は、日本の都市計画や、狭い空間を効率的に活用する住居デザインに通じる職人気質を想起させる。",
+        "MAVENの「ささやき」のような終焉は、ある種の日本の美意識、例えば「もののあわれ」にも通じる。広大な宇宙空間にあって、長きにわたり静かに働き続けた機械が、やがて穏やかにその役目を終える。その過程には、新たなオフワールドの居住地の永続性を考える上で、深い意味が込められている。"
+      ]
+    },
+    "source": {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/06/after-11-years-at-mars-nasas-maven-spacecraft-went-out-with-a-whisper/"
+    },
+    "sourceGuid": "https://arstechnica.com/space/2026/06/after-11-years-at-mars-nasas-maven-spacecraft-went-out-with-a-whisper/",
+    "status": "published"
+  },
+  {
+    "slug": "orbital-scale-chinas-qianfan-constellation-expands",
+    "category": "space-tech",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-05T10:46:32.000Z",
+    "readingMinutes": 4,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
+    },
+    "title": {
+      "en": "Orbital Scale: China's Qianfan Constellation Expands",
+      "ja": "軌道上のスケール：中国・銭帆コンステレーションの拡大"
+    },
+    "dek": {
+      "en": "China's Qianfan satellite network reaches 200 units, reshaping the landscape of global data transmission.",
+      "ja": "中国の銭帆衛星ネットワークが200機に到達。世界のデータ伝送の様相を再構築する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, June 2026",
+      "ja": "東京、2026年6月"
+    },
+    "tags": [
+      {
+        "en": "China",
+        "ja": "中国"
+      },
+      {
+        "en": "Satellite Constellation",
+        "ja": "衛星コンステレーション"
+      },
+      {
+        "en": "Global Connectivity",
+        "ja": "グローバル接続性"
+      },
+      {
+        "en": "Space Infrastructure",
+        "ja": "宇宙インフラ"
+      }
+    ],
+    "body": {
+      "en": [
+        "The quiet hum of orbital machines now forms an invisible lattice around the planet. China's Qianfan constellation has reached a significant milestone, deploying 200 satellites into orbit.",
+        "This expansion, accelerated by recent Long March 8 and 6A launches, underscores a rapid build-out of space infrastructure. Such a network aims to provide comprehensive global coverage, ensuring connectivity even in the most remote terrestrial regions.",
+        "The strategic deployment of hundreds of small satellites creates a resilient and omnipresent data backbone. It promises a future where low-latency communication is a ubiquitous expectation, not a luxury.",
+        "> Qianfan constellation deployment hits 200 satellites with Long March 8 and 6A launches.",
+        "For those who will live, work, and build lives beyond Earth, this scale of orbital infrastructure holds direct implications. Reliable, high-bandwidth communication will be essential for lunar habitats, orbital manufacturing facilities, and future Martian outposts.",
+        "A pervasive data network like Qianfan establishes a baseline for off-world operations, allowing for real-time diagnostics, remote command, and continuous connection with Earth. It fundamentally changes the expectation of information access, making it a constant rather than an intermittent link."
+      ],
+      "ja": [
+        "軌道を巡る静かな機械の微かな音が、今や惑星を取り巻く見えない格子を形成している。中国の銭帆コンステレーションは、200機の衛星を軌道に投入し、重要な節目に到達した。",
+        "長征8号と6Aによる最近の打ち上げによって加速されたこの拡張は、宇宙インフラの急速な構築を際立たせる。このようなネットワークは、地球上の最も遠隔な地域でさえ接続性を確保し、包括的なグローバルカバレッジを提供することを目指している。",
+        "数百機もの小型衛星の戦略的な展開は、回復力があり、遍在するデータ基盤を構築する。これは、低遅延通信が贅沢品ではなく、どこでも期待される未来を約束する。",
+        "> 銭帆コンステレーションの展開は、長征8号と6Aの打ち上げにより200機の衛星に達した。",
+        "地球外で生活し、働き、人生を築く人々にとって、この規模の軌道インフラは直接的な意味を持つ。月面居住地、軌道上の製造施設、そして将来の火星前哨基地にとって、信頼性の高い高帯域幅通信は不可欠となるだろう。",
+        "銭帆のような広範なデータネットワークは、オフワールドでの運用における基礎を確立し、リアルタイム診断、遠隔コマンド、そして地球との継続的な接続を可能にする。それは情報アクセスへの期待を根本的に変え、断続的なリンクではなく、常に存在する要素にする。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "From where we sit in Tokyo, the rapid expansion of the Qianfan constellation presents a stark vision of a globally connected future. The sheer volume of satellites deployed, reaching 200 units in such a short span, speaks to a strategic commitment to pervasive space infrastructure.",
+        "This contrasts with Japan's own space endeavors, which often prioritize precision engineering and scientific missions, such as JAXA's MMX Martian moon probe or the H3 rocket's careful development. While Japanese private entities like ispace and Astroscale are making significant strides in lunar exploration and orbital debris removal, their scale of deployment differs considerably from the mass constellation approach seen here.",
+        "For Tokyo, a city deeply reliant on robust, low-latency digital infrastructure, the implications are both competitive and complementary. A global network of this magnitude could offer new avenues for data transmission, impacting everything from logistics to remote work for Japanese companies operating internationally.",
+        "However, it also raises questions about data sovereignty and the strategic positioning of Japan's own satellite capabilities. The emphasis on high-volume, rapid deployment might challenge a cultural sensibility that often values meticulous, incremental perfection over sheer speed and scale.",
+        "ARTEMIS TOKYO sees this as a clear signal that off-world life will not simply inherit existing terrestrial communication models, but will be shaped by the new, geopolitically driven orbital architectures being built today. The future inhabitants of Japanese lunar outposts will connect via a global mesh, and its origins will matter."
+      ],
+      "ja": [
+        "ARTEMIS TOKYO の見立てでは、銭帆コンステレーションの急速な拡大は、グローバルに接続された未来の明確なビジョンを提示しています。短期間で200機に達した衛星の圧倒的な数は、遍在する宇宙インフラへの戦略的なコミットメントを物語っています。",
+        "これは、JAXAのMMX火星衛星探査機やH3ロケットの慎重な開発など、精密工学と科学ミッションを優先する日本の宇宙開発とは対照的です。ispaceやAstroscaleといった日本の民間企業は、月探査や軌道デブリ除去で大きな進歩を遂げていますが、その展開規模はここで見られるような大規模コンステレーションのアプローチとは大きく異なります。",
+        "堅牢で低遅延のデジタルインフラに深く依存する東京にとって、この動きは競争的であると同時に補完的でもあります。この規模のグローバルネットワークは、データ伝送に新たな道を開き、国際的に事業を展開する日本企業のロジスティクスからリモートワークまで、あらゆる側面に影響を与える可能性があります。",
+        "しかし、これはまた、データ主権と日本の衛星能力の戦略的ポジショニングに関する疑問も提起します。大量かつ迅速な展開への重点は、単なる速度や規模よりも、細心の注意を払った漸進的な完成度を重んじる文化的感性に挑戦するかもしれません。",
+        "ARTEMIS TOKYO は、オフワールドでの生活が既存の地球上の通信モデルを単に継承するのではなく、今日構築されている新たな、地政学的に推進される軌道アーキテクチャによって形成される明確な兆候としてこれを捉えています。将来の日本の月面前哨基地の住人は、グローバルなメッシュを介して接続することになり、その起源は重要な意味を持つでしょう。"
+      ]
+    },
+    "source": {
+      "name": "SpaceNews",
+      "url": "https://spacenews.com/qianfan-constellation-deployment-hits-200-satellites-with-long-march-8-and-6a-launches/"
+    },
+    "sourceGuid": "https://spacenews.com/?p=599063",
+    "status": "published"
+  },
+  {
     "slug": "a-new-horizon-earth-from-the-moon",
     "category": "artemis",
     "issue": "Vol. 06",
@@ -1604,8 +2022,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "Water as a Limiting Factor for Off-World Ambition",
@@ -2606,8 +3024,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "The New Orbital Nexus: State and Private Ambition Converge",
@@ -2860,8 +3278,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0b0b0d"
     },
     "title": {
       "en": "Orbital Constellations: A New Layer of Defense",
@@ -3028,8 +3446,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#08080a"
     },
     "title": {
       "en": "The Quiet Architects of Lunar Life",
@@ -3116,8 +3534,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0f12"
+      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Europe's Asserted Orbital Autonomy",
@@ -3378,7 +3796,7 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
+      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
       "tone": "#0c0c0e"
     },
     "title": {
@@ -3546,8 +3964,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0b0b0d"
+      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Starship V3: Ascent Achieved, Return Eludes",
@@ -3798,8 +4216,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#08080a"
+      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "The New Arteries of Off-World Transit",
@@ -3886,8 +4304,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101010"
     },
     "title": {
       "en": "The Lunar Commons: Artemis Signals a New Era of Access",
@@ -4056,8 +4474,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "The Lunar Accords: Shaping Off-World Governance",
@@ -4312,8 +4730,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "The Lunar Scientist: Crafting a New Profession on Artemis",
@@ -4478,8 +4896,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101010"
+      "src": "https://images.unsplash.com/photo-1532618793091-ec5fe9635fbd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "The Unseen Architect of Space",
@@ -4862,8 +5280,8 @@
     "readingMinutes": 3,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Capitalizing the Celestial Horizon",
@@ -4948,8 +5366,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101010"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "SpaceX's Ascent: The Orbit Economy Takes Shape",
@@ -5018,8 +5436,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "Invisible Currents, Hidden Canopies: Europe's New Earth Scouts",
@@ -5324,8 +5742,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "The Unseen Architecture: Investing in Off-World Intelligence",
@@ -5580,8 +5998,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "The Architects of Return: Envisioning Lunar Futures",

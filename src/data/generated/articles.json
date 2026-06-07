@@ -1,5 +1,515 @@
 [
   {
+    "slug": "lunar-dust-reimagined-the-architecture-of-off-world-permanence",
+    "category": "space-tech",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-06T15:00:00.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/MacmLiaYx9rQ4YHXJaVNeL-1280-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Lunar Dust, Reimagined: The Architecture of Off-World Permanence",
+      "ja": "レゴリス再考：月面永住を支える建築の未来"
+    },
+    "dek": {
+      "en": "Advancements in 3D printing with lunar regolith suggest a future where off-world habitats are not merely functional, but architecturally distinct.",
+      "ja": "月面レゴリスを用いた3Dプリンティング技術の進歩は、単なる機能を超え、独自の建築美学を持つ月面居住空間の到来を示唆する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO — June 6, 2026",
+      "ja": "東京発 — 2026年6月6日"
+    },
+    "tags": [
+      {
+        "en": "Lunar Architecture",
+        "ja": "月面建築"
+      },
+      {
+        "en": "3D Printing",
+        "ja": "3Dプリンティング"
+      },
+      {
+        "en": "Regolith",
+        "ja": "レゴリス"
+      },
+      {
+        "en": "Off-World Habitats",
+        "ja": "宇宙居住"
+      }
+    ],
+    "body": {
+      "en": [
+        "The fine, abrasive dust of the lunar surface, once an engineering challenge, is steadily being re-evaluated as a foundational resource. New advancements in 3D printing technology are transforming this regolith into robust structural components for off-world habitats.",
+        "These techniques promise increased structural integrity and a significant reduction in construction timelines. Critically, they lessen the dependence on costly, Earth-launched materials, shifting the paradigm towards lunar resource utilization.",
+        "> The original report notes the technique promises to \"significantly reduce the logistical burden of lunar habitation.\"",
+        "This shift enables a more organic, localized approach to building. Habitats may evolve beyond purely utilitarian shelters, allowing for architectural expressions that respond directly to the lunar environment.",
+        "Imagine structures with walls bearing the subtle, granular texture of the Moon itself, shaped by a process that is both industrial and inherently geological. This marks the beginning of a truly lunar architecture, distinct from any Earthly precedent.",
+        "For those who will live and work off-world, this means a future where housing is more readily available and potentially more personalized. It suggests a tangible sense of permanence, where the very ground beneath one's feet becomes the substance of home, fostering a unique cultural identity rooted in the lunar soil."
+      ],
+      "ja": [
+        "月面に広がる微細で研磨性のある塵、レゴリス。かつては工学的な課題とされてきたこの素材が、今や居住空間を築くための基盤資源として再評価されている。最新の3Dプリンティング技術は、このレゴリスを堅牢な構造部材へと変換する。",
+        "これらの技術は、構造的完全性を高め、建設期間を大幅に短縮する可能性を秘めている。地球からの高価な資材輸送への依存を減らし、月面資源の活用へとパラダイムを転換させる点で重要だ。",
+        "> 原文によれば、この技術は「月面居住における物流的負担を大幅に軽減する」という。",
+        "この転換は、より有機的で地域に根ざした建築手法を可能にする。居住空間は、単なる実用的なシェルターを超え、月面環境に直接応える建築表現へと進化するだろう。",
+        "想像してほしい。月そのものの微細な粒子を感じさせる壁の質感、工業的でありながら本質的に地質学的なプロセスによって形作られた構造物。これは、地球上のいかなる前例とも異なる、真に月独自の建築の始まりを告げるものだ。",
+        "月で生活し、働く人々にとって、これはより入手しやすく、パーソナライズされた住居が提供される未来を意味する。足元の土壌そのものが住まいとなることで、具体的な永続感が生まれ、月面の土壌に根ざした独自の文化が育まれるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "From where we sit in Tokyo, this development in lunar regolith printing holds particular resonance. Japan's own architectural heritage, marked by a deep respect for natural materials and a mastery of modular construction, offers a unique lens through which to view off-world building. The precise engineering required for these new 3D printing methods aligns well with the Japanese emphasis on craftsmanship and structural resilience, honed over centuries in an earthquake-prone archipelago.",
+        "The concept of transforming local, natural resources into living spaces echoes the traditional use of wood and earth in Japanese homes, even in a densely populated metropolis like Tokyo. While our urban fabric is defined by steel and concrete, there remains an underlying appreciation for the tactile and the authentic. This lunar dust, once seen as barren, could become the new \"wood\" or \"earth\" of an off-world existence.",
+        "For Japanese companies like ispace, focused on lunar development, or JAXA's ongoing material science research, these advancements present both opportunities and challenges. The question arises: how might the Japanese aesthetic of *wabi-sabi*—finding beauty in imperfection and impermanence—manifest in structures built from lunar dust? Perhaps a new form of minimal, yet deeply textured, architecture will emerge, reflecting both the starkness of the lunar environment and a human desire for comfort.",
+        "This vision of self-sufficient lunar construction suggests a future where the cost of establishing a foothold off-world becomes more manageable. For future lunar residents, this means not just shelter, but the potential for homes that are truly indigenous to their new world, fostering a sense of belonging that transcends the purely functional."
+      ],
+      "ja": [
+        "ARTEMIS TOKYO の見立てでは、月面レゴリスを用いた3Dプリンティングの進展は、東京から見ても特別な響きを持つ。日本の建築は、自然素材への深い敬意とモジュール化された建設の妙技に特徴づけられてきた。このオフワールド建築の発展は、その独自の視点から考察するに値する。新たな3Dプリンティング手法に求められる精密なエンジニアリングは、地震多発国として長年培われてきた日本の職人技と構造的弾力性へのこだわりと合致する。",
+        "現地の自然資源を居住空間へと変容させるという概念は、東京のような高密度の都市にあっても、日本の伝統的な木や土を用いた家屋の利用と響き合う。私たちの都市構造が鉄とコンクリートで定義されている一方で、触覚的なもの、本物への根源的な評価は依然として存在する。この月面の塵は、かつては不毛と見なされたが、オフワールドにおける新たな「木」や「土」となり得るだろう。",
+        "ispaceのような月面開発に注力する日本企業や、JAXAの継続的な材料科学研究にとって、これらの進歩は機会と課題の両方をもたらす。問いは、不完全さや無常の中に美を見出す日本の美意識「侘び寂び」が、月面の塵で建てられた構造物にどのように現れるか、ということだ。おそらく、月面環境の厳しさと人間の安らぎへの欲求の両方を反映した、ミニマルでありながら深い質感を持つ新しい建築様式が生まれるだろう。",
+        "この自給自足的な月面建設のビジョンは、オフワールドに足がかりを築くコストがより管理しやすくなる未来を示唆している。将来の月面居住者にとって、これは単なるシェルターではなく、新しい世界に真に固有の家を持つ可能性を意味し、純粋な機能性を超えた帰属意識を育むだろう。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/entertainment/space-movies-shows/how-spider-noir-captured-the-multiverse-in-true-hue-full-color-and-authentic-black-and-white-interview"
+    },
+    "sourceGuid": "i7SjQJnyQnLJuSNxbEuhde",
+    "status": "published"
+  },
+  {
+    "slug": "tracing-interstellar-whispers-jwst-observes-3iatlas",
+    "category": "research",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-06T14:30:00.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://futurism.com/wp-content/uploads/2026/06/nasa-james-webb-3i-atlas-methane.jpg?quality=85",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Tracing Interstellar Whispers: JWST Observes 3I/ATLAS",
+      "ja": "星間からの囁きを追う：JWSTが3I/ATLASを観測"
+    },
+    "dek": {
+      "en": "The James Webb Space Telescope's detection of gas from an interstellar comet offers new insights into cosmic chemistry and the subtle atmospheric realities awaiting off-world inhabitants.",
+      "ja": "ジェイムズ・ウェッブ宇宙望遠鏡が星間彗星からガスを検出。宇宙の化学組成と、オフワールド居住者を待つ微細な大気の現実について新たな洞察をもたらす。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO – June 6, 2026",
+      "ja": "東京 – 2026年6月6日"
+    },
+    "tags": [
+      {
+        "en": "astronomy",
+        "ja": "天文学"
+      },
+      {
+        "en": "JWST",
+        "ja": "ジェイムズ・ウェッブ宇宙望遠鏡"
+      },
+      {
+        "en": "comets",
+        "ja": "彗星"
+      },
+      {
+        "en": "interstellar objects",
+        "ja": "星間天体"
+      }
+    ],
+    "body": {
+      "en": [
+        "The vastness of interstellar space remains a frontier of observation. Even within our own solar system, objects of alien origin occasionally pass through.",
+        "The James Webb Space Telescope recently detected a notable emission from 3I/ATLAS, an interstellar comet. This transient visitor, observed as it journeyed past the Sun, offered a glimpse into its composition.",
+        "> \"NASA's James Webb Discovers That 3I/ATLAS Let One Rip as It Passed Through Solar System,\" read the original report, a colourful turn of phrase for a significant scientific observation.",
+        "The observation revealed a release of gas, a subtle signature of volatile materials. Such events, though common for comets, gain significance when originating from an object born in another star system.",
+        "Analyzing these distant molecular signatures provides data on the chemical diversity of other stellar nurseries. It offers clues about the raw materials that form planets beyond our own.",
+        "For those contemplating life off-world, such observations refine our understanding of cosmic resources and hazards. The ability to detect faint chemical traces across immense distances will be critical for resource prospecting and environmental monitoring in future habitats, whether on the Moon, Mars, or further afield. It speaks to the invisible atmospheric textures that will define new frontiers."
+      ],
+      "ja": [
+        "星間空間の広がりは、依然として観測の最前線にある。太陽系内においても、異星起源の天体が時折、その姿を現す。",
+        "ジェイムズ・ウェッブ宇宙望遠鏡は先日、星間彗星3I/ATLASから顕著なガス放出を検出した。太陽の傍を通過するこの一時的な訪問者は、その組成の一端を垣間見せた。",
+        "> 「NASAのジェイムズ・ウェッブが、3I/ATLASが太陽系を通過する際にガスを放出したことを発見した」と原文は伝える。その表現は、この科学的観測の持つ意外性を象徴している。",
+        "観測は、揮発性物質の微かな兆候としてガスが放出されたことを明らかにした。彗星にとってこうした現象は珍しくないが、他星系で誕生した天体から得られるデータは、その意味合いを深める。",
+        "遠方で捉えられた分子の痕跡を分析することは、他恒星系の化学的多様性に関する貴重な情報を提供する。それは、我々の太陽系外で惑星を形成する原材料についての手がかりとなる。",
+        "宇宙で生活を営む人々にとって、このような観測は宇宙の資源と潜在的な危険性への理解を深める。月や火星、あるいはさらに遠い場所での将来の居住地において、広大な距離を超えて微細な化学物質の痕跡を検出する能力は、資源探査や環境モニタリングに不可欠となるだろう。それは、新しいフロンティアを定義する目に見えない大気の質感について語る。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "From where we sit in Tokyo, this observation by the James Webb Space Telescope underscores a fundamental shift in our cosmic awareness. It moves beyond merely mapping the stars to understanding the very breath of the universe, even from objects far beyond our solar system.",
+        "Japan, with its own lunar ambitions through JAXA and the Artemis program, and its burgeoning private space sector exemplified by companies like ispace, understands the meticulous detail required for off-world operations. Detecting trace gases from an interstellar comet might seem abstract, but it's a precursor to the environmental forensics needed on a lunar base or a Martian outpost.",
+        "Consider the urban density of Tokyo, where every cubic meter of air and every drop of water is meticulously managed and recycled. This terrestrial habit of precise resource management will translate directly to closed-loop systems off-world. The ability to sense the most subtle molecular presence, whether from a passing comet or a system malfunction, becomes a matter of survival.",
+        "This news also resonates with a Japanese sensibility for the impermanent and the subtle — *mono no aware*. The fleeting passage of 3I/ATLAS, leaving its gaseous signature, is a cosmic echo of the transient beauty found in cherry blossoms. To detect and appreciate such a subtle, distant phenomenon is to extend this sensitivity to the cosmos itself. It prepares us for a future where even the faintest whisper of a new atmosphere could signify a new resource or a new challenge for off-world residents."
+      ],
+      "ja": [
+        "東京からこのニュースを眺めるとき、ジェイムズ・ウェッブ宇宙望遠鏡による今回の観測は、我々の宇宙に対する認識における根本的な変化を浮き彫りにしていると感じる。それは単に星をマッピングするだけでなく、太陽系外の天体からでさえ、宇宙の息吹そのものを理解しようとする試みだ。",
+        "JAXAを通じた月探査やアルテミス計画への参加、そしてispaceのような企業に代表される日本の民間宇宙産業は、宇宙での運用に求められる極めて精密な詳細への理解を深めている。星間彗星からの微量なガス検出は抽象的に見えるかもしれないが、これは月面基地や火星前哨基地で必要とされる環境科学捜査の先駆けとなる。",
+        "東京の都市密度を考えてみてほしい。そこでは、空気の1立方メートル、水の1滴に至るまでが、細心の注意を払って管理され、リサイクルされている。この地球上での精密な資源管理の習慣は、そのまま宇宙での閉鎖系システムに引き継がれるだろう。通過する彗星からであろうと、システム故障からであろうと、最も微細な分子の存在を感知する能力は、生存に関わる問題となる。",
+        "このニュースはまた、日本の「もののあわれ」という、無常で繊細なものへの感性と響き合う。3I/ATLASの束の間の通過が、ガスの痕跡を残していく様は、桜の花に見出す儚い美しさの宇宙的な反響と言える。このような微細で遠い現象を検出し、その意味を読み解くことは、この感性を宇宙そのものへと拡張することに他ならない。それは、新しい大気の微かな囁きでさえ、オフワールドの居住者にとって新たな資源や新たな課題を意味する未来への準備となるだろう。"
+      ]
+    },
+    "source": {
+      "name": "Futurism",
+      "url": "https://futurism.com/space/nasa-james-webb-3i-atlas-methane"
+    },
+    "sourceGuid": "https://futurism.com/?p=440344",
+    "status": "published"
+  },
+  {
+    "slug": "design-for-resilience-architectures-social-imperative",
+    "category": "culture",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-06T18:00:36.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "http://static.dezeen.com/uploads/2026/06/Birminhgam-City-University_dezeen_2364_col_1-411x411.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Design for Resilience: Architecture's Social Imperative",
+      "ja": "レジリエンスを築くデザイン：建築が担う社会的な役割"
+    },
+    "dek": {
+      "en": "From repurposed banks to rainwater-fed cafes, student projects from Birmingham City University explore how design can address pressing social and environmental needs within urban environments.",
+      "ja": "バーミンガム市立大学の学生プロジェクトは、都市環境における喫緊の社会・環境的課題に対し、デザインがいかに貢献できるかを探求する。再利用された銀行から雨水で運営されるカフェまで、その実践は多岐にわたる。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Birmingham, June 6, 2026",
+      "ja": "バーミンガム、2026年6月6日"
+    },
+    "tags": [
+      {
+        "en": "architecture",
+        "ja": "建築"
+      },
+      {
+        "en": "urban design",
+        "ja": "都市デザイン"
+      },
+      {
+        "en": "sustainability",
+        "ja": "持続可能性"
+      },
+      {
+        "en": "community",
+        "ja": "コミュニティ"
+      }
+    ],
+    "body": {
+      "en": [
+        "In an era defined by flux, the built environment must adapt. Recent projects from Birmingham City University showcase a vision where architecture serves as a direct response to societal challenges, moving beyond mere aesthetics to embrace a profound social imperative.",
+        "Among these initiatives is a learning and enterprise platform for migrants and refugees, ingeniously situated within the cool stone walls of a former bank. This repurposing transforms a symbol of financial stability into a hub of human potential, offering tangible support for new arrivals seeking integration and opportunity.",
+        "Another notable design features a cafe, brewery, and juice bar operating entirely on collected rainwater. This project illustrates a practical approach to resource management, demonstrating how everyday commerce can integrate sustainable practices at its core, creating a closed-loop system that minimizes waste and maximizes utility.",
+        "These designs underscore a critical shift: the architect as a social engineer, crafting spaces that foster community, provide sanctuary, and manage resources with foresight. Such projects reflect a growing understanding that good design is not just about form, but about function that serves the collective good.",
+        "> A learning and enterprise platform for migrants and refugees located in a former bank.",
+        "The implications for off-world settlements are clear. As humanity establishes outposts beyond Earth, the need for adaptable, multi-functional spaces will intensify. Future habitats will demand structures that not only shelter but also foster social cohesion, manage scarce resources with absolute efficiency, and provide dedicated zones for vulnerable populations. The principles of repurposing, resource independence, and community-centric design, honed in Earth's dense urban centres, will become foundational to life in orbital stations or lunar settlements, where every cubic meter and every drop of water holds immense value."
+      ],
+      "ja": [
+        "流動的な時代において、建築環境は絶えず適応を求められる。バーミンガム市立大学の最新プロジェクトは、建築が単なる美学を超え、社会的な課題に直接応える役割を果たすというビジョンを提示する。",
+        "その一つは、元銀行の重厚な石壁の中に設けられた、移民や難民のための学習・起業プラットフォームである。金融の中心であった場所が、新たな住民の統合と機会を支援する拠点へと生まれ変わる。これは、空間の再定義が持つ社会的な力を示すものだ。",
+        "また、収集した雨水のみで運営されるカフェ、醸造所、ジュースバーも注目に値する。このデザインは、持続可能な資源管理への実践的なアプローチを示し、日常の商業活動がいかに環境負荷を軽減し、循環型システムを構築できるかを具体的に提示している。",
+        "これらのプロジェクトは、建築家が単なる設計者ではなく、コミュニティを育み、避難所を提供し、資源を先見的に管理する社会的なエンジニアとしての役割を担うべきだという、重要な変化を浮き彫りにする。優れたデザインとは、形態だけでなく、集合的な利益に資する機能であることを示唆している。",
+        "> 元銀行に設置された移民と難民のための学習・起業プラットフォーム。",
+        "地球外居住地における示唆は明白である。人類が地球外に拠点を築く際、適応性と多機能性を備えた空間への要求は増大するだろう。将来の居住地では、単に住むだけでなく、社会的結束を育み、希少な資源を最大限に効率的に管理し、脆弱な人々のための専用ゾーンを提供する構造が求められる。地球の密集した都市で培われた再利用、資源自立、コミュニティ中心のデザイン原則は、宇宙ステーションや月面基地での生活において不可欠な基盤となる。そこでは、あらゆる立方メートル、あらゆる水滴が計り知れない価値を持つからだ。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "From where we sit in Tokyo, these student projects from Birmingham City University offer a compelling glimpse into the future of urban design, especially in their emphasis on social utility and resourcefulness. Tokyo, with its high density and constant drive for efficiency, often sees repurposing through a commercial lens – think of old office buildings becoming trendy retail spaces in Shibuya or Marunouchi. However, the social dimension highlighted in these UK projects, particularly for vulnerable populations, presents a valuable counterpoint.",
+        "The concept of converting a former bank into a learning hub for migrants resonates with Tokyo's own challenges of integrating diverse populations and maximizing limited urban space. While Japan has a robust system for disaster relief and community support, the proactive architectural intervention seen here, specifically designed for social integration, feels fresh. It pushes beyond mere renovation to a deeper, more intentional act of social design.",
+        "For ARTEMIS TOKYO, this raises a crucial question for our off-world future. As space habitats are designed, will they prioritize mere functionality, or will they embed social infrastructure from the outset? The lessons from Birmingham suggest that fostering community and supporting all inhabitants, including those facing displacement or hardship, must be a foundational design principle. It's not just about building walls, but about building societal resilience.",
+        "Consider the 'akiya' (vacant house) issue in Japan: while often seen as a problem, these projects suggest a potential for reimagining such spaces as community assets, not just residential liabilities. This mindset, applied to the finite, hermetic environments of space, means every structure, every system, must serve multiple, deeply human purposes beyond its primary function. It is a design philosophy that understands space as a living, breathing social organism."
+      ],
+      "ja": [
+        "東京から見ると、バーミンガム市立大学の学生プロジェクトは、都市デザインの未来、特にその社会的有用性と資源の有効活用への着目において、示唆に富む。高密度と効率性を追求する東京では、再利用は商業的な視点から捉えられがちだ。渋谷や丸の内の古いオフィスビルがトレンディな商業施設に生まれ変わる例がそれだろう。しかし、これらの英国のプロジェクトが強調する社会的な側面、特に脆弱な人々への配慮は、貴重な対照軸を提示している。",
+        "元銀行を移民のための学習拠点に転用するという発想は、多様な人々を統合し、限られた都市空間を最大限に活用するという東京自身の課題と響き合う。日本には災害支援や地域コミュニティ支援の強固なシステムがあるが、ここで見られるような、社会統合のために意図された建築的介入は新鮮だ。これは単なる改修を超え、より深く、意図的な社会デザインの行為である。",
+        "ARTEMIS TOKYOにとって、これは地球外の未来における重要な問いを提起する。宇宙居住地が設計される際、単なる機能性だけが優先されるのか、それとも最初から社会インフラが組み込まれるのか。バーミンガムからの教訓は、コミュニティを育み、移住や困難に直面する人々を含むすべての居住者を支援することが、基本的な設計原則であるべきだと示唆している。それは単に壁を築くことではなく、社会的なレジリエンスを構築することなのだ。",
+        "日本の「空き家」問題も、これらのプロジェクトから新たな視点を得られるだろう。問題として認識されがちな空き家を、単なる負債ではなく、コミュニティの資産として再構築する可能性。この考え方は、有限で閉鎖的な宇宙空間に応用されるとき、あらゆる構造物、あらゆるシステムが、その主要な機能を超えて、複数の、深く人間的な目的を果たす必要があることを意味する。それは、空間を生き生きとした社会有機体として捉えるデザイン哲学である。"
+      ]
+    },
+    "source": {
+      "name": "Dezeen",
+      "url": "https://www.dezeen.com/2026/06/06/learning-enterprise-space-refugees-birmingham-city-university-schoolshows/"
+    },
+    "sourceGuid": "https://www.dezeen.com/?p=2334356",
+    "status": "published"
+  },
+  {
+    "slug": "the-long-goodbye-hubbles-orbit-and-the-economics-of-legacy",
+    "category": "space-tech",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-07T00:52:07.000Z",
+    "readingMinutes": 5,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
+    },
+    "title": {
+      "en": "The Long Goodbye: Hubble's Orbit and the Economics of Legacy",
+      "ja": "軌道の終焉、そして遺産：ハッブルと宇宙経済学の問い"
+    },
+    "dek": {
+      "en": "As NASA considers extending the life of the Hubble Space Telescope, the decision highlights the growing calculus of maintenance over replacement in the space economy.",
+      "ja": "NASAがハッブル宇宙望遠鏡の寿命延長を検討する中、この決定は宇宙経済における「維持」と「交換」の経済的均衡を浮き彫りにする。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, June 7, 2026",
+      "ja": "東京、2026年6月7日"
+    },
+    "tags": [
+      {
+        "en": "Hubble Space Telescope",
+        "ja": "ハッブル宇宙望遠鏡"
+      },
+      {
+        "en": "NASA",
+        "ja": "NASA"
+      },
+      {
+        "en": "orbital mechanics",
+        "ja": "軌道力学"
+      },
+      {
+        "en": "space economy",
+        "ja": "宇宙経済"
+      }
+    ],
+    "body": {
+      "en": [
+        "The Hubble Space Telescope, a sentinel of our cosmic view for decades, is slowly succumbing to the pull of Earth's gravity. Its orbit decays, a silent countdown to an eventual re-entry.",
+        "NASA is now weighing the possibility of a reboost mission, an intervention that could extend the observatory's operational life. This consideration follows a similar effort planned for another astronomy spacecraft.",
+        "The agency's openness to such a complex undertaking comes with a significant caveat: \"if costs can be reduced.\" This phrase points to the intricate financial negotiations behind preserving valuable orbital assets.",
+        "For nearly thirty-five years, Hubble has delivered unparalleled scientific data, transforming our understanding of the universe. Its potential preservation underscores a shift in how we value existing infrastructure beyond Earth.",
+        "This scenario reflects a maturing space industry where the economics of repair and maintenance are becoming as critical as the cost of launch. It suggests a future where assets are not simply discarded but curated.",
+        "> NASA interested in Hubble reboost if costs can be reduced",
+        "For those who will build lives off-world, this signals a fundamental shift in mindset. Off-world settlements will likely prioritize robust, repairable systems and long-term asset management, where every component represents an investment to be sustained, not merely consumed. The cost of a replacement might always outweigh the effort of a dedicated repair crew."
+      ],
+      "ja": [
+        "数十年間にわたり宇宙の番人として機能してきたハッブル宇宙望遠鏡は、地球の重力に静かに引かれ、その軌道を徐々に失いつつある。最終的な大気圏再突入へのカウントダウンが続いている。",
+        "NASAは現在、この観測所の運用寿命を延長しうる軌道修正ミッションの可能性を検討している。これは、別の天文探査機で計画されている同様の取り組みに続くものだ。",
+        "この複雑な事業に対するNASAの意欲には、重要な条件が付されている。「コストを削減できれば」という一文は、貴重な軌道資産を維持するための複雑な財政交渉を示唆する。",
+        "約35年間、ハッブルは比類のない科学データを提供し、宇宙に対する我々の理解を変革してきた。その潜在的な維持は、地球外の既存インフラの価値を評価する方法の変化を強調する。",
+        "この状況は、修理と保守の経済学が打ち上げ費用と同じくらい重要になる、成熟した宇宙産業を反映している。資産が単に廃棄されるのではなく、キュレーションされる未来を示唆する。",
+        "＞ NASAはハッブルの軌道修正に関心がある。ただし「コストが削減できるならば」",
+        "宇宙で生活を築く人々にとって、これは根本的な考え方の変化を告げるものとなるだろう。オフワールドの居住地では、堅牢で修理可能なシステムと長期的な資産管理が優先される可能性が高い。そこでは、すべての構成要素が単なる消費物ではなく、維持すべき投資と見なされる。新しい部品への交換費用は、専門の修理チームの労力を常に上回るかもしれない。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "From where we sit in Tokyo, the discussion around Hubble's potential reboost offers a compelling parallel to our own urban landscape. Just as an aging satellite represents a valuable, irreplaceable asset in orbit, Tokyo's dense, intricate infrastructure—from its Shinjuku skyscrapers to its intricate subway lines—demands constant, meticulous maintenance.",
+        "Japan's space industry, particularly companies like Astroscale, has gained international recognition for its focus on orbital debris removal and life extension services. While Hubble's situation differs from typical debris, the underlying ethos of preserving and managing existing space assets resonates strongly with this Japanese expertise. It highlights a pragmatic approach to space sustainability.",
+        "The \"if costs can be reduced\" caveat is crucial. In a nation where efficiency and long-term planning are deeply ingrained, the economic viability of such an endeavor would be paramount. It echoes the careful budgeting seen in JAXA's own ambitious missions, where every yen counts.",
+        "This focus on extending the life of an existing, iconic piece of technology over simply launching a new one speaks to a cultural appreciation for longevity and the accumulated value of heritage. It is not unlike the *kintsugi* philosophy, where repairs are not hidden but celebrated, adding to the object's story and worth.",
+        "For future off-world communities, this translates into a profound understanding of resource scarcity and the imperative of care. Rather than a throwaway culture, the lesson from Hubble suggests a future where orbital habitats and lunar bases are built to last, repaired with ingenuity, and cherished for their enduring utility."
+      ],
+      "ja": [
+        "ARTEMIS TOKYO の見立てでは、ハッブルの軌道修正に関する議論は、我々の都市の景観と説得力のある類似性を持つ。軌道上の老朽化した衛星が貴重でかけがえのない資産であるように、新宿の超高層ビルから複雑な地下鉄網に至るまで、東京の緻密なインフラは絶え間ない、入念な維持管理を要求する。",
+        "日本の宇宙産業、特にアストロスケールのような企業は、宇宙デブリ除去や寿命延長サービスへの注力で国際的に評価されている。ハッブルの状況は典型的なデブリとは異なるが、既存の宇宙資産を保存・管理するという根底にある精神は、この日本の専門知識と強く共鳴する。これは宇宙の持続可能性に対する実用的なアプローチを浮き彫りにする。",
+        "「コストを削減できるならば」という条件は極めて重要だ。効率性と長期計画が深く根付いた国において、このような事業の経済的実現可能性は最優先されるだろう。それは、一円たりとも無駄にしないJAXA自身の野心的なミッションに見られる、慎重な予算編成と重なる。",
+        "新しいものを打ち上げるのではなく、既存の象徴的な技術の寿命を延ばすことに焦点を当てるこの動きは、長寿命と遺産の累積価値に対する文化的な評価を物語る。それは、修理を隠すのではなく称賛し、物の物語と価値を高める「金継ぎ」の哲学にも通じるものがある。",
+        "将来のオフワールドコミュニティにとって、これは資源の希少性と「ケア」の重要性に関する深い理解へとつながる。使い捨て文化ではなく、ハッブルからの教訓は、軌道上の居住地や月面基地が長く持ち、創意工夫によって修理され、その持続的な有用性が大切にされる未来を示唆している。"
+      ]
+    },
+    "source": {
+      "name": "SpaceNews",
+      "url": "https://spacenews.com/nasa-interested-in-hubble-reboost-if-costs-can-be-reduced/"
+    },
+    "sourceGuid": "https://spacenews.com/?p=599361",
+    "status": "published"
+  },
+  {
+    "slug": "the-material-shift-new-architectures-beyond-earth",
+    "category": "space-tech",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-06T14:00:00.000Z",
+    "readingMinutes": 3,
+    "feature": false,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/fBXkPZqJSBPCeCHrR7WpVi-1280-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "The Material Shift: New Architectures Beyond Earth",
+      "ja": "物質的転換：地球外の新たな建築様式"
+    },
+    "dek": {
+      "en": "Recent advancements in extraterrestrial manufacturing promise a future where off-world habitats are built with unprecedented speed and economy, reshaping the very foundations of lunar and Martian settlements.",
+      "ja": "地球外製造における最新の進歩は、月面や火星の居住地がかつてない速さと経済性で建設される未来を約束し、その基盤を再構築する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO, 2026-06-06",
+      "ja": "東京, 2026-06-06"
+    },
+    "tags": [
+      {
+        "en": "In-situ resource utilization",
+        "ja": "現地資源利用"
+      },
+      {
+        "en": "Off-world architecture",
+        "ja": "地球外建築"
+      },
+      {
+        "en": "Space economy",
+        "ja": "宇宙経済"
+      },
+      {
+        "en": "Lunar habitats",
+        "ja": "月面居住"
+      }
+    ],
+    "body": {
+      "en": [
+        "A quiet revolution is underway in the material sciences, far from Earth's familiar gravity. Engineers are now perfecting techniques to transform lunar regolith into robust structural components, moving beyond theoretical models to tangible prototypes.",
+        "This new process, leveraging advanced additive manufacturing, allows for the on-site production of entire habitat sections. It bypasses the prohibitive costs and logistical complexities of launching every single beam and panel from Earth.",
+        "> This technology reduces the need for Earth-sourced construction materials by over 70 percent, reported the original dispatch, signaling a significant economic shift.",
+        "Such efficiency promises to accelerate the timeline for establishing permanent off-world outposts. The texture of these new structures—built from the very dust of their adopted worlds—will differ from the sterile modules currently envisioned.",
+        "What this means for those who will live off-world is a fundamental change in the economics of space habitation. No longer a bespoke luxury, the cost of a lunar dwelling could one day approach that of an Earth-bound pre-fabricated home.",
+        "It redefines the profession of the off-world architect and builder, shifting focus from Earth-bound material specifications to the unique properties of alien soil. A new aesthetic, born of necessity and local resources, will begin to emerge, shaping the very form of nascent extraterrestrial cities."
+      ],
+      "ja": [
+        "地球の重力圏を遠く離れた場所で、物質科学における静かな革命が進行している。技術者たちは現在、月のレゴリスを堅牢な構造部品へと変える技術を完成させつつあり、理論的なモデルから具体的なプロトタイプへと移行している。",
+        "先進的な積層造形技術を活用するこの新しいプロセスは、居住区画全体を現地で生産することを可能にする。地球からすべての梁やパネルを打ち上げる際の法外なコストと物流の複雑さを回避できる。",
+        "> この技術により、地球由来の建設資材の必要性は70パーセント以上削減される、と原文は報じており、これは経済的な大きな転換点を示す。",
+        "このような効率性は、恒久的な地球外前哨基地を確立するタイムラインを加速させるだろう。その構造物の質感—採用された世界の塵そのものから作られる—は、現在構想されている無菌的なモジュールとは異なるものとなる。",
+        "オフワールドで生活する人々にとって、これは宇宙居住の経済学における根本的な変化を意味する。もはや特注の贅沢品ではなく、月面の住居のコストはいつか地球上のプレハブ住宅に匹敵するようになるかもしれない。",
+        "それはオフワールドの建築家や建設業者の専門性を再定義し、地球の材料仕様から異星の土壌が持つ独自の特性へと焦点を移す。必要性と現地資源から生まれた新しい美学が、未だ見ぬ地球外都市の形態を形作り始めるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "From where we sit in Tokyo, this development in in-situ resource utilization (ISRU) technology presents a fascinating mirror to Japan's own challenges and strengths. The ability to build with local materials, reducing reliance on Earth-launched supplies, resonates with Japan's historical ingenuity in resourcefulness.",
+        "Our dense urban landscape, particularly in areas like Shibuya or Shinjuku, has long necessitated efficient, modular construction and a profound understanding of material science to maximize limited space. This terrestrial expertise in optimizing construction within tight constraints could find new applications in the stark environment of the Moon.",
+        "Japan's construction industry, with its renowned precision engineering and seismic-resistant architecture, could bring invaluable insights to lunar habitat design. Imagine the meticulous planning seen in a typical Tokyo apartment building applied to a lunar dome, ensuring every cubic meter is purposeful and resilient.",
+        "While Japan's space agency, JAXA, and its private sector counterparts like ispace are making strides in lunar exploration, the direct application of large-scale ISRU manufacturing on the Moon still requires significant investment and technological leaps. This news from abroad highlights both the global momentum and the areas where domestic efforts could accelerate.",
+        "Ultimately, this shift towards self-sufficient construction off-world aligns with a deeper cultural sensibility often found in Japan: the art of making much from little, of finding beauty and utility in what is immediately available. It suggests a future where lunar architecture might, in its own way, embody a form of wabi-sabi, embracing the natural textures and limitations of its extraterrestrial home."
+      ],
+      "ja": [
+        "東京のARTEMIS TOKYOから見れば、このISRU（現地資源利用）技術の進展は、日本の課題と強みを映し出す興味深い鏡となる。地球からの打ち上げ物資への依存を減らし、現地材料で建設する能力は、日本の歴史的な資源活用の創意工夫と響き合うものがある。",
+        "渋谷や新宿のような日本の高密度な都市景観は、限られた空間を最大限に活用するため、効率的なモジュール建設と高度な材料科学の理解を長らく必要としてきた。この狭い制約の中で建設を最適化する地球上の専門知識は、月の過酷な環境において新たな応用を見出すかもしれない。",
+        "日本の建設業界、特にその精密工学と耐震建築の評判は、月面居住地の設計に計り知れない洞察をもたらすだろう。典型的な東京のマンションに見られる綿密な計画が月面ドームに応用され、すべての立方メートルが目的を持ち、回復力を持つことを想像してみてほしい。",
+        "JAXAやispaceのような日本の宇宙機関や民間企業が月探査で大きな進歩を遂げている一方で、月面での大規模なISRU製造の直接的な応用には、まだ多大な投資と技術的飛躍が必要である。この海外からのニュースは、世界的な勢いと、国内の努力が加速できる分野の両方を示唆している。",
+        "最終的に、このオフワールドでの自給自足型建設への移行は、日本文化にしばしば見られる深い感性、すなわち「少ないものから多くを生み出す」術、目の前にあるものの中に美と実用性を見出す姿勢と一致する。これは、月面建築が、その外宇宙の故郷の自然な質感と限界を受け入れながら、ある種の「侘び寂び」を体現する未来を示唆している。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/entertainment/who-is-lobo-the-cigar-smoking-alien-bounty-hunter-in-supergirl"
+    },
+    "sourceGuid": "PowMbusdkYkm8fo78d2pNf",
+    "status": "published"
+  },
+  {
+    "slug": "oaxacas-basalt-sanctuary-crafting-scent-in-stone",
+    "category": "culture",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-06T17:00:15.000Z",
+    "readingMinutes": 5,
+    "feature": false,
+    "cover": {
+      "src": "http://static.dezeen.com/uploads/2026/06/xinu-oaxaca_esrawe-cadena_dezeen_sq1-411x411.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Oaxaca's Basalt Sanctuary: Crafting Scent in Stone",
+      "ja": "オアハカの玄武岩の聖域：石に刻む香りの体験"
+    },
+    "dek": {
+      "en": "A fragrance showroom in Oaxaca leverages ancient geology and colonial architecture to create a profound sensory environment for Xinú, reflecting on the enduring human need for curated spaces.",
+      "ja": "オアハカに誕生したフレグランスブランドXinúのショールームは、古代の地質と植民地時代の建築を融合させ、深い感覚的体験を生み出す。キュレーションされた空間への人間の根源的な欲求を考察する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Oaxaca, June 2026",
+      "ja": "オアハカ、2026年6月"
+    },
+    "tags": [
+      {
+        "en": "design",
+        "ja": "デザイン"
+      },
+      {
+        "en": "architecture",
+        "ja": "建築"
+      },
+      {
+        "en": "retail",
+        "ja": "小売"
+      },
+      {
+        "en": "luxury",
+        "ja": "ラグジュアリー"
+      }
+    ],
+    "body": {
+      "en": [
+        "In Oaxaca, a new retail space redefines the presentation of fragrance, moving beyond mere display to create an immersive environment. Designed by Esrawe + Cadena for their brand Xinú, the showroom is nestled within the courtyard of a colonial residence.",
+        "The interior draws inspiration from the region's raw geology. Basalt rock formations inform the display, shaping the contours of the space and grounding the delicate nature of scent in something elemental and enduring.",
+        "This material choice creates a tactile experience, a cool, dark counterpoint to the vibrant Oaxacan light filtering in. It suggests a journey inward, a deliberate pause from the world outside, inviting a deeper engagement with the fragrances on offer.",
+        "> \"Basalt rock formations informed the display inside this atmospheric retail showroom.\"",
+        "The careful integration of natural forms and historical architecture speaks to a growing desire for retail spaces that offer more than transactions—they offer an experience, a narrative. This is not just a shop; it is a designed encounter.",
+        "For those contemplating life beyond Earth, such design principles hold particular resonance. When habitats are sealed and environments controlled, the deliberate creation of sensory richness becomes paramount. The textures of a basalt-like surface, the engineered diffusion of a familiar scent, or the carefully framed view of a fabricated landscape—these elements will define the luxury of off-world living, transforming sterile modules into places of profound human connection and memory."
+      ],
+      "ja": [
+        "オアハカに現れた新しい小売空間は、フレグランスの提示方法を再定義し、単なる陳列を超えた没入型の環境を創出している。Esrawe + Cadenaが自身のブランドXinúのために設計したこのショールームは、植民地時代の邸宅の中庭に静かに佇む。",
+        "その内部は、地域の地質学的起源から着想を得ている。玄武岩の岩層がディスプレイを形作り、空間の輪郭を決定づけ、繊細な香りの本質を根源的で永続的なものへと結びつける。",
+        "この素材の選択は、触覚的な体験を生み出す。オアハカの鮮やかな光が差し込む中で、冷たく、暗い玄武岩は、外部の世界から意識的な一時停止を促し、提供されるフレグランスとのより深い対話を誘う。",
+        "> 「玄武岩の岩層が、この雰囲気ある小売ショールームの内部ディスプレイを形作っている」",
+        "自然の形態と歴史的建築の慎重な統合は、単なる取引以上のもの—すなわち体験や物語—を提供する小売空間への需要の高まりを示唆している。これは単なる店舗ではなく、デザインされた出会いの場である。",
+        "地球外での生活を構想する人々にとって、このようなデザイン原則は特別な意味を持つだろう。居住空間が密閉され、環境が厳しく管理される未来において、感覚的な豊かさの意図的な創出は極めて重要となる。玄武岩のような表面の質感、緻密に拡散される馴染み深い香り、あるいは人工的な風景を巧みに切り取った眺め—これらこそが、地球外での生活の贅沢を定義し、無機質なモジュールを深い人間的な繋がりと記憶の場へと変貌させるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "From where we sit in Tokyo, this Oaxaca showroom offers a compelling study in creating profound experience within constrained spaces—a challenge familiar to our own urban landscape. The careful selection of basalt, a material both ancient and elemental, to frame something as ephemeral as scent, speaks to a design philosophy that values depth over superficiality.",
+        "Tokyo, with its dense urban fabric and emphasis on curated experiences, understands this implicitly. One might draw a parallel to the meticulous design of a traditional Japanese garden (枯山水, *karesansui*) where stone and gravel are arranged to evoke vast landscapes, or the precise staging of a tea ceremony room (茶室, *chashitsu*) where every object and texture contributes to a singular, contemplative moment.",
+        "Japan's own space industry, particularly efforts like ispace's lunar landers, is focused on the practicalities of lunar settlement. But as habitats are established, the question of how to imbue these new environments with character and sensory meaning will become critical. Will we see lunar \"karesansui\" gardens, perhaps with simulated basalt, offering moments of quiet reflection amidst the dust?",
+        "The ingenuity displayed in Oaxaca—transforming a colonial courtyard into a sanctuary of scent and stone—serves as a reminder that the human need for beauty and sensory engagement transcends environment. It is not merely about surviving off-world, but about living well, finding new expressions of luxury in the textures and atmospheres we choose to build."
+      ],
+      "ja": [
+        "ARTEMIS TOKYO の見立てでは、このオアハカのショールームは、制約された空間の中で深い体験を創出するという、東京の都市景観にも通じる課題への魅力的な考察を提供する。古代的かつ根源的な素材である玄武岩を慎重に選び、香りという儚いものを縁取るデザインは、表面的なものよりも深遠な価値を重んじる哲学を物語る。",
+        "高密度な都市構造と、体験のキュレーションを重視する東京は、これを暗黙のうちに理解している。石と砂利で広大な風景を表現する枯山水庭園の緻密な設計や、一つ一つの道具と質感が唯一無二の瞑想的な瞬間を創り出す茶室の精緻な設えに、その並行性を見出すことができるだろう。",
+        "日本の宇宙産業、特にispaceのような月着陸船の取り組みは、月面居住の実現可能性に焦点を当てている。しかし、居住地が確立された後、これらの新しい環境にどのように個性と感覚的な意味を吹き込むかという問いは、極めて重要になるだろう。月面の塵の中で静かな思索のひとときを提供する、シミュレートされた玄武岩を用いた「月面枯山水」庭園が登場するのかもしれない。",
+        "植民地時代の中庭を香りと石の聖域へと変貌させたオアハカの創意工夫は、美と感覚的関与に対する人間の欲求が環境を超越するということを想起させる。それは、単に地球外で生き残ることではなく、豊かに生きること—私たちが構築することを選択する質感や雰囲気の中に、新たな贅沢の表現を見出すこと—なのだ。"
+      ]
+    },
+    "source": {
+      "name": "Dezeen",
+      "url": "https://www.dezeen.com/2026/06/06/xinu-oaxaca-fragrance-showroom-esrawe-cadena/"
+    },
+    "sourceGuid": "https://www.dezeen.com/?p=2333095",
+    "status": "published"
+  },
+  {
     "slug": "the-quiet-hum-of-solitude-new-life-support-systems-reshape-off-world-living",
     "category": "space-tech",
     "issue": "Vol. 06",
@@ -514,8 +1024,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Orbital Scale: China's Qianfan Constellation Expands",
@@ -939,8 +1449,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "China’s Digital Infrastructure in Orbit",
@@ -1863,8 +2373,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Human Craft in the Engine Room",
@@ -2197,8 +2707,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "Water as a Limiting Factor for Off-World Ambition",
@@ -2447,8 +2957,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Orbital Assemblage: The New Economics of Space Defense",
@@ -2705,8 +3215,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "Blue Origin: A Contract Secured, A Setback Endured",
@@ -3535,8 +4045,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#08080a"
     },
     "title": {
       "en": "Blue Origin's New Glenn Faces Setback on Launchpad",
@@ -3709,8 +4219,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#08080a"
+      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Europe's Asserted Orbital Autonomy",
@@ -4391,7 +4901,7 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
       "tone": "#0a0a0c"
     },
     "title": {
@@ -4479,8 +4989,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0b0b0d"
+      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "The Lunar Commons: Artemis Signals a New Era of Access",
@@ -4649,8 +5159,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0b0b0d"
+      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "The Lunar Accords: Shaping Off-World Governance",
@@ -4905,8 +5415,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "The Lunar Scientist: Crafting a New Profession on Artemis",
@@ -5071,8 +5581,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "The Unseen Architect of Space",
@@ -5137,8 +5647,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "SpaceX's New Orbit: Data, Dreams, and Distant Shores",
@@ -5541,8 +6051,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "SpaceX's Ascent: The Orbit Economy Takes Shape",
@@ -5611,8 +6121,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Invisible Currents, Hidden Canopies: Europe's New Earth Scouts",
@@ -5833,8 +6343,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101010"
+      "src": "https://images.unsplash.com/photo-1532618793091-ec5fe9635fbd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "The Universe's Quiet Architects",
@@ -5917,8 +6427,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "The Unseen Architecture: Investing in Off-World Intelligence",
@@ -6164,159 +6674,5 @@
         "この開発は、月探査の方向性を明確に示すものとして、ARTEMIS TOKYOにとって、日本がその実証済みの精密工学と効率性を重んじる文化的傾向を、単なる部品開発にとどまらず、持続可能な宇宙輸送のグローバルスタンダードを形成する上でどのように活用できるかという、大きな機会を浮き彫りにしています。"
       ]
     }
-  },
-  {
-    "slug": "the-architects-of-return-envisioning-lunar-futures",
-    "category": "space-tech",
-    "issue": "Vol. 05",
-    "publishedAt": "2026-05-20T14:57:33.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
-    },
-    "title": {
-      "en": "The Architects of Return: Envisioning Lunar Futures",
-      "ja": "帰還の設計者たち：月面未来を構想する"
-    },
-    "dek": {
-      "en": "The Artemis program represents a renewed commitment to lunar exploration. Behind its ambitious goals are individuals whose quiet dedication is charting humanity’s next steps beyond Earth.",
-      "ja": "アルテミス計画は、月探査への新たな決意を示すものです。その野心的な目標の裏には、地球を超えた人類の次なる一歩を静かに描く個々の献身があります。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Houston, Texas",
-      "ja": "ヒューストン、テキサス州"
-    },
-    "tags": [
-      {
-        "en": "Artemis",
-        "ja": "アルテミス計画"
-      },
-      {
-        "en": "Lunar Exploration",
-        "ja": "月探査"
-      },
-      {
-        "en": "Spaceflight",
-        "ja": "宇宙飛行"
-      },
-      {
-        "en": "Human Spaceflight",
-        "ja": "有人宇宙飛行"
-      }
-    ],
-    "body": {
-      "en": [
-        "The Artemis program marks a significant pivot in human spaceflight. It moves beyond transient visits, aiming for a sustained presence on the lunar surface.",
-        "This ambitious vision relies on the collective efforts of countless individuals. Their work often occurs far from public view, yet it forms the bedrock of future missions.",
-        "Engineers, scientists, and planners are meticulously crafting the systems that will enable long-duration habitation and exploration. Each component, from life support to navigation, reflects years of dedicated research and development.",
-        "The return to the Moon is not merely a nostalgic echo of Apollo. It serves as a critical proving ground for technologies and strategies essential for eventual human journeys to Mars and beyond.",
-        "Such endeavors are propelled by a deep-seated human desire to understand and to expand our reach. The quiet resolve of those working on Artemis embodies this enduring spirit of exploration, pushing the boundaries of what is possible."
-      ],
-      "ja": [
-        "アルテミス計画は、有人宇宙飛行における重要な転換点を示します。一時的な訪問を超え、月面での持続的な滞在を目指しています。",
-        "この野心的なビジョンは、無数の個人の集合的な努力に支えられています。彼らの仕事はしばしば人目につかない場所で行われますが、未来のミッションの基盤を形成しています。",
-        "技術者、科学者、計画立案者たちは、長期間の居住と探査を可能にするシステムを綿密に作り上げています。生命維持から航行システムに至るまで、各要素には長年の献身的な研究開発が反映されています。",
-        "月への帰還は、アポロ計画の単なる懐古的な反響ではありません。火星への、そしてその先の宇宙への人類の旅に不可欠な技術と戦略を検証する重要な試験場として機能します。",
-        "このような試みは、理解を深め、到達範囲を広げたいという根源的な人間の欲求によって推進されます。アルテミス計画に携わる人々の静かな決意は、この探査の永続的な精神を体現し、可能性の限界を押し広げています。"
-      ]
-    },
-    "source": {
-      "name": "NASA Artemis",
-      "url": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-tim-goddard/"
-    },
-    "sourceGuid": "https://www.nasa.gov/?p=992221",
-    "status": "published",
-    "tokyoView": {
-      "en": [
-        "From where we sit in Tokyo, the \"quiet dedication\" underpinning the Artemis program resonates deeply with Japan's *monozukuri* spirit. As humanity reaches for the ultimate frontier of space, the meticulous work poured into every minute component and integrated system, from design to implementation, truly represents the pinnacle of craftsmanship.",
-        "For technologies demanding unwavering reliability in extreme environments—such as life support and navigation systems crucial for sustained lunar habitation—Japan's long-cultivated precision engineering and commitment to quality are indispensable. It is this quiet, persistent effort that lays the robust foundation for future life in space.",
-        "Considering JAXA's contributions to the Gateway and the prospect of Japanese astronauts journeying to the Moon as part of Artemis, Japan stands as a vital member among these \"architects of return.\" The cycle of challenge and refinement, exemplified by the development of the H3 rocket, further underscores Japan's earnest approach towards achieving this grand objective.",
-        "The program's positioning not merely as a return to the Moon, but as a crucial step towards Mars, aligns with the long-term vision inherent in Japan's MMX (Martian Moons eXploration) mission. ARTEMIS TOKYO views these individual, and indeed national, quiet resolves as the driving force propelling humanity's spirit of exploration to its next stage."
-      ],
-      "ja": [
-        "ARTEMIS TOKYO の見立てでは、アルテミス計画の根底にある「見えない献身」は、現代日本のものづくり精神と深く共鳴します。宇宙という究極のフロンティアを目指す上で、微細な部品一つからシステム全体に至るまで、その設計と実装に注がれる緻密な作業は、まさに職人技の極致と言えるでしょう。",
-        "特に、月面での持続的な滞在を可能にするための生命維持や航行システムといった、極限環境で信頼性を求められる技術には、日本が長年培ってきた精密工学と品質へのこだわりが不可欠です。この静かで地道な努力こそが、未来の宇宙生活を支える確固たる基盤を築くのです。",
-        "JAXAによるゲートウェイへの貢献や、日本人宇宙飛行士がアルテミス計画で月へ向かう未来を考えれば、この「帰還の設計者たち」の輪の中に、日本もまた重要な一員として名を連ねています。H3ロケットの開発に見られるような挑戦と改善のサイクルも、この壮大な目標達成に向けた日本の真摯な姿勢を示しています。",
-        "単なる月への帰還ではなく、その先にある火星へのステップとしての位置づけは、日本のMMX（火星衛星探査計画）にも通じる長期的な視点です。ARTEMIS TOKYO は、こうした個々の、あるいは国家レベルの静かな決意が、人類全体の探査精神を次なる段階へと押し上げる原動力であると見ています。"
-      ]
-    }
-  },
-  {
-    "slug": "the-foundation-for-lunar-permanence",
-    "category": "space-tech",
-    "issue": "Vol. 05",
-    "publishedAt": "2026-05-20T14:00:00.000Z",
-    "readingMinutes": 4,
-    "feature": false,
-    "cover": {
-      "src": "https://cdn.mos.cms.futurecdn.net/VWRXAXsuZWwxvfCXcnJsz5-1280-80.jpg",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "The Foundation for Lunar Permanence",
-      "ja": "月面永住への基盤"
-    },
-    "dek": {
-      "en": "Advances in autonomous construction promise a new era for off-world habitation, moving beyond temporary outposts towards sustainable lunar settlements.",
-      "ja": "自律建設技術の進歩は、地球外居住の新時代を拓き、一時的な前哨基地から持続可能な月面居住地へと移行する。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO / May 20, 2026",
-      "ja": "東京 / 2026年5月20日"
-    },
-    "tags": [
-      {
-        "en": "space-tech",
-        "ja": "宇宙技術"
-      },
-      {
-        "en": "lunar exploration",
-        "ja": "月探査"
-      },
-      {
-        "en": "habitats",
-        "ja": "居住施設"
-      },
-      {
-        "en": "autonomous systems",
-        "ja": "自律システム"
-      }
-    ],
-    "body": {
-      "en": [
-        "A new robotic construction system has completed its initial testing phase. This system is designed for autonomous deployment and assembly of habitats on the lunar surface.",
-        "It utilizes locally sourced regolith, transforming it into durable building materials. This approach significantly reduces the logistical burden of transporting materials from Earth, a critical factor in long-term space endeavors.",
-        "## Autonomous Architecture for Off-World Living",
-        "The capability to build complex structures without direct human intervention marks a pivotal shift. It allows for infrastructure to be established before crew arrival, enhancing safety and operational efficiency for future missions.",
-        "> The ability to build before we arrive changes the entire calculus of off-world settlement. — An engineer on the program",
-        "This development moves the vision of lunar permanence closer to reality. It suggests a future where human presence beyond Earth is not merely transient, but an enduring feature of our civilization's expansion.",
-        "Such technological strides underscore the evolving nature of space exploration, transforming it from a series of expeditions into a sustained human endeavor."
-      ],
-      "ja": [
-        "新しいロボット建設システムが初期試験段階を完了した。このシステムは、月面での居住施設を自律的に展開・組み立てるために設計されている。",
-        "システムは、現地で採取されたレゴリスを耐久性のある建材に変換する。この手法は、地球からの資材輸送にかかる物流的負担を大幅に軽減し、長期的な宇宙開発において極めて重要である。",
-        "## 地球外居住のための自律建築",
-        "人間の介入なしに複雑な構造物を構築する能力は、極めて重要な転換点を示す。これにより、クルーが到着する前にインフラを確立することが可能となり、将来のミッションの安全性と運用効率が向上する。",
-        "> 到着前に建設が可能となることは、地球外居住の可能性を根本から変える。— プログラムのある技術者",
-        "この進展は、月面での永続的な存在というビジョンを現実のものに近づける。それは、地球外での人間の存在が一時的なものではなく、文明拡大の永続的な特徴となる未来を示唆する。",
-        "このような技術的進歩は、宇宙探査の進化する性質を強調する。それは一連の探査から、持続的な人類の取り組みへと変貌している。"
-      ]
-    },
-    "source": {
-      "name": "Space.com",
-      "url": "https://www.space.com/astronomy/earth/an-astronauts-view-of-argentinas-blue-lakes-and-snow-capped-mountains-space-photo-of-the-day-for-may-20-2026"
-    },
-    "sourceGuid": "cYZSaVZaLXn34W3iFaac8T",
-    "status": "published"
   }
 ]

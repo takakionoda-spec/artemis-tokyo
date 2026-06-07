@@ -86,6 +86,11 @@ type SourceDescriptor = {
   category: CategoryKey;
   /** Optional relevance filter. If set, item title+summary must match. */
   filter?: RegExp;
+  /** Optional URL exclusion. If set, items whose `link` URL matches are
+   *  dropped before any LLM call. Used to block Space.com's `/entertainment/`
+   *  vertical (Spider-Man, Lobo, movie reviews) from getting rewritten into
+   *  fictional space-tech pieces by the LLM. */
+  excludeLinkPattern?: RegExp;
   /** Per-source framing note injected into the LLM prompt. */
   framing?: string;
 };
@@ -103,6 +108,23 @@ const IS_BACKFILL = process.argv.includes("--backfill");
 // `--retrofit-tokyo-view` skips the RSS pipeline entirely and only walks the
 // existing articles.json, patching tokyoView onto every article missing it.
 const IS_RETROFIT_TOKYO_VIEW = process.argv.includes("--retrofit-tokyo-view");
+// `--regenerate-recent` skips the RSS pipeline and re-edits the most recent N
+// articles in articles.json through the current LLM brief (body + closing
+// block). Used to retrofit older articles whenever the brief in site.config.ts
+// is upgraded. Preserves slug / publishedAt / cover so URLs stay stable and
+// "画像等の変更はなくていい" is respected.
+//   npm run cron:regenerate-recent             → top 10
+//   npm run cron:regenerate-recent -- --count=20  → top 20
+const IS_REGENERATE_RECENT = process.argv.includes("--regenerate-recent");
+const REGEN_COUNT_RAW = process.argv.find((a) => a.startsWith("--count="));
+const REGEN_COUNT = REGEN_COUNT_RAW
+  ? Math.max(1, Number(REGEN_COUNT_RAW.slice("--count=".length)) || 10)
+  : 10;
+// `--purge-off-topic` walks the entire articles.json and removes every entry
+// whose source.url matches any source's excludeLinkPattern. No LLM calls;
+// cheap and instant. Used to clean up legacy pollution before the source-level
+// filter was added.
+const IS_PURGE_OFF_TOPIC = process.argv.includes("--purge-off-topic");
 const LOOKBACK_HOURS = Number(process.env.CRON_LOOKBACK_HOURS ?? (IS_BACKFILL ? 720 : 168));
 const MAX_PER_RUN = Number(process.env.CRON_MAX_PER_RUN ?? (IS_BACKFILL ? 30 : 10));
 const RETAIN_ARTICLES = Number(process.env.CRON_RETAIN ?? 80);
@@ -126,6 +148,7 @@ const SOURCES: SourceDescriptor[] = siteConfig.pipeline.sources.map((s) => ({
   parse: s.parse,
   category: s.category as CategoryKey,
   filter: s.filter,
+  excludeLinkPattern: (s as { excludeLinkPattern?: RegExp }).excludeLinkPattern,
   framing: s.framing
 }));
 
@@ -296,19 +319,29 @@ async function fetchSource(s: SourceDescriptor): Promise<{
   filteredOut: number;
 }> {
   const xml = await fetchText(s.url);
-  const items =
+  let items =
     s.parse === "atom"
       ? parseAtomItems(xml, s.name, s.category)
       : parseRssItems(xml, s.name, s.category);
+
+  // URL exclusion runs BEFORE relevance filtering. Drop entertainment /
+  // off-topic verticals (Space.com /entertainment/ etc.) so the LLM is
+  // never asked to rewrite a Spider-Man article into a lunar habitat piece.
+  const beforeExclude = items.length;
+  if (s.excludeLinkPattern) {
+    items = items.filter((it) => !s.excludeLinkPattern!.test(it.link));
+  }
+  const urlExcluded = beforeExclude - items.length;
+
   if (!s.filter) {
-    return { source: s.name, raw: items, topical: items, filteredOut: 0 };
+    return { source: s.name, raw: items, topical: items, filteredOut: urlExcluded };
   }
   const topical = items.filter((it) => s.filter!.test(it.title) || s.filter!.test(it.summary));
   return {
     source: s.name,
     raw: items,
     topical,
-    filteredOut: items.length - topical.length
+    filteredOut: items.length - topical.length + urlExcluded
   };
 }
 
@@ -347,6 +380,49 @@ const SYSTEM_INSTRUCTIONS = (() => {
   return `You are the senior editor of ${v.premise}
 
 Re-edit the supplied dispatch into a short, polished editorial piece in BOTH English and Japanese.
+
+═══ RELEVANCE GATE — REFUSE off-topic dispatches ═══
+Source feeds occasionally publish content that is NOT genuinely about space.
+Examples: movie reviews, TV-show release dates, comic book characters (Spider-Man,
+Lobo, Superman, Mysterio, etc.), gaming announcements, fashion shows, celebrity
+profiles, video games, music releases. These items sometimes appear in Space.com's
+entertainment vertical, in Futurism's pop-culture coverage, or in The Verge's
+crossover stories.
+
+If the dispatch you are given is NOT directly about space migration, the
+Artemis programme, aerospace engineering, astronomy, astrophysics, lunar /
+Martian / orbital operations, satellites, propulsion, the space economy, space
+policy, planetary science, off-world architecture, or directly adjacent
+applied science (life support, materials science with off-world implications,
+robotics for space, propellant chemistry), then you MUST REFUSE to invent an
+article.
+
+Specifically: a Spider-Man interview is NOT a story about resilience in
+off-world habitats. A Lobo character explainer is NOT a story about
+extraterrestrial autonomy. An Apple TV space drama release date is NOT a
+story about Japanese space policy. DO NOT find a strained editorial angle —
+REFUSE.
+
+To refuse, output this EXACT JSON object and nothing else:
+{
+  "title_en": "__SKIP_OFF_TOPIC__",
+  "title_ja": "__SKIP_OFF_TOPIC__",
+  "dek_en": "",
+  "dek_ja": "",
+  "body_en": [],
+  "body_ja": [],
+  "${outKey}_en": [],
+  "${outKey}_ja": [],
+  "tags": [],
+  "category": "space-tech",
+  "dateline_en": "",
+  "dateline_ja": "",
+  "reading_minutes": 3
+}
+
+The cron will see __SKIP_OFF_TOPIC__ and silently drop the item — refusing
+costs you nothing. Fabricating an article from an unrelated source is the
+worst possible outcome and must never happen.
 
 ═══ Tone of voice ═══
 ${v.toneOfVoice}
@@ -392,7 +468,8 @@ Output a SINGLE JSON object with exactly these keys (no markdown fences, no comm
 }
 
 Both \`${outKey}_en\` and \`${outKey}_ja\` are REQUIRED and must contain 3–5
-paragraphs each. Empty arrays are not acceptable.`;
+paragraphs each. Empty arrays are not acceptable — UNLESS you are invoking the
+RELEVANCE GATE above, in which case all of these fields stay empty as shown.`;
 })();
 
 function describeSource(src: string): string {
@@ -487,6 +564,52 @@ async function callOpenAI(item: RawItem): Promise<LlmOutput> {
 async function callLlm(item: RawItem): Promise<LlmOutput> {
   if (LLM_PROVIDER === "openai") return callOpenAI(item);
   return callGemini(item);
+}
+
+/**
+ * Retry wrapper around `callLlm()`. Used by `--regenerate-recent` so a
+ * transient 503 / 429 from Gemini doesn't silently drop an article on the
+ * floor. The normal daily cron does NOT use this — a skipped item there will
+ * be picked up again on the next run.
+ *
+ * Retries on: HTTP 500 / 502 / 503 / 504 / 429 + fetch-level network errors.
+ * Does NOT retry on: HTTP 400 / 401 / 403 / 404 + JSON parse errors.
+ * Backoff: 3s, 8s, 20s between attempts. Max 4 attempts.
+ */
+async function callLlmWithRetry(item: RawItem, maxAttempts = 4): Promise<LlmOutput> {
+  const backoffsMs = [3000, 8000, 20000];
+  let lastErr: unknown;
+  for (let attempt = 1; attempt <= maxAttempts; attempt++) {
+    try {
+      return await callLlm(item);
+    } catch (err) {
+      lastErr = err;
+      const msg = String(err);
+      const lower = msg.toLowerCase();
+      const isRetryable =
+        msg.includes("HTTP 503") ||
+        msg.includes("HTTP 502") ||
+        msg.includes("HTTP 504") ||
+        msg.includes("HTTP 500") ||
+        msg.includes("HTTP 429") ||
+        lower.includes("fetch failed") ||
+        lower.includes("econnreset") ||
+        lower.includes("etimedout") ||
+        lower.includes("socket hang up") ||
+        lower.includes("network");
+      if (!isRetryable || attempt === maxAttempts) {
+        throw err;
+      }
+      const waitMs = backoffsMs[attempt - 1] ?? 20000;
+      log(
+        "warn",
+        `LLM attempt ${attempt}/${maxAttempts} failed (retryable), waiting ${waitMs}ms`,
+        { reason: msg.slice(0, 140) }
+      );
+      await sleep(waitMs);
+    }
+  }
+  throw lastErr;
 }
 
 // ---------------------------------------------------------------
@@ -1002,6 +1125,260 @@ async function retrofitTokyoView(dryRun: boolean): Promise<void> {
   log("info", "✓ retrofit-tokyo-view complete.");
 }
 
+// ---------------------------------------------------------------
+// Regenerate-recent — re-edits the most recent N articles through
+// the current brief in site.config.ts. Use this whenever you change
+// composition rules / closing block rules and want existing articles
+// to pick up the new editorial voice without waiting for the source
+// to surface again in the RSS window.
+//
+// Preserves: slug, publishedAt, cover.src, sourceGuid, source.url, feature
+// Re-edits: title, dek, body, tokyoView, tags, author, location, readingMinutes
+// ---------------------------------------------------------------
+async function regenerateRecent(dryRun: boolean): Promise<void> {
+  log("info", "REGENERATE RECENT — re-editing latest articles with current brief", {
+    count: REGEN_COUNT,
+    provider: LLM_PROVIDER,
+    model: LLM_PROVIDER === "openai" ? OPENAI_MODEL : GEMINI_MODEL
+  });
+  const rawExisting = await readJson<Article[]>(ARTICLES_JSON, []);
+  if (rawExisting.length === 0) {
+    log("warn", "articles.json is empty — nothing to regenerate");
+    return;
+  }
+
+  // Backup before any mutation. Writes alongside articles.json as
+  // articles.backup-2026-06-07T08-12-34Z.json so a one-liner revert
+  // is possible if the regenerated output is worse than the original.
+  if (!dryRun) {
+    const stamp = new Date().toISOString().replace(/[:.]/g, "-");
+    const backupPath = ARTICLES_JSON.replace(/\.json$/, `.backup-${stamp}.json`);
+    await writeJson(backupPath, rawExisting);
+    log("info", "backup written", { path: backupPath, articles: rawExisting.length });
+  }
+
+  // Newest-first by publishedAt. Tie-breaker: original array order.
+  const indexed = rawExisting.map((a, i) => ({ a, i }));
+  indexed.sort((x, y) => {
+    const cmp = (y.a.publishedAt ?? "").localeCompare(x.a.publishedAt ?? "");
+    return cmp !== 0 ? cmp : x.i - y.i;
+  });
+  const targets = indexed.slice(0, REGEN_COUNT).map((p) => p.a);
+  log("info", "selected for regeneration", {
+    count: targets.length,
+    bySource: targets.reduce<Record<string, number>>((acc, a) => {
+      const k = a.source?.name ?? "?";
+      acc[k] = (acc[k] ?? 0) + 1;
+      return acc;
+    }, {})
+  });
+
+  // Mutable map so the file's original order is preserved on write.
+  const bySlug = new Map(rawExisting.map((a) => [a.slug, a]));
+  // Track explicit deletions (RELEVANCE GATE refusals) so the final write
+  // step can drop them from the output file — bySlug.delete alone isn't enough
+  // because the output reconstruction falls back to rawExisting for unknown slugs.
+  const deletedSlugs = new Set<string>();
+  let succeeded = 0;
+  let failed = 0;
+
+  // Pre-compute the union of all source-level excludeLinkPatterns. Used to
+  // identify previously-saved polluted articles whose source URL matches a
+  // forbidden pattern (e.g. Space.com /entertainment/). Those get deleted
+  // BEFORE any LLM call — re-sending their body through the LLM is wasted
+  // tokens because regenerate-recent feeds the LLM the EXISTING (already-
+  // hallucinated) body, not the original Space.com headline. So the LLM
+  // would not recognise them as off-topic at this stage.
+  const excludePatterns: RegExp[] = siteConfig.pipeline.sources
+    .map((s) => (s as { excludeLinkPattern?: RegExp }).excludeLinkPattern)
+    .filter((p): p is RegExp => p instanceof RegExp);
+
+  for (let n = 0; n < targets.length; n++) {
+    const previous = targets[n];
+
+    // PRE-FLIGHT URL CHECK — if the article's source.url matches a forbidden
+    // pattern from any source's excludeLinkPattern, delete without calling
+    // the LLM. Catches articles like the Space.com /entertainment/ Spider-Man
+    // pieces that the LLM previously hallucinated into fictional space-tech
+    // stories. We do this BEFORE the sleep + API call so cleanup is fast.
+    const previousSourceUrl = previous.source?.url ?? "";
+    const matchedExclude = excludePatterns.find((re) => re.test(previousSourceUrl));
+    if (matchedExclude) {
+      log(
+        "warn",
+        `[regen ${n + 1}/${targets.length}] PRE-FLIGHT: deleting off-topic source URL`,
+        {
+          slug: previous.slug,
+          source: previous.source?.name,
+          url: previousSourceUrl,
+          pattern: String(matchedExclude)
+        }
+      );
+      bySlug.delete(previous.slug);
+      deletedSlugs.add(previous.slug);
+      succeeded++;
+      continue;
+    }
+
+    if (n > 0 && LLM_DELAY_MS > 0) await sleep(LLM_DELAY_MS);
+
+    // Synthesize a RawItem the LLM can consume. We pass the existing
+    // body + dek as the "summary" so the model has materially richer
+    // context than a bare RSS title. The original imageUrl is included
+    // so pickCover() prefers it — but we still hard-override `cover`
+    // post-assembly to guarantee the image never changes.
+    const synthesizedSummary = [
+      previous.dek?.en ?? "",
+      ...(previous.body?.en ?? [])
+    ]
+      .filter((s) => s && s.trim().length > 0)
+      .join("\n\n");
+
+    const item: RawItem = {
+      guid: previous.sourceGuid || previous.source?.url || previous.slug,
+      source: previous.source?.name ?? "(unknown)",
+      category: isCategoryKey(previous.category) ? previous.category : CATEGORY_ORDER[0],
+      title: previous.title?.en || previous.slug,
+      link: previous.source?.url ?? "",
+      summary: synthesizedSummary || previous.dek?.en || previous.title?.en || "",
+      publishedAt: previous.publishedAt,
+      imageUrl: previous.cover?.src
+    };
+
+    try {
+      log(
+        "info",
+        `[regen ${n + 1}/${targets.length}] "${summarizeTitle(previous.title?.ja || previous.title?.en || previous.slug)}"  [${item.source}]`
+      );
+      const llm = await callLlmWithRetry(item);
+      // RELEVANCE GATE — if the LLM refused (because the underlying source
+      // was off-topic, e.g. a Spider-Man entertainment piece), DELETE this
+      // article from the dataset rather than re-saving the polluted version.
+      // The slot will be filled on the next normal cron run.
+      if (llm.title_en === "__SKIP_OFF_TOPIC__" || llm.title_ja === "__SKIP_OFF_TOPIC__") {
+        log(
+          "warn",
+          `[regen ${n + 1}/${targets.length}] LLM refused — deleting off-topic article "${previous.slug}"`
+        );
+        bySlug.delete(previous.slug);
+        deletedSlugs.add(previous.slug);
+        succeeded++;
+        continue;
+      }
+      const others = rawExisting.filter((a) => a.slug !== previous.slug);
+      const usedCovers = new Set<string>();
+      const fresh = assembleArticle(item, llm, others, usedCovers, previous);
+      // Preserve the cover image exactly. "画像等の変更はなくていい".
+      fresh.cover = previous.cover;
+      fresh.publishedAt = previous.publishedAt;
+      fresh.feature = previous.feature;
+      bySlug.set(previous.slug, fresh);
+      succeeded++;
+    } catch (err) {
+      failed++;
+      log("error", `regeneration failed for "${summarizeTitle(previous.slug, 60)}"`, {
+        reason: String(err).slice(0, 200)
+      });
+    }
+  }
+
+  log("info", "regeneration complete", {
+    attempted: targets.length,
+    succeeded,
+    failed
+  });
+
+  if (dryRun) {
+    log("info", "DRY RUN — not writing JSON.");
+    return;
+  }
+
+  // Re-emit the file in its ORIGINAL ordering, but skip any slug the LLM
+  // refused via the RELEVANCE GATE. Those entries get permanently removed
+  // from articles.json; the daily cron will fill the slots over time.
+  const out = rawExisting
+    .filter((a) => !deletedSlugs.has(a.slug))
+    .map((a) => bySlug.get(a.slug) ?? a);
+  await writeJson(ARTICLES_JSON, out);
+  log("info", "✓ regenerate-recent complete.", {
+    deleted: deletedSlugs.size,
+    deletedSlugs: Array.from(deletedSlugs)
+  });
+}
+
+// ---------------------------------------------------------------
+// Purge-off-topic — walks articles.json and removes entries whose
+// source.url matches any source's excludeLinkPattern. No LLM calls,
+// no API quota. Used as a one-shot cleanup after the entertainment
+// URL filter was added to site.config.ts.
+// ---------------------------------------------------------------
+async function purgeOffTopic(dryRun: boolean): Promise<void> {
+  log("info", "PURGE OFF-TOPIC — removing articles whose source URL matches any excludeLinkPattern");
+  const rawExisting = await readJson<Article[]>(ARTICLES_JSON, []);
+  if (rawExisting.length === 0) {
+    log("warn", "articles.json is empty — nothing to purge");
+    return;
+  }
+
+  const excludePatterns: RegExp[] = siteConfig.pipeline.sources
+    .map((s) => (s as { excludeLinkPattern?: RegExp }).excludeLinkPattern)
+    .filter((p): p is RegExp => p instanceof RegExp);
+
+  if (excludePatterns.length === 0) {
+    log("warn", "no excludeLinkPattern defined on any source — nothing to do");
+    return;
+  }
+
+  log("info", "active exclude patterns", {
+    count: excludePatterns.length,
+    patterns: excludePatterns.map((p) => String(p))
+  });
+
+  // Backup before any deletion.
+  if (!dryRun) {
+    const stamp = new Date().toISOString().replace(/[:.]/g, "-");
+    const backupPath = ARTICLES_JSON.replace(/\.json$/, `.backup-purge-${stamp}.json`);
+    await writeJson(backupPath, rawExisting);
+    log("info", "backup written", { path: backupPath, articles: rawExisting.length });
+  }
+
+  const polluted: Article[] = [];
+  const kept: Article[] = [];
+  for (const a of rawExisting) {
+    const url = a.source?.url ?? "";
+    const matchedExclude = excludePatterns.find((re) => re.test(url));
+    if (matchedExclude) {
+      polluted.push(a);
+    } else {
+      kept.push(a);
+    }
+  }
+
+  log("info", "scan complete", { total: rawExisting.length, polluted: polluted.length, kept: kept.length });
+
+  if (polluted.length === 0) {
+    log("info", "no polluted articles found. done.");
+    return;
+  }
+
+  log("warn", "the following articles will be removed:");
+  polluted.forEach((a) => {
+    log("warn", `  · "${summarizeTitle(a.title?.ja || a.title?.en || a.slug, 70)}"`, {
+      slug: a.slug,
+      source: a.source?.name,
+      url: a.source?.url
+    });
+  });
+
+  if (dryRun) {
+    log("info", "DRY RUN — not writing JSON.");
+    return;
+  }
+
+  await writeJson(ARTICLES_JSON, kept);
+  log("info", `✓ purge-off-topic complete — removed ${polluted.length} article(s).`);
+}
+
 async function main(): Promise<void> {
   const dryRun = process.argv.includes("--dry-run");
   const now = new Date();
@@ -1009,6 +1386,16 @@ async function main(): Promise<void> {
 
   if (IS_RETROFIT_TOKYO_VIEW) {
     await retrofitTokyoView(dryRun);
+    return;
+  }
+
+  if (IS_PURGE_OFF_TOPIC) {
+    await purgeOffTopic(dryRun);
+    return;
+  }
+
+  if (IS_REGENERATE_RECENT) {
+    await regenerateRecent(dryRun);
     return;
   }
 
@@ -1169,6 +1556,14 @@ async function main(): Promise<void> {
     try {
       log("info", `${tag} editing ${i + 1}/${selected.length}: "${summarizeTitle(item.title)}"  [${item.source}]`);
       const llm = await callLlm(item);
+      // RELEVANCE GATE — the LLM was instructed to return __SKIP_OFF_TOPIC__
+      // if the source dispatch is not actually about space. Honour that.
+      if (llm.title_en === "__SKIP_OFF_TOPIC__" || llm.title_ja === "__SKIP_OFF_TOPIC__") {
+        log("warn", `[skip] LLM refused off-topic dispatch: "${summarizeTitle(item.title, 60)}"  [${item.source}]`);
+        // Mark seen so we don't retry this guid on every cron run.
+        if (!seenSet.has(item.guid)) state.seen.unshift(item.guid);
+        continue;
+      }
       const previous = decision.action === "process" ? decision.previous : undefined;
       const article = assembleArticle(item, llm, [...generated, ...existing], usedCovers, previous);
       generated.push(article);

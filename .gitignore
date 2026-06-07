@@ -40,3 +40,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 .env*.local
+
+# cron regenerate-recent backups — local safety net, not for git
+src/data/generated/articles.backup-*.json

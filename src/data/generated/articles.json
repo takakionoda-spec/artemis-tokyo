@@ -1,5 +1,175 @@
 [
   {
+    "slug": "artemis-complex-web-the-challenge-of-distributed-lunar-ambition",
+    "category": "artemis",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-09T20:55:23.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://futurism.com/wp-content/uploads/2026/06/nasa-moon-mission-corporate-failure-points.jpg?quality=85",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Artemis' Complex Web: The Challenge of Distributed Lunar Ambition",
+      "ja": "アルテミス計画の複雑な網：月への野心を支える分散型構造の課題"
+    },
+    "dek": {
+      "en": "NASA's next lunar mission, the Artemis program, embodies a grand ambition. Yet, its reliance on a sprawling network of commercial partners introduces inherent complexities, raising questions about the resilience of this multi-faceted endeavor.",
+      "ja": "NASAの次なる月探査計画、アルテミスは壮大な野心を抱く。しかし、その実現は広範な商業パートナーシップに依存しており、この多角的な取り組みの堅牢性について疑問を投げかけている。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "WASHINGTON D.C.",
+      "ja": "ワシントンD.C."
+    },
+    "tags": [
+      {
+        "en": "Artemis",
+        "ja": "アルテミス"
+      },
+      {
+        "en": "Lunar Exploration",
+        "ja": "月探査"
+      },
+      {
+        "en": "NASA",
+        "ja": "NASA"
+      },
+      {
+        "en": "Commercial Space",
+        "ja": "商業宇宙"
+      }
+    ],
+    "body": {
+      "en": [
+        "The return to the Moon, spearheaded by NASA's Artemis program, represents a pivotal moment in space exploration. This endeavor seeks to establish a sustained human presence on the lunar surface, paving the way for deeper space missions. However, the architecture supporting this ambition is notably complex, drawing upon a diverse array of commercial and international collaborators.",
+        "Unlike the monolithic approach of the Apollo era, Artemis relies on a distributed network of private companies, each responsible for critical components. From propulsion systems to lunar landers and orbital habitats, the program is a tapestry woven from independent contracts and specialized expertise. This model is designed to foster innovation and reduce direct government expenditure.",
+        "Yet, this very structure introduces a unique set of challenges. The integration of numerous distinct systems, developed by separate entities, demands meticulous coordination and robust interfaces. Any delay or technical hurdle faced by one partner can ripple through the entire schedule, affecting subsequent stages of the mission.",
+        "> \"NASA’s Next Moon Mission Is a Rube Goldberg Machine of Corporate Failure Points,\" the original report observed.",
+        "The sheer number of interdependent elements creates a delicate balance. Ensuring seamless communication, standardized protocols, and consistent performance across a multitude of suppliers is a monumental task. The vision of a streamlined, efficient return to the Moon hinges on the successful orchestration of these disparate parts.",
+        "For those who will eventually live and work off-world, this intricate dependency carries tangible implications. The reliability of supply chains, the availability of essential infrastructure, and the predictability of mission timelines will directly affect the stability and growth of nascent lunar communities. A delay in a crucial resupply mission or the late deployment of a habitat module could mean significant operational adjustments, impacting everything from resource management to daily routines in a low-gravity environment.",
+        "The economic viability of lunar settlements also ties into this complexity. Delays translate into increased costs, potentially affecting the price of lunar resources, the cost of transportation, and the overall attractiveness of off-world ventures. The success of Artemis, therefore, is not merely a technical achievement but a testament to global industrial coordination, setting a precedent for future multi-stakeholder space endeavors."
+      ],
+      "ja": [
+        "NASAのアルテミス計画が主導する月への帰還は、宇宙探査における極めて重要な瞬間を示す。この取り組みは、月面に持続的な人類の存在を確立し、より深宇宙へのミッションの道を開くことを目指している。しかし、この野心を支えるアーキテクチャは、商業および国際的な協力者の多様な配列に依存しており、その複雑さは際立つ。",
+        "アポロ時代の単一的なアプローチとは異なり、アルテミスは複数の民間企業の分散型ネットワークに依存し、それぞれが重要なコンポーネントを担当する。推進システムから月着陸船、軌道上居住施設に至るまで、このプログラムは独立した契約と専門知識によって織りなされたタペストリーである。このモデルは、イノベーションを促進し、政府の直接支出を削減するために設計されている。",
+        "しかし、この構造自体が固有の課題をもたらす。別々のエンティティによって開発された多数の異なるシステムの統合は、細心の注意を払った調整と堅牢なインターフェースを要求する。あるパートナーが直面する遅延や技術的な問題は、全体のスケジュールに波及し、ミッションの後続段階に影響を与える可能性がある。",
+        "> 「NASAの次なる月ミッションは、企業の失敗ポイントが絡み合うルーブ・ゴールドバーグ装置だ」と、元のレポートは指摘した。",
+        "相互依存する要素の膨大な数は、繊細なバランスを生み出す。多数のサプライヤー間でシームレスな通信、標準化されたプロトコル、一貫した性能を確保することは、途方もない作業である。効率的な月への帰還というビジョンは、これらの異質な部分の成功したオーケストレーションにかかっている。",
+        "将来、地球外で生活し働く人々にとって、この複雑な依存関係は具体的な意味を持つ。サプライチェーンの信頼性、不可欠なインフラの利用可能性、そしてミッションのタイムラインの予測可能性は、初期の月面コミュニティの安定と成長に直接影響を与えるだろう。重要な補給ミッションの遅延や居住モジュールの配備の遅れは、資源管理から低重力環境での日々のルーティンに至るまで、あらゆる面で大幅な運用調整を意味する。",
+        "月面居住地の経済的実現可能性も、この複雑さと結びついている。遅延はコスト増につながり、月面資源の価格、輸送コスト、そして地球外ベンチャー全体の魅力を潜在的に左右する。したがって、アルテミスの成功は単なる技術的成果ではなく、将来の多国間ステークホルダーによる宇宙事業の先例となる、地球規模の産業調整の証となるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "NASA's ambitious plan to send humans back to the Moon, known as the Artemis program, isn't just about rockets and astronauts. It's a vast undertaking that involves many different private companies, each building a specific piece of the puzzle—like a complex delivery service where different companies handle the truck, the cargo, and the final doorstep drop-off. The challenge highlighted here is that if one part of this intricate chain faces a problem, the entire mission could be affected.",
+        "For Tokyo readers, this kind of complexity in major space programs has a ripple effect on the future of space commerce and international cooperation. While the immediate impact on daily life might not be felt, the pace at which lunar resources become available, or the reliability of future lunar infrastructure, could be influenced. This might affect sectors like advanced materials (from lunar regolith processing) or even the long-term stability of global supply chains that increasingly consider off-world resources.",
+        "We can expect to see these effects unfold over the next 5 to 10 years. The critical gating factor will be the successful integration and operational validation of these multi-vendor systems. Each major milestone, such as the deployment of the Gateway lunar outpost or the first crewed landing with a commercial Human Landing System, will serve as a test of this complex architecture's robustness.",
+        "Japan, through JAXA and its private partners like ispace or Mitsubishi Heavy Industries, is also deeply involved in lunar exploration. JAXA's MMX (Martian Moons eXploration) mission, for example, involves international collaboration and complex system integration, mirroring some of the challenges NASA faces. While Japan's direct lunar lander (SLIM) focuses on precision, the broader strategy for lunar presence will undoubtedly encounter similar multi-partner coordination demands, making this a shared learning experience for global spacefaring nations."
+      ],
+      "ja": [
+        "NASAが人類を再び月へ送るという壮大なアルテミス計画は、単にロケットと宇宙飛行士の話だけではありません。これは、多くの民間企業がそれぞれパズルの特定のピースを構築する、巨大な事業です。まるで、異なる会社がトラック、貨物、そして最終的な玄関先への配達を分担する、複雑な配送サービスのようなものだと考えてください。ここで強調されている課題は、この複雑な鎖の一部に問題が生じると、ミッション全体に影響が及ぶ可能性があるということです。",
+        "東京の読者にとって、このような大規模な宇宙プログラムにおける複雑さは、将来の宇宙商業や国際協力に波紋を投げかけます。日常生活への直接的な影響はすぐに感じられないかもしれませんが、月面資源が利用可能になる速度や、将来の月面インフラの信頼性に影響を与える可能性があります。これは、先進材料（月のレゴリス処理から得られるものなど）の分野や、将来的には地球外資源を考慮に入れるようになるグローバルサプライチェーンの長期的な安定性にも関わってくるかもしれません。",
+        "これらの影響は、今後5年から10年の間に明らかになると予想されます。重要な制約要因となるのは、これら多数のベンダーからなるシステムの統合と、運用上の検証が成功するかどうかです。ゲートウェイ月周回基地の展開や、商業製の有人月着陸システムによる最初の月面着陸など、主要な節目ごとに、この複雑なアーキテクチャの堅牢性が試されるでしょう。",
+        "日本も、JAXAやispace、三菱重工業などの民間パートナーを通じて、月探査に深く関わっています。例えば、JAXAのMMX（火星衛星探査計画）ミッションは、国際協力と複雑なシステム統合を伴い、NASAが直面する課題の一部を反映しています。日本の直接的な月着陸機（SLIM）は精密着陸に焦点を当てていますが、月面における存在感を示すためのより広範な戦略は、間違いなく同様の多国間パートナー調整の要求に直面するでしょう。これは、世界の宇宙開発国にとって共通の学習経験となるはずです。"
+      ]
+    },
+    "source": {
+      "name": "Futurism",
+      "url": "https://futurism.com/space/nasa-moon-mission-corporate-failure-points"
+    },
+    "sourceGuid": "https://futurism.com/?p=441439",
+    "status": "published"
+  },
+  {
+    "slug": "other-matter-transforms-signage-waste-into-bio-leather-for-future-habitats",
+    "category": "culture",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-10T08:00:14.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "http://static.dezeen.com/uploads/2026/06/other-matter-leather-jessie-french-design_dezeen_2364_sq-411x411.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Other Matter Transforms Signage Waste into Bio-Leather for Future Habitats",
+      "ja": "Other Matter、使い捨てサインフィルムをバイオレザーへ転換 — 循環型素材が描く未来の居住空間"
+    },
+    "dek": {
+      "en": "A design studio pioneers a closed-loop material, repurposing petrochemical-free signage film into upholstery. This innovation offers a glimpse into sustainable design principles vital for off-world environments.",
+      "ja": "デザインスタジオOther Matterが、石油化学製品不使用のサインフィルムを再利用し、新しい内装用素材を開発した。この循環型素材は、限られた資源の中で持続可能な生活を営む宇宙居住空間の設計に新たな視点をもたらす。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Copenhagen, 10 June 2026",
+      "ja": "コペンハーゲン、2026年6月10日"
+    },
+    "tags": [
+      {
+        "en": "Sustainable Materials",
+        "ja": "持続可能な素材"
+      },
+      {
+        "en": "Bio-leather",
+        "ja": "バイオレザー"
+      },
+      {
+        "en": "Circular Economy",
+        "ja": "循環型経済"
+      },
+      {
+        "en": "Design",
+        "ja": "デザイン"
+      }
+    ],
+    "body": {
+      "en": [
+        "In Copenhagen, amidst the annual 3 Days of Design exhibition, a notable material innovation emerged, suggesting new pathways for sustainable living both on Earth and beyond. Design studio Other Matter unveiled \"Other Matter Leather,\" a novel upholstery material derived from their own petrochemical-free signage film.",
+        "This development builds upon the studio's existing product, OM Signage Film, which was introduced last year. The film, designed for single-use applications, has now found a second life, transforming what would typically be waste into a durable, tactile surface.",
+        "The core of this innovation lies in establishing a closed-loop system. Rather than discarding the used signage film, Other Matter collects and processes it, turning it back into a raw material for the new bio-leather. This approach minimizes waste and reduces reliance on virgin resources.",
+        "> \"Other Matter Leather creates a closed loop for the studio's OM Signage Film.\"",
+        "The resulting material possesses properties suitable for various interior applications. Its texture and resilience suggest a future where surfaces are not merely functional but also embody a philosophy of enduring utility and aesthetic integrity. This bio-leather offers a tangible alternative to conventional materials, challenging established notions of disposability.",
+        "For those who will one day inhabit off-world environments, such material innovations carry significant weight. In habitats where every resource is precious and resupply difficult, the ability to endlessly cycle materials—turning temporary elements into permanent fixtures—becomes a cornerstone of daily life. The texture of a chair, the surface of a communal table, or the lining of a personal sleeping pod could all be crafted from such self-renewing elements, offering a sense of stability and resourcefulness in an alien landscape. The simple act of sitting down might feel less like consumption and more like continuity."
+      ],
+      "ja": [
+        "コペンハーゲンで開催された「3 Days of Design」展において、地球上だけでなく、未来の宇宙居住空間における持続可能な生活を示唆する素材革新が発表された。デザインスタジオOther Matterは、同社の石油化学製品不使用のサインフィルムから作られた新しい内装用素材「Other Matter Leather」を公開した。",
+        "この開発は、昨年発表された同スタジオの主力製品である「OM Signage Film」を基盤としている。通常は使い捨てとされるこのサインフィルムが、耐久性のある触感豊かな素材へと生まれ変わり、第二の生命を得た。",
+        "この革新の核心は、クローズドループシステムの構築にある。使用済みのサインフィルムは廃棄されることなく、Other Matterによって回収・加工され、新しいバイオレザーの原材料として再利用される。このアプローチは、廃棄物を最小限に抑え、新規資源への依存を減らすことに貢献する。",
+        "> 「Other Matter Leatherは、同社のOM Signage Filmのクローズドループを形成する。」",
+        "生成された素材は、様々な内装用途に適した特性を持つ。その質感と弾力性は、単なる機能だけでなく、持続的な有用性と美的完全性の哲学を体現する未来の表面材を示唆している。このバイオレザーは、従来の素材に対する具体的な代替案を提供し、使い捨てという既存の概念に挑戦する。",
+        "いつか地球外の環境で暮らす人々にとって、このような素材の革新は極めて重要になる。あらゆる資源が貴重で、補給が困難な居住地では、一時的な要素を恒久的なものへと循環させ続ける能力が、日常生活の基盤となるだろう。椅子の質感、共有テーブルの表面、あるいは個人の睡眠ポッドの内張りは、すべてこのような自己再生可能な要素から作られる可能性があり、異質な環境の中で安定性と創意工夫の感覚をもたらす。座るという単純な行為が、消費ではなく継続のように感じられるようになるかもしれない。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "A design studio has found a clever way to take its own eco-friendly advertising film, which is normally used once and discarded, and turn it into a durable, new fabric for furniture. Think of it like a factory not just making a product, but also building a system to recycle its own waste into something valuable again and again. This creates a continuous loop, reducing the need for new raw materials.",
+        "For Tokyo readers, this kind of material science could subtly reshape our urban environment. Imagine public benches, café seating, or even the interiors of future compact apartments using materials that have a near-infinite lifespan through recycling. This could lead to products that are not only more sustainable but also designed for longevity and repair, reducing the constant cycle of consumption and waste in a densely populated city.",
+        "We could see these types of advanced recycled materials becoming more common within the next 3 to 5 years. The key factor will be how quickly manufacturing processes can scale up to meet demand, and how willing consumers and businesses are to prioritize products made from such sustainable, circular resources. As environmental awareness grows, so too will the market for these innovations.",
+        "In Japan, companies like Toray and Teijin are already leaders in advanced materials, including plant-derived fibers and sophisticated recycling technologies. Furthermore, brands like MUJI consistently explore sustainable sourcing and design for product lifecycles. For space applications, where every gram and every resource counts, the development of lightweight, durable, and endlessly recyclable materials is not just an aspiration, but a fundamental necessity. This material development is a quiet but powerful force shaping our future, both on Earth and beyond."
+      ],
+      "ja": [
+        "あるデザインスタジオが、普段は一度使って捨てられる環境に優しい広告用フィルムを、耐久性のある新しい家具用素材へと生まれ変わらせる巧みな方法を見つけました。これは、工場が製品を作るだけでなく、自分たちの廃棄物を再び価値あるものへと何度もリサイクルするシステムを構築しているようなものです。これにより、新しい原材料の必要性が減り、持続可能な循環が生まれます。",
+        "東京に暮らす私たちにとって、このような素材科学は、私たちの都市環境を静かに再構築する可能性があります。公共のベンチ、カフェの座席、あるいは将来のコンパクトなアパートの内装が、リサイクルを通じてほぼ無限の寿命を持つ素材で作られることを想像してみてください。これは、より持続可能であるだけでなく、長寿命と修理を前提とした製品につながり、人口密度の高い都市における絶え間ない消費と廃棄のサイクルを減らすことができます。",
+        "このような高度なリサイクル素材は、今後3年から5年でより一般的になるでしょう。重要なのは、製造プロセスが需要を満たすためにどれだけ迅速に規模を拡大できるか、そして消費者や企業が、こうした持続可能な循環型資源から作られた製品をどれだけ優先するか、にかかっています。環境意識が高まるにつれて、これらの革新に対する市場も拡大していくでしょう。",
+        "日本においても、東レや帝人といった先端素材メーカーは、植物由来繊維や高度なリサイクル技術においてすでに世界をリードしています。また、無印良品のようなブランドも、製品のライフサイクル全体を見据えた素材選びやデザインに継続的に取り組んでいます。宇宙空間での生活を考えれば、あらゆるグラムと資源が重要となるため、軽量で耐久性があり、無限にリサイクル可能な素材の開発は、単なる願望ではなく、基本的な必要不可欠な要素です。この素材開発は、地球上と宇宙の両方で私たちの未来を形作る、静かですが強力な力と言えるでしょう。"
+      ]
+    },
+    "source": {
+      "name": "Dezeen",
+      "url": "https://www.dezeen.com/2026/06/10/other-matter-leather-material-design/"
+    },
+    "sourceGuid": "https://www.dezeen.com/?p=2335191",
+    "status": "published"
+  },
+  {
     "slug": "lunar-style-prada-and-axiom-define-the-future-of-off-world-garments",
     "category": "artemis",
     "issue": "Vol. 06",
@@ -3975,8 +4145,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0f12"
     },
     "title": {
       "en": "The Quiet Architects of Lunar Life",
@@ -4063,8 +4233,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Europe's Asserted Orbital Autonomy",
@@ -4325,8 +4495,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0f12"
     },
     "title": {
       "en": "The Lunar Narrative: NASA Seeks Creative Voices for Artemis",
@@ -4493,8 +4663,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Starship V3: Ascent Achieved, Return Eludes",
@@ -4661,8 +4831,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "New Glenn's Return: Stabilizing the Orbital Supply Chain",
@@ -4745,8 +4915,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "The New Arteries of Off-World Transit",
@@ -5003,8 +5173,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "The Lunar Accords: Shaping Off-World Governance",
@@ -5425,8 +5595,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101010"
     },
     "title": {
       "en": "The Unseen Architect of Space",
@@ -5491,8 +5661,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "SpaceX's New Orbit: Data, Dreams, and Distant Shores",
@@ -5809,8 +5979,8 @@
     "readingMinutes": 3,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
     },
     "title": {
       "en": "Capitalizing the Celestial Horizon",
@@ -5965,8 +6135,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "Invisible Currents, Hidden Canopies: Europe's New Earth Scouts",
@@ -6187,8 +6357,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "The Universe's Quiet Architects",
@@ -6271,8 +6441,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "The Unseen Architecture: Investing in Off-World Intelligence",

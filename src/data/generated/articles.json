@@ -1,5 +1,89 @@
 [
   {
+    "slug": "regulatory-friction-starlinks-indian-ambition-meets-policy-hesitation",
+    "category": "space-tech",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-10T16:43:11.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
+    },
+    "title": {
+      "en": "Regulatory Friction: Starlink's Indian Ambition Meets Policy Hesitation",
+      "ja": "規制の摩擦：Starlinkのインド進出と政策的躊躇"
+    },
+    "dek": {
+      "en": "As SpaceX prepared for its Starlink IPO, the Indian government's sudden 'cold feet' highlighted the enduring power of national policy over global space ventures.",
+      "ja": "SpaceXがStarlinkのIPOを準備する中、インド政府の突然の「及び腰」は、宇宙事業に対する国家政策の永続的な力を浮き彫りにした。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "NEW DELHI, INDIA – June 10, 2026",
+      "ja": "インド、ニューデリー – 2026年6月10日"
+    },
+    "tags": [
+      {
+        "en": "SpaceX",
+        "ja": "SpaceX"
+      },
+      {
+        "en": "Starlink",
+        "ja": "Starlink"
+      },
+      {
+        "en": "India",
+        "ja": "インド"
+      },
+      {
+        "en": "Regulation",
+        "ja": "規制"
+      }
+    ],
+    "body": {
+      "en": [
+        "The invisible networks of low Earth orbit continue to expand, promising ubiquitous connectivity across the globe. Yet, the terrestrial boundaries of national regulation remain potent, capable of pausing even the most ambitious off-world ventures. Such was the case with Starlink, SpaceX's satellite internet constellation, and its recent encounter with the Indian government.",
+        "Just as SpaceX was reportedly preparing for a significant public offering for its Starlink division, a crucial market entry faced unexpected resistance. India, with its vast population and growing digital economy, represents a pivotal territory for any global internet provider seeking widespread adoption.",
+        "The original report indicated that the Indian government developed \"cold feet\" regarding Starlink's operations within its borders. This hesitation, emerging just prior to a major financial milestone for SpaceX, underscored the complexities of deploying a global service that transcends traditional infrastructure.",
+        "Regulatory frameworks for satellite-based internet services are still evolving worldwide. Governments grapple with issues of data sovereignty, national security, and fair competition with domestic providers. India's stance reflects a broader international tension between technological advancement and national control.",
+        "For those envisioning a future off-world, this incident serves as a salient reminder. The dream of seamless, borderless communication in lunar habitats or Martian settlements will inevitably confront similar questions of governance. Who defines the rules for data transmission between a habitat in Shackleton Crater and a ground station on Earth? What legal framework governs a commercial transaction conducted entirely via orbital networks?",
+        "The challenges Starlink faced in India are a precursor to the intricate legal and policy landscapes that will define human presence beyond Earth. The architecture of off-world life will not only be physical but also regulatory, shaping everything from communication protocols to economic exchange."
+      ],
+      "ja": [
+        "低軌道の見えないネットワークは拡大を続け、地球全体にユビキタスな接続性をもたらすと約束する。しかし、国家規制という地上での境界線は依然として強力であり、最も野心的な宇宙事業さえも一時停止させる力を持つ。SpaceXの衛星インターネット網であるStarlinkが、最近インド政府と遭遇した事例がそれを示している。",
+        "SpaceXがStarlink部門の重要な株式公開（IPO）を準備していると報じられる中、極めて重要な市場参入が予期せぬ抵抗に直面した。広大な人口と成長するデジタル経済を持つインドは、世界的なインターネットプロバイダーが広く普及を目指す上で極めて重要な地域である。",
+        "元の報道では、インド政府が国内でのStarlinkの運用に関して「及び腰」になったと指摘されている。SpaceXにとっての主要な財政的節目を直前にして生じたこの躊躇は、従来のインフラを超越するグローバルサービスを展開する上での複雑さを浮き彫りにした。",
+        "衛星ベースのインターネットサービスに関する規制枠組みは、世界中でまだ発展途上にある。各国政府は、データ主権、国家安全保障、国内プロバイダーとの公正な競争といった問題に取り組んでいる。インドの姿勢は、技術進歩と国家管理との間の広範な国際的緊張を反映している。",
+        "宇宙での未来を夢見る人々にとって、この出来事は重要な教訓となる。月面居住地や火星の入植地におけるシームレスで国境のない通信という夢は、必然的に同様のガバナンスの問題に直面するだろう。シャックルトンクレーターの居住地と地球の地上局との間のデータ伝送に関する規則を誰が定義するのか。軌道上のネットワークを通じてのみ行われる商取引をどの法的枠組みが管理するのか。",
+        "Starlinkがインドで直面した課題は、地球外での人類の存在を定義することになる複雑な法的・政策的景観の先行事例である。宇宙での生活のアーキテクチャは物理的なものだけでなく、規制的なものでもあり、通信プロトコルから経済交流に至るまで、あらゆるものを形作ることになるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This news highlights how even a company as globally ambitious as SpaceX, with its Starlink satellite internet service, faces significant hurdles when dealing with national governments. Imagine a delivery truck that can fly anywhere in the world, but is suddenly stopped at a country's border because local laws about delivery services haven't caught up. That's essentially what happened in India with Starlink, just as its parent company was preparing to offer shares to the public.",
+        "For Tokyo readers, this means the future of how we access and use satellite internet services will not just be about technology, but crucially about international and national policy. While Japan has its own robust internet infrastructure, advanced satellite services could offer enhanced resilience during disasters, or open up new possibilities for remote work and education in underserved areas. The availability and cost of these services here will depend on how Japan, and the wider world, navigates these regulatory waters.",
+        "This kind of policy evolution is likely to unfold over the next 3-5 years. The main gating factor will be the development of clear, internationally recognized frameworks for space-based services, alongside domestic legislation that balances innovation with national interests. Japan's own discussions on space resource rights and orbital traffic management are part of this larger global conversation.",
+        "In Japan, companies like Synspective are deploying Earth observation satellites and navigating complex international data and export regulations. While not directly providing internet, their experience in operating a global space business under varied national rules is comparable. Furthermore, the Japanese government, through METI and JAXA, is actively shaping policies to support domestic space ventures while engaging in international dialogues on space governance, ensuring Japan's place in this evolving landscape."
+      ],
+      "ja": [
+        "このニュースは、SpaceXが展開するStarlinkのような世界的に野心的な衛星インターネットサービスであっても、各国政府との交渉では大きな障壁に直面することを示しています。たとえるなら、世界中どこへでも飛んでいける配送トラックが、その国の配送サービスに関する法律が追いついていないために国境で止められてしまうようなものです。Starlinkとインド政府の間で起きたのは、SpaceXが株式公開を準備している最中に、まさにそのような状況でした。",
+        "東京に暮らす私たちにとって、これは衛星インターネットサービスの利用方法やアクセス方法の未来が、技術だけでなく、国際的および国家的な政策によって大きく左右されることを意味します。日本には強固なインターネットインフラがありますが、高度な衛星サービスは災害時のレジリエンス（回復力）を高めたり、サービスが行き届いていない地域でのリモートワークや教育に新たな可能性を開いたりするかもしれません。ここでのこれらのサービスの利用可能性とコストは、日本と世界全体がこれらの規制の海をどう航海するかにかかっています。",
+        "このような政策の進化は、今後3年から5年で進展する可能性が高いでしょう。主な制約要因となるのは、革新と国益のバランスを取る国内法と並行して、宇宙ベースのサービスに対する明確で国際的に認められた枠組みの発展です。日本の宇宙資源の権利や軌道交通管理に関する議論も、このより大きな国際的な対話の一部です。",
+        "日本国内では、Synspectiveのような企業が地球観測衛星を展開し、複雑な国際データ規制や輸出規制に対応しています。直接インターネットを提供するわけではありませんが、多様な国家規制の下でグローバルな宇宙ビジネスを運営する彼らの経験は共通しています。さらに、日本政府は経済産業省やJAXAを通じて、国内の宇宙事業を支援する政策を積極的に形成しつつ、宇宙ガバナンスに関する国際的な対話にも参加しており、この進化する状況における日本の役割を確保しています。"
+      ]
+    },
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/10/the-indian-government-got-cold-feet-on-starlink-just-before-spacexs-ipo/"
+    },
+    "sourceGuid": "https://techcrunch.com/?p=3131748",
+    "status": "published"
+  },
+  {
     "slug": "artemis-complex-web-the-challenge-of-distributed-lunar-ambition",
     "category": "artemis",
     "issue": "Vol. 06",
@@ -4145,8 +4229,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0f12"
+      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "The Quiet Architects of Lunar Life",
@@ -4233,8 +4317,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Europe's Asserted Orbital Autonomy",
@@ -4495,8 +4579,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0f12"
+      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "The Lunar Narrative: NASA Seeks Creative Voices for Artemis",
@@ -4663,8 +4747,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Starship V3: Ascent Achieved, Return Eludes",
@@ -4915,8 +4999,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "The New Arteries of Off-World Transit",
@@ -5003,8 +5087,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101012"
+      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "The Lunar Commons: Artemis Signals a New Era of Access",
@@ -5173,8 +5257,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "The Lunar Accords: Shaping Off-World Governance",
@@ -5429,8 +5513,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0b0b0d"
     },
     "title": {
       "en": "The Lunar Scientist: Crafting a New Profession on Artemis",
@@ -5595,8 +5679,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101010"
+      "src": "https://images.unsplash.com/photo-1532618793091-ec5fe9635fbd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "The Unseen Architect of Space",
@@ -5661,8 +5745,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "SpaceX's New Orbit: Data, Dreams, and Distant Shores",
@@ -5979,8 +6063,8 @@
     "readingMinutes": 3,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Capitalizing the Celestial Horizon",
@@ -6065,8 +6149,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "SpaceX's Ascent: The Orbit Economy Takes Shape",
@@ -6135,8 +6219,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Invisible Currents, Hidden Canopies: Europe's New Earth Scouts",
@@ -6357,8 +6441,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "The Universe's Quiet Architects",
@@ -6441,8 +6525,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "The Unseen Architecture: Investing in Off-World Intelligence",
@@ -6604,88 +6688,6 @@
         "特に、展開型構造による内部容積の拡大と、個室や共有の緑地帯といった心理的幸福への配慮は、我々の生活空間に対する哲学と通じるものがあります。狭い空間に「間」（ま）を見出し、自然の要素を取り入れることで、精神的なゆとりを生み出す日本の建築やデザインの感性は、宇宙居住の未来において重要な示唆を与えるでしょう。",
         "閉鎖循環システムによる自給自足の追求は、資源に乏しい島国として、古くから効率的なリソース管理と循環型社会を志向してきた日本の経験と重なります。JAXAのゲートウェイへの貢献や、ispace、Astroscaleといった民間企業が示す技術革新は、この「持続可能な宇宙」というビジョンを具体化する上で不可欠な要素です。",
         "「居住空間が『家』となる」という最終的な目標は、単なる機能性を超えた、深い文化的な意味合いを持ちます。日本が誇る細やかな「おもてなし」の精神や、細部に宿る美意識は、宇宙という究極のフロンティアにおいて、テクノロジーだけでなく、心豊かな生活を創造するための重要な鍵となるはずです。ARTEMIS TOKYOは、この新たな宇宙居住の「建築学」に、日本が独自の感性で貢献できる可能性を強く感じています。"
-      ]
-    }
-  },
-  {
-    "slug": "advancing-lunar-transit-with-new-propulsion",
-    "category": "space-tech",
-    "issue": "Vol. 05",
-    "publishedAt": "2026-05-20T15:00:00.000Z",
-    "readingMinutes": 3,
-    "feature": true,
-    "cover": {
-      "src": "https://cdn.mos.cms.futurecdn.net/yENT5a589t4ca3Wqb6VnMA-1280-80.jpg",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Advancing Lunar Transit with New Propulsion",
-      "ja": "新推進システムが月面輸送を刷新"
-    },
-    "dek": {
-      "en": "A novel plasma propulsion system promises to streamline journeys to the Moon, marking a significant step in sustainable space operations.",
-      "ja": "新たなプラズマ推進システムが月への移動を効率化し、持続可能な宇宙運用に向けた重要な一歩となる。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO, May 20, 2026",
-      "ja": "東京、2026年5月20日"
-    },
-    "tags": [
-      {
-        "en": "propulsion",
-        "ja": "推進システム"
-      },
-      {
-        "en": "lunar exploration",
-        "ja": "月探査"
-      },
-      {
-        "en": "space technology",
-        "ja": "宇宙技術"
-      },
-      {
-        "en": "plasma thruster",
-        "ja": "プラズマスラスター"
-      }
-    ],
-    "body": {
-      "en": [
-        "A consortium of aerospace firms has unveiled a new plasma propulsion system designed for lunar transfer vehicles. This development targets a more efficient approach to deep space logistics.",
-        "The technology aims to reduce transit times and fuel consumption for missions to the Moon. Its operational efficiency could significantly lower the cost and complexity of regular lunar access.",
-        "Such advancements are crucial for the sustained development of lunar outposts and resource utilization. Establishing a permanent human presence requires robust, repeatable transport solutions.",
-        "The sustained development of lunar infrastructure hinges on such technological refinements, moving humanity closer to a permanent presence beyond Earth. This system represents a considered evolution in space travel capabilities."
-      ],
-      "ja": [
-        "複数の航空宇宙企業連合が、月輸送機向けに設計された新型プラズマ推進システムを発表した。この開発は、深宇宙ロジスティクスへのより効率的なアプローチを目指すものである。",
-        "この技術は、月ミッションにおける移動時間と燃料消費の削減を目的とする。その運用効率は、定期的な月面アクセスにかかるコストと複雑さを大幅に低減する可能性がある。",
-        "このような進歩は、月面基地の持続的な開発と資源利用にとって不可欠である。恒久的な人類の存在を確立するには、堅牢で反復可能な輸送ソリューションが求められる。",
-        "月面インフラの持続的な発展は、こうした技術的洗練にかかっており、人類を地球外での恒久的な存在へと近づける。このシステムは、宇宙旅行能力における熟考された進化を示すものとなるだろう。"
-      ]
-    },
-    "source": {
-      "name": "Space.com",
-      "url": "https://www.space.com/stargazing/the-moon-shines-with-a-swarm-of-stars-on-may-21-as-jupiter-venus-and-mercury-line-up-nearby"
-    },
-    "sourceGuid": "XJEJqPDFVXv3wGgTvYS5GV",
-    "status": "published",
-    "tokyoView": {
-      "en": [
-        "From where we sit in Tokyo, this new plasma propulsion system for lunar transit represents a pivotal step towards a more sustainable and accessible off-world future. ARTEMIS TOKYO notes that while the announcement comes from a consortium of firms, the underlying principles of high efficiency and precision resonate deeply with Japan's own engineering philosophy, evident in everything from our Shinkansen network to the meticulous design of JAXA's exploratory probes.",
-        "The emphasis on reducing transit times and fuel consumption speaks directly to a Japanese sensibility for optimizing resources. Our dense urban environments, particularly in cities like Tokyo, have long necessitated ingenious solutions for efficiency and longevity. This same ethos, applied to deep space logistics, positions such propulsion as a critical enabler for the kind of robust, repeatable infrastructure essential for a permanent lunar presence.",
-        "While Japan boasts formidable expertise in ion propulsion, as demonstrated by the Hayabusa missions, the scale of \"deep space logistics\" often implies large-scale, multi-entity collaboration. Here, ARTEMIS TOKYO observes a nuanced gap: while Japanese firms like ispace are aggressively pursuing lunar landers and Astroscale is leading in orbital services, the formation of such broad consortia for fundamental transport infrastructure might require a strategic acceleration of partnerships beyond traditional borders.",
-        "Indeed, the vision of \"sustained development of lunar outposts\" calls for more than just advanced technology; it requires a commitment to endurance and reliability. It echoes the Japanese concept of *kintsugi*, where repairing and strengthening becomes part of the object's enduring beauty and utility. This propulsion system, in its promise of robust, long-term operational capability, embodies a similar philosophy: building not just for a single journey, but for an enduring presence that can withstand the rigors of the cosmos.",
-        "Ultimately, this development serves as a clear signal for the direction of lunar exploration. For ARTEMIS TOKYO, it underscores Japan's opportunity to leverage its proven strengths in precision engineering and a cultural inclination towards efficiency, not just in component development, but in shaping the global standards for sustainable space transportation."
-      ],
-      "ja": [
-        "東京に拠点を置くARTEMIS TOKYOの見立てでは、この新型プラズマ推進システムは、より持続可能でアクセスしやすい月世界への未来に向けた極めて重要な一歩と映ります。複数の航空宇宙企業連合からの発表ではありますが、その根底にある高効率と精密さという原則は、日本の工学哲学と深く共鳴するものです。それは、新幹線の運行システムからJAXAの探査機設計の細部に至るまで、日本のあらゆる場所に見出すことができます。",
-        "移動時間と燃料消費の削減に重きを置くこの技術は、資源の最適化を重んじる日本の感性と直接的に結びついています。東京のような過密な都市環境では、効率性と持続可能性のための独創的な解決策が長らく求められてきました。この精神が深宇宙ロジスティクスに応用されることで、月面に恒久的な拠点を築く上で不可欠な、堅牢で反復可能なインフラを可能にする重要な推進力となるでしょう。",
-        "日本は、はやぶさミッションで実証されたように、イオン推進の分野で強固な専門知識を誇ります。しかし、「深宇宙ロジスティクス」の規模は、しばしば大規模な多国間協力体制を必要とします。ARTEMIS TOKYOが注目するのは、この点における微妙なギャップです。ispaceのような日本の企業が月着陸船開発を積極的に進め、アストロスケールが軌道上サービスをリードしている一方で、基礎的な輸送インフラのための広範な企業連合の形成には、従来の枠を超えたパートナーシップの戦略的な加速が求められるかもしれません。",
-        "「月面基地の持続的な開発」というビジョンは、単なる先進技術以上のものを要求します。それは、耐久性と信頼性へのコミットメントです。それは、傷を金で修復し、その歴史を美として受け入れる日本の「金継ぎ」の概念にも通じます。この推進システムが約束する堅牢で長期的な運用能力は、単一の旅のためだけでなく、宇宙の過酷さに耐えうる永続的な存在を築くという、同様の哲学を体現していると言えるでしょう。",
-        "この開発は、月探査の方向性を明確に示すものとして、ARTEMIS TOKYOにとって、日本がその実証済みの精密工学と効率性を重んじる文化的傾向を、単なる部品開発にとどまらず、持続可能な宇宙輸送のグローバルスタンダードを形成する上でどのように活用できるかという、大きな機会を浮き彫りにしています。"
       ]
     }
   }

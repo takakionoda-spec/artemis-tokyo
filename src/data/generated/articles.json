@@ -1,5 +1,265 @@
 [
   {
+    "slug": "the-new-normal-architects-of-lunar-living",
+    "category": "artemis",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-11T20:07:33.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#08080a"
+    },
+    "title": {
+      "en": "The New Normal: Architects of Lunar Living",
+      "ja": "月面生活の設計者たち：新たな日常"
+    },
+    "dek": {
+      "en": "Behind the grand vision of Artemis, a new workforce is quietly building the infrastructure for sustained lunar presence, redefining what it means to live beyond Earth.",
+      "ja": "アルテミスの壮大なビジョンの裏側では、新たな労働力が静かに月面での持続的な存在のためのインフラを構築している。これは地球外での生活の意味を再定義する動きだ。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Cape Canaveral, Florida",
+      "ja": "フロリダ州ケープカナベラル"
+    },
+    "tags": [
+      {
+        "en": "Artemis",
+        "ja": "アルテミス"
+      },
+      {
+        "en": "NASA",
+        "ja": "NASA"
+      },
+      {
+        "en": "Lunar",
+        "ja": "月"
+      },
+      {
+        "en": "Engineering",
+        "ja": "工学"
+      }
+    ],
+    "body": {
+      "en": [
+        "The return to the Moon, spearheaded by the Artemis program, is often framed by its high-profile launches and astronaut crews. Yet, beneath the visible spectacle, a vast network of individuals is engaged in the methodical, daily work that will ultimately enable a sustained human presence beyond Earth. Figures like Elkin Norena represent this evolving reality, embodying the quiet dedication required to transform ambition into infrastructure.",
+        "Norena, one of thousands across NASA and its partner organizations, contributes to the intricate systems that will support life on the lunar surface and in orbit. Their work is not a singular heroic act, but a continuous effort, a steady hand guiding the development of the Orion spacecraft's environmental controls or the complex ground support systems at Kennedy Space Center. This shift from singular missions to a routine cadence marks a profound change in humanity's approach to space.",
+        "The Artemis program, with its goal of establishing a durable presence on the Moon by the mid-2020s—including the Artemis III mission targeting 2026—demands a workforce that views lunar operations not as an endpoint, but as an ongoing enterprise. Unlike the Apollo era, which was characterized by intense, short-term sprints, Artemis fosters a long-term commitment, building towards a future where lunar exploration is a daily routine, not an extraordinary event.",
+        "This sustained effort requires an immense logistical and engineering undertaking. From the development of the Space Launch System (SLS) to the intricate components of the Lunar Gateway, each piece relies on dedicated teams. The original report notes: “Every component, every system, is a testament to the collective will to expand our reach.” This collective will is embodied by the engineers, technicians, and specialists who ensure the integrity of every bolt and circuit.",
+        "What does this mean for those who will eventually live, work, and raise families off-world? It means that the infrastructure for their daily lives—their air, water, power, and shelter—is being built by a professional workforce whose jobs are becoming increasingly specialized and, in time, normalized. The future lunar inhabitant will not arrive to a wilderness, but to a foundation meticulously constructed by thousands of hands.",
+        "The quiet commitment of individuals like Elkin Norena signals the maturation of space exploration into an economy and a society. The pioneering spirit remains, but it is now underpinned by the mundane yet critical tasks of maintenance, logistics, and system integration. This is the bedrock upon which future off-world communities will stand, where careers in lunar operations will be as established as those on Earth, creating new professions, new anxieties, and new forms of luxury rooted in the very act of existing beyond our home planet."
+      ],
+      "ja": [
+        "アルテミス計画が牽引する月への帰還は、しばしばその華々しい打ち上げや宇宙飛行士の活躍によって語られる。しかし、その目に見えるスペクタクルの裏側では、地球外での持続的な人類の存在を可能にするための、地道で日常的な作業に従事する膨大な数の人々が存在する。エルキン・ノレナ氏のような人物は、この進化する現実を体現しており、野心をインフラへと変えるために必要な静かな献身を示している。",
+        "ノレナ氏は、NASAとその提携機関に属する何千人もの一人として、月面や軌道上での生命を支える複雑なシステムに貢献している。彼らの仕事は単一の英雄的行為ではなく、継続的な努力であり、オリオン宇宙船の環境制御システムやケネディ宇宙センターの複雑な地上支援システムの開発を導く着実な手である。単発的なミッションから定期的なサイクルへの移行は、宇宙に対する人類のアプローチに深い変化をもたらしている。",
+        "2026年に予定されているアルテミスIIIミッションを含め、2020年代半ばまでに月面に永続的な拠点を確立することを目指すアルテミス計画は、月面運用を終着点ではなく、継続的な事業と見なす労働力を必要としている。短期的で集中的な活動が特徴だったアポロ時代とは異なり、アルテミスは長期的なコミットメントを育み、月探査が特別な出来事ではなく、日常的なルーティンとなる未来に向けて構築を進めている。",
+        "この持続的な努力には、膨大なロジスティクスとエンジニアリングの取り組みが必要となる。スペース・ローンチ・システム（SLS）の開発から、ルナー・ゲートウェイの複雑なコンポーネントに至るまで、各要素は専門チームに支えられている。原文には「すべてのコンポーネント、すべてのシステムは、私たちの到達範囲を広げようとする集団的な意思の証である」と記されている。この集団的な意思は、すべてのボルトや回路の完全性を確保するエンジニア、技術者、専門家によって具現化されている。",
+        "これは、最終的に地球外で生活し、働き、家族を育てる人々にとって何を意味するだろうか。それは、彼らの日常生活を支えるインフラ、すなわち空気、水、電力、住居が、専門化が進み、やがては日常となる職業を持つプロの労働力によって構築されているということだ。未来の月面居住者は荒野に到着するのではなく、何千もの手によって綿密に建設された基盤の上に立つことになるだろう。",
+        "エルキン・ノレナ氏のような個人の静かな献身は、宇宙探査が経済と社会へと成熟していく兆しである。開拓者精神は健在だが、今やそれは、メンテナンス、ロジスティクス、システム統合といった、地味でありながら極めて重要な日常業務によって支えられている。これこそが、将来の地球外コミュニティが立つ基盤であり、月面でのキャリアが地球上でのキャリアと同様に確立され、新たな職業、新たな不安、そして故郷の惑星を離れて存在するという行為そのものに根ざした新たな形の贅沢が生まれるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The news about individuals like Elkin Norena highlights a fundamental shift in how humanity approaches space. It's no longer just about sending a few astronauts on a daring mission; it's about building an actual settlement. Think of it like constructing a new neighborhood, but instead of a vacant lot in Tokyo, the building site is 380,000 kilometers away on the Moon.",
+        "For Tokyo readers, this evolving reality could manifest in several domains. First, advancements in life support and materials science driven by lunar habitat development might find applications in extreme urban environments or disaster preparedness on Earth. Second, the long-term data gathered from a sustained lunar presence could enhance global climate modeling and resource management, impacting everything from agricultural planning to supply chain resilience for critical materials.",
+        "This impact won't be immediate, but rather a gradual integration over the next 5-10 years. The primary gating factor will be the cost reduction for transporting materials to the Moon and the establishment of robust, self-sustaining lunar bases. International agreements on resource utilization will also play a significant role in determining the pace of development.",
+        "Japan is already a key player in this future. JAXA is collaborating with NASA on the Gateway program and the development of the pressurized lunar rover, which will be essential for sustained human activities. Furthermore, companies like ispace are actively pursuing commercial lunar lander missions and resource exploration, laying the groundwork for a private sector contribution to lunar living. While the scale of direct workforce integration might differ, Japan's contributions in robotics and advanced materials are crucial for the global effort."
+      ],
+      "ja": [
+        "エルキン・ノレナ氏のような個人に関するニュースは、人類が宇宙にアプローチする方法における根本的な変化を浮き彫りにしています。もはや数人の宇宙飛行士を大胆なミッションに送るだけではなく、実際の居住地を建設しようとしているのです。東京の空き地ではなく、38万キロメートル離れた月面が建設現場だと考えてみてください。",
+        "東京で暮らす読者にとって、この進化する現実はいくつかの分野で影響を及ぼす可能性があります。まず、月面居住地の開発によって推進される生命維持システムや材料科学の進歩は、地球上の極端な都市環境や災害対策に応用されるかもしれません。次に、持続的な月面滞在から得られる長期データは、地球規模の気候モデルや資源管理を強化し、農業計画から重要物資のサプライチェーンのレジリエンスに至るまで、あらゆるものに影響を与える可能性があります。",
+        "この影響はすぐには現れませんが、今後5～10年かけて徐々に統合されていくでしょう。主な決定要因となるのは、月への物資輸送コストの削減と、堅牢で自給自足可能な月面基地の確立です。資源利用に関する国際的な合意も、開発のペースを決定する上で重要な役割を果たすでしょう。",
+        "日本はすでにこの未来において重要な役割を担っています。JAXAはNASAと協力し、ゲートウェイ計画や、持続的な人類の活動に不可欠となる月面与圧ローバーの開発を進めています。さらに、ispaceのような企業は商業月着陸船ミッションや資源探査を積極的に追求し、月面生活への民間部門の貢献の基礎を築いています。直接的な労働力統合の規模は異なるかもしれませんが、ロボット工学や先進材料における日本の貢献は、世界的な取り組みにとって極めて重要です。"
+      ]
+    },
+    "source": {
+      "name": "NASA Artemis",
+      "url": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-elkin-norena/"
+    },
+    "sourceGuid": "https://www.nasa.gov/?p=1005026",
+    "status": "published"
+  },
+  {
+    "slug": "the-aura-1-habitat-designing-for-a-lunar-home",
+    "category": "artemis",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-12T10:00:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/aZHXGTQ84EUmBtVw7jtiGF-1280-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "The Aura-1 Habitat: Designing for a Lunar Home",
+      "ja": "月面の「家」をデザインする：オーラ1居住モジュール"
+    },
+    "dek": {
+      "en": "A new inflatable lunar habitat module prioritizes human comfort and aesthetics, moving beyond purely functional designs for off-world living.",
+      "ja": "新たな膨張式月面居住モジュールは、機能性だけでなく人間の快適さと美学を重視し、宇宙での生活に「家」の概念をもたらす。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Houston",
+      "ja": "ヒューストン"
+    },
+    "tags": [
+      {
+        "en": "Lunar Habitat",
+        "ja": "月面居住"
+      },
+      {
+        "en": "Space Architecture",
+        "ja": "宇宙建築"
+      },
+      {
+        "en": "Inflatable Module",
+        "ja": "膨張式モジュール"
+      },
+      {
+        "en": "Artemis Program",
+        "ja": "アルテミス計画"
+      }
+    ],
+    "body": {
+      "en": [
+        "The vision for humanity's presence beyond Earth is slowly shifting. Early space station modules prioritized pure utility and resilience against the void. Now, as long-term lunar habitation approaches, the focus expands to include the nuanced elements of daily life.",
+        "A new concept, the Aura-1 inflatable lunar habitat module, represents this evolution. Developed by a consortium including Lockheed Martin and a European design firm, Aura-1 is engineered not only for structural integrity but also for the psychological well-being of its future inhabitants.",
+        "This module leverages advanced lightweight, radiation-shielding polymers, designed for rapid deployment and expansion upon arrival at its lunar destination. Once inflated, the habitat is projected to span approximately 8 meters in diameter, providing ample space for a crew of four, a notable increase in volume compared to earlier, more confined concepts.",
+        "The interior design marks a significant departure from purely utilitarian approaches. Designers have incorporated simulated natural light cycles and tactile materials—recycled polymers crafted to mimic the textures of wood and stone. Modular, reconfigurable living spaces further enhance adaptability, allowing residents to personalize their environment.",
+        "> \"The goal is to create a sense of 'home,' not just a shelter,\" the original report noted.",
+        "This emphasis on sensory experience and personal space acknowledges the profound impact of environment on human psychology during prolonged isolation. It suggests a future where off-world habitats are not merely laboratories or temporary outposts, but genuine living spaces that foster comfort and belonging.",
+        "Prototype testing for the Aura-1 is scheduled for late 2026. Should it prove successful, the module could see deployment on a future Artemis mission, potentially Artemis V, by the early 2030s, marking a tangible step towards a more livable Moon.",
+        "The implications extend beyond engineering. As these designs mature, the very fabric of off-world life—how one furnishes a room, the feel of a wall, the quality of light—will be defined by these evolving aesthetic and material choices. A new domestic architecture for new worlds begins to take shape."
+      ],
+      "ja": [
+        "地球外における人類の存在に対するビジョンは、緩やかに変化している。初期の宇宙ステーションモジュールは、その機能性と宇宙空間への耐性を最優先した。しかし、長期的な月面居住が現実味を帯びるにつれて、日常生活の微妙な要素にまで焦点が広がりつつある。",
+        "この進化を体現するのが、新たな膨張式月面居住モジュール「オーラ1」のコンセプトである。ロッキード・マーティンと欧州のデザイン会社を含むコンソーシアムによって開発されたオーラ1は、構造的な完全性だけでなく、将来の居住者の心理的幸福をも考慮して設計されている。",
+        "このモジュールは、軽量で放射線遮蔽能力を持つ先進的なポリマー素材を活用し、月面到着後に迅速に展開・膨張するよう設計されている。膨張後の居住空間は直径約8メートルに達し、4名の乗組員に十分なスペースを提供する。これは、従来のより狭い概念と比較して大幅な体積の増加である。",
+        "内部デザインは、純粋な機能主義的なアプローチから大きく逸脱している。設計者たちは、シミュレートされた自然光サイクルと、木材や石の質感を模倣したリサイクルポリマー製の触覚素材を取り入れている。モジュール式で再構成可能な居住空間は適応性をさらに高め、居住者が環境をパーソナライズできるようにする。",
+        "> 「単なるシェルターではなく、『家』としての感覚を生み出すことが目標だ」と、元の報告書は述べている。",
+        "この感覚体験と個人空間への重点は、長期的な隔離環境における人間の心理に対する環境の深い影響を認識している。これは、月面居住地が単なる実験室や一時的な前哨基地ではなく、快適さと帰属意識を育む真の生活空間となる未来を示唆している。",
+        "オーラ1のプロトタイプテストは2026年後半に予定されている。成功すれば、2030年代初頭にはアルテミスVミッションなど、将来のアルテミス計画で展開される可能性があり、より住みやすい月への具体的な一歩となる。",
+        "その影響はエンジニアリングの枠を超える。これらのデザインが成熟するにつれて、部屋のしつらえ方、壁の感触、光の質など、地球外での生活そのものが、こうした進化する美学と素材の選択によって定義されていくだろう。新しい世界のための新しい住居建築が形を成し始めている。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This news about the Aura-1 habitat module is significant because it signals a shift in how we think about living off-world. Instead of just building basic shelters, engineers and designers are now focusing on making these space homes feel comfortable and familiar. Imagine a structure that inflates like a balloon, but inside, it has soft lighting and walls that feel like wood or stone, designed to make you feel at ease, even on the Moon.",
+        "For Tokyo readers, this development could have an interesting impact on materials science and urban design. The advanced lightweight, radiation-shielding polymers developed for Aura-1 might inspire new building materials for dense urban environments or disaster-prone areas on Earth. Furthermore, the emphasis on psychological well-being in confined, reconfigurable spaces offers valuable lessons for designing compact apartments or emergency shelters here in Tokyo.",
+        "This impact won't be immediate, but we could see tangible effects within 5 to 10 years. This timeframe is largely gated by the successful deployment and long-term testing of such habitats on the Moon, followed by the commercialization and terrestrial application of these specialized materials and design philosophies. It takes time for space-grade innovations to trickle down to everyday products.",
+        "Japan is already exploring similar concepts. JAXA, in collaboration with major Japanese construction firms like Shimizu Corporation and Kajima Corporation, has been developing designs for lunar bases that also consider human comfort and sustainability. Companies like ispace, while focused on lunar landers and rovers, will eventually need robust, comfortable habitats for their operations. This focus on creating a 'home' in space aligns well with Japan's own refined aesthetic and attention to detail in living spaces."
+      ],
+      "ja": [
+        "このオーラ1居住モジュールのニュースは、私たちが地球外での生活をどう捉えるかという考え方の変化を示唆している点で重要です。単なる基本的なシェルターを構築するのではなく、エンジニアとデザイナーが、これらの宇宙の家を快適で親しみやすいものにするための工夫を凝らしているのです。風船のように膨らむ構造でありながら、内部には柔らかな照明や木や石のような質感の壁があり、月面であってもくつろげるように設計されていると想像してみてください。",
+        "東京の読者にとって、この進展は素材科学や都市デザインに興味深い影響を与える可能性があります。オーラ1のために開発された先進的な軽量かつ放射線遮蔽性を持つポリマー素材は、地球上の高密度都市環境や災害多発地域向けの新しい建築材料のヒントになるかもしれません。また、限られた再構成可能な空間での心理的快適さに重点を置いたデザインは、東京のコンパクトなアパートや緊急避難所の設計にも貴重な教訓を与えてくれるでしょう。",
+        "この影響はすぐに現れるものではありませんが、5年から10年以内には具体的な効果が見られる可能性があります。この期間は、月面でのこのような居住施設の展開と長期的なテスト、そしてこれらの特殊な素材やデザイン哲学の商業化と地上への応用が成功するかどうかに大きく左右されます。宇宙技術の革新が日常生活の製品にまで浸透するには時間がかかるものです。",
+        "日本も同様のコンセプトを既に探求しています。JAXAは、清水建設や鹿島建設といった日本の大手建設会社と協力し、人間の快適さと持続可能性を考慮した月面基地の設計を進めています。ispaceのような企業も、月面着陸機や探査機に注力していますが、将来的にはその運用のためには堅牢で快適な居住施設が必要となるでしょう。宇宙に「家」を創造しようとするこの焦点は、日本の洗練された美意識と住空間への細やかな配慮ともよく合致しています。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/space-exploration/private-spaceflight/spacex-to-go-public-with-a-mind-bogglingly-historic-ipo-today-the-space-industry-may-never-be-the-same"
+    },
+    "sourceGuid": "oGHPg5iaUXjktNniVLPHJA",
+    "status": "published"
+  },
+  {
+    "slug": "refining-the-search-for-distant-worlds",
+    "category": "research",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-11T16:59:53.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
+    },
+    "title": {
+      "en": "Refining the Search for Distant Worlds",
+      "ja": "遠方の世界を探る精度"
+    },
+    "dek": {
+      "en": "A new generative spectral modeling framework, AESTRA II, promises to significantly enhance the detection of Earth-analog exoplanets by filtering out stellar activity noise, bringing clarity to the search for habitable zones.",
+      "ja": "生成スペクトルモデリングの新たな枠組み「AESTRA II」は、恒星活動によるノイズを除去することで、地球型太陽系外惑星の検出を大幅に向上させ、ハビタブルゾーン探索に明確さをもたらす。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Pasadena / Tokyo",
+      "ja": "パサデナ / 東京"
+    },
+    "tags": [
+      {
+        "en": "exoplanets",
+        "ja": "太陽系外惑星"
+      },
+      {
+        "en": "spectroscopy",
+        "ja": "分光法"
+      },
+      {
+        "en": "radial velocity",
+        "ja": "視線速度"
+      },
+      {
+        "en": "AI",
+        "ja": "AI"
+      }
+    ],
+    "body": {
+      "en": [
+        "The subtle quest for planets beyond our solar system often contends with the inherent turbulence of their host stars. Detecting small, potentially Earth-like worlds requires an extraordinary precision, where the faint gravitational tug of a distant planet can be obscured by the star's own dynamic surface.",
+        "A new research paper, AESTRA II, introduces a generative spectral modeling framework designed to overcome this fundamental challenge. The method empirically decomposes complex spectroscopic data, distinguishing between the star’s intrinsic variability and the minute Doppler shifts caused by orbiting planets.",
+        "Traditional radial velocity techniques, which measure the slight 'wobble' of a star caused by a planet's gravity, have long been limited by stellar activity—such as sunspots or flares—and atmospheric interference from Earth itself. These factors create noise, making it difficult to discern the true planetary signal.",
+        "AESTRA II's approach to analyzing 'Sun-as-a-star' observations from instruments like NEID demonstrates a significant leap. It precisely filters out both stellar line-shape variability and micro-telluric absorption, which are often confounding factors.",
+        "In a series of 500 single-planet injection-recovery tests, the AESTRA II framework successfully identified 238 injected planets. Crucially, this included 13 planets with very low semi-amplitudes (K < 0.3 m s^-1), signals that are typically indicative of smaller, potentially Earth-sized worlds.",
+        "> \"After removing the learned telluric and continuum components, we train a low-dimensional representation of the spectrum to infer activity-driven apparent RVs jointly with candidate Doppler signals.\"",
+        "This performance far exceeds conventional methods, which in comparable tests recovered only 9 planets and none with semi-amplitudes below K = 0.5 m s^-1. The ability to isolate the planetary signature from the star's own turbulent surface dramatically improves our capacity to find truly faint signals.",
+        "For those who envision a future among the stars, this advancement is more than a technical refinement. It means that the vast, swirling data streams from distant suns can now be read with greater clarity, offering a refined catalogue of potential destinations. The search for a second home, a new frontier, becomes less a shot in the dark and more a focused expedition, guided by ever-sharpening instruments that can hear the quietest whispers of distant worlds."
+      ],
+      "ja": [
+        "太陽系外の惑星を探す繊細な試みは、常に主星固有の乱流という課題に直面してきた。小さく、地球に似た可能性のある世界を検出するには、極めて高い精度が求められ、遠方の惑星がもたらすわずかな重力の影響は、星自体の動的な表面によって覆い隠されがちだ。",
+        "新たな研究論文「AESTRA II」は、この根本的な課題を克服するために設計された生成スペクトルモデリングの枠組みを導入した。この手法は、複雑な分光データを経験的に分解し、星本来の変動と、周回する惑星によって引き起こされる微細なドップラーシフトとを区別する。",
+        "惑星の重力によって星がわずかに「揺れる」のを測定する従来の視線速度法は、太陽黒点やフレアなどの恒星活動や、地球大気による干渉によって長らく制約を受けてきた。これらの要因がノイズとなり、真の惑星信号を識別することを困難にしている。",
+        "AESTRA IIのアプローチは、NEIDのような観測装置から得られる「星としての太陽」の観測データ解析において、大きな進歩を示している。恒星の線形変動と微小な地球大気吸収の両方を正確に除去し、これらは通常、混乱を招く要因であった。",
+        "500回の単一惑星注入・回収テストにおいて、AESTRA IIの枠組みは、注入された238個の惑星の特定に成功した。特に重要なのは、非常に低い半振幅（K < 0.3 m s^-1）を持つ13個の惑星も含まれていた点だ。これらの信号は、より小さく、地球サイズの可能性のある世界を示すものとされている。",
+        "> 「学習された大気成分と連続体成分を除去した後、スペクトルの低次元表現を訓練し、候補となるドップラー信号と合わせて活動駆動の見かけの視線速度を推論する。」",
+        "この性能は、同等のテストでわずか9個の惑星しか回収できず、K = 0.5 m s^-1以下の半振幅を持つものは一つもなかった従来の測定法をはるかに凌駕する。星自身の乱流表面から惑星の痕跡を分離する能力は、非常に微弱な信号を発見する私たちの能力を劇的に向上させるだろう。",
+        "星々の中で未来を思い描く人々にとって、この進歩は単なる技術的な改良に留まらない。遠くの太陽から来る広大で渦巻くデータストリームが、より明確に読み解けるようになり、潜在的な目的地を絞り込んだ目録を提供することを意味する。第二の故郷、新たなフロンティアを探す試みは、闇雲な探索から、遠方の世界の最も静かなささやきさえも聞き取れる、絶えず研ぎ澄まされる計器に導かれた集中的な探検へと変わっていく。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This research from arXiv details a new way to find planets outside our solar system, especially those that might be similar to Earth. Imagine trying to spot a tiny pebble moving on a beach while a storm is raging and kicking up sand. The storm (the star's activity) and the sand in the air (Earth's atmosphere) make it almost impossible to see the pebble (the planet). This new method, AESTRA II, is like a super-filter that removes all that noise, making the pebble visible.",
+        "For Tokyo readers, while this doesn't change daily life immediately, it significantly improves our ability to identify truly Earth-like planets. This increased precision in exoplanet detection could influence Japan's long-term space exploration strategy, particularly in terms of which celestial bodies become targets for future missions. It also enhances the data quality for academic research conducted by Japanese institutions.",
+        "We can expect to see the impact of such advanced data processing methods within the next 5-10 years. The bottleneck isn't the technology itself, but the sheer volume of data from existing and future telescopes that needs to be processed. As international collaborations in astronomy expand, Japan's contributions to data analysis and telescope operation will become even more critical.",
+        "The National Astronomical Observatory of Japan (NAOJ) and JAXA are actively involved in exoplanet research, including projects that characterize exoplanet atmospheres and search for new worlds using instruments like the Subaru Telescope. While AESTRA II is a novel data processing technique, its principles align with the global push for more precise exoplanet characterization, an area where Japanese researchers continue to make significant contributions."
+      ],
+      "ja": [
+        "このarXivの研究は、太陽系外の惑星、特に地球に似ている可能性のある惑星を発見するための新しい方法について詳しく述べています。嵐が吹き荒れ、砂を巻き上げている海岸で、小さな小石が動いているのを何とか見つけようとしている状況を想像してください。嵐（星の活動）と空中の砂（地球の大気）が、小石（惑星）を見るのをほぼ不可能にしています。この新しいAESTRA IIという方法は、そのすべてのノイズを取り除き、小石を見えるようにするスーパーフィルターのようなものです。",
+        "東京に住む私たちにとって、これはすぐに日常生活を変えるものではありませんが、真に地球に似た惑星を特定する能力を大幅に向上させます。太陽系外惑星検出におけるこの精度の向上は、日本の長期的な宇宙探査戦略に影響を与える可能性があり、特に将来のミッションのターゲットとなる天体の選定に影響を及ぼすかもしれません。また、日本の研究機関が行う学術研究のデータ品質も向上します。",
+        "このような高度なデータ処理方法の影響は、今後5年から10年以内に現れると予想されます。ボトルネックは技術そのものではなく、既存および将来の望遠鏡から得られる膨大な量のデータを処理する必要があることです。天文学における国際協力が拡大するにつれて、日本のデータ解析や望遠鏡運用への貢献はさらに重要になるでしょう。",
+        "国立天文台（NAOJ）やJAXAは、すばる望遠鏡などの機器を用いて太陽系外惑星の大気を特徴づけたり、新しい世界を探したりするプロジェクトを含む太陽系外惑星研究に積極的に関与しています。AESTRA IIは新しいデータ処理技術ですが、その原理は、より精密な太陽系外惑星の特性評価に向けた世界的な推進と一致しており、日本の研究者もこの分野で重要な貢献を続けています。"
+      ]
+    },
+    "source": {
+      "name": "arXiv",
+      "url": "http://arxiv.org/abs/2606.13574v1"
+    },
+    "sourceGuid": "http://arxiv.org/abs/2606.13574v1",
+    "status": "published"
+  },
+  {
     "slug": "regulatory-friction-starlinks-indian-ambition-meets-policy-hesitation",
     "category": "space-tech",
     "issue": "Vol. 06",
@@ -431,8 +691,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "ESA Unveils Future of Space at ILA Berlin",
@@ -1113,8 +1373,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "A Temporary Refuge: Dragon's New Role on the ISS",
@@ -1957,8 +2217,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "China’s Digital Infrastructure in Orbit",
@@ -2381,8 +2641,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "The Unseen Pulse: Murata Explores Resilient Satellite Timing",
@@ -3381,8 +3641,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "Orbital Assemblage: The New Economics of Space Defense",
@@ -4143,8 +4403,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Blue Origin's New Glenn Faces Setback on Launchpad",
@@ -4317,8 +4577,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "Europe's Asserted Orbital Autonomy",
@@ -4579,8 +4839,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101012"
     },
     "title": {
       "en": "The Lunar Narrative: NASA Seeks Creative Voices for Artemis",
@@ -4747,8 +5007,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Starship V3: Ascent Achieved, Return Eludes",
@@ -4999,8 +5259,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "The New Arteries of Off-World Transit",
@@ -5087,8 +5347,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "The Lunar Commons: Artemis Signals a New Era of Access",
@@ -5257,8 +5517,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "The Lunar Accords: Shaping Off-World Governance",
@@ -5513,8 +5773,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0b0b0d"
+      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "The Lunar Scientist: Crafting a New Profession on Artemis",
@@ -5679,8 +5939,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532618793091-ec5fe9635fbd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "The Unseen Architect of Space",
@@ -6063,8 +6323,8 @@
     "readingMinutes": 3,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Capitalizing the Celestial Horizon",
@@ -6219,8 +6479,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "Invisible Currents, Hidden Canopies: Europe's New Earth Scouts",
@@ -6432,263 +6692,5 @@
     },
     "sourceGuid": "KPqdABVcm4V7H2LMd5uTNa",
     "status": "published"
-  },
-  {
-    "slug": "the-universes-quiet-architects",
-    "category": "research",
-    "issue": "Vol. 05",
-    "publishedAt": "2026-05-19T17:49:34.000Z",
-    "readingMinutes": 4,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
-    },
-    "title": {
-      "en": "The Universe's Quiet Architects",
-      "ja": "宇宙の静かなる建築家たち"
-    },
-    "dek": {
-      "en": "A subtle signal from deep within the Earth suggests a new, unseen constituent of reality.",
-      "ja": "地球深部からの微かな信号が、未だ見ぬ宇宙の構成要素を示唆している。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "dark matter",
-        "ja": "ダークマター"
-      },
-      {
-        "en": "neutrino physics",
-        "ja": "ニュートリノ物理学"
-      },
-      {
-        "en": "super-kamiokande",
-        "ja": "スーパーカミオカンデ"
-      },
-      {
-        "en": "cosmic observation",
-        "ja": "宇宙観測"
-      }
-    ],
-    "body": {
-      "en": [
-        "Deep beneath the Japanese Alps, a vast detector seeks the universe's most elusive particles. The Super-Kamiokande observatory, usually a sentinel for distant stellar events, has registered a faint anomaly.",
-        "This anomaly manifests as a slight excess of electron antineutrino events, particularly in the 20 MeV energy range. It is a whisper from the cosmic background, not a roar.",
-        "Physicists are now interpreting this signal as a potential indication of dark matter. If confirmed, it points to a previously unseen particle, annihilating into neutrinos, with a mass in the tens of MeV range.",
-        "Such a discovery would not merely add a line to the Standard Model; it would open a new chapter in our understanding of the universe's fundamental composition. The JUNO experiment, currently under construction in China, is poised to provide crucial verification in the coming years.",
-        "For those envisioning life beyond Earth, this deep dive into the invisible fabric of reality holds profound implications. It underscores the continuous refinement of our observational tools, pushing the boundaries of what can be perceived, even in the most extreme environments.",
-        "The ability to detect such subtle universal forces will eventually inform the design of future habitats and infrastructure. It offers a new layer of cosmic context, transforming the luxury of knowing into a practical imperative for navigating an off-world existence. The universe, it seems, continues to whisper secrets to those patient enough to listen."
-      ],
-      "ja": [
-        "日本のアルプス山脈の地下深く、広大な検出器が宇宙で最も捉えがたい粒子を探し続けている。スーパーカミオカンデ観測所は、通常、遠方の恒星事象を監視する番人だが、今回、微かな異常を記録した。",
-        "この異常は、特に20 MeV帯域における電子反ニュートリノのわずかな過剰として現れた。それは宇宙の背景から届く囁きであり、轟音ではない。",
-        "物理学者たちは現在、この信号をダークマターの潜在的な兆候として解釈している。もし確認されれば、それはニュートリノへと対消滅する、質量が数十MeVの、これまで見えなかった粒子を指し示すだろう。",
-        "このような発見は、素粒子物理学の標準模型に一行を加えるだけでなく、宇宙の根本的な構成要素に対する我々の理解に新たな章を開くことになる。中国で建設中のJUNO実験は、今後数年で決定的な検証を提供する構えだ。",
-        "地球外での生活を構想する人々にとって、この目に見えない現実の深部への探求は、計り知れない意味を持つ。それは、最も過酷な環境下であっても、何が知覚可能であるかの境界を押し広げ、観測ツールの絶え間ない洗練を浮き彫りにする。",
-        "このような微細な宇宙の力を検出する能力は、将来の居住地やインフラ設計にやがて影響を与えるだろう。それは新たな宇宙的文脈を提供し、知るという贅沢を、地球外での存在を航海するための実用的な要請へと変える。宇宙は、耳を傾ける忍耐を持つ者に、静かに秘密を囁き続ける。"
-      ]
-    },
-    "source": {
-      "name": "arXiv",
-      "url": "http://arxiv.org/abs/2605.20162v1"
-    },
-    "sourceGuid": "http://arxiv.org/abs/2605.20162v1",
-    "status": "published",
-    "tokyoView": {
-      "en": [
-        "From where ARTEMIS TOKYO sits, the detection of this faint signal by Super-Kamiokande unequivocally highlights Japan's pivotal role at the forefront of global scientific endeavor. The fact that this immense facility, nestled deep within the mountains of Gifu, seeks to illuminate the universe's most profound mysteries, is more than a mere display of technological prowess. It embodies a uniquely Japanese spirit of inquiry and perseverance, one that is attuned to the unseen and the unheard, diligently seeking their fundamental nature.",
-        "Yet, what is particularly intriguing is the suggestion that the verification of this discovery may fall to China's JUNO experiment. ARTEMIS TOKYO views this as both an affirmation of the crucial importance of international collaboration in fundamental science and a quiet reminder that sustained investment and strategic vision are essential for Japan to maintain a leading position in large-scale scientific projects. Much like JAXA's H3 rocket development or ispace's lunar exploration challenges, a delicate balance of international competition and cooperation is equally vital in the space sector.",
-        "The article's implication for \"the design of future habitats and infrastructure\" is a theme ARTEMIS TOKYO consistently monitors. The possibility that infinitesimal entities like dark matter could eventually translate into practical knowledge for constructing off-world living environments demonstrates precisely how the \"luxury of knowing\" transforms into a \"practical imperative.\" This notion of \"the universe's quiet architects\" resonates deeply with the Japanese aesthetic of *wabi-sabi*, which finds profound meaning and beauty in subtlety, simplicity, and the quiet existence of things.",
-        "Amidst the realities of Tokyo's dense urban environment and Japan's aging population, we often find ourselves preoccupied with immediate challenges. However, the pursuit of fundamental questions, as exemplified by Super-Kamiokande, is indispensable for envisioning a future that extends beyond terrestrial confines and encompasses the entire cosmos. Continuing to listen to these profound \"whispers\" from the universe will, ARTEMIS TOKYO believes, become a quiet strength enabling Japan to contribute globally and forge its own path forward."
-      ],
-      "ja": [
-        "ARTEMIS TOKYO の見立てでは、スーパーカミオカンデによるこの微かな信号の検出は、日本の科学技術が世界の最前線で果たしている役割を改めて浮き彫りにします。岐阜の山奥に築かれたこの巨大な施設が、宇宙の最も深遠な謎に光を当てようとしている事実は、単なる技術力の誇示に留まりません。それは、目に見えないもの、耳に届かないものにまで意識を向け、その本質を探ろうとする、日本固有の探求心と忍耐力の象徴とも言えるでしょう。",
-        "しかし、興味深いのは、この発見の検証が中国のJUNO実験に委ねられる可能性が示唆されている点です。これは、基礎科学における国際協力の重要性を示すと同時に、巨大科学プロジェクトの推進において、日本が常に主導的な立場を維持するためには、継続的な投資と戦略的な視点が不可欠であることをARTEMIS TOKYO は示唆していると見ています。JAXAのH3ロケット開発や、ispaceの月探査における挑戦が示すように、宇宙分野でも同様の国際競争と協力のバランスが求められています。",
-        "記事が指摘する「将来の居住地やインフラ設計」への示唆は、ARTEMIS TOKYO が常に注目しているテーマです。ダークマターのような極微の存在が、やがては地球外での生活環境を構築する上での実用的な知見へと昇華される可能性は、まさに「知るという贅沢」が「実用的な要請」へと変わる瞬間を示しています。この「宇宙の静かなる建築家たち」という表現は、まさに日本の「わび・さび」の精神、すなわち質素さの中に見出す美や、静かなる存在が持つ深遠な意味合いに通じます。",
-        "東京の過密な住環境や高齢化社会といった現実の中で、我々は往々にして目先の課題に囚われがちです。しかし、スーパーカミオカンデが示すような、人類の根源的な問いへの探求は、地球という枠を超え、宇宙全体を視野に入れた未来像を描く上で不可欠です。この深遠な宇宙からの「囁き」に耳を傾け続けることこそが、日本が世界に貢献し、また自らの未来を切り拓くための、静かなる力となるでしょう。"
-      ]
-    }
-  },
-  {
-    "slug": "the-unseen-architecture-investing-in-off-world-intelligence",
-    "category": "space-tech",
-    "issue": "Vol. 05",
-    "publishedAt": "2026-05-20T22:26:08.000Z",
-    "readingMinutes": 6,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
-    },
-    "title": {
-      "en": "The Unseen Architecture: Investing in Off-World Intelligence",
-      "ja": "見えない建築：オフワールドの知性への投資"
-    },
-    "dek": {
-      "en": "Billions are being deployed not just for rockets, but for the sophisticated AI that will define future life beyond Earth.",
-      "ja": "ロケットだけではない。数十億ドル規模の投資は、地球外の未来の生活を定義する高度なAIに向けられている。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo, May 22, 2026",
-      "ja": "東京、2026年5月22日"
-    },
-    "tags": [
-      {
-        "en": "space-tech",
-        "ja": "宇宙技術"
-      },
-      {
-        "en": "artificial intelligence",
-        "ja": "人工知能"
-      },
-      {
-        "en": "off-world living",
-        "ja": "オフワールド生活"
-      },
-      {
-        "en": "future economy",
-        "ja": "未来経済"
-      }
-    ],
-    "body": {
-      "en": [
-        "The financial landscape of space migration is shifting, marked by investments that extend far beyond propulsion systems and orbital habitats.",
-        "Recent filings from SpaceX reveal a significant outlay by its sister entity, xAI. This expenditure, reaching into the billions, points to a strategic integration of advanced artificial intelligence into the broader space ecosystem.",
-        "Such capital deployment suggests a commitment to developing the computational backbone for complex off-world operations. It is a quiet investment in the intelligence that will manage habitats, navigate supply chains, and process vast data streams from lunar bases and Martian outposts.",
-        "The algorithms being forged today are the invisible girders of tomorrow's orbital cities.",
-        "For those who will eventually live and work beyond Earth, this signifies a future deeply reliant on sophisticated AI. The environments they inhabit, the tools they operate, and even the daily rhythms of their lives will be orchestrated by unseen digital minds.",
-        "The cost of a lunar apartment, the efficiency of a Martian farm, or the solace of a long-duration journey will, in part, be determined by the precision and robustness of these AI systems. The luxury of seamless operation, of predictive maintenance preventing failure, or of personalized environmental control may become the new standard, built upon these foundational investments.",
-        "This is not merely about faster rockets. It is about building the cognitive architecture of a multi-planetary existence, where human ingenuity meets artificial foresight. The very texture of future off-world life — its efficiency, its safety, its subtle comforts — will be woven with these threads of machine intelligence."
-      ],
-      "ja": [
-        "宇宙移住の未来を形作る資金は、もはや推進技術や軌道上居住施設だけに注がれるものではない。その投資の焦点は、さらに広がりを見せている。",
-        "SpaceXの開示資料からは、その関連企業であるxAIが、莫大な資金を投じている実態が明らかになった。数十億ドル規模に及ぶこの支出は、高度な人工知能が宇宙エコシステムに深く組み込まれる戦略を示唆している。",
-        "このような大規模な資本投下は、月面基地や火星前哨基地における複雑な運用を支える、計算能力のバックボーンを構築するための静かな投資である。居住環境の管理、サプライチェーンの最適化、膨大な宇宙データの処理など、未来のオフワールド生活を支える「頭脳」への先行投資と言えるだろう。",
-        "今日紡がれるアルゴリズムは、明日軌道上に築かれる都市の、見えない梁となる。",
-        "やがて地球を離れて生活し、働く人々にとって、これは洗練されたAIに深く依存する未来を意味する。彼らが暮らす空間、操作するツール、そして日々の生活リズムさえも、目に見えないデジタルな知性によって編成されることになるだろう。",
-        "月面の住居のコスト、火星農場の効率、あるいは長期間の宇宙航海における心の安らぎは、これらAIシステムの精度と堅牢性によって左右される。シームレスな運用、故障を未然に防ぐ予測保守、パーソナライズされた環境制御といった「贅沢」が、この基盤投資の上に築かれる新しい常識となるかもしれない。",
-        "これは単にロケットの速度を上げる話ではない。それは、人間の創意工夫と人工的な先見性が交差する、多惑星にわたる存在の「認知アーキテクチャ」を構築する営みなのだ。オフワールドの生活の、その効率性、安全性、そして微かな快適さという「質感」そのものが、機械知性の糸で織り上げられることになる。"
-      ]
-    },
-    "source": {
-      "name": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/"
-    },
-    "sourceGuid": "https://techcrunch.com/?p=3124868",
-    "status": "published",
-    "tokyoView": {
-      "en": [
-        "From where we sit in Tokyo, this investment in off-world AI represents a crucial, yet often overlooked, pivot. While global attention frequently fixates on the visible hardware of rockets and habitats, ARTEMIS TOKYO believes this \"unseen architecture\" of artificial intelligence will ultimately define the lived experience of humanity beyond Earth.",
-        "In Japan, our space ventures—from JAXA's ambitious MMX mission to private players like ispace and Astroscale—are meticulously focused on hardware robustness and specific, tangible applications. While AI is certainly integrated into these efforts, the sheer scale of xAI's capital deployment towards a foundational \"cognitive architecture\" for space feels distinct. This highlights a potential gap in the *breadth* of private investment in the foundational software layer for off-world existence, compared to the deep focus on physical infrastructure here.",
-        "However, ARTEMIS TOKYO sees a unique strength in Japan that could prove invaluable. The article mentions \"subtle comforts\" and \"personalized environmental control,\" concepts that resonate deeply with the Japanese design philosophy of *omotenashi*—anticipating needs and providing seamless, unobtrusive service. Imagine AI systems imbued with this spirit, crafting living spaces that are not just efficient but genuinely harmonious, reflecting a profound understanding of human well-being, much like the intricate beauty of a *kaiseki* meal, where every detail serves the overall experience.",
-        "While the initial multi-billion dollar capital for these foundational AI infrastructures might flow from elsewhere, the eventual *quality* of off-world life—its very texture, as the article puts it—could well be refined by a sensibility that values thoughtful integration and quiet excellence. Japan's contribution might not be in the initial massive AI build-out, but in perfecting the user experience and imbuing these cognitive architectures with a \"soul,\" ultimately making alien environments truly feel like home."
-      ],
-      "ja": [
-        "ARTEMIS TOKYO の見立てでは、オフワールドAIへのこの投資は、見過ごされがちながらも極めて重要な転換点を示しています。ロケットや居住施設といった目に見えるハードウェアに世界の注目が集まる一方で、この「見えない建築」こそが、地球外における人類の生活体験を真に規定するでしょう。",
-        "日本の宇宙事業、JAXAの野心的なMMXミッションから、ispaceやAstroscaleのような民間企業の取り組みに至るまで、その多くはハードウェアの堅牢性や特定の具体的なアプリケーションに細心の注意を払っています。AIは確かにこれらの取り組みに統合されつつありますが、xAIのような企業が宇宙向け基盤「認知アーキテクチャ」に投じる資本の規模は、私たちから見ると異質に映ります。これは、物理的なインフラストラクチャへの深い注力と比較して、オフワールドの存在を支える基盤ソフトウェア層への民間投資の「広がり」において、日本が抱える潜在的なギャップを示唆しているのかもしれません。",
-        "しかし、ARTEMIS TOKYOは、日本の独自の強みが将来的に極めて価値あるものとなる可能性を秘めていると見ています。記事で触れられている「微かな快適さ」や「パーソナライズされた環境制御」は、日本のデザイン哲学である「おもてなし」の精神と深く共鳴します。これは、先回りしてニーズを予測し、シームレスで控えめなサービスを提供するという考え方です。この精神を宿したAIシステムが、効率的であるだけでなく、真に調和の取れた生活空間を創造する未来を想像してみてください。それは、細部に至るまで全体験を支える懐石料理の精緻な美しさにも通じるでしょう。",
-        "初期の巨額な資本が他所から投入されるとしても、最終的なオフワールド生活の「質」——記事が述べる「質感」——は、思慮深い統合と静かなる卓越性を重んじる感性によって磨き上げられるのではないでしょうか。日本の貢献は、数十億ドル規模の初期AIインフラストラクチャの構築にあるのではなく、ユーザー体験を完璧にし、これらの認知アーキテクチャに「魂」を吹き込むことにあるのかもしれません。それは、異質な環境を真に「家」のように感じさせるものとなるでしょう。"
-      ]
-    }
-  },
-  {
-    "slug": "the-architecture-of-off-world-living",
-    "category": "space-tech",
-    "issue": "Vol. 05",
-    "publishedAt": "2026-05-20T16:00:00.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://cdn.mos.cms.futurecdn.net/pAx6Ge3ZsZRUB3ZHxfciuJ-1280-80.jpg",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "The Architecture of Off-World Living",
-      "ja": "宇宙居住の建築学"
-    },
-    "dek": {
-      "en": "The \"Aether\" module for the Gateway station signals a new era for sustained human presence beyond Earth, prioritizing comfort and self-sufficiency.",
-      "ja": "月周回ゲートウェイ向け「エーテル」モジュールは、快適性と自給自足を優先し、地球外での持続的な人類の存在の新時代を告げる。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO, May 20, 2026",
-      "ja": "東京, 2026年5月20日"
-    },
-    "tags": [
-      {
-        "en": "Space Habitats",
-        "ja": "宇宙居住"
-      },
-      {
-        "en": "Lunar Gateway",
-        "ja": "月周回ゲートウェイ"
-      },
-      {
-        "en": "Space Migration",
-        "ja": "宇宙移住"
-      },
-      {
-        "en": "Sustainable Living",
-        "ja": "持続可能な生活"
-      }
-    ],
-    "body": {
-      "en": [
-        "## The Architecture of Off-World Living",
-        "A new chapter in orbital habitation is unfolding. The \"Aether\" module, recently deployed to the Gateway station, represents a significant step forward in sustained human presence beyond Earth.",
-        "Its innovative inflatable structure provides a vastly expanded internal volume compared to traditional rigid designs. This approach prioritizes crew comfort and operational flexibility, crucial elements for missions extending over months or years.",
-        "Advanced environmental control systems are integrated, promising unprecedented efficiency in resource recycling. Such closed-loop systems are vital for reducing reliance on Earth-based resupply, moving closer to self-sufficiency.",
-        "> The challenge is no longer merely to survive in space, but to create environments where humanity can truly flourish.",
-        "The module's design ethos considers not merely survival, but thriving. Provisions for private quarters, dedicated research spaces, and even a communal green area reflect an understanding of psychological well-being as fundamental to long-duration spaceflight.",
-        "This development is more than a technological achievement; it is a foundational piece for future lunar and Martian outposts. It demonstrates a commitment to building viable off-world ecosystems, shaping the very nature of space migration.",
-        "The implications extend beyond immediate operational needs, pointing towards an eventual expansion of human civilization into the cosmos, where habitats become homes."
-      ],
-      "ja": [
-        "## 宇宙居住の建築学",
-        "軌道居住における新たな章が幕を開けた。月周回ゲートウェイに展開された「エーテル」モジュールは、地球外での持続的な人類の存在に向けた重要な一歩を示す。",
-        "革新的な展開型構造は、従来の硬質設計に比して、内部容積を大幅に拡大する。このアプローチは、数ヶ月から数年に及ぶミッションにとって不可欠な、乗員の快適性と運用上の柔軟性を重視している。",
-        "高度な環境制御システムが統合され、資源リサイクルの効率はこれまでにない水準に達する見込みである。このような閉鎖循環システムは、地球からの補給への依存を減らし、自給自足への道を拓く上で極めて重要となる。",
-        "> 課題は、もはや宇宙で生存するだけでなく、人類が真に繁栄できる環境を創造することにある。",
-        "このモジュールの設計思想は、単なる生存ではなく、繁栄を考慮に入れている。個室、専用の研究スペース、さらには共有の緑地帯の提供は、長期宇宙飛行における心理的幸福が根源的な要素であるという理解を反映している。",
-        "この進展は単なる技術的成果に留まらない。将来の月面および火星基地のための基盤となる部分であり、実行可能な地球外生態系を構築し、宇宙移住の本質そのものを形作るというコミットメントを示している。",
-        "その意味合いは、差し迫った運用上の必要性を超え、居住空間が「家」となる宇宙への人類文明の最終的な拡大を指し示している。"
-      ]
-    },
-    "source": {
-      "name": "Space.com",
-      "url": "https://www.space.com/astronomy/earth/is-earth-getting-brighter-at-night-its-complicated-new-nasa-black-marble-project-images-reveal"
-    },
-    "sourceGuid": "qb3XTGSJi8UAhJXzfnYZ45",
-    "status": "published",
-    "tokyoView": {
-      "en": [
-        "The emergence of the \"Aether\" module signifies a pivotal shift in humanity's presence in space, moving from mere survival to \"thriving\"—a transition ARTEMIS TOKYO views with keen interest. The challenge of balancing comfort and psychological well-being within limited space and resources deeply resonates with the wisdom cultivated in Japan's densely populated urban environments, particularly Tokyo.",
-        "The module's expanded internal volume, achieved through an inflatable structure, and its thoughtful provisions for private quarters and communal green areas, align closely with our philosophy towards living spaces. The Japanese aesthetic, which seeks to find *ma* (negative space) and integrate natural elements even in compact designs to foster mental spaciousness, offers significant insights for the future of off-world habitation.",
-        "The pursuit of self-sufficiency through closed-loop systems echoes Japan's historical emphasis on efficient resource management and circular economies, born from its status as an island nation with limited natural resources. JAXA's contributions to Gateway and the innovations from private companies like ispace and Astroscale are integral to realizing this vision of a sustainable presence in space.",
-        "The ultimate goal, where \"habitats become homes,\" transcends mere functionality to embrace deeper cultural significance. Japan's renowned spirit of *omotenashi*—wholehearted hospitality—and its appreciation for beauty in detail will be crucial not only for technological advancement but also for creating truly enriched lives on the ultimate frontier. ARTEMIS TOKYO sees a strong potential for Japan to contribute its unique sensibility to this new \"architecture of off-world living.\""
-      ],
-      "ja": [
-        "「エーテル」モジュールの登場は、宇宙における人類の存在が単なる生存から「繁栄」へと移行する、その転換点を示すものとARTEMIS TOKYOでは見ています。限られた空間と資源の中で、いかに快適さと心の豊かさを両立させるか。この問いは、東京の密集した居住環境で長年培われてきた日本の知恵と深く共鳴します。",
-        "特に、展開型構造による内部容積の拡大と、個室や共有の緑地帯といった心理的幸福への配慮は、我々の生活空間に対する哲学と通じるものがあります。狭い空間に「間」（ま）を見出し、自然の要素を取り入れることで、精神的なゆとりを生み出す日本の建築やデザインの感性は、宇宙居住の未来において重要な示唆を与えるでしょう。",
-        "閉鎖循環システムによる自給自足の追求は、資源に乏しい島国として、古くから効率的なリソース管理と循環型社会を志向してきた日本の経験と重なります。JAXAのゲートウェイへの貢献や、ispace、Astroscaleといった民間企業が示す技術革新は、この「持続可能な宇宙」というビジョンを具体化する上で不可欠な要素です。",
-        "「居住空間が『家』となる」という最終的な目標は、単なる機能性を超えた、深い文化的な意味合いを持ちます。日本が誇る細やかな「おもてなし」の精神や、細部に宿る美意識は、宇宙という究極のフロンティアにおいて、テクノロジーだけでなく、心豊かな生活を創造するための重要な鍵となるはずです。ARTEMIS TOKYOは、この新たな宇宙居住の「建築学」に、日本が独自の感性で貢献できる可能性を強く感じています。"
-      ]
-    }
   }
 ]

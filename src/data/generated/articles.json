@@ -1,5 +1,265 @@
 [
   {
+    "slug": "unlocking-the-universes-first-moments-new-analytic-solutions-for-cosmic-inflatio",
+    "category": "research",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-16T17:59:12.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
+    },
+    "title": {
+      "en": "Unlocking the Universe's First Moments: New Analytic Solutions for Cosmic Inflation",
+      "ja": "宇宙の始まりを解き明かす：初期インフレーションの新解析解"
+    },
+    "dek": {
+      "en": "A new theoretical study provides unprecedented analytical control over the complex dynamics of the early universe, refining our understanding of how the seeds of cosmic structure were sown.",
+      "ja": "新たな理論研究が初期宇宙の複雑なダイナミクスに対し、かつてない解析的制御を提供。宇宙の構造の種がどのように蒔かれたかという理解を深める。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "arXiv, June 2026",
+      "ja": "arXiv, 2026年6月"
+    },
+    "tags": [
+      {
+        "en": "Cosmology",
+        "ja": "宇宙論"
+      },
+      {
+        "en": "Theoretical Physics",
+        "ja": "理論物理学"
+      },
+      {
+        "en": "Early Universe",
+        "ja": "初期宇宙"
+      },
+      {
+        "en": "Inflation Theory",
+        "ja": "インフレーション理論"
+      }
+    ],
+    "body": {
+      "en": [
+        "The universe, in its infancy, was a canvas of quantum fluctuations, destined to become the galaxies we now observe. For decades, cosmologists have sought to precisely model these primordial conditions, particularly the inflationary epoch that stretched space-time in the universe’s earliest fractions of a second.",
+        "A new study, recently hosted on arXiv, marks a significant advance in this quest. Researchers have presented exact analytic solutions for the linear dynamics of a two-field inflationary system, offering a more direct mathematical pathway to understanding the universe’s initial state.",
+        "This theoretical framework models how the primordial curvature perturbation, the tiny density variations that seeded all cosmic structures, is coupled to an isocurvature perturbation. This latter perturbation relates to variations in the composition of the early universe, characterized by its entropy mass (μ) and a dimensionless interaction strength (λ).",
+        "The solutions are valid across a wide range of these parameters within a quasi-de Sitter background, providing a robust tool. This grants analytic control over the 'strongly coupled regime,' a complex phase where the curvature perturbation interacts intensely with light isocurvature fields, often associated with rapid-turn inflation.",
+        "As a primary application, the study derives the amplitude of the primordial power spectrum in a closed, precise form. This expression elegantly interpolates between various scenarios: weakly coupled, strongly coupled, light-field, and heavy-field regimes, offering a unified view.",
+        "These advancements move beyond purely numerical simulations, enabling a deeper, more fundamental theoretical grasp of cosmic origins. They offer a refined lens through which to examine the universe’s foundational blueprint.",
+        "> These results open the way to analytic studies of multifield observables beyond the power spectrum, including non-Gaussianity, particle production, and loop corrections.",
+        "For those who will eventually live and work off-world, a more precise understanding of the universe’s fundamental constants and the distribution of matter at its birth holds long-term implications. It refines the cosmic context of all resource prospecting, from the composition of asteroids to the potential for specific elements on distant exoplanets. It offers a deeper, more informed perspective on the very fabric of the environments humanity will one day inhabit beyond Earth."
+      ],
+      "ja": [
+        "宇宙がその揺籃期にあった頃、量子的なゆらぎが織りなす布地は、やがて私たちが目にする銀河へと変貌する運命にあった。何十年もの間、宇宙学者はこれらの初期条件、特に宇宙の誕生から極めて短い時間で時空を膨張させたインフレーション期を正確にモデル化しようと努めてきた。",
+        "最近arXivに掲載された新しい研究は、この探求における重要な進歩を示す。研究者たちは、二重場のインフレーションシステムにおける線形ダイナミクスの正確な解析解を提示し、宇宙の初期状態を理解するためのより直接的な数学的経路を提供している。",
+        "この理論的枠組みは、すべての宇宙構造の種となった微小な密度変動である初期曲率摂動が、エントロピー質量（μ）と無次元の相互作用強度（λ）によって特徴づけられる異方性摂動とどのように結合するかをモデル化する。",
+        "この解は、準ド・ジッター背景における広範なパラメータ範囲で有効であり、堅牢なツールを提供する。これにより、「強く結合した領域」における解析的制御が可能となる。これは、曲率摂動が軽い異方性場と強く相互作用する複雑な段階であり、しばしば急速ターンインフレーションと関連付けられる。",
+        "主要な応用として、この研究は初期パワースペクトルの振幅を閉じた形で正確に導出する。この表現は、弱結合、強結合、軽質量場、重質量場といった様々なシナリオ間を統合的に補間し、統一的な見解を提供する。",
+        "これらの進歩は、純粋な数値シミュレーションを超え、宇宙の起源に対するより深く、より根本的な理論的理解を可能にする。宇宙の基本的な設計図を検証するための、洗練されたレンズを提供する。",
+        "「これらの結果は、パワースペクトルを超えた多重場の観測量、非ガウス性、粒子生成、ループ補正の解析的研究への道を開く。」",
+        "将来的に地球外で生活し、働く人々にとって、宇宙の根本的な定数や誕生時の物質分布に対するより正確な理解は、長期的な意味を持つ。それは、小惑星の組成から遠方の系外惑星における特定の元素の可能性に至るまで、あらゆる資源探査の宇宙的文脈を洗練させる。人類がいずれ地球を超えて居住する環境そのものの構造について、より深く、より情報に基づいた視点を提供するだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This research is about understanding the very first moments of our universe. Imagine the universe as a giant, incredibly still pond just after it was formed. Then, tiny ripples appeared on its surface. These ripples weren't just random; they were the 'seeds' that would eventually grow into all the galaxies, stars, and planets we see today. What these scientists have done is find new mathematical formulas that precisely describe how these early ripples behaved, especially when they were interacting in very complex ways.",
+        "For Tokyo readers, the direct, immediate impact of such fundamental theoretical physics is not felt in daily life. However, this kind of research is the bedrock of our understanding of the cosmos. In the near future, it could influence the design and objectives of advanced space telescopes, such as those searching for faint signals from the cosmic microwave background (CMB). A more precise theoretical model helps scientists know exactly what to look for, and where.",
+        "The timeframe for these insights to translate into tangible technological or economic shifts is long, likely 10 to 20 years or more. This progression is gated by the development of next-generation observational instruments capable of testing these refined theoretical predictions, and the subsequent integration of these findings into broader astrophysical and planetary models.",
+        "While this specific theoretical work may not have a direct Japanese counterpart performing identical calculations, Japan is a significant player in the observational cosmology that validates such theories. For instance, JAXA's LiteBIRD mission, planned for launch in the late 2020s, aims to measure the polarization of the CMB with unprecedented accuracy. This mission is precisely the kind of observational effort that would provide crucial data to test and further refine the theoretical models advanced by studies like this one."
+      ],
+      "ja": [
+        "この研究は、私たちの宇宙が誕生したごく初期の瞬間を理解しようとするものです。宇宙が形成された直後、巨大で信じられないほど静かな池だったと想像してみてください。そこに微細な波紋が現れました。これらの波紋は単なる偶然ではなく、最終的に今日私たちが見るすべての銀河、星、惑星へと成長する「種」でした。この研究者たちは、特に波紋が非常に複雑な相互作用をしていた初期の段階で、それらがどのように振る舞ったかを正確に記述する新しい数学的な公式を見つけました。",
+        "東京で暮らす読者にとって、このような基礎的な理論物理学が日常生活に直接的かつ即座に影響を与えることはありません。しかし、この種の研究は、宇宙に対する私たちの理解の礎となります。近い将来、宇宙マイクロ波背景放射（CMB）からの微弱な信号を探すような、高度な宇宙望遠鏡の設計や目標に影響を与える可能性があります。より精密な理論モデルは、科学者たちが何を、どこで探すべきかを正確に知る手助けとなるでしょう。",
+        "これらの知見が具体的な技術的または経済的な変化に結びつくまでの期間は長く、おそらく10年から20年以上かかるでしょう。この進展は、洗練された理論的予測を検証できる次世代の観測機器の開発と、その後のこれらの発見を広範な宇宙物理学および惑星モデルに統合することによって左右されます。",
+        "この特定の理論研究と全く同じ計算を行っている日本の直接的なカウンターパートは存在しないかもしれませんが、日本はこのような理論を検証する観測宇宙論において重要な役割を担っています。例えば、2020年代後半の打ち上げが計画されているJAXAのLiteBIRDミッションは、CMBの偏光を前例のない精度で測定することを目指しています。このミッションは、今回の研究のような理論が提唱するモデルをテストし、さらに洗練させるための重要なデータを提供する、まさにそのような観測努力の一つです。"
+      ]
+    },
+    "source": {
+      "name": "arXiv",
+      "url": "http://arxiv.org/abs/2606.18248v1"
+    },
+    "sourceGuid": "http://arxiv.org/abs/2606.18248v1",
+    "status": "published"
+  },
+  {
+    "slug": "chinas-rapid-cadence-meets-silence",
+    "category": "space-tech",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-17T12:18:53.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
+    },
+    "title": {
+      "en": "China's Rapid Cadence Meets Silence",
+      "ja": "中国の加速する宇宙開発：沈黙が示唆するもの"
+    },
+    "dek": {
+      "en": "Four launches in three days underscore an ambitious national program, yet an unexplained quiet follows one Kuaizhou-11 mission.",
+      "ja": "わずか3日間で4度の打ち上げ。中国の野心的な国家プログラムが加速する中、Kuaizhou-11ロケットのミッション後には説明なき沈黙が続いている。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Mid-June 2026, Beijing",
+      "ja": "2026年6月中旬、北京"
+    },
+    "tags": [
+      {
+        "en": "China Space",
+        "ja": "中国宇宙開発"
+      },
+      {
+        "en": "Launch Anomaly",
+        "ja": "打ち上げ異常"
+      },
+      {
+        "en": "Kuaizhou-11",
+        "ja": "Kuaizhou-11"
+      },
+      {
+        "en": "Space Economy",
+        "ja": "宇宙経済"
+      }
+    ],
+    "body": {
+      "en": [
+        "China's space program recently demonstrated a remarkable operational tempo, conducting four orbital launches within a three-day window in mid-June. This intense activity reflects a national commitment to expanding its presence across various orbital domains, from scientific missions to commercial deployments.",
+        "However, a notable quiet has followed the liftoff of one specific mission: a Kuaizhou-11 solid rocket. Launched on a Wednesday, the mission's initial phases were observed, but subsequent updates, typically issued promptly, have been conspicuously absent.",
+        "This prolonged silence, as noted by observers, often suggests potential issues or an anomaly during the flight. While official confirmation is awaited, the lack of immediate success reporting stands in contrast to the rapid-fire announcements accompanying China's other recent launches.",
+        "The Kuaizhou-11, developed by China Aerospace Science and Industry Corporation (CASIC), is designed to offer quick, flexible, and cost-effective launch services for small satellites. Its solid propellant motors allow for shorter preparation times compared to liquid-fueled rockets, making it a key component of China's strategy to rapidly deploy constellations.",
+        "> \"Silence followed liftoff of a Kuaizhou-11 solid rocket Wednesday, suggesting potential issues.\"",
+        "This incident, even if a setback, is unlikely to derail China's broader trajectory in space. The sheer volume of recent launches indicates a robust and diversified national capability, capable of absorbing individual mission challenges. Such resilience is a hallmark of mature spacefaring nations.",
+        "For those envisioning a future off-world, the reliable cadence of launch is paramount. Frequent, affordable access to orbit underpins everything from material transport to personnel rotation. A system that can quickly recover from a mission anomaly ensures that the supply chains for lunar habitats or orbital stations remain robust, minimizing delays and maintaining the rhythm of extraterrestrial life and commerce. The steady pulse of cargo and crew is the very breath of an off-world settlement."
+      ],
+      "ja": [
+        "中国の宇宙プログラムは、先日、わずか3日間のうちに4度の軌道打ち上げを実施し、その驚異的な運用ペースを示した。この活発な動きは、科学ミッションから商業衛星の展開まで、多様な軌道領域におけるプレゼンス拡大を目指す国家の強い意志を反映している。",
+        "しかし、その一連の打ち上げの中で、Kuaizhou-11固体燃料ロケットの離昇後には、特筆すべき沈黙が続いている。ある水曜日に打ち上げられたこのミッションは、初期段階は確認されたものの、通常であれば速やかに発表されるはずのその後の状況報告が、異例なほどに途絶えている。",
+        "この長期にわたる沈黙は、観測者たちの間で、飛行中に何らかの問題や異常が発生した可能性を示唆するものと受け止められている。公式な確認はまだだが、即座に成功が報じられない状況は、中国の他の最新打ち上げに伴う迅速な発表とは対照的である。",
+        "中国航天科工集団（CASIC）が開発したKuaizhou-11は、小型衛星向けに迅速かつ柔軟、そして費用対効果の高い打ち上げサービスを提供することを目的としている。その固体推進薬モーターは、液体燃料ロケットに比べて準備期間が短く、衛星コンステレーションの迅速な展開を目指す中国の戦略において重要な要素である。",
+        "> 「水曜日に打ち上げられたKuaizhou-11固体燃料ロケットの離昇後には沈黙が続き、潜在的な問題を暗示している。」",
+        "たとえ今回の事象が一時的な後退であったとしても、中国の宇宙における広範な軌道から逸脱させるものではないだろう。最近の打ち上げ数の多さは、個別のミッション課題を吸収できる、堅牢で多様な国家能力の存在を示している。このような回復力こそが、成熟した宇宙開発国の特徴と言える。",
+        "オフワールドでの生活を構想する人々にとって、打ち上げの信頼性と頻度は極めて重要である。軌道への手頃で頻繁なアクセスは、物資輸送から人員交代まで、あらゆる活動の基盤となる。ミッションの異常から迅速に回復できるシステムは、月面居住地や軌道ステーションへのサプライチェーンが堅牢に保たれることを保証し、遅延を最小限に抑え、地球外での生活や商業活動のリズムを維持する。貨物と乗員の絶え間ない往来こそが、オフワールド居住地の息吹となるのだ。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This news from China highlights a core aspect of today's space industry: the push for high-frequency, cost-effective launches. Imagine a global express delivery service that suddenly increases its fleet size significantly, sending out many packages at once. When one of those delivery vehicles, a Kuaizhou-11, goes silent after launch, it's like a specific package tracking number stops updating. It doesn't mean the whole service has failed, but it points to a potential issue with that particular delivery route or vehicle type.",
+        "For Tokyo readers, this rapid expansion of launch capabilities, and the occasional setbacks, have indirect but growing implications. The availability of launch services from various nations affects the cost and accessibility of deploying satellites for everything from mobile phone networks and GPS navigation to disaster monitoring and financial data transmission. More players mean more competition, which could eventually lower the price of space access for Japanese companies relying on these services.",
+        "We can expect to see these impacts materialize within the next 3 to 5 years. This timeframe is largely gated by the continued maturation of diverse global launch providers and the sustained demand for satellite constellations. As more nations and private entities achieve a consistent, high launch cadence, the global space economy will become more robust, yet also more complex.",
+        "Japan has its own initiatives in this competitive landscape. Companies like Interstellar Technologies are developing smaller, privately funded rockets, akin to the Kuaizhou-11 in their aim for responsive, lower-cost access to orbit. On a larger scale, JAXA's H3 rocket program is crucial for maintaining Japan's independent access to space and supporting its strategic missions, ensuring the nation isn't solely reliant on foreign launch services. The balance between national capability and international collaboration will define the coming decades."
+      ],
+      "ja": [
+        "今回の中国からのニュースは、現代の宇宙産業における核心的な動き、すなわち高頻度で費用対効果の高い打ち上げへの推進を浮き彫りにしています。例えるなら、世界的な宅配サービスが突如として車両を大幅に増やし、一度に多くの荷物を送り出しているようなものです。そのうちの一つ、Kuaizhou-11という特定の配送車両が打ち上げ後に沈黙しているというのは、特定の荷物の追跡番号が更新されなくなったような状況です。サービス全体が停止したわけではありませんが、その特定の配送ルートや車両タイプに潜在的な問題がある可能性を示唆しています。",
+        "東京で暮らす読者にとって、このような打ち上げ能力の急速な拡大と、時折発生する後退は、間接的ではありますが、影響を増しています。様々な国からの打ち上げサービスが利用可能になることは、携帯電話網やGPSナビゲーション、災害監視、金融データ伝送など、あらゆる種類の衛星を配備するコストとアクセス性に影響を与えます。プレイヤーが増えれば競争が激化し、最終的にはこれらのサービスに依存する日本の企業にとって、宇宙へのアクセス費用が下がる可能性があります。",
+        "こうした影響は、今後3年から5年以内に具体化すると考えられます。この期間は、多様なグローバル打ち上げプロバイダーの継続的な成熟と、衛星コンステレーションに対する持続的な需要に大きく左右されます。より多くの国や民間企業が安定して高い打ち上げ頻度を達成するにつれて、世界の宇宙経済はより堅牢になりますが、同時に複雑さも増していくでしょう。",
+        "日本もこの競争の激しい状況の中で、独自の取り組みを進めています。例えば、インターステラテクノロジズのような企業は、Kuaizhou-11と同様に、迅速で低コストな軌道アクセスを目指し、小型の民間ロケットを開発しています。より大規模な国家戦略としては、JAXAのH3ロケットプログラムが、日本の独立した宇宙アクセスを維持し、戦略的なミッションを支援するために不可欠であり、日本が外国の打ち上げサービスにのみ依存しない体制を確保しています。国家の能力と国際協力のバランスが、これからの数十年を形作ることになるでしょう。"
+      ]
+    },
+    "source": {
+      "name": "SpaceNews",
+      "url": "https://spacenews.com/china-conducts-4-launches-in-3-days-but-silence-follows-kuaizhou-11-launch/"
+    },
+    "sourceGuid": "https://spacenews.com/?p=601069",
+    "status": "published"
+  },
+  {
+    "slug": "katalyst-secures-12m-for-geo-satellite-servicing-expansion",
+    "category": "space-tech",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-17T12:22:26.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
+    },
+    "title": {
+      "en": "Katalyst Secures $12M for GEO Satellite Servicing Expansion",
+      "ja": "カタリスト、静止軌道衛星サービス拡大へ1200万ドルを調達"
+    },
+    "dek": {
+      "en": "Katalyst's latest funding round aims to extend the operational life of critical geostationary satellites, paving the way for a more resilient orbital infrastructure.",
+      "ja": "カタリストの最新資金調達は、静止軌道上の重要衛星の運用寿命延長を目指し、より強靭な軌道インフラの基盤を築く。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "June 17, 2026",
+      "ja": "2026年6月17日"
+    },
+    "tags": [
+      {
+        "en": "satellite servicing",
+        "ja": "衛星サービス"
+      },
+      {
+        "en": "geostationary orbit",
+        "ja": "静止軌道"
+      },
+      {
+        "en": "space economy",
+        "ja": "宇宙経済"
+      },
+      {
+        "en": "orbital infrastructure",
+        "ja": "軌道インフラ"
+      }
+    ],
+    "body": {
+      "en": [
+        "In the silent expanse of geostationary orbit, where communication and Earth observation satellites maintain their distant vigil, a new form of longevity is beginning to take shape. Katalyst, a company focused on orbital servicing, has secured $12 million in new capital to expand its operations, specifically targeting the Geostationary Earth Orbit (GEO) belt.",
+        "This investment signals a growing market confidence in the economic viability of extending satellite lifespans. Rather than decommissioning expensive assets at the end of their fuel reserves, servicing missions can refuel, repair, or reposition satellites, transforming a finite resource into a sustainable one.",
+        "The company's strategic roadmap includes a nearer-orbit mission scheduled for launch this month, serving as a precursor. This will be followed by a more ambitious venture: Katalyst's inaugural GEO mission slated for 2027. This progression underscores the technical complexity and rigorous testing required for operations in such a critical and distant orbital regime.",
+        "Geostationary orbit, approximately 35,786 kilometers above the Earth's equator, is home to vital infrastructure for global telecommunications, broadcasting, and meteorological forecasting. The ability to service these assets in situ significantly reduces the need for costly and time-consuming replacement launches, enhancing the overall resilience of global services.",
+        "Servicing in GEO represents a pivot from a 'launch and forget' model to one of active orbital maintenance. This shift promises to reduce orbital debris by extending the functional life of satellites and ensuring a more controlled end-of-life disposal, contributing to the long-term sustainability of space operations.",
+        "> Katalyst’s first GEO mission in 2027 will be preceded by a mission closer to home, launching this month.",
+        "For those who will live, work, and build off-world, the implications are profound. Reliable and consistent communication with Earth, and among distributed lunar or Martian outposts, hinges on robust orbital infrastructure. The advent of routine GEO servicing means a more stable, predictable, and ultimately more affordable communication backbone, reducing a key anxiety for nascent off-world economies and enabling the seamless flow of data that future settlements will demand."
+      ],
+      "ja": [
+        "地球から遠く離れた静止軌道では、通信衛星や地球観測衛星が静かにその役割を果たしている。この広大な空間で、新たな形の長寿命化が現実味を帯びてきた。軌道上サービスを手がけるカタリスト社は、静止地球軌道（GEO）での事業拡大を目指し、新たに1200万ドルの資金を調達した。",
+        "今回の投資は、衛星の運用寿命を延長する経済的価値に対する市場の信頼が高まっていることを示唆している。燃料切れで高価な資産を廃棄する代わりに、サービスミッションを通じて衛星に燃料を補給したり、修理したり、位置を調整したりすることで、有限な資源をより持続可能なものへと変えることが可能になる。",
+        "同社の戦略計画には、今月打ち上げ予定の近軌道ミッションが含まれており、これが先行試験となる。その後、2027年にはより野心的なGEOでの初ミッションが予定されている。この段階的なアプローチは、重要かつ遠隔な軌道域での運用に必要な技術的複雑さと厳格な試験の重要性を示している。",
+        "地球の赤道上空約35,786キロメートルに位置する静止軌道は、世界の電気通信、放送、気象予報にとって不可欠なインフラの拠点である。これらの資産を現地で保守できる能力は、費用と時間のかかる代替打ち上げの必要性を大幅に削減し、グローバルサービスの全体的なレジリエンスを高める。",
+        "静止軌道でのサービスは、「打ち上げたら終わり」という従来のモデルから、能動的な軌道上メンテナンスへと転換を促す。この変化は、衛星の機能寿命を延ばし、より管理された廃棄を可能にすることで、軌道デブリの削減に貢献し、宇宙運用の長期的な持続可能性を支える。",
+        "> 原文より：「カタリストの2027年の初のGEOミッションに先立ち、今月、より近軌道でのミッションが打ち上げられる予定だ。」",
+        "月や火星、あるいは軌道上の居住地で生活し、働く人々にとって、この動きが持つ意味は大きい。地球との、そして月面や火星の分散型前哨基地間での信頼性の高い安定した通信は、堅牢な軌道インフラに依存している。定期的なGEOサービスの登場は、より安定し、予測可能で、最終的にはより手頃な価格の通信基盤を意味する。これは、初期のオフワールド経済にとって重要な不安要素を軽減し、将来の居住地が必要とするシームレスなデータフローを可能にするだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Katalyst, a company specializing in orbital services, has successfully raised $12 million. This funding will enable them to expand their satellite repair and refueling operations, specifically targeting satellites located in geostationary orbit (GEO). Think of it like a specialized mobile repair shop that can travel tens of thousands of kilometers to service essential communication and weather satellites, rather than letting them simply run out of fuel and become space junk.",
+        "For Tokyo readers, this development could lead to tangible improvements in everyday services. Satellites in GEO are crucial for everything from accurate GPS navigation in your smartphone to reliable satellite TV broadcasts and advanced weather forecasting that predicts typhoons. By extending the life of these satellites, the underlying infrastructure for these services becomes more robust and less prone to disruption, potentially leading to more stable and lower-cost data services for both consumers and businesses.",
+        "We can expect to see the impact of such services within the next 3 to 5 years. This timeline is largely gated by the successful demonstration of Katalyst's GEO mission in 2027 and the subsequent scaling of their operations. As these services become more routine and cost-effective, the benefits will gradually filter down to the end-users in Japan through more resilient and affordable satellite-dependent technologies.",
+        "Japan's own Astroscale is a prominent player in the orbital servicing and debris removal sector, though their initial focus has largely been on lower Earth orbits (LEO). While Astroscale is innovating in areas like debris removal and in-orbit inspection, Katalyst's move into GEO servicing highlights a critical area for extending high-value assets. This global trend encourages Japanese companies to also look towards expanding their capabilities to higher, more distant orbits, ensuring the long-term sustainability of the space environment for everyone."
+      ],
+      "ja": [
+        "軌道上サービスを手がけるカタリスト社が、1200万ドルの資金調達に成功しました。この資金により、同社は静止軌道（GEO）にある衛星の修理や燃料補給サービスを拡大する予定です。これは、燃料切れで役目を終えるはずだった通信衛星や気象衛星を、何万キロも離れた場所まで出張修理する専門の移動修理工場のようなものだと考えてください。",
+        "東京に暮らす読者にとって、この進展は日々のサービスに具体的な改善をもたらす可能性があります。静止軌道の衛星は、スマートフォンのGPSの精度から、安定した衛星放送、台風予測などの高度な気象予報まで、あらゆる重要なインフラを支えています。これらの衛星の寿命が延びることで、サービスの基盤となるインフラがより強固になり、障害が発生しにくくなるため、消費者や企業にとって、より安定した安価なデータサービスに繋がる可能性があります。",
+        "このようなサービスの影響は、今後3年から5年以内に感じられるようになるでしょう。この期間は、2027年のカタリスト社のGEOミッションの成功と、その後の運用規模の拡大にかかっています。これらのサービスがより日常的で費用対効果の高いものになるにつれて、その恩恵は、より強靭で手頃な価格の衛星依存技術を通じて、日本の最終利用者に徐々に浸透していくはずです。",
+        "日本の企業では、アストロスケール社が軌道上サービスおよびデブリ除去分野で注目されていますが、初期の焦点は主に低軌道（LEO）に置かれていました。アストロスケールがデブリ除去や軌道上点検などの分野で革新を進める一方で、カタリスト社のGEOサービスへの進出は、高価値資産の寿命延長という重要な領域を示しています。この世界的な動向は、日本の企業にも、より高く遠い軌道への能力拡大を促し、誰もが利用する宇宙環境の長期的な持続可能性を確保することに繋がるでしょう。"
+      ]
+    },
+    "source": {
+      "name": "Payload",
+      "url": "https://payloadspace.com/katalyst-raises-12m-to-extend-satellite-servicing-to-geo/"
+    },
+    "sourceGuid": "https://payloadspace.com/?p=30342",
+    "status": "published"
+  },
+  {
     "slug": "spacexs-27-trillion-valuation-a-new-economic-gravity",
     "category": "space-tech",
     "issue": "Vol. 06",
@@ -1635,8 +1895,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0f12"
     },
     "title": {
       "en": "The Economics of Mass: A New Orbital Calculus Emerges",
@@ -1889,8 +2149,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "The Strategic Imperative of Speed in Orbital Observation",
@@ -2820,8 +3080,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0f12"
+      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0b0b0d"
     },
     "title": {
       "en": "Orbital Scale: China's Qianfan Constellation Expands",
@@ -3245,8 +3505,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0b0b0d"
+      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "China’s Digital Infrastructure in Orbit",
@@ -3329,8 +3589,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532618793091-ec5fe9635fbd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "NASA Reaffirms Industry-Led LEO Strategy",
@@ -3751,8 +4011,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1532618793091-ec5fe9635fbd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Orbital Architectures Shift: The Expanding Canvas of Space Data",
@@ -3919,8 +4179,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0f12"
     },
     "title": {
       "en": "The Choreography of Lunar Work: Training for the New Gravity",
@@ -4087,7 +4347,7 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
+      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
       "tone": "#0c0c0e"
     },
     "title": {
@@ -4169,7 +4429,7 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
       "tone": "#0a0a0c"
     },
     "title": {
@@ -4419,8 +4679,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Water as a Limiting Factor for Off-World Ambition",
@@ -4669,8 +4929,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
     },
     "title": {
       "en": "Orbital Assemblage: The New Economics of Space Defense",
@@ -4755,8 +5015,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "The Near Frontier: VLEO Satellites and a Shifting Orbital Economy",
@@ -4841,8 +5101,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Blue Origin: A Contract Secured, A Setback Endured",
@@ -5095,8 +5355,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "The New Orbital Nexus: State and Private Ambition Converge",
@@ -5349,8 +5609,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Orbital Constellations: A New Layer of Defense",
@@ -5431,8 +5691,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Blue Origin's New Glenn Faces Setback on Launchpad",
@@ -5517,8 +5777,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#08080a"
+      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "The Quiet Architects of Lunar Life",
@@ -5867,8 +6127,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "The Lunar Narrative: NASA Seeks Creative Voices for Artemis",
@@ -6035,8 +6295,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Starship V3: Ascent Achieved, Return Eludes",
@@ -6203,8 +6463,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "New Glenn's Return: Stabilizing the Orbital Supply Chain",
@@ -6287,8 +6547,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "The New Arteries of Off-World Transit",
@@ -6535,262 +6795,6 @@
       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-1st-starship-v3-megarocket-launch-scrubbed-at-last-minute-sorry-nicki-minaj"
     },
     "sourceGuid": "SMCPWFnR9TNtDAZRqcNKk9",
-    "status": "published"
-  },
-  {
-    "slug": "the-lunar-accords-shaping-off-world-governance",
-    "category": "artemis",
-    "issue": "Vol. 05",
-    "publishedAt": "2026-05-21T21:03:31.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
-    },
-    "title": {
-      "en": "The Lunar Accords: Shaping Off-World Governance",
-      "ja": "月面合意：宇宙におけるガバナンスの形成"
-    },
-    "dek": {
-      "en": "As more nations join the Artemis Accords, the foundational rules for human activity beyond Earth are quietly being set, defining the terms of future life on the Moon.",
-      "ja": "アルテミス合意への署名国が増えるにつれて、地球外における人間の活動の基本原則が静かに確立されつつある。これは月面での未来の生活条件を規定する。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO, 2026-05-21",
-      "ja": "東京, 2026-05-21"
-    },
-    "tags": [
-      {
-        "en": "Artemis Accords",
-        "ja": "アルテミス合意"
-      },
-      {
-        "en": "Lunar Governance",
-        "ja": "月面ガバナンス"
-      },
-      {
-        "en": "International Cooperation",
-        "ja": "国際協力"
-      },
-      {
-        "en": "Space Law",
-        "ja": "宇宙法"
-      }
-    ],
-    "body": {
-      "en": [
-        "The ongoing workshops for the Artemis Accords mark a subtle but significant shift in the discourse surrounding lunar exploration. What began as a set of non-binding principles for international cooperation is steadily evolving into the de facto legal framework for human presence beyond Earth.",
-        "These discussions extend far beyond engineering and mission parameters. They delve into the foundational questions of property rights, resource utilization, and the establishment of safety zones on the lunar surface.",
-        "The increasing number of nations signing on reflects a growing consensus on how humanity will conduct itself in cis-lunar space.",
-        "> Global Signings Rise",
-        "This global alignment is not merely diplomatic posturing; it is the quiet laying of groundwork for future commerce and daily life. For those who will one day reside and work on the Moon, these accords will define the very boundaries of their existence.",
-        "They establish a predictable environment for investment, for the construction of habitats, and for the allocation of lunar resources. This framework implies a certain order, a form of nascent governance that will shape everything from lunar mining contracts to the placement of scientific outposts and the rights of those who reside within them. The invisible lines of terrestrial law are now being projected onto the lunar surface, shaping the very ground upon which future communities will stand."
-      ],
-      "ja": [
-        "アルテミス合意に関するワークショップの継続は、月面探査を巡る議論に繊細ながらも重要な変化をもたらしている。当初、国際協力のための拘束力のない原則として始まったものが、地球外における人類の存在に関する事実上の法的枠組みへと着実に進化している。",
-        "これらの議論は、工学やミッションのパラメーターをはるかに超える。月面における財産権、資源利用、そして安全地帯の確立といった、根本的な問いへと踏み込んでいる。",
-        "署名国が増加していることは、人類が地球と月の間の宇宙空間でどのように行動すべきかについて、国際的な合意形成が進んでいることを示している。",
-        "> グローバルな署名が増加",
-        "この国際的な連携は、単なる外交的な駆け引きではない。それは未来の商業活動と日常生活のための静かな基盤作りである。いつか月に住み、働く人々にとって、これらの合意は彼らの存在そのものの境界線を定めることになる。",
-        "投資、居住地の建設、月面資源の配分に対し、予測可能な環境が確立される。この枠組みは、月面での採掘契約から科学基地の配置、そしてそこに住む人々の権利に至るまで、あらゆるものを形作る、ある種の秩序、初期のガバナンスを意味する。地球上の見えない法が今、月面という新たな大地に投影され、そこで営まれる未来の共同体の、まさに基盤を形作ることになるだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "From where we sit in Tokyo, the expansion of the Artemis Accords carries significant weight. Japan, through JAXA and private ventures like ispace, is deeply committed to lunar exploration. These accords offer a critical framework, providing a degree of certainty in what remains an inherently uncertain frontier.",
-        "Japan's traditional emphasis on consensus-building and long-term planning aligns well with the spirit of establishing clear, internationally agreed-upon rules for space. It offers a structured environment where Japanese companies can plan their lunar operations with greater confidence, understanding the parameters of resource extraction and property rights.",
-        "However, this also means operating within a framework largely shaped by nations with different historical and legal traditions. While Japan's voice at the table is crucial, the challenge lies in ensuring that these foundational principles reflect a truly global consensus, rather than simply a dominant one. It is an opportunity for Japan to contribute its unique perspective on stewardship and sustainable development, even off-world.",
-        "Just as Tokyo's urban fabric is governed by layers of intricate, often invisible, regulations that shape everything from building heights to neighborhood quietude, the Artemis Accords are becoming the nascent zoning laws of the Moon. Understanding and influencing these 'lunar ordinances' will be key for any nation with serious off-world ambitions."
-      ],
-      "ja": [
-        "ARTEMIS TOKYO の見立てでは、アルテミス合意の拡大は、東京から見ても非常に大きな意味を持つ。JAXAやispaceのような日本の民間企業を通じて、日本は月面探査に深くコミットしている。これらの合意は、本質的に不確実なフロンティアにおいて、ある程度の確実性を提供する重要な枠組みとなるだろう。",
-        "日本が伝統的に重視する合意形成と長期計画のアプローチは、宇宙における明確な国際的ルールを確立するという合意の精神とよく合致する。これは、日本の企業が資源採掘や財産権のパラメーターを理解し、より高い確信を持って月面での事業を計画できる構造化された環境を提供する。",
-        "しかし、これは主に異なる歴史的、法的伝統を持つ国々によって形成された枠組みの中で活動することを意味する。テーブルにおける日本の発言は極めて重要だが、課題は、これらの基本的な原則が単に支配的なものではなく、真にグローバルな合意を反映していることを確実にすることにある。これは、日本が地球外においても、管理と持続可能な開発に関する独自の視点を提供する機会である。",
-        "東京の都市構造が、建物の高さから近隣の静穏性まで、あらゆるものを形作る複雑でしばしば目に見えない規制の層によって統治されているように、アルテミス合意は月の初期のゾーニング法になりつつある。これらの「月面条例」を理解し、影響を与えることが、真剣な地球外進出の野心を持つすべての国にとって鍵となるだろう。"
-      ]
-    },
-    "source": {
-      "name": "NASA Artemis",
-      "url": "https://www.nasa.gov/news-release/nasa-joins-artemis-accords-workshop-as-global-signings-rise/"
-    },
-    "sourceGuid": "https://www.nasa.gov/?post_type=press-release&#038;p=998557",
-    "status": "published"
-  },
-  {
-    "slug": "lunar-water-from-survival-to-sustenance",
-    "category": "space-tech",
-    "issue": "Vol. 05",
-    "publishedAt": "2026-05-21T20:00:00.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://cdn.mos.cms.futurecdn.net/JDnG4WeKDH5gsRGp4KJLUR-1280-80.png",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Lunar Water: From Survival to Sustenance",
-      "ja": "月面の水：生存から生活の豊かさへ"
-    },
-    "dek": {
-      "en": "A new method for lunar water extraction promises to redefine off-world living, shifting the focus from scarcity to potential abundance.",
-      "ja": "月面での水抽出の新技術が、宇宙生活の概念を再定義する。それは希少性から潜在的な豊かさへの転換を意味する。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo, May 21, 2026",
-      "ja": "東京, 2026年5月21日"
-    },
-    "tags": [
-      {
-        "en": "Lunar",
-        "ja": "月面"
-      },
-      {
-        "en": "Water",
-        "ja": "水"
-      },
-      {
-        "en": "ISRU",
-        "ja": "資源利用"
-      },
-      {
-        "en": "Habitat",
-        "ja": "居住"
-      }
-    ],
-    "body": {
-      "en": [
-        "The quiet revolution in lunar resource utilization continues. Recent advancements in water extraction technology are poised to reshape the economics and daily realities of off-world living.",
-        "A newly prototyped system demonstrates a significant leap in efficiency and compactness for extracting water ice from lunar regolith. This innovation reduces the logistical burden previously associated with establishing self-sufficient lunar outposts.",
-        "Reliable access to water fundamentally alters the calculus of lunar habitation. It moves beyond the basic necessity for survival, opening pathways for more complex and comfortable living arrangements.",
-        "> The original report indicated a potential for significantly increased water yield from lunar regolith.",
-        "This shift from scarcity to potential abundance changes what is possible. Less anxiety over critical resources permits larger habitats, more extensive hydroponic farms, and a wider variety of fresh produce. The very taste of lunar-grown food could become a common pleasure, not a rare luxury.",
-        "The texture of daily life off-world will evolve. It could permit designs once deemed impractical: small, enclosed water features within living spaces, or integrated systems that create humid microclimates for flora. The quiet hum of filtration systems, once a reminder of scarcity, may become a constant, reassuring presence, signaling a new form of domesticity."
-      ],
-      "ja": [
-        "月面資源利用における静かな変革が続いている。水抽出技術の最新の進歩は、地球外居住の経済性と日常のリアリティを根本から再構築する可能性を秘めている。",
-        "新たに試作されたシステムは、月面レゴリスから水氷を抽出する効率と小型化において、顕著な飛躍を遂げた。この革新は、自給自足の月面基地設立に伴うこれまでの物流上の課題を軽減する。",
-        "安定した水の供給は、月面居住の計算式を根本的に変える。それは単なる生存の必要性を超え、より複雑で快適な生活環境への道を開くものとなるだろう。",
-        "> 原文より: 「月面レゴリスからの水生産量が著しく増加する可能性が示唆されている」と報告されている。",
-        "希少性から潜在的な豊かさへのこの転換は、可能なことの範囲を広げる。基幹資源への不安が減ることで、より広大な居住空間、大規模な水耕栽培農場、そして多様な新鮮な農産物が実現する。月で育った食物の味は、希少な贅沢品ではなく、日常的な喜びとなるかもしれない。",
-        "地球外での日々の生活の質は進化するだろう。かつては非現実的と見なされていたデザイン、例えば居住空間内の小さな水景、あるいは植物のための湿潤な微気候を作り出す統合システムなどが許容されるようになる。かつては希少性を思い出させるものだった濾過システムの静かな稼働音は、新たな家庭生活の形を示す、絶え間なく安心感を与える存在となるかもしれない。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "ARTEMIS TOKYO has long tracked the quiet evolution of lunar infrastructure. From where we sit in Tokyo, this development in water extraction resonates deeply with a Japanese sensibility.",
-        "Our nation, abundant in natural water, still places immense value on its careful use and aesthetic presentation. Consider the *sui-kin-kutsu* in traditional gardens, where water is not just present but artfully heard. Or the meticulous planning of Tokyo's urban water systems, ensuring efficiency despite the city's density.",
-        "This breakthrough suggests a future where lunar settlements, while still resource-constrained, might move beyond mere survival towards a more considered existence. Japanese design, with its emphasis on *ma* (negative space) and the integration of nature, could find new expression in lunar habitats where water is a central, celebrated element.",
-        "It highlights a potential for JAXA and Japanese private firms like ispace, already active in lunar exploration, to contribute not just to extraction technologies, but to the cultural shaping of how water is valued and integrated into off-world living spaces. The challenge moves from 'how to get water' to 'how to live beautifully with it'."
-      ],
-      "ja": [
-        "ARTEMIS TOKYO は長年、月面インフラの静かな進化を追ってきた。東京の視点から見れば、この水抽出技術の進展は、日本の感性と深く共鳴する。",
-        "水資源に恵まれた我々の国であっても、その利用には細心の注意と美意識が払われてきた。例えば、日本庭園における水琴窟は、水の存在を単なる機能としてではなく、聴覚で楽しむ芸術へと昇華させている。また、東京のような高密度都市においても、水は効率的に循環し、生活の質を支える。",
-        "この技術的ブレイクスルーは、月面居住が単なる生存から、より洗練された生活へと移行する可能性を示唆する。日本の「間」の概念や、自然との調和を重んじるデザイン哲学は、水が中心的な要素として祝祭される月面居住空間において、新たな表現を見出すかもしれない。",
-        "これはJAXAや、月面探査で先行するispaceのような日本の民間企業にとって、単なる抽出技術に留まらず、月面での水の価値、そしてそれが生活空間にどう統合されるかという文化的な側面においても貢献できる機会を示している。課題は「いかに水を得るか」から、「いかに水と共に美しく生きるか」へと移りつつある。"
-      ]
-    },
-    "source": {
-      "name": "Space.com",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-private-japanese-earth-observing-satellite-early-on-may-22"
-    },
-    "sourceGuid": "yWnByZdJbcRWM7LkqRE8g6",
-    "status": "published"
-  },
-  {
-    "slug": "the-unseen-network-orbital-lasers-and-the-future-of-space-control",
-    "category": "space-tech",
-    "issue": "Vol. 05",
-    "publishedAt": "2026-05-21T16:01:44.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://futurism.com/wp-content/uploads/2026/05/elon-musk-ex-lasers-orbit.jpg?quality=85",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "The Unseen Network: Orbital Lasers and the Future of Space Control",
-      "ja": "見えざる網：軌道レーザーと宇宙の監視"
-    },
-    "dek": {
-      "en": "A reported claim of thousands of orbital lasers points to a future where off-world infrastructure may carry unseen capabilities, reshaping the terms of space migration.",
-      "ja": "軌道上の数千基のレーザーに関する報道は、宇宙インフラが持つ見えざる能力が、将来の宇宙移住の条件を再構築する可能性を示唆する。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo, May 21, 2026",
-      "ja": "東京、2026年5月21日"
-    },
-    "tags": [
-      {
-        "en": "space-tech",
-        "ja": "宇宙技術"
-      },
-      {
-        "en": "surveillance",
-        "ja": "監視"
-      },
-      {
-        "en": "orbital infrastructure",
-        "ja": "軌道インフラ"
-      },
-      {
-        "en": "future of space",
-        "ja": "宇宙の未来"
-      }
-    ],
-    "body": {
-      "en": [
-        "The vastness of space has long been synonymous with freedom and the open frontier. Yet, as orbital infrastructure proliferates, so too does the potential for unseen presences and unacknowledged capabilities.",
-        "A recent report, drawn from a personal account, suggests the existence of a massive, covert network. It describes claims of 10,000 lasers deployed in orbit, forming a system whose purpose remains speculative.",
-        "The alleged architect of this system reportedly described it as: \"> Not a piece they’ll see on the chess board.\"",
-        "Such a network, if it exists, transcends mere communication. It implies a capacity for pervasive surveillance, precise data transmission, or even directed energy applications across vast distances. It represents a significant concentration of power, held by private entities or their affiliates.",
-        "The silence of orbit might soon be punctuated by invisible lines of force, shaping the very environment through which future off-world societies will navigate.",
-        "For those who will eventually live, work, and raise families beyond Earth, this changes the fundamental assumptions of their environment. Lunar settlements, Martian outposts, and orbital habitats could find their data streams, their movements, and even their perceived privacy subject to an overhead gaze, unseen but ever-present. This is not about the freedom to move, but the freedom to be unobserved.",
-        "It introduces a new kind of spatial anxiety: the knowledge that the space above, once boundless, may now be intricately mapped and silently monitored, altering the very texture of off-world existence."
-      ],
-      "ja": [
-        "宇宙の広大さは、長らく自由と開拓のフロンティアを象徴してきた。しかし、軌道インフラが拡散するにつれて、見えざる存在と認識されない能力の可能性もまた増大している。",
-        "ある個人的な証言に基づく最近の報道は、大規模で秘密裏のネットワークの存在を示唆する。それは、軌道上に配備された1万基のレーザーに関する主張を伝え、そのシステムの目的は憶測の域を出ない。",
-        "このシステムの考案者とされる人物は、それを次のように表現したという。「> 敵には見えない盤上の駒だ。」",
-        "仮にそのようなネットワークが存在するならば、それは単なる通信を超越する。広大な距離にわたる広範な監視、精密なデータ伝送、あるいは指向性エネルギー応用の可能性を意味する。これは、私的企業またはその関連組織によって保持される、著しい力の集中を示すものだ。",
-        "軌道の静寂は、やががて見えない力線によって区切られるかもしれない。それは、未来の宇宙社会が航行する環境そのものを形作るだろう。",
-        "やがて地球外で生活し、働き、子を育てる人々にとって、これは彼らの環境に関する根本的な前提を変える。月面居住地、火星の前哨基地、そして軌道上の居住施設は、彼らのデータストリーム、移動、さらには認識されているプライバシーが、目には見えずとも常に存在する上空からの視線に晒されることになるかもしれない。これは移動の自由ではなく、観察されない自由に関する問題である。",
-        "それは新たな種類の空間的な不安をもたらす。かつて無限であった上空の空間が、今や精緻にマッピングされ、静かに監視されているという認識が、地球外での生活の質感そのものを変えるだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "From where we sit in Tokyo, this report, however speculative, touches upon a critical tension: the balance between infrastructure for progress and infrastructure for control. While the technical specifics remain unverified, the cultural implication for space migration is clear.",
-        "Japan's approach to space, exemplified by JAXA's missions and domestic ventures like ispace or Astroscale, tends towards scientific exploration, resource utilization, and orbital debris solutions. The H3 rocket's development, for instance, focuses on reliable access for diverse payloads, not covert strategic advantage. This divergence in philosophy is stark.",
-        "The urban experience in Tokyo, with its incredible density, also cultivates a nuanced understanding of privacy within public spaces. While surveillance cameras are common, there's an implicit social contract that largely preserves individual anonymity and personal boundaries. The idea of an omnipresent, unseen orbital network feels like a profound disruption to this delicate balance.",
-        "This news brings into focus the concept of 'ma' (間) — the intentional, often unspoken, space between things. A network of 10,000 orbital lasers, if real, would effectively erase much of that 'ma' in the cosmic sense, introducing a new kind of transparency, whether welcomed or not.",
-        "For future off-world inhabitants, this means the very foundational layers of their new lives — from communication to security — may be built upon systems with inherent, opaque oversight. It suggests that the promise of a fresh start in space might come with a pre-existing condition of being watched, a subtle but significant shift in the human condition beyond Earth."
-      ],
-      "ja": [
-        "ARTEMIS TOKYO の見立てでは、この報道は、いかに憶測の域を出ないものであれ、進歩のためのインフラと管理のためのインフラという、極めて重要な緊張関係に触れている。技術的な詳細は未確認のままだが、宇宙移住における文化的含意は明確である。",
-        "JAXAのミッションや、ispace、Astroscaleのような国内ベンチャーに代表される日本の宇宙へのアプローチは、科学探査、資源利用、軌道デブリ対策といった方向に傾倒している。例えば、H3ロケットの開発は、秘密裏の戦略的優位性ではなく、多様なペイロードへの信頼性の高いアクセスに焦点を当てている。この哲学の相違は顕著である。",
-        "東京の都市体験は、その驚異的な密度の中で、公共空間におけるプライバシーの微妙な理解を育んできた。監視カメラは一般的だが、個人の匿名性と個人的な境界線を大きく保つ暗黙の社会契約が存在する。遍在する見えない軌道ネットワークという考え方は、この繊細なバランスを深く揺るがすものに感じられる。",
-        "このニュースは、「間」（ま）という概念、つまり物事の間に存在する意図的でしばしば言葉にならない空間に焦点を当てる。1万基の軌道レーザーネットワークがもし現実のものであれば、それは宇宙的な意味での「間」の多くを事実上消し去り、歓迎されるか否かにかかわらず、新たな種類の透明性をもたらすだろう。",
-        "将来の地球外居住者にとって、これは彼らの新しい生活の根幹をなす層 — 通信からセキュリティに至るまで — が、本質的に不透明な監視を伴うシステムの上に築かれる可能性を意味する。宇宙での新たな始まりという約束が、すでに「見られている」という既存の条件を伴うかもしれない。これは、地球外における人間性の微妙だが重大な変化である。"
-      ]
-    },
-    "source": {
-      "name": "Futurism",
-      "url": "https://futurism.com/space/elon-musk-ex-lasers-orbit"
-    },
-    "sourceGuid": "https://futurism.com/?p=435566",
     "status": "published"
   }
 ]

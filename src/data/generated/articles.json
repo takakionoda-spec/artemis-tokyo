@@ -1,5 +1,431 @@
 [
   {
+    "slug": "artemis-the-path-to-permanent-presence",
+    "category": "artemis",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-23T15:43:54.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
+    },
+    "title": {
+      "en": "Artemis: The Path to Permanent Presence",
+      "ja": "アルテミス計画：恒久的な月面滞在への道"
+    },
+    "dek": {
+      "en": "NASA's Artemis program navigates a complex transition from pioneering lunar missions to establishing a sustained human presence, balancing ambition with the practicalities of off-world habitation.",
+      "ja": "NASAのアルテミス計画は、月面開拓ミッションから持続的な人類の月面滞在確立へと複雑な移行期を迎えている。その野心と、地球外居住の現実との間で均衡が図られる。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "HOUSTON",
+      "ja": "ヒューストン"
+    },
+    "tags": [
+      {
+        "en": "Artemis",
+        "ja": "アルテミス"
+      },
+      {
+        "en": "Moon",
+        "ja": "月"
+      },
+      {
+        "en": "Lunar Economy",
+        "ja": "月面経済"
+      },
+      {
+        "en": "NASA",
+        "ja": "NASA"
+      }
+    ],
+    "body": {
+      "en": [
+        "The Artemis program represents a deliberate stride towards humanity's return to the Moon, envisioning more than transient visits. Unlike the Apollo era, which prioritized singular scientific and geopolitical achievements, Artemis aims to construct the foundational infrastructure for sustained lunar operations.",
+        "This ambition manifests in the development of key components: the Orion spacecraft, the Lunar Gateway orbital outpost, and the Human Landing System (HLS) — a crucial element for transporting astronauts to the lunar surface. The program's trajectory, however, is not without its intricate challenges, demanding consistent political will and technological innovation.",
+        "Initial missions like Artemis III, targeting a crewed landing near the lunar South Pole in the mid-2020s, are designed to test these nascent systems. Subsequent phases focus on deploying habitats, scientific instruments, and resource extraction capabilities, laying the groundwork for a long-term human foothold.",
+        "The transition from exploration to sustained presence requires a substantial logistical commitment. Moving beyond flags and footprints, the program anticipates transporting dozens of tons of cargo and equipment to the Moon, a scale far exceeding Apollo's hundreds of kilograms per mission.",
+        "> \"The path to a permanent lunar presence demands a delicate balance of ambition and pragmatism.\"",
+        "Establishing such a presence will fundamentally reshape the experience of living off-world. Future lunar inhabitants will navigate not only the stark environment but also the complex logistics of resupply, maintenance, and community building, all reliant on the infrastructure currently in development. This shift implies new professions, new material demands, and a redefinition of daily life far from Earth's embrace.",
+        "The success of Artemis hinges on the ability to translate grand vision into reliable, repeatable operations. This includes refining life support systems, developing robust power generation, and fostering international collaboration to share the immense costs and risks. The Moon, once a distant objective, is slowly becoming a potential extension of human civilization, demanding a new blueprint for existence."
+      ],
+      "ja": [
+        "アルテミス計画は、人類の月への帰還に向けた意図的な一歩であり、一時的な訪問以上のものを構想している。単一の科学的・地政学的成果を優先したアポロ時代とは異なり、アルテミスは持続的な月面活動のための基盤インフラを構築することを目指している。",
+        "この野心は、オリオン宇宙船、月周回軌道ステーション「ゲートウェイ」、そして宇宙飛行士を月面へ輸送する重要な要素である有人着陸システム（HLS）といった主要コンポーネントの開発に表れている。しかし、計画の軌道は複雑な課題を抱えており、一貫した政治的意志と技術革新が求められている。",
+        "2020年代半ばに月の南極付近への有人着陸を目指すアルテミスIIIのような初期ミッションは、これらの初期システムを試験するために設計されている。その後のフェーズでは、居住施設、科学機器、資源採掘能力の展開に焦点を当て、長期的な人類の足がかりの基礎を築く。",
+        "探査から持続的な滞在への移行には、大規模なロジスティクスへのコミットメントが必要となる。旗を立てるだけでなく、アポロ計画のミッションごとの数百キログラムをはるかに超える数十トンもの貨物と機器を月へ輸送することが計画されている。",
+        "> 「恒久的な月面滞在への道は、野心と現実主義の繊細なバランスを要求する。」",
+        "このような存在の確立は、地球外での生活体験を根本的に変えるだろう。将来の月面居住者は、過酷な環境だけでなく、現在開発中のインフラに依存する補給、維持、コミュニティ構築の複雑なロジスティクスにも対応しなければならない。この変化は、新たな職業、新たな材料需要、そして地球の恩恵から遠く離れた日常生活の再定義を意味する。",
+        "アルテミス計画の成功は、壮大なビジョンを信頼性のある反復可能な運用へと転換する能力にかかっている。これには、生命維持システムの改良、堅牢な発電の開発、そして莫大なコストとリスクを分担するための国際協力の促進が含まれる。かつて遠い目標であった月は、人類文明の潜在的な延長となりつつあり、新たな生存の青写真が求められている。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The news about the Artemis program highlights its crucial pivot: it's no longer just about sending people to the Moon for a brief visit. Instead, NASA and its partners are building a permanent home there. Think of it like setting up a remote research station or a small village, complete with living quarters, power sources, and ways to get supplies.",
+        "For those of us in Tokyo, this shift has several plausible near-future impacts. Firstly, it could drive innovation in materials science, leading to new, lightweight, and durable composites that find their way into everyday products or construction here. Secondly, the demand for lunar resources might accelerate the development of advanced robotics and AI, which could then be applied to urban infrastructure maintenance or disaster response in Japan.",
+        "This kind of impact is likely to be felt within 5-10 years. The primary gating factor will be the sustained funding and political commitment from participating nations, including Japan, to build out the full Lunar Gateway and Human Landing System infrastructure. We also need to see the cost per kilogram to the Moon fall significantly.",
+        "Japan is already a key player in this endeavor. JAXA is contributing modules to the Lunar Gateway, and companies like ispace are actively pursuing commercial lunar landers and resource exploration. While no Japanese entity is currently building a full human landing system like Starship HLS, the expertise gained in robotics and precision landing through missions like SLIM and MMX positions Japan to be a crucial partner in the long-term lunar economy."
+      ],
+      "ja": [
+        "今回のアルテミス計画のニュースは、その重要な転換点を示しています。もはや単に人を月に送る一時的な訪問ではなく、NASAとそのパートナーは月に恒久的な「家」を築こうとしています。これは、遠隔地の研究基地や小さな村を建設するようなもので、住居、電源、物資を調達する手段などが含まれます。",
+        "東京に暮らす私たちにとって、この変化はいくつかの具体的な近い将来の影響をもたらす可能性があります。まず、材料科学における革新を促進し、軽量で耐久性のある新しい複合材料が、私たちの日常製品や建築物にも応用されるかもしれません。次に、月面資源への需要は、高度なロボット工学やAIの開発を加速させ、それが日本の都市インフラの維持や災害対応に応用される可能性もあります。",
+        "このような影響が顕在化するのは、おそらく5〜10年以内でしょう。主な決定要因は、日本を含む参加国からの継続的な資金提供と政治的コミットメントが、月周回軌道ゲートウェイや有人着陸システムといったインフラを完全に構築できるかどうかです。また、月への物資輸送コストが大幅に低下することも必要になります。",
+        "日本はこの取り組みにおいてすでに重要な役割を担っています。JAXAは月周回軌道ゲートウェイへのモジュール提供に貢献しており、ispaceのような企業は商業月着陸船や資源探査に積極的に取り組んでいます。現状、HLSのような本格的な有人着陸システムを開発している日本企業はありませんが、SLIMやMMXといったミッションを通じて得られたロボット工学や精密着陸の専門知識は、長期的な月面経済において日本が不可欠なパートナーとなることを示しています。"
+      ]
+    },
+    "source": {
+      "name": "NASA Artemis",
+      "url": "https://www.nasa.gov/image-article/hanging-in-the-balance/"
+    },
+    "sourceGuid": "https://www.nasa.gov/?post_type=image-article&#038;p=1008039",
+    "status": "published"
+  },
+  {
+    "slug": "orbital-living-takes-shape-starlab-nears-critical-design-review",
+    "category": "space-tech",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-23T21:00:00.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/ZX6DnUDfj4XHaaWvyuiJkf-1280-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Orbital Living Takes Shape: Starlab Nears Critical Design Review",
+      "ja": "軌道上の生活、その形へ：スターラボ、設計審査を目前に"
+    },
+    "dek": {
+      "en": "The Starlab commercial space station, a collaboration between Voyager Space and Airbus, is progressing towards its 2028 launch, promising a new era for human presence in low Earth orbit with an emphasis on habitability.",
+      "ja": "ボイジャー・スペースとエアバスによる商業宇宙ステーション「スターラボ」が2028年の打ち上げに向け、重要な設計審査を進めている。居住性に重点を置いた設計は、低軌道における人類の存在に新たな時代を告げる。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "HOUSTON / TOULOUSE",
+      "ja": "ヒューストン／トゥールーズ"
+    },
+    "tags": [
+      {
+        "en": "Orbital habitats",
+        "ja": "軌道居住施設"
+      },
+      {
+        "en": "Commercial space",
+        "ja": "商業宇宙"
+      },
+      {
+        "en": "Space architecture",
+        "ja": "宇宙建築"
+      },
+      {
+        "en": "Low Earth Orbit",
+        "ja": "低地球軌道"
+      }
+    ],
+    "body": {
+      "en": [
+        "Space stations have long been bastions of scientific pursuit, their designs prioritizing function over form. A new chapter is unfolding as commercial ventures reimagine orbital living.",
+        "Starlab, a collaborative project by Voyager Space and Airbus, represents this shift. It is currently advancing through its critical design review (CDR), a key milestone preceding its planned launch in late 2028. This commercial outpost is intended to establish a continuous human presence in low Earth orbit for research and industrial applications.",
+        "Unlike earlier, purely utilitarian modules, Starlab's design philosophy consciously integrates elements of comfort and privacy. It will offer significantly more internal volume than existing private stations, aiming to house up to four astronauts for extended periods. The station's reconfigurability and advanced life support systems underscore a commitment to sustainable, long-duration operations.",
+        "> Starlab aims to provide continuous human presence in low Earth orbit for scientific research and commercial activities.",
+        "The geometry of life off-world begins to shift from purely functional to deeply human. For those who will inhabit these new spaces, the difference will be palpable. It suggests a future where the stark, industrial aesthetic of early spaceflight gives way to environments designed for well-being, fostering a sense of home far above Earth."
+      ],
+      "ja": [
+        "宇宙ステーションは長らく科学探求の拠点であり、その設計は機能性を最優先してきた。しかし今、商業的な取り組みが軌道上の生活を再構想し、新たな章が幕を開けようとしている。",
+        "ボイジャー・スペースとエアバスによる共同プロジェクト「スターラボ」は、この転換を象徴する存在だ。現在、2028年後半の打ち上げを前に、重要な設計審査（CDR）が進められている。この商業拠点は、研究や産業用途のため、低地球軌道における人類の継続的な滞在を確立することを目的としている。",
+        "従来の純粋に機能的なモジュールとは異なり、スターラボの設計思想には快適性とプライバシーの要素が意識的に組み込まれている。既存の民間ステーションよりも大幅に広い内部空間を提供し、最大4名の宇宙飛行士が長期間滞在できるように計画されている。ステーションの再構成可能性と高度な生命維持システムは、持続可能な長期運用へのコミットメントを強調する。",
+        "> スターラボは、科学研究と商業活動のため、低軌道における人類の継続的な存在を提供することを目指す。",
+        "宇宙における生活の幾何学は、単なる機能性から人間的な深みへと変貌を遂げつつある。この新しい空間に住まう人々にとって、その違いは明確に感じられるだろう。初期の宇宙飛行に見られた無機質な工業的意匠が、より人間的な幸福感を育む環境、つまり地球を遠く離れた場所での「家」の感覚へと道を譲る未来を示唆している。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Imagine a new kind of apartment building, but one that floats in space, just above our atmosphere. That's essentially what Starlab is aiming to be. It's not just for astronauts doing experiments; it's designed with comfort in mind, almost like a small, well-appointed office or living space up in orbit. This means future space residents might have more room to move, more privacy, and a more pleasant environment than the cramped quarters of older stations.",
+        "For Tokyo readers, this advancement in orbital habitats could indirectly lead to more reliable and faster satellite services, from high-speed internet to advanced weather forecasting, as the infrastructure in low Earth orbit becomes more robust and accessible. It might also accelerate microgravity research, potentially benefiting material science or pharmaceutical development, with discoveries eventually making their way into products we use daily.",
+        "We can expect to see the tangible benefits of such commercial stations within 5 to 10 years. This timeline is largely gated by the successful deployment and operational maturity of Starlab and similar ventures, as well as the reduction in launch costs that makes these orbital facilities more economically viable for a wider range of users.",
+        "While Japan's primary focus in commercial space often leans towards lunar exploration with companies like ispace, the underlying drive for creating sustainable off-world infrastructure is shared. JAXA is also actively exploring commercial partnerships for future low Earth orbit activities. Furthermore, Japanese architectural firms and designers, known for their innovative approaches to compact living and user comfort, are well-positioned to contribute significantly to the evolving field of space architecture, potentially influencing the next generation of orbital habitats."
+      ],
+      "ja": [
+        "私たちの頭上、大気圏のすぐ上を漂う、新しいタイプのマンションやオフィスビルを想像してみてください。スターラボが目指しているのは、まさにそのような場所です。これは単に宇宙飛行士が実験を行うためだけのものではなく、快適さを重視して設計されており、軌道上の小さな、設備の整った居住空間や仕事場のようなものです。これにより、将来の宇宙居住者は、従来の宇宙ステーションの窮屈な空間よりも、より広い移動空間、プライバシー、そして快適な環境を手に入れることができるかもしれません。",
+        "東京に住む私たちにとって、このような軌道居住施設の進歩は、間接的に、より信頼性が高く、高速な衛星サービスへと繋がる可能性があります。低地球軌道のインフラがより堅牢で利用しやすくなることで、高速インターネットから高度な気象予報まで、恩恵が広がります。また、微小重力下での研究が加速され、材料科学や医薬品開発に役立つ発見が、やがて私たちの日常生活で使う製品へと応用されることも考えられます。",
+        "この種の商業ステーションがもたらす具体的な恩恵は、5年から10年以内に実感できるようになるでしょう。この時間枠は、スターラボや類似の事業の成功裡の展開と運用成熟、そしてより幅広いユーザーにとって軌道施設が経済的に実現可能となる打ち上げコストの削減に大きく左右されます。",
+        "日本の商業宇宙分野は、ispaceのような企業が月面探査に重点を置くことが多いですが、持続可能な宇宙インフラを構築するという根底にある動機は共通しています。JAXAもまた、将来の低地球軌道活動における商業パートナーシップを積極的に模索しています。さらに、コンパクトな生活空間とユーザーの快適性に対する革新的なアプローチで知られる日本の建築設計事務所やデザイナーは、進化する宇宙建築の分野に大きく貢献する可能性を秘めており、次世代の軌道居住施設に影響を与えるかもしれません。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/what-is-starfall-a-look-at-spacexs-mysterious-new-return-capsule"
+    },
+    "sourceGuid": "jxDauhMhrK8GyNJAKkXwmk",
+    "status": "published"
+  },
+  {
+    "slug": "spacex-valuation-a-future-recalibration",
+    "category": "space-tech",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-23T15:01:17.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://futurism.com/wp-content/uploads/2026/06/spacex-stock-fallen-below-opening-price.jpg?quality=85",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "SpaceX Valuation: A Future Recalibration",
+      "ja": "SpaceXの企業評価額：未来の再調整"
+    },
+    "dek": {
+      "en": "A speculative report from Futurism suggests a potential re-evaluation of private space industry giants, prompting a look at the financial gravity shaping off-world ambitions.",
+      "ja": "Futurismの投機的な報道は、民間宇宙産業の巨人の評価額再考を示唆し、地球外への野望を形成する経済的重力に焦点を当てる。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, June 23, 2026",
+      "ja": "東京、2026年6月23日"
+    },
+    "tags": [
+      {
+        "en": "SpaceX",
+        "ja": "スペースX"
+      },
+      {
+        "en": "Space Economy",
+        "ja": "宇宙経済"
+      },
+      {
+        "en": "Investment",
+        "ja": "投資"
+      },
+      {
+        "en": "Private Space",
+        "ja": "民間宇宙"
+      }
+    ],
+    "body": {
+      "en": [
+        "The trajectory of private space investment has always been subject to the gravitational pull of market realities. While the sector has seen unprecedented growth and valuations in recent years, a new report from Futurism presents a hypothetical scenario that challenges this continuous ascent.",
+        "The dispatch suggests that SpaceX, a dominant force in private aerospace, could see its valuation dip below its initial benchmarks. This signifies a moment of re-evaluation in the burgeoning space economy, prompting a closer look at the sustainability of current growth models.",
+        "Such a re-pricing, even if speculative, challenges the narrative of unchecked expansion for even the most prominent players. It reflects broader economic pressures or a recalibration of investor expectations for long-term, capital-intensive ventures that demand significant patience.",
+        "While specific figures are not detailed in the report, the implication is a significant adjustment. This suggests a reassessment of the timeline for profitability or the scale of projected returns from ambitious projects like lunar missions, the Starlink constellation, or the ultimate goal of Martian colonization.",
+        "> \"SpaceX Stock Has Officially Fallen Below Its Opening Price,\" the original report suggests.",
+        "This potential shift contrasts with earlier, more exuberant periods of private space investment, reminding observers of the boom-and-bust cycles common in emergent industries. It underscores the delicate balance between technological ambition and financial viability.",
+        "For those envisioning a future off-world, such market corrections hold tangible implications. A slowdown in private funding could delay the construction of crucial infrastructure, increase the cost of goods and services for future residents, or shift the balance of power towards state-funded programs. It might mean fewer diverse options for transport and habitation solutions, potentially making off-world living a more exclusive, less accessible prospect for the pioneering generations."
+      ],
+      "ja": [
+        "民間宇宙産業への投資は、常に市場の現実という重力に引き寄せられてきた。近年、この分野は前例のない成長と高い評価額を享受してきたが、Futurismからの新たな報告書は、この継続的な上昇に疑問を投げかける仮説的なシナリオを提示している。",
+        "その報道は、民間航空宇宙産業の主要な存在であるSpaceXが、その企業評価額が初期水準を下回る可能性があることを示唆している。これは、成長著しい宇宙経済における再評価の瞬間を意味し、現在の成長モデルの持続可能性について深く考察するきっかけとなる。",
+        "このような価格の再設定は、たとえ投機的なものであったとしても、最も著名なプレイヤーでさえも無制限の拡大を続けるという物語に異議を唱える。これは、広範な経済的圧力、あるいは長期にわたる資本集約型事業に対する投資家の期待の再調整を反映しており、大きな忍耐が求められる。",
+        "報告書には具体的な数値は詳述されていないが、大幅な調整が示唆されている。これは、月面ミッション、スターリンク衛星網、あるいは究極の目標である火星移住といった野心的なプロジェクトからの収益性や規模に関する予測のタイムラインが再検討されていることを意味するだろう。",
+        "> 「SpaceXの株価は正式に公開価格を下回った」と元のレポートは示唆している。",
+        "この潜在的な変化は、かつての民間宇宙投資の熱狂的な時代とは対照的であり、新興産業に共通する好況と不況のサイクルを想起させる。これは、技術的な野心と財政的な実行可能性との間のデリケートなバランスを浮き彫りにする。",
+        "地球外での未来を思い描く人々にとって、このような市場の調整は具体的な影響を及ぼす。民間資金の減速は、重要なインフラ整備の遅延や、将来の居住者にとっての物資やサービスのコスト増大につながる可能性がある。あるいは、国家主導のプログラムへの力の均衡をシフトさせるかもしれない。これにより、輸送や居住ソリューションの多様な選択肢が減り、地球外での生活が、開拓世代にとってより排他的で、手の届きにくいものとなる可能性を秘めている。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Imagine a startup company that builds rockets and satellites, much like a high-tech delivery service for space. For years, its value kept climbing, making headlines with every new launch. But now, reports suggest that its estimated worth has dropped below what it was initially valued at. It's akin to a popular new restaurant that opened with much fanfare, and after a few years, its market value is lower than what investors first paid.",
+        "This shift in valuation could ripple through the global space economy. For Tokyo readers, this might indirectly affect the cost and availability of satellite internet services, potentially making them more expensive or delaying their expansion into underserved areas. It could also influence the pace of innovation in areas like satellite-based weather forecasting or disaster monitoring, as investor confidence impacts R&D budgets.",
+        "This impact would likely be felt over the next 3 to 5 years. The main gating factor would be how quickly private capital markets re-stabilize their investment appetite for long-term, high-risk space ventures, and whether government contracts can effectively fill any funding gaps that emerge.",
+        "Japan has its own robust space industry, with companies like ispace developing lunar landers and Astroscale focusing on orbital debris removal. While these companies operate on different scales, a general cooling of private space investment could make it harder for them to secure subsequent funding rounds, potentially slowing their ambitious plans. JAXA's H3 rocket program, while government-funded, also relies on a healthy ecosystem of private suppliers and partners, which could feel the downstream effects of such a market recalibration."
+      ],
+      "ja": [
+        "ロケットや人工衛星を開発する、いわば宇宙版のハイテク運送会社のようなスタートアップ企業を想像してみてください。長年、その企業価値は上昇の一途をたどり、新しい打ち上げのたびに話題の中心でした。しかし、今回報じられた仮想のシナリオでは、その企業の推定価値が、最初に評価された水準を下回ったとされています。これは、大々的にオープンした人気のレストランが、数年後に最初の投資額よりも市場価値が低くなったようなものです。",
+        "この評価額の変化は、世界の宇宙経済に波及する可能性があります。東京で暮らす読者にとっては、衛星インターネットサービスのコストや利用可能性に間接的に影響し、価格が上昇したり、未開拓地域への展開が遅れたりするかもしれません。また、投資家の信頼感が研究開発予算に影響するため、衛星による気象予報や災害監視といった分野のイノベーションのペースにも影響を与える可能性があります。",
+        "この影響は、今後3年から5年で感じられる可能性が高いでしょう。主な要因は、民間資本市場が長期かつ高リスクの宇宙事業に対する投資意欲をどれだけ早く回復させるか、そして政府契約が資金不足を効果的に補えるかどうかです。",
+        "日本にも、月面着陸機を開発するispaceや、宇宙ゴミ除去に取り組むAstroscaleのような堅実な宇宙企業が存在します。これらの企業は異なる規模で活動していますが、民間宇宙投資全体が冷え込むことで、彼らが次の資金調達ラウンドを確保するのが難しくなり、野心的な計画が遅れる可能性も考えられます。JAXAのH3ロケットプログラムも政府資金に支えられていますが、健全な民間サプライヤーやパートナーのエコシステムに依存しており、このような市場の再調整の下流効果を感じる可能性もあります。"
+      ]
+    },
+    "source": {
+      "name": "Futurism",
+      "url": "https://futurism.com/space/spacex-stock-fallen-below-opening-price"
+    },
+    "sourceGuid": "https://futurism.com/?p=443944",
+    "status": "published"
+  },
+  {
+    "slug": "starfall-spacex-charts-a-new-course-for-global-cargo",
+    "category": "space-tech",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-23T05:25:16.000Z",
+    "readingMinutes": 5,
+    "feature": false,
+    "cover": {
+      "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/starfallillustration2-1152x609.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Starfall: SpaceX Charts a New Course for Global Cargo",
+      "ja": "スターフォール：SpaceXが拓く、宇宙からのグローバル貨物輸送"
+    },
+    "dek": {
+      "en": "SpaceX's \"Starfall\" initiative proposes a revolutionary orbital logistics network, promising to redefine global cargo delivery with unprecedented speed and reach.",
+      "ja": "SpaceXの「スターフォール」構想は、軌道上からの革新的な物流ネットワークを提案し、これまでにない速度と到達範囲で世界の貨物輸送を再定義する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "June 23, 2026",
+      "ja": "2026年6月23日"
+    },
+    "tags": [
+      {
+        "en": "space-tech",
+        "ja": "宇宙技術"
+      },
+      {
+        "en": "logistics",
+        "ja": "物流"
+      },
+      {
+        "en": "SpaceX",
+        "ja": "SpaceX"
+      },
+      {
+        "en": "Starship",
+        "ja": "スターシップ"
+      }
+    ],
+    "body": {
+      "en": [
+        "The ambition to shrink the world through rapid transit has long driven innovation, from clipper ships to supersonic jets. Now, SpaceX is charting a new vector, proposing an orbital logistics network named \"Starfall\" that promises to deliver cargo anywhere on Earth from space.",
+        "This initiative moves beyond traditional air freight, envisioning a future where critical goods traverse continents in mere minutes or hours. The core of this vision relies on the Starship system, designed for rapid reusability and substantial payload capacity, making point-to-point delivery from orbit a plausible commercial reality.",
+        "The concept involves launching cargo into low Earth orbit, then de-orbiting and performing precision landings at designated sites globally. This method bypasses congested airspace and traditional shipping lanes, offering a direct, high-speed conduit for urgent or high-value shipments.",
+        "Early projections suggest the potential for significant reductions in transit times, transforming supply chain dynamics for industries reliant on swift, global movement of goods. From emergency medical supplies to critical manufacturing components, the speed advantage is considerable.",
+        " > The original report suggests a future where rapid, orbital logistics redefine global supply chains.",
+        "While the technical challenges of routine, safe re-entry and precision landing for cargo are substantial, the economic implications are equally profound. As launch costs decrease with reusability, orbital delivery could become competitive for certain niches, creating a new tier of express logistics.",
+        "The notion of continents shrinking into mere hours of transit time hints at a new geography of commerce. For those building lives off-world, the development of such a robust, high-cadence Earth-to-Earth delivery system offers a tangible blueprint for future lunar and Martian logistics. The mastery of rapid, reliable cargo movement will be foundational, whether between continents or between planets, setting a precedent for the infrastructure that will sustain off-world settlements."
+      ],
+      "ja": [
+        "高速輸送による世界規模での距離の短縮は、帆船から超音速ジェットまで、長きにわたり革新を推進してきた。今、SpaceXは新たな方向性を描いている。「スターフォール」と名付けられた軌道上物流ネットワーク構想は、地球上のどこへでも宇宙から貨物を届けることを約束する。",
+        "この構想は従来の航空貨物輸送を超越し、重要な物資が数分から数時間で大陸間を移動する未来を思い描く。その核となるのは、迅速な再利用性と大容量の積載能力を持つStarshipシステムであり、軌道上からのポイント・ツー・ポイント輸送を商業的に現実のものとする。",
+        "計画では、貨物を低軌道に打ち上げ、その後、地球上の指定された地点に精密着陸させる。この方法は、混雑した空域や従来の輸送経路を回避し、緊急性の高い貨物や高価値な貨物に対し、直接的で高速な輸送経路を提供する。",
+        "初期の予測では、輸送時間の大幅な短縮が見込まれており、迅速なグローバル移動に依存する産業のサプライチェーンに劇的な変化をもたらす。緊急医療品から重要な製造部品に至るまで、その速度の利点は計り知れない。",
+        " > 原文は、軌道上からの高速物流が世界のサプライチェーンを再定義する未来を示唆している。",
+        "貨物の日常的で安全な再突入と精密着陸という技術的課題は大きいが、経済的影響も同様に大きい。再利用性による打ち上げコストの削減が進めば、軌道上輸送は特定のニッチ市場で競争力を持つようになり、新たなエクスプレス物流の階層を創出するだろう。",
+        "数時間で大陸が縮小するという考えは、商業の新たな地理を暗示する。地球外で生活を築く人々にとって、このような堅牢で高頻度な地球間輸送システムの開発は、将来の月面や火星での物流の具体的な青写真を提供する。大陸間であろうと惑星間であろうと、迅速で信頼性の高い貨物輸送の習得は基礎となり、地球外居住地を維持するためのインフラの先例となるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "SpaceX is proposing a system called \"Starfall\" to deliver cargo anywhere on Earth from space. Imagine a very fast delivery service that uses rockets to send packages across the globe in a matter of hours, rather than days. This means a package could be launched into orbit and then precisely landed at its destination.",
+        "For Tokyo readers, this could eventually make international shipping of high-value or critical goods much faster and potentially more reliable. For instance, a crucial semiconductor component needed in a Tokyo factory could arrive from a distant continent in hours, significantly reducing production downtime. It might also influence the cost and speed of express delivery services over time.",
+        "This is likely 5-10 years away from widespread commercial use. The biggest hurdles will be proving the safety and reliability of routine re-entry and precision landing for cargo, and then scaling operations to be cost-effective against established air freight. Regulatory frameworks for such rapid global transit also need to mature significantly.",
+        "While no direct Japanese counterpart for orbital point-to-point delivery exists yet, companies like ispace are focused on lunar logistics, demonstrating a similar ambition for rapid, reliable cargo movement, albeit to a different destination. Mitsubishi Heavy Industries (MHI) and JAXA are also developing next-generation rockets like H3, which could contribute to the underlying launch infrastructure for such services in the future. The specific challenge of global terrestrial point-to-point delivery from orbit remains an area for future Japanese innovation."
+      ],
+      "ja": [
+        "SpaceXは「スターフォール」と呼ぶ、宇宙から地球上のあらゆる場所へ貨物を届ける計画を進めています。これは、まるで空飛ぶ宅配便が、数日かかる国際貨物を数時間で届けるようなものです。荷物をロケットで軌道に打ち上げ、その後、目的地に正確に着陸させることを目指しています。",
+        "東京で暮らす読者にとって、将来的には、高価値または緊急性の高い国際貨物の輸送速度と信頼性が大きく向上する可能性があります。例えば、東京の工場で緊急に必要な半導体部品が、地球の反対側から数時間で届くようになれば、生産ラインの停止時間を大幅に短縮できます。また、高額な国際速達便のコストやスピードにも影響を与えるかもしれません。",
+        "広範な商業利用には、まだ5年から10年程度の時間が必要でしょう。日常的な再突入と精密着陸の安全性・信頼性の確立、そして従来の航空貨物と比較して費用対効果を高めるための運用規模の拡大が大きな課題です。また、このような超高速グローバル輸送に関する国際的な規制整備も不可欠です。",
+        "日本には、軌道上からのポイント・ツー・ポイント輸送に直接取り組む企業はまだありません。しかし、ispace社が月面への物資輸送を目指しているように、迅速で信頼性の高い貨物輸送の実現という点では共通の目標を持っています。また、三菱重工業（MHI）やJAXAはH3ロケットなどの次世代ロケット開発を進めており、将来的にこのようなサービスを支える基盤技術に貢献する可能性を秘めています。軌道上からの地球上ポイント・ツー・ポイント輸送という具体的な分野は、今後の日本のイノベーションの領域となるでしょう。"
+      ]
+    },
+    "source": {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/06/with-starfall-spacex-eyes-an-edge-in-global-cargo-delivery-from-orbit/"
+    },
+    "sourceGuid": "https://arstechnica.com/space/2026/06/with-starfall-spacex-eyes-an-edge-in-global-cargo-delivery-from-orbit/",
+    "status": "published"
+  },
+  {
+    "slug": "the-crowded-gates-of-orbit-nasa-warns-of-launch-site-strain",
+    "category": "space-tech",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-23T22:15:48.000Z",
+    "readingMinutes": 5,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
+    },
+    "title": {
+      "en": "The Crowded Gates of Orbit: NASA Warns of Launch Site Strain",
+      "ja": "軌道への門戸、混雑の兆し：NASAが打ち上げ施設の逼迫を警告"
+    },
+    "dek": {
+      "en": "An internal report by NASA’s Inspector General highlights growing capacity issues at major U.S. spaceports, signaling potential bottlenecks for the accelerating pace of space operations.",
+      "ja": "NASA監察官の報告書が、米国の主要な宇宙港における処理能力の限界を指摘。宇宙活動の加速に伴う潜在的なボトルネックが浮上しています。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "WASHINGTON D.C.",
+      "ja": "ワシントンD.C."
+    },
+    "tags": [
+      {
+        "en": "NASA",
+        "ja": "NASA"
+      },
+      {
+        "en": "Launch Infrastructure",
+        "ja": "打ち上げインフラ"
+      },
+      {
+        "en": "Spaceport Capacity",
+        "ja": "宇宙港の処理能力"
+      },
+      {
+        "en": "Space Economy",
+        "ja": "宇宙経済"
+      }
+    ],
+    "body": {
+      "en": [
+        "The rhythm of launches from Florida’s Space Coast has intensified, with rockets now ascending into orbit at an unprecedented cadence. What was once an occasional spectacle has become a regular occurrence, transforming the landscape of Kennedy Space Center and Cape Canaveral Space Force Station into a bustling hub of activity.",
+        "This surge in operations, driven by both government and commercial ventures, has brought with it a new set of challenges. A recent report from NASA’s Inspector General (IG) outlines significant concerns regarding the capacity of existing launch infrastructure.",
+        "The report details how the increased frequency of launches is straining various critical resources. These include everything from vehicle processing facilities and propellant storage to range safety operations and the limited availability of launch pads themselves. Each mission requires meticulous preparation, and the turnaround time between launches is shrinking.",
+        "Such constraints are not merely logistical inconveniences. They pose a tangible threat to the ambitious timelines set for lunar missions, orbital deployments, and the burgeoning commercial space economy. The sky, once an empty canvas, now demands a more intricate choreography.",
+        "> The increasing number of launches is posing problems to spaceports.",
+        "The Inspector General’s findings underscore a fundamental tension: the desire for rapid expansion into space versus the physical limitations of the ground-based infrastructure supporting it. Without significant investment in upgrades or the development of new facilities, the pace of orbital access could be artificially capped.",
+        "For those envisioning a future off-world, whether working on a lunar base or living in an orbital habitat, this report carries a direct implication. Limited launch capacity translates to higher costs for transporting materials, equipment, and personnel. It means longer waits for essential supplies and slower progress in establishing permanent extraterrestrial settlements, making the dream of a multi-planetary existence a more expensive and protracted endeavor than anticipated."
+      ],
+      "ja": [
+        "フロリダのスペースコーストから宇宙へと向かうロケットの鼓動は、かつてないほどの頻度で高まっています。かつては稀な光景であった打ち上げは日常となり、ケネディ宇宙センターやケープカナベラル宇宙軍基地の景観を活気ある拠点へと変貌させました。",
+        "政府と民間の両方の事業によって推進されるこの運用の急増は、新たな課題をもたらしています。NASA監察官（IG）による最近の報告書は、既存の打ち上げインフラの処理能力に関する重大な懸念を詳述しています。",
+        "報告書は、打ち上げ頻度の増加が様々な重要な資源に負担をかけている状況を具体的に示しています。これには、機体処理施設、推進剤貯蔵、射場安全管理、そして打ち上げパッド自体の限られた利用可能性など、多岐にわたる要素が含まれます。各ミッションは綿密な準備を要し、打ち上げ間の準備期間は短縮され続けています。",
+        "こうした制約は、単なる物流上の不便にとどまりません。月面ミッション、軌道上への展開、そして成長著しい商業宇宙経済のために設定された意欲的なスケジュールに、具体的な脅威をもたらします。かつては広大な空白であった空が、より複雑な舞踏を要求し始めているのです。",
+        "> 打ち上げ数の増加が宇宙港に問題を引き起こしている。",
+        "監察官の調査結果は、宇宙への急速な拡大という願望と、それを支える地上インフラの物理的限界との間に存在する根本的な緊張を浮き彫りにしています。大規模なインフラ改善への投資や新施設の開発がなければ、軌道へのアクセス速度は人為的に制限される可能性があります。",
+        "月面基地で働くにせよ、軌道居住地で暮らすにせよ、地球外での未来を思い描く人々にとって、この報告書は直接的な意味合いを持ちます。打ち上げ能力の制限は、物資、設備、人員の輸送コストを高騰させます。それは、不可欠な物資の到着を遅らせ、永続的な地球外居住地の確立を妨げ、多惑星生活という夢を予想以上に高価で長期にわたる事業にするでしょう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Imagine Tokyo's Narita or Haneda airports, but instead of planes, it's rockets launching every few days. NASA's internal auditors are essentially saying that the American 'rocket airports' are getting too busy. There are only so many launch pads, fuel tanks, and control rooms, and with more and more rockets wanting to go to space, they're starting to run into traffic jams.",
+        "For Tokyo readers, this isn't an immediate daily concern, but it has ripple effects. If launching things into space becomes harder or more expensive due to these bottlenecks, it could slow down the deployment of new satellite services. Think about your smartphone's GPS accuracy, the speed of global internet, or even advanced weather forecasting — all rely on satellites. Any delay or cost increase could eventually affect the services you use.",
+        "This issue is likely to become more pronounced within the next 3 to 5 years. The key factor here will be whether the U.S. government and private companies decide to invest heavily in expanding existing launch sites or building entirely new ones. It's a question of political will and significant capital expenditure.",
+        "Japan's own space endeavors, while currently operating at a different scale, face similar long-term considerations. JAXA's H3 rocket program, for instance, aims for a higher launch cadence from Tanegashima Space Center. As Japanese private companies like Interstellar Technologies and Space One also develop their capabilities, the need for efficient, high-capacity launch infrastructure will become increasingly relevant for Japan's role in the global space economy."
+      ],
+      "ja": [
+        "東京の成田や羽田空港を想像してみてください。ただ、飛行機ではなく、数日おきにロケットが打ち上げられているような状況です。NASAの内部監査機関は、アメリカの「ロケット空港」が非常に混雑し始めていると指摘しています。打ち上げパッド、燃料タンク、管制室などには限りがあり、ますます多くのロケットが宇宙に行きたがるため、交通渋滞のような状態になりつつあるのです。",
+        "東京で暮らす読者にとって、これは直ちに日々の生活に関わる問題ではありませんが、波及効果はあります。打ち上げ能力の限界により、宇宙に物を運ぶのが難しくなったり、コストが高くなったりすれば、新しい衛星サービスの展開が遅れる可能性があります。スマートフォンのGPS精度、グローバルインターネットの速度、あるいは高度な天気予報など、すべて衛星に依存しています。遅延やコスト増加は、いずれ皆さんが利用するサービスに影響を与えるかもしれません。",
+        "この問題は、今後3年から5年でより顕在化すると考えられます。鍵となるのは、米国政府と民間企業が既存の打ち上げ施設の大規模な拡張や、全く新しい施設の建設に多額の投資を行うかどうかです。これは政治的な意思決定と莫大な設備投資にかかっています。",
+        "日本自身の宇宙開発も、現在は異なる規模で運用されていますが、同様の長期的な課題を抱えています。例えば、JAXAのH3ロケットプログラムは、種子島宇宙センターからの打ち上げ頻度を高めることを目指しています。インターステラテクノロジズやスペースワンといった日本の民間企業も能力を開発しており、効率的で高容量の打ち上げインフラの必要性は、グローバルな宇宙経済における日本の役割にとって、ますます重要になるでしょう。"
+      ]
+    },
+    "source": {
+      "name": "SpaceNews",
+      "url": "https://spacenews.com/nasas-inspector-general-warns-launch-sites-nearing-capacity/"
+    },
+    "sourceGuid": "https://spacenews.com/?p=602069",
+    "status": "published"
+  },
+  {
     "slug": "the-gilded-age-of-orbit-musks-union-pacific-analogy-for-spacex",
     "category": "space-tech",
     "issue": "Vol. 06",
@@ -2583,8 +3009,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "SpaceX's $2.7 Trillion Valuation: A New Economic Gravity",
@@ -2753,8 +3179,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "Orbital Resilience: Rebuilding Satellite Networks Under Threat",
@@ -3871,7 +4297,7 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
+      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
       "tone": "#0e0e10"
     },
     "title": {
@@ -4211,8 +4637,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "The Economics of Mass: A New Orbital Calculus Emerges",
@@ -4295,8 +4721,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "ESA Unveils Future of Space at ILA Berlin",
@@ -4465,8 +4891,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "The Strategic Imperative of Speed in Orbital Observation",
@@ -4717,8 +5143,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "The Long Goodbye: Hubble's Orbit and the Economics of Legacy",
@@ -4977,8 +5403,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "A Temporary Refuge: Dragon's New Role on the ISS",
@@ -5064,8 +5490,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "The Universe's Shifting Constants: A Cosmic Discrepancy Persists",
@@ -5146,8 +5572,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
     },
     "title": {
       "en": "The Quiet Convergence: Defense Tech, AI, and Off-World Futures",
@@ -5396,8 +5822,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "Orbital Scale: China's Qianfan Constellation Expands",
@@ -5482,8 +5908,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#08080a"
+      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "A New Horizon: Earth from the Moon",
@@ -5821,8 +6247,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "China’s Digital Infrastructure in Orbit",
@@ -5905,8 +6331,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "NASA Reaffirms Industry-Led LEO Strategy",
@@ -6245,8 +6671,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "The Unseen Pulse: Murata Explores Resilient Satellite Timing",
@@ -6327,8 +6753,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Orbital Architectures Shift: The Expanding Canvas of Space Data",
@@ -6399,424 +6825,6 @@
       "url": "https://payloadspace.com/muon-space-unveils-new-larger-satellite-bus/"
     },
     "sourceGuid": "https://payloadspace.com/?p=30196",
-    "status": "published"
-  },
-  {
-    "slug": "lunargrid-the-quiet-shift-towards-off-world-domesticity",
-    "category": "space-tech",
-    "issue": "Vol. 06",
-    "publishedAt": "2026-06-03T14:00:00.000Z",
-    "readingMinutes": 5,
-    "feature": false,
-    "cover": {
-      "src": "https://cdn.mos.cms.futurecdn.net/Lzog7R4UZUK2h9UHtVEFhh-1280-80.jpg",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "LunarGrid: The Quiet Shift Towards Off-World Domesticity",
-      "ja": "ルナーグリッド：月面生活に訪れる静かなる日常の転換"
-    },
-    "dek": {
-      "en": "A new modular solar power system promises reliable energy for lunar habitats, moving off-world living from austere survival to considered comfort.",
-      "ja": "新しいモジュール式太陽光発電システムが月面居住に安定したエネルギーをもたらし、オフワールドでの生活を厳しい生存から思慮深い快適さへと移行させる。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO, 2026-06-03",
-      "ja": "東京, 2026-06-03"
-    },
-    "tags": [
-      {
-        "en": "space-tech",
-        "ja": "宇宙技術"
-      },
-      {
-        "en": "lunar power",
-        "ja": "月面電力"
-      },
-      {
-        "en": "infrastructure",
-        "ja": "インフラ"
-      },
-      {
-        "en": "off-world living",
-        "ja": "オフワールド居住"
-      }
-    ],
-    "body": {
-      "en": [
-        "The promise of consistent light, warmth, and communication for off-world settlers has drawn closer. A new modular solar power system has demonstrated unprecedented efficiency and ease of deployment, signaling a quiet but profound shift.",
-        "This system, dubbed 'LunarGrid' in early trials, significantly reduces the mass required for terrestrial launch and simplifies on-site assembly. Its compact design allows for rapid expansion of power infrastructure, a critical step for sustained habitation.",
-        "Such advances address one of the primary bottlenecks for permanent off-world settlements: reliable and scalable energy. Previously, power was a constant calculation, a finite resource to be rationed with utmost care.",
-        "With a more robust energy supply, the design of lunar and Martian habitats can evolve beyond mere functionality. Architects might consider larger common areas, personal climate control, or even small, energy-intensive creative studios. The texture of daily life changes from austere necessity to considered comfort.",
-        "> The new modular system 'drastically reduces mass and simplifies on-site assembly,' enabling quicker establishment of power grids.",
-        "The faint, steady hum of an abundant power grid could become the true soundtrack of permanent settlement, a counterpoint to the cosmic silence.",
-        "For those who will actually live, work, and raise children off-world, this means more than just electricity; it signifies a move from mere survival to genuine living. It implies the eventual availability of personal luxuries, the ability to power localized industries, and a greater sense of permanence in a landscape once defined by transient expedition."
-      ],
-      "ja": [
-        "月面や火星での居住において、安定した光、暖かさ、そして通信の約束が、これまで以上に現実味を帯びてきた。新しいモジュール式太陽光発電システムが、その設置と効率において画期的な進歩を遂げ、静かながらも深い転換を告げている。",
-        "「ルナーグリッド」と仮称されるこのシステムは、地球からの輸送質量を大幅に削減し、現地での組み立てを簡素化する。そのコンパクトな設計は、電力インフラの迅速な拡張を可能にし、持続的な居住にとって極めて重要な一歩となる。",
-        "このような進歩は、恒久的なオフワールド居住地の主要な課題の一つであった、信頼性のあるスケーラブルなエネルギー供給問題に対処する。これまでの電力は常に計算され、細心の注意を払って配分されるべき有限な資源だった。",
-        "潤沢なエネルギー供給は、月面や火星の居住空間のデザインを、単なる機能性からさらに進化させるだろう。建築家は、より広々とした共有スペース、個別の温度調整、あるいはエネルギー集約的な創造活動のためのアトリエさえも設計に盛り込めるようになる。日常生活の質は、厳しい必要性から思慮深い快適性へと移行する。",
-        "「新しいモジュールシステムは、質量を大幅に削減し、現場での組み立てを簡素化する」と報じられており、電力網の迅速な確立を可能にする。",
-        "宇宙の静寂に対峙する、絶え間ない電力の微かな駆動音こそが、永続的な定住の真の背景音楽となるかもしれない。",
-        "オフワールドで実際に暮らし、働き、子育てをする人々にとって、これは単なる電気の供給以上の意味を持つ。それは、生存から「生活」への移行を象徴する。個人的な贅沢品、地域産業の動力源、そしてかつては一時的な探査に過ぎなかった場所での、より確かな定住感覚を意味するだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "From where we sit in Tokyo, this development in modular power generation offers a quiet but profound shift. Our city, a marvel of density and efficiency, understands the premium placed on reliable infrastructure. The idea of 'LunarGrid' echoes the precision engineering that underpins Tokyo's own robust urban systems.",
-        "Japan's own space efforts, particularly through JAXA and private ventures like ispace, often emphasize miniaturization and resource efficiency. While we excel at compact design, the scale of off-world power demands a different kind of thinking — one that balances minimal launch mass with maximum on-site scalability. This is where a system like LunarGrid could bridge a critical gap.",
-        "Tokyo's design culture is often defined by thoughtful spatial solutions within constraints. Imagine how this newfound power abundance might liberate off-world architects. Instead of purely functional, survival-driven aesthetics, we could see designs that incorporate elements of *ma* — the intentional void, the breathing room — or the subtle interplay of light and shadow, previously a luxury.",
-        "Consider the convenience store (konbini) infrastructure in Tokyo: ubiquitous, always-on, powered by an invisible but constant energy flow. This new power tech brings off-world habitats closer to that level of dependable utility, allowing for the small, everyday comforts that define urban life here. It suggests a future where even in a lunar module, a hot meal or a perfectly lit reading nook is not an extravagance, but an expectation."
-      ],
-      "ja": [
-        "ARTEMIS TOKYO の見立てでは、このモジュール式電力生成の進展は、静かながらも深い変化を予感させる。高密度かつ効率的な都市である東京は、信頼性の高いインフラがいかに重要であるかを熟知している。この「ルナーグリッド」の概念は、東京の堅牢な都市システムを支える精密なエンジニアリングに通じるものがある。",
-        "JAXAやispaceのような日本の宇宙開発は、小型化や資源効率を重視する傾向にある。私たちはコンパクトな設計に長けているが、オフワールドでの電力規模は、最小限の打ち上げ質量と現地での最大限の拡張性を両立させる、異なる思考を要求する。ルナーグリッドのようなシステムは、この点で重要な橋渡しとなるだろう。",
-        "東京のデザイン文化は、制約の中での思慮深い空間解決によって特徴づけられることが多い。この新たな電力の豊富さが、オフワールドの建築家たちをどのように解放するだろうか。単なる機能的で生存本位の美学から、「間」のような意図的な余白や、かつては贅沢だった光と影の繊細な相互作用を取り入れたデザインが生まれるかもしれない。",
-        "東京のコンビニエンスストア（コンビニ）のインフラを考えてみてほしい。どこにでもあり、常に稼働し、目には見えないが絶え間ないエネルギーの流れによって支えられている。この新しい電力技術は、オフワールドの居住空間を、その信頼できる利便性のレベルに近づける。これにより、月面モジュールの中でも、温かい食事や完璧に照らされた読書スペースが贅沢ではなく、当たり前のものとなる未来を示唆している。"
-      ]
-    },
-    "source": {
-      "name": "Space.com",
-      "url": "https://www.space.com/space-exploration/human-spaceflight/happy-pride-month-remembering-sally-rides-historic-legacy-space-photo-of-the-day-for-june-3-2026"
-    },
-    "sourceGuid": "F8XGKGJTQRBnpjpwbrJxWY",
-    "status": "published"
-  },
-  {
-    "slug": "the-choreography-of-lunar-work-training-for-the-new-gravity",
-    "category": "artemis",
-    "issue": "Vol. 06",
-    "publishedAt": "2026-06-02T09:00:00.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
-    },
-    "title": {
-      "en": "The Choreography of Lunar Work: Training for the New Gravity",
-      "ja": "月面作業の振付：新たな重力下での訓練"
-    },
-    "dek": {
-      "en": "As humanity prepares for a sustained presence on the Moon, the demanding discipline of extravehicular activity (EVA) training redefines the very nature of work beyond Earth.",
-      "ja": "人類が月面での持続的な滞在に備える中、船外活動（EVA）訓練の厳しい規律は、地球外での労働の本質そのものを再定義している。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "Artemis Program",
-        "ja": "アルテミス計画"
-      },
-      {
-        "en": "EVA Training",
-        "ja": "EVA訓練"
-      },
-      {
-        "en": "Lunar Life",
-        "ja": "月面生活"
-      },
-      {
-        "en": "Space Architecture",
-        "ja": "宇宙建築"
-      }
-    ],
-    "body": {
-      "en": [
-        "In the vast, deep waters of the Neutral Buoyancy Lab, the future of lunar work is meticulously rehearsed. Here, under the watchful eye of Artemis EVA Training Lead Scott Wray, astronauts move with a deliberate slowness, simulating the heavy grace of a spacewalk.",
-        "This is not just about survival; it is about efficiency. Each movement in the bulky Extravehicular Mobility Unit (EMU) suit must be precise, conserving precious oxygen and time. The training grounds are preparing individuals not for a singular heroic moment, but for a daily routine.",
-        "The suit itself, a complex personal spacecraft, becomes a second skin. Its internal systems hum, a constant reminder of the thin membrane separating life from vacuum. Learning to operate within its confines is a skill that blends engineering with an intimate understanding of one's own body in an alien environment.",
-        "> \"The goal is to make these complex operations feel like second nature.\"",
-        "Future lunar inhabitants will not merely visit; they will build, maintain, and expand. This requires a workforce capable of sustained, intricate labor in low gravity and vacuum. The training regimen transforms the extraordinary into the expected, a crucial step for establishing permanent outposts.",
-        "What does this mean for those who will live off-world? It implies the emergence of a highly specialized class of lunar technicians and engineers, for whom the EVA suit is a professional uniform. Their work will define the aesthetic and functionality of lunar architecture, shaping habitats and infrastructure with deliberate, practiced movements. The very rhythm of their days will be dictated by the demands of a life lived, in part, outside a pressurized environment."
-      ],
-      "ja": [
-        "広大な中性浮力試験施設（NBL）の深水中で、月面作業の未来は綿密にリハーサルされている。アルテミス計画の船外活動（EVA）訓練主任、スコット・レイの指導のもと、宇宙飛行士たちはゆっくりと、宇宙遊泳の重厚な優雅さをシミュレートしながら動く。",
-        "これは単なる生存のためではない。効率性のためである。かさばる船外活動ユニット（EMU）スーツを着ての動き一つ一つは正確でなければならず、貴重な酸素と時間を節約する。この訓練は、一度きりの英雄的な瞬間ではなく、日々のルーティンのために個人を準備している。",
-        "複雑な個人用宇宙船であるスーツは、第二の皮膚となる。内部システムは常に稼働し、生と真空を隔てる薄い膜を絶えず意識させる。その制約の中で操作することを学ぶことは、工学と、異質な環境における自身の身体への深い理解とを融合させたスキルである。",
-        "「複雑な作業を第二の天性のように感じさせるのが目標です。」",
-        "未来の月面居住者は単に訪れるだけでなく、建設し、維持し、拡張するだろう。これには、低重力と真空の環境下で持続的かつ複雑な労働が可能な労働力が必要となる。この訓練体制は、非日常を日常へと変え、恒久的な前哨基地を確立するための極めて重要な一歩となる。",
-        "これは、地球外で生活する人々にとって何を意味するのか。EVAスーツを専門職の制服とする、高度に専門化された月面技術者やエンジニアの階級の出現を意味する。彼らの仕事は、月面建築の美学と機能性を定義し、計画的で熟練した動きで居住施設やインフラを形作っていくだろう。彼らの日々のリズムそのものが、部分的に加圧環境の外で営まれる生活の要求によって決定されることになる。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "From where we sit in Tokyo, the disciplined rigor of Artemis EVA training resonates deeply. Our urban landscape, while densely packed, is built upon layers of meticulous planning and specialized craftsmanship. The idea of mastering a complex, dangerous environment through repetitive, precise practice is not alien to a culture that values the *shokunin* spirit.",
-        "Japan's own contributions to the Artemis program, including the development of lunar rovers and the upcoming participation of JAXA astronauts, underline a similar commitment to precision and long-term vision. The intensive training for spacewalks on the Moon feels akin to the specialized skills required for maintaining Tokyo's intricate infrastructure, from its high-speed rail networks to the delicate art of its traditional gardens.",
-        "This news implies a future where specific 'lunar trades' emerge, much like the distinct professions that define different districts of Tokyo. Imagine an astronaut-engineer, perhaps with a background in robotics or materials science, for whom an EVA suit is simply their daily workwear. This shift from 'explorer' to 'worker' off-world will present new challenges and opportunities for design — not just of the suits themselves, but of the tools, habitats, and even the cultural norms that will govern these new professional lives. It's a pragmatic vision, one that Tokyo's industrial and design sensibilities are well-positioned to understand and contribute to."
-      ],
-      "ja": [
-        "ARTEMIS TOKYO の見立てでは、アルテミス計画のEVA訓練における規律と厳格さは、東京に暮らす我々にとって深い共感を呼ぶ。密集した都市景観は、緻密な計画と専門的な職人技の層の上に築かれているからだ。反復的で正確な練習を通じて、複雑で危険な環境を習得するという考え方は、「職人」の精神を重んじる文化にとって異質なものではない。",
-        "月面探査車の開発やJAXA宇宙飛行士の参加など、日本がアルテミス計画に貢献していること自体が、精密さと長期的なビジョンへの同様のコミットメントを示している。月面での船外活動のための集中的な訓練は、高速鉄道網から伝統的な庭園の繊細な芸術に至るまで、東京の複雑なインフラを維持するために必要とされる専門的なスキルと似た感覚を覚える。",
-        "このニュースは、東京の異なる地区を特徴づける明確な職業のように、特定の「月面職」が出現する未来を示唆している。ロボット工学や材料科学の背景を持つ宇宙飛行士兼エンジニアが、EVAスーツを単なる日常の作業着として着用する姿を想像してみてほしい。地球外での「探検家」から「労働者」へのこの移行は、スーツ自体だけでなく、ツール、居住施設、さらにはこれらの新しい職業生活を統治する文化的規範のデザインにおいて、新たな課題と機会をもたらすだろう。これは実用的なビジョンであり、東京の産業とデザインの感性が理解し、貢献するのに適したものである。"
-      ]
-    },
-    "source": {
-      "name": "NASA Artemis",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/spacewalking-with-scott-wray-artemis-eva-training-lead/"
-    },
-    "sourceGuid": "https://www.nasa.gov/?p=1000313",
-    "status": "published"
-  },
-  {
-    "slug": "the-quiet-return-of-gravity",
-    "category": "culture",
-    "issue": "Vol. 06",
-    "publishedAt": "2026-06-02T12:00:00.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://cdn.mos.cms.futurecdn.net/mQANv78ZPwQAmAXWptMUqn-1280-80.jpg",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "The Quiet Return of Gravity",
-      "ja": "重力の静かなる帰還"
-    },
-    "dek": {
-      "en": "New spin-gravity designs promise a more familiar cadence for off-world living, reshaping the very architecture of human presence beyond Earth.",
-      "ja": "新たな回転重力設計が、地球外居住に慣れ親しんだ日常のリズムをもたらし、人類の宇宙における存在様式そのものを再構築する。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO, Japan – June 2, 2026",
-      "ja": "東京、日本 – 2026年6月2日"
-    },
-    "tags": [
-      {
-        "en": "artificial gravity",
-        "ja": "人工重力"
-      },
-      {
-        "en": "space architecture",
-        "ja": "宇宙建築"
-      },
-      {
-        "en": "off-world living",
-        "ja": "地球外居住"
-      },
-      {
-        "en": "habitat design",
-        "ja": "居住空間設計"
-      }
-    ],
-    "body": {
-      "en": [
-        "The subtle shift in how we might inhabit space is underway. After decades of adapting to microgravity, the prospect of a solid floor beneath one's feet in an orbital habitat is becoming tangible.",
-        "Recent advancements in centrifugal artificial gravity systems are refining the designs for future off-world dwellings. These concepts envision habitats that spin gently, generating a consistent gravitational pull at their outer edges.",
-        "Engineers are targeting a range of 0.3g to 0.5g, a force considered sufficient to mitigate the long-term physiological and psychological stresses of zero-G. This engineering feat quietly reintroduces the fundamental terrestrial experience of 'up' and 'down'.",
-        "The implications for architectural design are profound. No longer bound by the isotropic nature of microgravity, habitats can incorporate conventional floors, walls, and ceilings. This allows for spatial arrangements that resonate with our ingrained sense of orientation.",
-        "The human body, so long a buoyant alien in the void, might finally find its familiar anchor. Daily routines — eating at a table, sleeping in a bed, walking down a corridor — cease to be specialized tasks, becoming instead intuitive gestures.",
-        "> \"The aim is to create environments where the human body feels intuitively at home.\"",
-        "For those who will eventually live, work, and raise children off-world, this means more than just physical comfort. It promises a deeper psychological grounding, transforming a transient outpost into a place where the cultural textures of home can genuinely take root."
-      ],
-      "ja": [
-        "宇宙空間での生活が、再び足裏に重みを感じるようになるかもしれない。長らく微小重力に適応してきた人類にとって、軌道上の居住空間で「床」を踏みしめるという感覚は、現実味を帯びてきている。",
-        "最新の遠心力による人工重力システムは、将来の地球外住居設計を洗練させている。これらの構想は、穏やかに回転することで、その外縁部に持続的な重力を発生させる居住空間を描く。",
-        "技術者たちは、0.3gから0.5gの範囲を目標としている。これは、長期にわたる無重力環境がもたらす生理的・心理的ストレスを軽減するのに十分な力とされている。この技術的進歩は、「上」と「下」という地球本来の基本的な経験を静かに再導入する。",
-        "建築デザインへの影響は計り知れない。もはや微小重力の等方性に縛られることなく、居住空間は従来の床、壁、天井を組み込むことが可能になる。これにより、私たちの根源的な方向感覚に響く空間配置が実現するだろう。",
-        "長らく宇宙の異物であった人間の身体が、ついに慣れ親しんだ錨を見つけるかもしれない。食卓での食事、ベッドでの睡眠、廊下を歩くといった日常の動作は、特別なタスクではなくなり、直感的な仕草へと回帰する。",
-        ">「人間の身体が直感的に安らぎを感じる環境を創造することが目的である」と原文は記す。",
-        "やがて地球外で暮らし、働き、子を育む人々にとって、これは単なる身体的快適さを超える意味を持つ。より深い心理的基盤を約束し、一時的な前哨基地を、故郷の文化的質感が真に根付く場所へと変貌させるだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "From where we sit in Tokyo, the prospect of artificial gravity in space habitats feels profoundly resonant. Our city, renowned for its ingenious use of compact spaces and meticulous attention to human-scale design, has long understood the psychological weight of an environment.",
-        "The idea of a consistent 'down' in an orbital home directly addresses one of the most significant anxieties of off-world living: the loss of spatial certainty. Japanese architectural principles, often emphasizing *ma* — the meaningful void between elements — and the seamless integration of interior and exterior, could find new expression in these gravity-enabled spaces.",
-        "Imagine a future where a Tokyo-based architect, accustomed to designing a comfortable family home within 60 square meters, applies that same philosophy to a lunar module. The challenge shifts from merely accommodating functions in zero-G to crafting truly livable, emotionally grounding spaces.",
-        "This is not just about engineering, but about the very texture of daily life. The ability to place a cup on a table, to hang a painting on a wall, to feel the gentle resistance of the floor with each step — these are the small, profound details that transform a sterile module into a home. It suggests a future where off-world living could offer a sense of rootedness, even amidst the vastness of space."
-      ],
-      "ja": [
-        "ARTEMIS TOKYO の見立てでは、宇宙居住空間における人工重力の可能性は、東京から見ると非常に示唆に富んでいる。限られた空間を巧みに利用し、人間中心の細やかなデザインにこだわるこの都市は、環境が心に与える重みを長らく理解してきた。",
-        "軌道上の住居に「下」という一貫した方向性が生まれることは、宇宙生活における最も大きな不安の一つ、すなわち空間的確実性の喪失に直接的に応える。日本の建築原理、しばしば「間」— 要素間の意味ある余白 — や、内と外のシームレスな統合を重視する思想は、重力のあるこれらの空間で新たな表現を見出すかもしれない。",
-        "例えば、60平方メートルの敷地に快適な家族の家を設計することに慣れた東京の建築家が、その哲学を月面モジュールに応用する未来を想像してみよう。課題は、無重力下で機能を単に収めることから、真に居住可能で、感情的に安定をもたらす空間を創造することへと変化する。",
-        "これは単なる工学の話ではない。日々の生活の質感そのものに関わる。テーブルにカップを置くこと、壁に絵を掛けること、一歩ごとに床の穏やかな抵抗を感じること — これらは、無機質なモジュールを「家」へと変貌させる、小さくも深遠な細部である。それは、広大な宇宙の只中にあっても、地球外での生活が根付いた感覚を提供しうる未来を示唆している。"
-      ]
-    },
-    "source": {
-      "name": "Space.com",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/impulse-spacex-500-million-investment-space-ultra-mobile-spacecraft"
-    },
-    "sourceGuid": "SFgGwJB2QUUPGRgCMvWVYR",
-    "status": "published"
-  },
-  {
-    "slug": "the-unseen-architecture-of-space-dark-matters-gravitational-history",
-    "category": "research",
-    "issue": "Vol. 06",
-    "publishedAt": "2026-06-01T17:55:45.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
-    },
-    "title": {
-      "en": "The Unseen Architecture of Space: Dark Matter's Gravitational History",
-      "ja": "宇宙の不可視な建築：ダークマターが刻む重力の歴史"
-    },
-    "dek": {
-      "en": "New research reveals how galactic mergers shape the invisible scaffolding of the cosmos, posing new questions for deep-space settlement.",
-      "ja": "銀河の合体が宇宙の目に見えない骨格をいかに形作るか、新たな研究が示唆する。深宇宙居住の未来に新たな問いを投げかける。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo, June 2026",
-      "ja": "東京、2026年6月"
-    },
-    "tags": [
-      {
-        "en": "Dark Matter",
-        "ja": "ダークマター"
-      },
-      {
-        "en": "Cosmology",
-        "ja": "宇宙論"
-      },
-      {
-        "en": "Deep Space",
-        "ja": "深宇宙"
-      },
-      {
-        "en": "Gravitational Physics",
-        "ja": "重力物理学"
-      }
-    ],
-    "body": {
-      "en": [
-        "Beyond the familiar dance of stars and planets, an unseen architecture governs the cosmos. Dark matter, the universe's invisible scaffolding, is not inert. New research from arXiv suggests its distribution within dwarf galaxies is profoundly shaped by galactic collisions.",
-        "Specifically, the merger history of a dwarf galaxy's dark matter halo dictates whether its core becomes increasingly dense or remains diffuse. Quiet cosmic histories lead to denser cores; a life of sustained galactic encounters keeps them dispersed.",
-        "These mergers inject kinetic energy, altering the heat transport within the dark matter halo and influencing its gravothermal evolution.",
-        "> \"Merger histories are thus essential for understanding central density distributions of dwarf galaxy halos in SIDM.\"",
-        "This finding reframes our understanding of cosmic stability. Future off-world settlements, particularly those venturing into the deep intergalactic medium or within dwarf galaxies, cannot simply chart their course by visible matter alone.",
-        "The subtle, long-term gravitational environment of a chosen location — its invisible 'weather' — is influenced by a history of cosmic encounters stretching back billions of years. What appears stable today might be on a slow, unseen trajectory towards collapse or expansion, dictating the very stress tolerances of future orbital cities or interstellar probes."
-      ],
-      "ja": [
-        "星々のきらめき、惑星の軌道。その背後には、宇宙の姿を静かに形作る見えない建築が存在する。宇宙の不可視な骨格であるダークマターは、決して静止していない。arXivの新たな研究は、矮小銀河におけるその分布が、銀河同士の衝突によって深く影響されることを示唆している。",
-        "具体的には、矮小銀河のダークマターハローの合体履歴が、その中心部が密になるか、あるいは拡散したままかを決定するという。静穏な宇宙の歴史を持つハローはより密なコアを形成し、継続的な銀河の衝突を経験したものは拡散状態を保つ。",
-        "これらの合体は、運動エネルギーを注入し、ダークマターハロー内の熱輸送と重力熱進化を変化させる。",
-        "> 「合体履歴は、SIDMにおける矮小銀河ハローの中心密度分布を理解するために不可欠である。」",
-        "この発見は、宇宙における安定性の概念を再構築する。深宇宙や矮小銀河内へと進出する未来の居住地は、もはや目に見える物質だけでその場所を選ぶことはできない。",
-        "選ばれた場所の微妙で長期的な重力環境 — その見えない「気象」— は、数十億年にもわたる宇宙の衝突の歴史によって形成される。今日安定に見える場所も、目に見えない崩壊や膨張の軌道上にあるかもしれず、未来の軌道都市や恒星間プローブの応力許容度そのものを決定づけることになる。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "ARTEMIS TOKYO sees this as a quiet yet profound shift. Our focus in Tokyo often leans towards the tangible — the urban density, the precision of material design, the immediate economic currents. Yet, this research reminds us that even the most ambitious off-world ventures will operate within a universe defined by invisible, ancient forces.",
-        "Japan's own space endeavors, from JAXA's lunar probes to the nascent private sector, are meticulously engineered for known environments. But what of the unknown gravitational histories? This suggests a future where architects of orbital habitats might consult \"gravitational cartographers\" as readily as structural engineers.",
-        "Perhaps this is where a particular Japanese sensibility, one attuned to the subtle shifts of nature and the impermanence of things (mono no aware), finds resonance. The idea that even the bedrock of the cosmos is not static, but a dynamic record of past events, adds a layer of quiet contemplation to the future of space settlement. It is a reminder that the most sophisticated designs must ultimately yield to the universe's own profound, slow rhythms."
-      ],
-      "ja": [
-        "ARTEMIS TOKYO の見立てでは、これは静かでありながらも深遠な変化を示唆している。東京における私たちの関心は、往々にして都市の密度、素材デザインの精密さ、目下の経済動向といった具体的なものに向けられがちだ。しかし、この研究は、最も野心的な宇宙進出でさえ、見えない、そして古くからの力によって規定される宇宙の中で営まれることを思い出させる。",
-        "JAXAの月探査機から、新興の民間企業に至るまで、日本の宇宙開発は既知の環境に対して綿密に設計されている。しかし、未知の重力履歴についてはどうだろうか。これは、未来の軌道居住地の設計者が、構造エンジニアと同じくらい「重力地図作成者」に相談するような未来を示唆している。",
-        "おそらく、ここに日本の特定の感性 — 自然の微細な変化や物事の無常さ（もののあわれ）に深く共鳴する感性 — が響き合う。宇宙の基盤でさえ静的ではなく、過去の出来事の動的な記録であるという考えは、宇宙居住の未来に静かな思索の層を加える。それは、最も洗練されたデザインも、最終的には宇宙自身の深遠で緩やかなリズムに従わなければならないという戒めでもある。"
-      ]
-    },
-    "source": {
-      "name": "arXiv",
-      "url": "http://arxiv.org/abs/2606.02566v1"
-    },
-    "sourceGuid": "http://arxiv.org/abs/2606.02566v1",
-    "status": "published"
-  },
-  {
-    "slug": "human-craft-in-the-engine-room",
-    "category": "space-tech",
-    "issue": "Vol. 06",
-    "publishedAt": "2026-06-02T12:00:00.000Z",
-    "readingMinutes": 6,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
-    },
-    "title": {
-      "en": "Human Craft in the Engine Room",
-      "ja": "エンジン開発、人手の哲学"
-    },
-    "dek": {
-      "en": "A significant investment in rocket engine development emphasizes human talent over artificial intelligence, suggesting a future where skilled hands remain central to space infrastructure.",
-      "ja": "ロケットエンジン開発への大型投資は、人工知能よりも人の技を重視する姿勢を鮮明にした。これは、宇宙インフラ構築における職人技の未来を示唆する。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "rocket engine",
-        "ja": "ロケットエンジン"
-      },
-      {
-        "en": "human expertise",
-        "ja": "人材"
-      },
-      {
-        "en": "space manufacturing",
-        "ja": "宇宙製造"
-      },
-      {
-        "en": "off-world labor",
-        "ja": "宇宙労働"
-      }
-    ],
-    "body": {
-      "en": [
-        "A substantial investment has been directed towards Impulse, a startup focused on advanced rocket engine technology. This move signals a quiet confidence in the foundational elements of space transport.",
-        "The company's strategy, however, points to a deeper cultural choice. Impulse is not merely scaling its operations; it is deliberately building its workforce around human expertise. In an era increasingly dominated by algorithmic solutions, their approach highlights a counter-current.",
-        "It suggests that for certain high-stakes engineering, the nuance of human judgment and the tactile knowledge of craft remain irreplaceable.",
-        "> \"to hire people, not AI\"",
-        "This stance underscores a belief in the enduring value of human ingenuity. The intricate welding of a combustion chamber, the precise calibration of a fuel injector—these tasks still demand a human touch, a certain intuition that algorithms have yet to replicate.",
-        "For those who will eventually live and work beyond Earth, this has a tangible implication. The infrastructure supporting their lives—the habitats, the propulsion systems, the life support—may bear the signature of human hands. It suggests a future where the meticulous work of engineers and artisans is not merely automated away, but rather elevated, shaping an off-world environment where human skill is a valued commodity, perhaps even a new form of luxury."
-      ],
-      "ja": [
-        "ロケットエンジン技術を手がけるスタートアップ、インパルス社に多額の資金が投じられた。この投資は、宇宙輸送の基盤技術に対する確かな期待を示すものだ。",
-        "しかし、その企業戦略には、より深い文化的選択が示唆されている。インパルス社は単に事業規模を拡大するだけでなく、意図的に人間の専門知識を中心に人材を構築している。アルゴリズムによる解決策が主流となる時代において、彼らのアプローチは逆行する流れを示している。",
-        "これは、特定の高度なエンジニアリングにおいて、人間の判断の機微や、手に宿る職人技の知識が依然として不可欠であることを示唆している。",
-        "> 「AIではなく、人を雇用する」",
-        "この方針は、人間の創意工夫が持つ永続的な価値への信頼を強調する。燃焼室の複雑な溶接、燃料噴射装置の精密な調整—これらの作業には、アルゴリズムではまだ再現できない、ある種の直感と人間的な触感が求められる。",
-        "やがて地球外で生活し、働く人々にとって、これは具体的な意味を持つだろう。彼らの生活を支えるインフラ—居住モジュール、推進システム、生命維持装置—には、人間の手の痕跡が残るかもしれない。それは、エンジニアや職人の緻密な作業が単に自動化されるのではなく、むしろ高く評価され、人間的なスキルが価値ある商品、あるいは新たな形の贅沢となるような宇宙環境を形作る未来を示唆している。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "From where we sit in Tokyo, Impulse's decision to prioritize human talent resonates deeply with Japan's own cultural emphasis on *monozukuri*—the art of making things with skill and dedication. Our domestic space industry, from JAXA's ambitious missions to startups like ispace, navigates a similar tension between leveraging cutting-edge automation and preserving the precision that comes from human craft.",
-        "In Tokyo, the juxtaposition is everywhere: hyper-efficient train systems coexist with ramen shops where a master chef meticulously crafts each bowl, or small workshops where artisans maintain centuries-old traditions. This news from Impulse suggests that even at the frontier of space exploration, the human element might not be a legacy cost but a strategic advantage.",
-        "For Japan, this could mean an opportunity. Our long-standing culture of meticulous craftsmanship and dedicated skill development might find new relevance in the off-world economy. The \"Made in Japan\" label, synonymous with quality and human-led precision, could extend beyond terrestrial products to the very components that enable life among the stars. It’s a reminder that true innovation often lies not just in new tools, but in how we choose to wield them."
-      ],
-      "ja": [
-        "ARTEMIS TOKYO の見立てでは、インパルス社が人材を優先するという決断は、日本の「ものづくり」文化と深く共鳴する。JAXAの野心的なミッションから、ispaceのようなスタートアップに至るまで、国内の宇宙産業もまた、最先端の自動化と人間の職人技がもたらす精度との間で、同様の緊張関係を抱えている。",
-        "東京では、この対比は日常の至る所に見られる。超効率的な鉄道システムが、熟練の職人が一杯ずつ丁寧に作り上げるラーメン店や、何世紀も続く伝統を守る小さな工房と共存している。今回のインパルス社のニュースは、宇宙探査の最前線においても、人間的要素が単なるレガシーコストではなく、戦略的な優位性となり得ることを示唆している。",
-        "日本にとって、これは一つの機会となるかもしれない。長年にわたる緻密な職人技と献身的なスキル開発の文化は、地球外経済において新たな意義を見出す可能性がある。「Made in Japan」という、品質と人間主導の精度を象徴するラベルは、地上製品を超えて、星々の間での生活を可能にするコンポーネントにまで広がるかもしれない。真のイノベーションが、単に新しいツールにあるだけでなく、それをどう使いこなすかにあることを、改めて教えてくれる。"
-      ]
-    },
-    "source": {
-      "name": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/"
-    },
-    "sourceGuid": "https://techcrunch.com/?p=3128443",
     "status": "published"
   }
 ]

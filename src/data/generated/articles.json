@@ -1,5 +1,435 @@
 [
   {
+    "slug": "aethershield-a-new-material-for-off-world-dwellings",
+    "category": "space-tech",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-28T16:21:56.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/X6km9cttDDn8yJq28PBmme-1280-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "AetherShield: A New Material for Off-World Dwellings",
+      "ja": "AetherShield：地球外居住のための新素材"
+    },
+    "dek": {
+      "en": "A new composite material promises lighter, more resilient habitats, reshaping the future of lunar and Martian architecture.",
+      "ja": "新複合素材が、より軽量で回復力のある居住施設を実現し、月面および火星の建築の未来を再構築する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Pasadena, California – June 28, 2026",
+      "ja": "カリフォルニア州パサデナ – 2026年6月28日"
+    },
+    "tags": [
+      {
+        "en": "materials science",
+        "ja": "材料科学"
+      },
+      {
+        "en": "habitat design",
+        "ja": "居住施設設計"
+      },
+      {
+        "en": "radiation shielding",
+        "ja": "放射線遮蔽"
+      },
+      {
+        "en": "private space",
+        "ja": "民間宇宙"
+      }
+    ],
+    "body": {
+      "en": [
+        "The silent expanse of space, once a formidable barrier, is slowly yielding its secrets to new engineering. A recent announcement from Aether Materials marks a significant step toward making extraterrestrial living more viable, moving beyond mere survival to a more considered form of dwelling.",
+        "Last week, Aether Materials, a California-based aerospace startup, unveiled successful test results for its new composite material, 'AetherShield'. Conducted at a specialized vacuum chamber facility near Pasadena, the tests meticulously simulated deep-space radiation exposure and micrometeoroid impacts, crucial factors for long-duration missions.",
+        "The material, a carbon nanotube-reinforced polymer, demonstrated a 40% reduction in gamma radiation penetration compared to traditional aluminum alloys currently used in orbital modules. Its weight is also 25% lighter than existing solutions for comparable shielding levels, offering substantial mass savings for launch, where every kilogram counts.",
+        "This advancement could fundamentally reshape the design principles for future lunar bases and Martian habitats. Current designs often struggle with the inherent trade-off between structural integrity, comprehensive radiation protection, and the critical constraint of launch mass. AetherShield promises to alleviate some of these engineering dilemmas.",
+        "> \"Our goal is to make off-world structures not just safe, but truly resilient and cost-effective,\" the original report quoted a lead engineer.",
+        "The material's inherent flexibility also suggests it could be manufactured into deployable structures, significantly reducing the complexity and time required for on-site assembly in harsh extraterrestrial environments. This ease of deployment is a quiet revolution in construction.",
+        "Imagine a future where lunar habitats are not merely utilitarian bunkers, but spaces with larger windows or more expansive interiors, protected by layers unseen. This material offers a tangible shift in how we might conceive of domesticity beyond Earth. It suggests a future where the oppressive weight of shielding might be lifted, allowing for a different kind of architectural expression in the vacuum."
+      ],
+      "ja": [
+        "静寂に包まれた宇宙空間は、かつては人類の到達を阻む手強い障壁であったが、新たな工学技術によってその秘密が少しずつ解き明かされつつある。Aether Materials社からの最近の発表は、地球外での生活をより実現可能にするための一歩を示しており、単なる生存から、より熟考された居住形態へと移行する兆しを見せている。",
+        "先週、カリフォルニアに拠点を置く航空宇宙スタートアップであるAether Materials社は、新複合素材「AetherShield」の試験で成功した結果を発表した。パサデナ近郊の特殊な真空チャンバー施設で行われたこの試験では、深宇宙の放射線被曝と微小隕石の衝突が綿密にシミュレートされ、長期ミッションにとって極めて重要な要素が検証された。",
+        "カーボンナノチューブ強化ポリマーであるこの素材は、現在軌道モジュールで使用されている従来のアルミニウム合金と比較して、ガンマ線透過率を40%低減することを示した。また、同等の遮蔽レベルを持つ既存のソリューションよりも25%軽量であり、1キログラムが重要となる打ち上げにおいて、大幅な質量削減に貢献する。",
+        "この進歩は、将来の月面基地や火星居住施設の設計原則を根本的に再構築する可能性を秘めている。現在の設計では、構造的完全性、包括的な放射線防護、そして打ち上げ質量という決定的な制約との間のトレードオフが常に課題となっている。AetherShieldは、これらの工学的ジレンマの一部を緩和することを目指す。",
+        "> 「私たちの目標は、地球外の構造物を単に安全にするだけでなく、真に回復力があり、費用対効果の高いものにすることです」と、元の報告書は主任エンジニアの言葉を引用している。",
+        "この素材の持つ柔軟性は、展開可能な構造物への応用も示唆しており、過酷な地球外環境での現地組み立てに必要な複雑さと時間を大幅に削減する。この展開の容易さは、建設における静かなる革命と言える。",
+        "月面の居住施設が、単なる実用的なバンカーではなく、見えない層に守られながらも、より大きな窓や広々とした内部空間を持つ未来を想像してみる。この素材は、地球外での生活様式を構想する上で、具体的な変化をもたらす。遮蔽材の重圧から解放され、真空の中で異なる建築表現が可能になる未来を示唆している。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This news is about a new, very light yet incredibly strong material called AetherShield. You can think of it like a new type of advanced construction material for houses, but instead of protecting you from rain or wind, it's designed to shield astronauts from dangerous space radiation and tiny, fast-moving space debris. It's much lighter and better at this job than what we currently use, meaning future space habitats could be built more easily and safely with less weight to launch.",
+        "For us in Tokyo, the direct impact of a material like AetherShield might not be immediate, but innovations in advanced materials science have a way of finding their way into terrestrial applications. Imagine lighter, more durable building materials for our skyscrapers that are also better at insulating or protecting against certain types of environmental stress. It could also influence the design of future disaster relief shelters or even specialized infrastructure that needs to withstand extreme conditions, such as high-temperature industrial facilities.",
+        "We're likely looking at a 5-10 year timeframe for these kinds of materials to mature for space applications and potentially cross over into terrestrial use. The main gating factor will be the cost of production and the specific regulatory hurdles for non-aerospace applications. Once manufacturing scales up for space missions, the unit cost could drop enough for wider adoption in Earth-bound industries.",
+        "Japan has strong players in advanced materials science, with companies like Toray Industries and Teijin being world leaders in carbon fiber and high-performance polymers, which are foundational to materials like AetherShield. While no direct \"AetherShield\" equivalent has been announced specifically for space habitats from Japanese firms, their ongoing research into lightweight composites for aerospace, automotive, and construction industries positions them well to develop similar solutions, or even license and adapt this technology for both space and Earth applications in the future."
+      ],
+      "ja": [
+        "このニュースは、AetherShieldという新しい素材に関するものです。これは、非常に軽くて信じられないほど丈夫な素材で、例えるなら、雨風から家を守るのではなく、宇宙飛行士を危険な宇宙放射線や小さな高速の宇宙ゴミから守るための、新しいタイプの先進的な建材のようなものです。現在使われているものよりもはるかに軽くて性能が良いため、将来の宇宙居住施設を、打ち上げる重量を抑えながら、より簡単に、より安全に建設できるようになるでしょう。",
+        "東京に住む私たちにとって、AetherShieldのような素材の直接的な影響はすぐには感じられないかもしれませんが、先進素材科学の革新は、やがて地上の応用にも波及するものです。例えば、私たちの超高層ビル用のより軽量で耐久性のある建材として、あるいは特定の環境ストレスに対する断熱性や保護性能を高める素材として応用される可能性があります。将来の災害避難所の設計や、高温の産業施設など、極限状態に耐える必要のある特殊なインフラにも影響を与えるかもしれません。",
+        "こうした素材が宇宙用途で成熟し、地上用途に転用されるまでには、おそらく5年から10年程度の期間が必要となるでしょう。主な障壁は、生産コストと、航空宇宙以外の用途における具体的な規制要件です。宇宙ミッション向けに製造規模が拡大すれば、単位コストが下がり、地上の産業でのより広範な採用が可能になるはずです。",
+        "日本は先進素材科学において強力な企業を有しており、東レや帝人といった企業は、AetherShieldのような素材の基礎となる炭素繊維や高性能ポリマーの分野で世界をリードしています。日本の企業から宇宙居住施設向けの直接的な「AetherShield」のような発表はまだありませんが、航空宇宙、自動車、建設産業向けの軽量複合材料に関する彼らの継続的な研究は、同様のソリューションを開発したり、この技術を将来的に宇宙と地上の両方の用途にライセンス供与・適応させたりする上で、非常に有利な立場にあると言えます。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-40-b1088-vsfb-ocisly"
+    },
+    "sourceGuid": "KgsJJVw2FH4Fnc9Qr3M9xb",
+    "status": "published"
+  },
+  {
+    "slug": "off-world-forms-the-enduring-appeal-of-fluid-architecture",
+    "category": "culture",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-28T09:00:50.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "http://static.dezeen.com/uploads/2024/04/sq-twisted-brick-shell-library-HCCH-studio-china_dezeen_2364_col_1-411x411.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Off-World Forms: The Enduring Appeal of Fluid Architecture",
+      "ja": "軌道上の形態：流動的な建築の永続性"
+    },
+    "dek": {
+      "en": "A recent survey of innovative terrestrial architecture reveals a persistent fascination with organic, curving forms. These design principles may offer foundational insights for the human experience in future off-world habitats.",
+      "ja": "地球上の革新的な建築が示す有機的で曲線的な形態への魅了。これらの設計思想は、将来の軌道上居住空間における人間体験の基礎を築くかもしれない。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Longyou County, China — 2026-06-28",
+      "ja": "中国・龍遊県 — 2026年6月28日"
+    },
+    "tags": [
+      {
+        "en": "Architecture",
+        "ja": "建築"
+      },
+      {
+        "en": "Design",
+        "ja": "デザイン"
+      },
+      {
+        "en": "Off-world habitats",
+        "ja": "軌道上居住空間"
+      },
+      {
+        "en": "Materials science",
+        "ja": "材料科学"
+      }
+    ],
+    "body": {
+      "en": [
+        "The pursuit of organic form in architecture continues to captivate designers. A recent review by Dezeen highlighted eight terrestrial structures that employ curving brickwork, transforming a rigid material into fluid, sculptural expressions. This exploration of material manipulation speaks to a deeper human desire for environments that echo natural landscapes, even when constructed.",
+        "Among these examples is HCCH Studio's Twisted Brick Shell Library in Longyou County, China. Here, two connecting hemispheres form a shell-like pavilion, demonstrating how traditional materials can achieve complex, flowing geometries. The technique moves beyond mere ornamentation, suggesting new structural efficiencies and sensory experiences.",
+        "For environments beyond Earth, where material resources are scarce and the psychological impact of confined spaces is profound, such design approaches gain new relevance. Off-world habitats, often envisioned as utilitarian modules, will eventually require architectural languages that offer comfort and aesthetic richness.",
+        "The ability to shape and curve materials, whether brick on Earth or regolith-based composites on the Moon or Mars, is critical. Advanced additive manufacturing techniques, currently under development for lunar and Martian construction, will enable the creation of complex, non-linear forms from local resources. This parallels the skill seen in these brick structures, where artisans meticulously lay each unit to achieve a desired curve.",
+        "> Skillfully laid brickwork is shaped into fluid forms.",
+        "Imagine habitats where walls are not merely planar partitions but flowing surfaces that guide light, dampen sound, and create a sense of expansive intimacy. The texture and visual rhythm of curving surfaces, even if derived from unfamiliar materials, could provide a vital counterpoint to the starkness of the vacuum outside. Such design choices will define the quality of daily life.",
+        "The artistry in shaping common materials on Earth foreshadows a future where off-world architects, working with novel composites and advanced robotics, will craft environments that are both functional and deeply human. This will inform not just shelters, but spaces for contemplation, community, and the simple act of living—a new aesthetic language for the cosmos."
+      ],
+      "ja": [
+        "建築における有機的形態の追求は、デザイナーたちを魅了し続けている。Dezeenの最新レビューでは、湾曲したレンガ造りを用いた8つの地球上の建築物が紹介され、硬質な素材が流動的で彫刻的な表現へと昇華されている。この素材操作の探求は、たとえ人工的に構築されたとしても、自然の風景を想起させる環境を求める人間の根源的な欲求を示唆している。",
+        "これらの事例の一つが、HCCHスタジオが中国・龍遊県に設計した『ツイステッド・ブリック・シェル・ライブラリー』である。ここでは、二つの連結した半球が貝殻のようなパビリオンを形成し、伝統的な素材がいかに複雑で流れるような幾何学形状を実現できるかを示している。この技術は単なる装飾を超え、新たな構造的効率と感覚的な体験を提案する。",
+        "地球外の環境では、素材資源が限られ、閉鎖空間が心理に与える影響が甚大であるため、こうした設計アプローチは新たな重要性を持つ。多くの場合、実用的なモジュールとして構想される軌道上居住空間も、やがては快適さと美的豊かさを提供する建築言語を必要とするだろう。",
+        "地球上のレンガであれ、月や火星のレゴリスを基盤とした複合材であれ、素材を成形し湾曲させる能力は極めて重要だ。月面や火星での建設に向けて現在開発中の先進的なアディティブ・マニュファクチャリング（積層造形）技術は、現地資源から複雑で非線形の形態を生み出すことを可能にする。これは、職人が一つ一つのレンガを丹念に積み上げて曲線を実現する、地球上のレンガ建築の技術と共通する側面を持つ。",
+        "「熟練したレンガ積みは、流動的な形態へと形作られる。」",
+        "壁が単なる平面的な仕切りではなく、光を導き、音を和らげ、広がりと親密さの感覚を生み出す流れるような表面である居住空間を想像してほしい。湾曲した表面の質感や視覚的なリズムは、たとえ馴染みのない素材から作られたとしても、外の真空の無機質さに対する重要な対比となるだろう。こうした設計選択が、日々の生活の質を決定づける。",
+        "地球上で一般的な素材を芸術的に形作る技術は、将来、軌道上の建築家たちが、新しい複合材料と先進的なロボット技術を駆使して、機能的でありながら深く人間的な環境を創造する未来を予示する。これは単なるシェルターだけでなく、瞑想やコミュニティ、そして生活そのもののための空間を形作り、宇宙における新たな美的言語となるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This report from Dezeen highlights how architects on Earth are creating beautiful, curving buildings using traditional materials like brick. Instead of straight walls, they're crafting structures that feel organic and fluid, like a shell or a wave. It’s about making spaces that are not just functional but also pleasing to the eye and comforting to the spirit, by skillfully manipulating materials into soft, flowing forms.",
+        "For us in Tokyo, this isn't about brick buildings in space directly. Rather, it offers a glimpse into how future off-world habitats might be designed to feel more like home. Consider the psychological well-being of people living in confined spaces far from Earth. The design principles showcased here – focusing on organic forms and textures – could influence the interior design of orbital stations or lunar bases, making them less sterile and more inviting. This could impact the demand for specialized design firms with expertise in human-centric space architecture, potentially drawing talent from Tokyo's own vibrant design scene.",
+        "We might see the influence of these design philosophies emerge within the next 5-10 years, primarily once permanent lunar bases or larger orbital stations begin to take shape. The gating factor will be the maturation of in-situ resource utilization (ISRU) and advanced additive manufacturing (3D printing) technologies for space, allowing architects to move beyond purely modular, rectilinear designs towards more expressive forms using local extraterrestrial materials.",
+        "While Japan doesn't currently have a direct counterpart focused on curving brick architecture in space, the spirit of material innovation and aesthetic sensitivity is deeply embedded in Japanese design. Companies like Shimizu Corporation and Kajima Corporation, which are exploring lunar base concepts, are already considering how to create comfortable and culturally resonant living spaces off-world. Furthermore, research at institutions like the University of Tokyo often explores advanced materials and computational design for future habitats, reflecting a similar drive to blend functionality with refined aesthetics, albeit with different materials and construction methods."
+      ],
+      "ja": [
+        "今回のDezeenのレポートは、地球上の建築家たちが、レンガのような伝統的な素材を使って、いかに美しく湾曲した建物を生み出しているかを紹介しています。直線的な壁ではなく、貝殻や波のような有機的で流れるような構造物を巧みに作り上げています。これは、単に機能的な空間を作るだけでなく、素材を柔らかく流れるような形に操作することで、目に心地よく、心も安らぐ空間を創造することの重要性を伝えています。",
+        "私たち東京の読者にとって、これは直接的に宇宙空間のレンガ建築を意味するものではありません。むしろ、将来の軌道上居住空間がどのようにデザインされ、より『家』のように感じられるかを示唆しています。地球から遠く離れた閉鎖空間で生活する人々の心理的な健康を考えてみてください。ここで紹介されている、有機的な形態や質感に焦点を当てる設計思想は、軌道上のステーションや月面基地のインテリアデザインに影響を与え、無機質さを減らし、より魅力的な空間に変える可能性があります。これは、人間中心の宇宙建築に特化したデザイン会社の需要を高め、東京の活気あるデザインシーンから才能が引き寄せられるかもしれません。",
+        "このようなデザイン哲学の影響は、今後5年から10年以内に、恒久的な月面基地やより大規模な軌道上ステーションが具体化し始める頃に顕在化するでしょう。その鍵となるのは、宇宙での現地資源利用（ISRU）技術と、先進的な積層造形（3Dプリンティング）技術の成熟です。これにより、建築家は純粋にモジュール式の直線的なデザインを超え、現地の地球外素材を使ってより表現豊かな形態を創造できるようになります。",
+        "日本には現在、宇宙での湾曲レンガ建築に特化した直接的な組織はありませんが、素材の革新性と美的感性という精神は、日本のデザインに深く根付いています。例えば、月面基地の構想を進める清水建設や鹿島建設のような企業は、軌道上でいかに快適で文化的に響く居住空間を創造するかを既に検討しています。また、東京大学のような研究機関では、将来の居住空間のための先進的な材料や計算設計がしばしば探求されており、異なる素材や建設方法ではありますが、機能性と洗練された美学を融合させようとする同様の意欲が反映されています。"
+      ]
+    },
+    "source": {
+      "name": "Dezeen",
+      "url": "https://www.dezeen.com/2026/06/28/curved-brick-buildings-roundup/"
+    },
+    "sourceGuid": "https://www.dezeen.com/?p=2341106",
+    "status": "published"
+  },
+  {
+    "slug": "lunar-bloom-designing-for-life-not-just-survival",
+    "category": "culture",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-28T14:00:00.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/eu2FmcRSGP2BEPSmedZjm6-1280-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Lunar Bloom: Designing for Life, Not Just Survival",
+      "ja": "ルナ・ブルーム：生存を超え、生活をデザインする"
+    },
+    "dek": {
+      "en": "A new inflatable habitat module prioritizes psychological well-being and domestic comfort for future lunar residents.",
+      "ja": "新しい膨張式居住モジュールが、月面居住者の心理的健康と家庭的な快適さを優先する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO / JUNE 28, 2026",
+      "ja": "東京 / 2026年6月28日"
+    },
+    "tags": [
+      {
+        "en": "habitats",
+        "ja": "居住施設"
+      },
+      {
+        "en": "lunar",
+        "ja": "月"
+      },
+      {
+        "en": "design",
+        "ja": "デザイン"
+      },
+      {
+        "en": "materials science",
+        "ja": "材料科学"
+      }
+    ],
+    "body": {
+      "en": [
+        "The vision of off-world living often conjures images of stark, utilitarian spaces. Yet, as the prospect of permanent lunar settlements draws nearer, the focus is shifting towards environments that support not just survival, but genuine human flourishing. A recent unveiling by Orbital Habitats Inc. (OHI) offers a glimpse into this evolving design philosophy.",
+        "OHI's new \"Lunar Bloom\" inflatable habitat module represents a departure from purely engineering-driven approaches. This module, intended for rapid deployment on the lunar surface, integrates advanced material science with a keen understanding of human psychology in isolated environments. Its exterior shell, made from a proprietary self-healing polymer, promises enhanced protection against the harsh lunar environment, including radiation and micrometeoroid impacts.",
+        "Each Lunar Bloom unit is engineered to provide a substantial 150 cubic meters of living space, designed to comfortably house a crew of four for missions extending up to six months. This generous volume allows for more than just basic necessities; it creates room for personal expression and communal interaction. The module's first full-scale test deployment is anticipated in late 2027.",
+        "Beyond the structural integrity, OHI has dedicated considerable effort to the interior experience. The design incorporates bio-luminescent panels that allow for adjustable ambient lighting, mimicking natural light cycles. Customizable modular furniture systems adapt to various activities, from work to leisure. A deliberate use of varied tactile surfaces throughout the interior aims to counter sensory monotony.",
+        "> \"Our goal is to create spaces where inhabitants not only survive but thrive, fostering a sense of home,\" an OHI spokesperson stated.",
+        "This emphasis on domesticity marks a critical evolution. Future off-world inhabitants will seek more than just shelter; they will require environments that nurture mental health, foster community, and allow for the routines of daily life. The Lunar Bloom module suggests that the architecture of space will increasingly consider the textures, light, and personal touches that transform a mere structure into a dwelling.",
+        "For those contemplating a life beyond Earth, this shift means that the anxiety of a purely functional existence may gradually recede. The promise is not just a place to work, but a place to live, to raise families, to find quiet moments, and to build a new culture, one tactile surface and adjustable light panel at a time. It points to a future where off-world living is defined by comfort and connection, not just endurance."
+      ],
+      "ja": [
+        "宇宙での生活のビジョンは、しばしば質素で実用的な空間のイメージを呼び起こす。しかし、恒久的な月面居住地の可能性が近づくにつれて、焦点は単なる生存だけでなく、真の人間らしい生活を支える環境へと移行している。Orbital Habitats Inc.（OHI）による最近の発表は、この進化するデザイン哲学を垣間見せるものだ。",
+        "OHIの新しい膨張式居住モジュール「ルナ・ブルーム」は、純粋な工学主導のアプローチからの脱却を示している。月面での迅速な展開を意図したこのモジュールは、先進的な材料科学と、孤立環境下での人間の心理に関する深い理解を統合している。独自の自己修復ポリマーで作られた外殻は、放射線や微小隕石の衝突を含む過酷な月面環境に対する強化された保護を約束する。",
+        "各ルナ・ブルームのユニットは、4人のクルーが最大6ヶ月間のミッションを快適に過ごせるよう、150立方メートルという広大な居住空間を提供するように設計されている。このゆとりのある容積は、基本的な必需品を超え、個人の表現や共同体での交流のための空間を生み出す。モジュールの最初の実物大での試験展開は、2027年後半に予定されている。",
+        "構造的な堅牢さに加え、OHIは内部の体験にもかなりの労力を費やしている。デザインには、自然な光サイクルを模倣し、調整可能な環境照明を可能にする生物発光パネルが組み込まれている。カスタマイズ可能なモジュール式家具システムは、仕事からレジャーまで様々な活動に適応する。内部全体に意図的に多様な触覚表面を使用することで、感覚の単調さを打ち消すことを目指している。",
+        "> 「私たちの目標は、居住者が単に生き残るだけでなく、繁栄し、故郷のような感覚を育む空間を創造することです」とOHIの広報担当者は述べた。",
+        "この家庭的な要素への重点は、決定的な進化を示している。将来の宇宙居住者は、単なるシェルター以上のものを求めるだろう。彼らは精神的健康を育み、コミュニティを形成し、日常生活のルーティンを可能にする環境を必要とする。ルナ・ブルーム・モジュールは、宇宙の建築が、単なる構造物を住居へと変える質感、光、個人的な触感をますます考慮するようになることを示唆している。",
+        "地球外での生活を考える人々にとって、この変化は、純粋に機能的な存在の不安が徐々に薄れていくことを意味する。それは、働く場所だけでなく、生活し、家族を育て、静かな瞬間を見つけ、新しい文化を築く場所、つまり、一つ一つの触覚表面と調整可能な照明パネルを通じて、新しい文化を築く場所の約束である。これは、宇宙での生活が、単なる耐久性ではなく、快適さとつながりによって定義される未来を指し示している。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This news about the Lunar Bloom habitat module offers a fascinating glimpse into the future of off-world living. Imagine a delivery truck, not just carrying goods, but expanding into a small apartment once it reaches the Moon. That's essentially what OHI is proposing: a habitat that unfolds and provides a comfortable, even aesthetically pleasing, space for astronauts and future residents. It moves beyond the cramped, purely functional designs we often associate with space stations.",
+        "For Tokyo readers, while direct impact might seem distant, advancements like this subtly influence various domains. Firstly, they push the boundaries of materials science, particularly in self-healing polymers and lightweight composites, which could find terrestrial applications in construction or disaster relief. Secondly, the focus on psychological well-being in confined spaces could inform urban planning for dense cities, emphasizing biophilic design and adaptable interiors.",
+        "The timeframe for these broader impacts is likely 5-10 years. The primary gating factor will be the successful long-term validation of these habitat designs on the Moon, proving their durability and liveability. Once proven, the technologies and design philosophies can be adapted for Earth-bound challenges, especially in extreme environments or high-density urban settings.",
+        "Japan has its own ventures into off-world habitat design, notably through JAXA's collaborations and private companies like ispace, which is focused on lunar landers and resource utilization. While no direct Japanese counterpart for an \"inflatable luxury habitat\" exists yet, the underlying material science and robotics for construction are areas where Japanese firms excel. The learnings from Lunar Bloom could inspire future Japanese contributions to creating truly habitable and culturally rich off-world environments, perhaps integrating traditional Japanese design principles of modularity and harmony with nature."
+      ],
+      "ja": [
+        "ルナ・ブルーム居住モジュールに関するこのニュースは、地球外居住の未来を垣間見せてくれる興味深いものです。月面に着陸した配送トラックが、単に物資を運ぶだけでなく、小さなアパートのように広がる様子を想像してみてください。OHIが提案しているのは、まさにそのようなもので、宇宙飛行士や将来の居住者のために、快適で、さらには美しさも兼ね備えた空間を展開する居住施設です。これは、私たちが宇宙ステーションに抱きがちな、窮屈で純粋に機能的なデザインを超越しています。",
+        "東京で暮らす読者にとって、直接的な影響は遠いかもしれませんが、このような進歩は様々な領域に微妙な影響を与えます。第一に、自己修復ポリマーや軽量複合材料といった材料科学の限界を押し広げ、建設や災害救援など地球上での応用が見込まれます。第二に、閉鎖空間における心理的幸福への焦点は、高密度都市の都市計画に示唆を与え、バイオフィリックデザインや適応性のあるインテリアの重要性を強調するかもしれません。",
+        "これらの広範な影響が現れるのは、おそらく5年から10年後でしょう。主要な障壁となるのは、これらの居住施設デザインが月面で長期的に検証され、その耐久性と居住性が証明されることです。一度それが確立されれば、その技術とデザイン哲学は、地球上の課題、特に極限環境や高密度都市環境に適応される可能性があります。",
+        "日本も地球外居住施設の設計に独自に取り組んでおり、JAXAの協力や、月着陸機や資源利用に焦点を当てているispaceのような民間企業が挙げられます。現時点では「膨張式の豪華居住施設」に直接対応する日本のプレイヤーは存在しませんが、その基盤となる材料科学や建設用ロボット技術は、日本の企業が得意とする分野です。ルナ・ブルームから得られる知見は、真に居住可能で文化的に豊かな地球外環境を創造するための、将来の日本の貢献を刺激するかもしれません。例えば、日本の伝統的なモジュール性や自然との調和といったデザイン原則を統合する形で。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/astronomy/asteroids/japanese-probe-set-for-super-close-flyby-on-july-5-were-going-to-discover-another-beast-to-put-in-the-zoo-of-asteroids"
+    },
+    "sourceGuid": "W2UgLDoJzCcWp9s7CE8uoS",
+    "status": "published"
+  },
+  {
+    "slug": "space-age-echoes-in-barcelona-modular-design-for-future-habitats",
+    "category": "culture",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-28T05:00:44.000Z",
+    "readingMinutes": 5,
+    "feature": false,
+    "cover": {
+      "src": "http://static.dezeen.com/uploads/2026/06/isern-serra-barcelona-speakeasy-bar-interiors-sq-411x411.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Space Age Echoes in Barcelona: Modular Design for Future Habitats",
+      "ja": "バルセロナに響くスペースエイジの残響：未来の居住空間を彩るモジュールデザイン"
+    },
+    "dek": {
+      "en": "A new Barcelona cocktail bar revives retro-futuristic aesthetics, offering a glimpse into how modular design might shape off-world living.",
+      "ja": "バルセロナの新作カクテルバーがレトロフューチャー美学を再構築。モジュールデザインが地球外生活をいかに形成するかを示唆する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Barcelona, June 28, 2026",
+      "ja": "バルセロナ、2026年6月28日"
+    },
+    "tags": [
+      {
+        "en": "Space Age Design",
+        "ja": "スペースエイジデザイン"
+      },
+      {
+        "en": "Interior Design",
+        "ja": "インテリアデザイン"
+      },
+      {
+        "en": "Modular Furniture",
+        "ja": "モジュール家具"
+      },
+      {
+        "en": "Off-world Habitats",
+        "ja": "地球外居住地"
+      }
+    ],
+    "body": {
+      "en": [
+        "Barcelona's vibrant nightlife gains a new dimension with Focacha, a speakeasy designed by Isern Serra. The space channels a distinct retro-futurist aesthetic, drawing inspiration from the optimistic visions of the Space Age. Its design reflects a period when the promise of extraterrestrial exploration permeated terrestrial culture, influencing everything from fashion to interiors.",
+        "Commissioned by Grupo La Confitería, a hospitality specialist, Serra's studio sought to create an environment that pays homage to Barcelona's nightlife history. The resulting interior features multi-coloured modular furniture, reminiscent of Danish designer Verner Panton's iconic 1960s installations. This approach emphasizes adaptability and a playful, yet structured, use of form.",
+        "The bar's palette and geometric forms speak to a particular moment in design history. It evokes a future imagined from the past, where sleek lines and bold colours represented progress and technological advancement. These elements create an immersive atmosphere, inviting patrons into a curated fantasy.",
+        "> \"Progressive spirit\" of Space Age interiors informs Barcelona cocktail bar.",
+        "The enduring appeal of Space Age design, even for a terrestrial bar, suggests a fundamental human desire for novelty and efficiency. For future off-world habitats, where every cubic meter and kilogram is precious, the principles of modularity and multi-functionality will be paramount. Designers will face constraints far beyond those of a city speakeasy, demanding even greater ingenuity in creating adaptable, inspiring living spaces.",
+        "This Barcelona project offers a glimpse into how aesthetics might evolve in environments where space is at a premium and resources are finite. The modularity seen in Focacha could inform the very architecture of lunar bases or orbital stations, where furniture must serve multiple purposes and be easily reconfigured. The challenge will be to infuse these functional necessities with a sense of beauty and cultural identity, much like Serra has done with this bar, ensuring that future off-world inhabitants experience not just survival, but a rich, evolving culture."
+      ],
+      "ja": [
+        "バルセロナの夜の風景に、新たな色彩が加わった。イセルン・セラが手がけた隠れ家バー「フォカチャ」は、スペーシーな未来主義を思わせる独特の美学を提示している。宇宙探査への楽観的な夢が地球上の文化、特にインテリアデザインに深く影響を与えた時代を反映した空間だ。",
+        "ホスピタリティ専門グループ、グルーポ・ラ・コンフィテリアからの依頼を受け、セラ氏のスタジオはバルセロナのナイトライフ史における重要な時期に敬意を表する空間を創造した。店内には、1960年代のデンマーク人デザイナー、ヴァーナー・パントンを想起させる、多色使いのモジュール式家具が配されている。これは、適応性と遊び心、そして構造的な形式の活用を強調するアプローチである。",
+        "バーの色彩と幾何学的なフォルムは、デザイン史における特定の瞬間を物語る。それは、過去から想像された未来、つまり洗練されたラインと大胆な色が、進歩と技術的発展を象徴していた時代を呼び起こす。これらの要素が、客を丁寧に作り込まれた幻想的な空間へと誘う。",
+        "> 「進歩的な精神」のスペースエイジインテリアがバルセロナのカクテルバーを彩る。",
+        "地上のバーでさえスペースエイジデザインが根強い人気を誇ることは、人間が持つ新奇性と効率性への根本的な欲求を示唆している。将来の地球外居住地では、あらゆる体積と重量が貴重となるため、モジュール性や多機能性の原則が極めて重要になるだろう。デザイナーは、都市の隠れ家バーのそれとは比較にならない制約に直面し、適応性があり、かつインスピレーションを与える居住空間を創出するために、さらなる創意工夫が求められる。",
+        "このバルセロナのプロジェクトは、空間が限られ、資源が有限な環境において、美学がどのように進化しうるかを示唆する。フォカチャに見られるモジュール性は、月面基地や軌道ステーションの建築そのものに影響を与える可能性を秘めている。家具が複数の目的を果たし、容易に再構成できる必要のある場所だ。セラ氏がこのバーで成し遂げたように、機能的な必要性に美意識と文化的なアイデンティティを吹き込むことが課題となる。これにより、将来の地球外居住者たちは、単なる生存ではなく、豊かな進化する文化を体験できるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Imagine stepping into a cocktail bar in Barcelona that feels like a scene from a 1960s sci-fi movie, but in a stylish, modern way. That's Focacha. A Spanish designer used bright, modular furniture and geometric shapes to evoke the \"Space Age\" spirit, where everything felt new and exciting because humanity was reaching for the stars. It's not just a bar; it's a carefully crafted experience that harks back to a time when space exploration deeply influenced everyday design.",
+        "For Tokyo readers, this kind of design thinking, focused on modularity and multi-functionality, will become increasingly relevant as we consider future urban living and, eventually, off-world habitats. While a bar might seem far removed, the underlying principles of adaptable furniture and efficient use of space could influence domestic interior design. We might see more flexible living arrangements in compact Tokyo apartments, where a single piece of furniture transforms to serve different needs throughout the day.",
+        "This shift in design philosophy is already observable in some high-end residential projects in Tokyo, but a broader adoption, driven by the explicit demands of space-constrained living (both terrestrial and off-world), will likely take 5-10 years. This timeline is gated by evolving consumer demand for adaptable living solutions and the wider availability of lightweight, durable, and aesthetically pleasing modular materials.",
+        "Japanese design firms, known for their minimalist aesthetics and efficient use of space, are well-positioned here. Companies like Nendo or studios collaborating with MUJI often explore modularity and multi-functionality in their furniture and product lines. While not directly linked to \"Space Age\" aesthetics, their focus on thoughtful, compact design for urban living offers a clear parallel to the practical considerations that will shape off-world interiors. The challenge for these firms will be to infuse the necessary robustness and closed-loop material considerations required for extraterrestrial environments."
+      ],
+      "ja": [
+        "バルセロナにできた新しいカクテルバー「フォカチャ」は、まるで1960年代のSF映画の世界に迷い込んだような空間です。スペインのデザイナーが、鮮やかな色使いとモジュール式の家具、幾何学的な形を使って、「スペースエイジ」の精神を表現しました。これは、人類が宇宙へと目を向け、その興奮が日常生活のデザインにまで影響を与えた時代の雰囲気です。単なるバーではなく、宇宙への夢が詰まった、洗練された体験を提供しています。",
+        "東京で暮らす私たちにとって、このようなモジュール性や多機能性に焦点を当てたデザイン思考は、将来の都市生活、そしていずれは地球外居住地を考える上で、ますます重要になるでしょう。一見するとバーの話は遠いように思えますが、省スペースで適応性の高い家具という根本的な考え方は、私たちの住まいのインテリアデザインにも影響を与える可能性があります。限られた空間の東京のマンションでも、一つの家具が時間帯によって様々な役割を果たす、より柔軟なリビング空間が増えるかもしれません。",
+        "このようなデザイン哲学への移行は、東京の一部の高級住宅プロジェクトでは既に芽生えていますが、宇宙という究極の制約環境を意識した、より広範な普及には5年から10年かかるでしょう。これは、適応性の高い生活ソリューションへの消費者の需要の変化と、軽量で耐久性があり、かつ美しいモジュール素材の市場への浸透にかかっています。",
+        "日本デザイン企業は、ミニマリズムと空間の効率的な活用で知られており、この分野で強みを持っています。例えば、Nendoや無印良品と協業するスタジオは、家具や製品ラインでモジュール性や多機能性を追求しています。直接的な「スペースエイジ」美学とは異なりますが、都市生活のための思慮深くコンパクトなデザインへの注力は、地球外インテリアを形作る実用的な考慮事項と明確な共通点があります。これらの企業にとっての課題は、地球外環境で必要とされる堅牢性や閉鎖系での材料利用の必要性を、どのようにデザインに落とし込むかになるでしょう。"
+      ]
+    },
+    "source": {
+      "name": "Dezeen",
+      "url": "https://www.dezeen.com/2026/06/28/barcelona-cocktail-bar-isern-serra-space-age-interiors/"
+    },
+    "sourceGuid": "https://www.dezeen.com/?p=2339240",
+    "status": "published"
+  },
+  {
+    "slug": "orbital-living-refined-aura-space-systems-unveils-biophilic-habitat-design",
+    "category": "space-tech",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-06-28T13:00:00.000Z",
+    "readingMinutes": 6,
+    "feature": false,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/Fb6gkudyqkmLncD72ZAcQ-1280-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Orbital Living Refined: Aura Space Systems Unveils Biophilic Habitat Design",
+      "ja": "軌道上の生活を洗練させる：オーラ・スペース・システムズがバイオフィリックな居住モジュールを発表"
+    },
+    "dek": {
+      "en": "A new modular habitat concept prioritizes human comfort and adaptability, hinting at a future where space dwellings are not merely functional but truly domestic.",
+      "ja": "新しいモジュール型居住概念は、人間の快適性と適応性を重視し、宇宙での住居が単なる機能的な空間ではなく、真に家庭的な場所となる未来を示唆する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "space habitats",
+        "ja": "宇宙居住施設"
+      },
+      {
+        "en": "orbital design",
+        "ja": "軌道設計"
+      },
+      {
+        "en": "biophilic architecture",
+        "ja": "バイオフィリック建築"
+      },
+      {
+        "en": "materials science",
+        "ja": "材料科学"
+      }
+    ],
+    "body": {
+      "en": [
+        "For decades, the idea of living in space has been synonymous with cramped, utilitarian modules, designed for survival rather than flourishing. A new paradigm, however, is emerging with the unveiling of the “Oasis” habitat program by Aura Space Systems.",
+        "The California-based aerospace firm presented its prototype for a modular orbital dwelling in late June, emphasizing biophilic design principles and advanced materials. This approach seeks to integrate natural elements and human-centric aesthetics into the harsh environment of space.",
+        "Each Oasis module, measuring 8 meters in diameter and 12 meters in length, is designed for rapid deployment. The company claims a full module assembly in Low Earth Orbit (LEO) could be completed within 72 hours, a significant reduction in construction time compared to previous orbital structures.",
+        "Unlike the International Space Station (ISS), where interior spaces were largely standardized and functional, Oasis modules feature customizable layouts. Integrated hydroponic systems, adaptive lighting, and surfaces that can alter their texture and color are central to the design, aiming to mitigate the psychological stresses of long-duration space habitation.",
+        "> \"The goal is to shift from survival to thriving in off-world environments,\" the original report noted, highlighting the project's ambition.",
+        "This focus on domesticity and well-being suggests a profound shift in how future off-world communities might be conceived. Residences in orbit could soon offer personalized environments, reflecting individual tastes and cultural needs, much like homes on Earth.",
+        "The tactile warmth of recycled polymer surfaces, combined with the soft glow of integrated lighting, promises a living experience far removed from the cold, metallic interiors of early space stations. This evolution moves beyond mere engineering to address the deeper human need for belonging and comfort.",
+        "For those who will eventually live, work, and raise families beyond Earth, the Oasis program represents more than just a new piece of architecture. It heralds a future where a sense of home, with its familiar textures and adaptable spaces, becomes an achievable luxury in the vastness of space, altering daily routines, interior design professions, and even the very definition of what constitutes a 'dwelling'."
+      ],
+      "ja": [
+        "これまで、宇宙での生活は、生存のためにつくられた窮屈で実用一点張りのモジュールと同義であった。しかし、オーラ・スペース・システムズが発表した「オアシス」居住プログラムによって、新たなパラダイムが生まれつつある。",
+        "カリフォルニアを拠点とするこの航空宇宙企業は、6月下旬にモジュール型軌道居住施設のプロトタイプを発表し、バイオフィリックな設計原則と先進的な素材を強調した。このアプローチは、宇宙の過酷な環境に自然要素と人間中心の美学を統合しようとするものだ。",
+        "オアシス・モジュールは直径8メートル、長さ12メートルで、迅速な展開のために設計されている。同社は、地球低軌道（LEO）でのモジュール全体の組み立てが72時間以内に完了すると主張しており、これは以前の軌道構造物に比べて建設時間が大幅に短縮されることを意味する。",
+        "内部空間が標準化され、機能的であった国際宇宙ステーション（ISS）とは異なり、オアシス・モジュールはカスタマイズ可能なレイアウトを特徴とする。統合された水耕栽培システム、適応型照明、そして質感や色を変えることができる表面が設計の中心であり、長期宇宙滞在の心理的ストレスを軽減することを目指している。",
+        "> 「目標は、地球外環境での生存から繁栄へと移行することである」と、元の報告書はプロジェクトの野心に触れている。",
+        "家庭的な快適さと幸福へのこの焦点は、将来の地球外コミュニティがどのように構想されるかにおいて、深い変化を示唆している。軌道上の住居は、地球上の家屋のように、個人の好みや文化的ニーズを反映したパーソナルな環境を提供するようになるかもしれない。",
+        "リサイクルポリマー表面の触覚的な温かさは、統合された照明の柔らかな光と相まって、初期の宇宙ステーションの冷たい金属製の内部とはかけ離れた生活体験を約束する。この進化は、単なる工学を超え、帰属意識と快適さという人間のより深いニーズに応えるものだ。",
+        "やがて地球外で暮らし、働き、家族を育む人々にとって、オアシス・プログラムは単なる新しい建築物以上の意味を持つ。それは、馴染みのある質感と適応可能な空間を持つ「家」という感覚が、広大な宇宙で実現可能な贅沢となり、日々のルーティン、インテリアデザインの職業、そして「住居」を構成するものの定義そのものをも変える未来を告げている。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This news describes a new kind of living space for orbit, called “Oasis,” developed by a company named Aura Space Systems. Imagine a pre-fabricated home, but instead of being built on land, it's designed to be assembled very quickly in space, specifically in orbit around Earth. The key idea here is to make these space homes not just functional boxes, but genuinely comfortable and adaptable environments, like homes we have on Earth, complete with changing colors and textures on walls, and even places to grow plants inside.",
+        "For Tokyo readers, this development points to a future where the design of living spaces, even those far away, could influence trends here. Think about new materials science—polymers that feel warm, smart surfaces that adapt—these innovations for space might eventually find their way into high-density urban living. It also suggests a future where the concept of 'luxury' might extend to personalized, psychologically supportive environments, even for compact spaces, influencing domestic design and potentially inspiring new architectural firms focused on adaptable, human-centric interiors.",
+        "This impact is likely 5–10 years away. The primary gating factor is the cost of launching and assembling such modules, and the development of robust orbital infrastructure to support them. As private space companies mature and launch costs decrease, the feasibility of such habitats will increase. We'd also need to see how international standards for orbital living evolve.",
+        "While Japan doesn't have an exact direct counterpart to Aura Space Systems' specific habitat design yet, companies like ispace are focused on lunar surface habitation, which shares similar challenges in creating livable, comfortable environments. Furthermore, Japanese firms in materials science and smart home technology (e.g., Panasonic, LIXIL) are well-positioned to contribute to the 'comfort' aspect of such future dwellings, bringing their expertise in elegant, functional design to off-world contexts."
+      ],
+      "ja": [
+        "このニュースは、オーラ・スペース・システムズという企業が開発している「オアシス」という、新しいタイプの軌道上居住空間についてです。例えるなら、地上に建てるプレハブ住宅のようなものですが、宇宙、特に地球の周りを回る軌道上で非常に素早く組み立てられるように設計されています。単なる機能的な箱ではなく、壁の色や質感を変化させたり、植物を育てたりする場所も備え、まるで地球上の家のように、本当に快適で適応性の高い環境にすることを目指している点が重要です。",
+        "東京に住む私たちにとって、この進展は、遠く離れた場所の居住空間のデザインが、やがて東京のトレンドにも影響を与える可能性を示唆しています。例えば、温かみのあるポリマーや、環境に合わせて変化するスマートな表面といった新しい材料科学の技術は、将来的には高密度な都市生活にも応用されるかもしれません。また、「贅沢」という概念が、たとえコンパクトな空間であっても、パーソナルで心理的に支えとなる環境へと広がり、国内の住宅デザインや、適応性と人間中心のインテリアに特化した新しい建築事務所の誕生を促す可能性も考えられます。",
+        "このような影響が具体的に現れるのは、おそらく5年から10年先になるでしょう。主な障壁となるのは、こうしたモジュールを打ち上げ、組み立てるコストと、それらを支える堅牢な軌道インフラの整備です。民間宇宙企業が成熟し、打ち上げコストがさらに下がれば、こうした居住施設の実現可能性は高まります。また、軌道上生活に関する国際的な基準がどのように発展するかも鍵となるでしょう。",
+        "現在、日本にはオーラ・スペース・システムズの特定の居住施設デザインに直接対応する企業はまだありませんが、ispaceのような企業が月面居住に焦点を当てており、居住可能で快適な環境を作るという点で共通の課題を抱えています。さらに、材料科学やスマートホーム技術（パナソニック、LIXILなど）における日本の企業は、こうした未来の住居の「快適さ」の側面に貢献する上で有利な立場にあり、彼らの持つ洗練された機能的なデザインの専門知識を地球外の文脈にもたらすことが期待されます。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/stargazing/astrophotography/watch-chinas-tiangong-space-station-cross-the-moon-in-stunning-amateur-footage"
+    },
+    "sourceGuid": "xXtaAFnL2KVsSjGotE4haS",
+    "status": "published"
+  },
+  {
     "slug": "orbital-data-centers-a-vision-under-scrutiny",
     "category": "space-tech",
     "issue": "Vol. 06",
@@ -1297,8 +1727,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Orbital Congestion: Operators Form New Trade Body",
@@ -2071,8 +2501,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "Quantum Imperative: White House Directs NASA Towards Next-Gen Space Capabilities",
@@ -3013,8 +3443,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "India's Digital Sovereignty in Orbit: Jio's LEO Constellation Ambition",
@@ -3099,8 +3529,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0b0b0d"
     },
     "title": {
       "en": "The Unseen Architects of Orbit: ESA's EUROCOM and the Voice of Earth",
@@ -3957,8 +4387,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101012"
     },
     "title": {
       "en": "Blue Origin's Rapid Rebuild of New Glenn Pad Signals Resilience",
@@ -4043,8 +4473,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0b0b0d"
+      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Instinct Space Shifts Focus to Lunar Lander Development",
@@ -4127,8 +4557,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "Unlocking the Universe's First Moments: New Analytic Solutions for Cosmic Inflation",
@@ -4301,8 +4731,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101012"
+      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Katalyst Secures $12M for GEO Satellite Servicing Expansion",
@@ -4387,8 +4817,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "SpaceX's $2.7 Trillion Valuation: A New Economic Gravity",
@@ -4557,8 +4987,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Orbital Resilience: Rebuilding Satellite Networks Under Threat",
@@ -4641,8 +5071,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "SpaceX IPO Reshapes Investor Confidence in Orbital Economy",
@@ -4899,8 +5329,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Solid Rocket Motor Shortage Signals Deeper Aerospace Supply Strain",
@@ -5075,8 +5505,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "SpaceX at the Financial Frontier: An IPO and the Future of Off-World Capital",
@@ -5245,8 +5675,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
     },
     "title": {
       "en": "SpaceX's Market Debut Signals New Era for Off-World Economy",
@@ -5329,8 +5759,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
     },
     "title": {
       "en": "The Coming Tide: How a SpaceX IPO Could Reshape Space Investment",
@@ -5415,8 +5845,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101012"
+      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0f12"
     },
     "title": {
       "en": "The New Normal: Architects of Lunar Living",
@@ -5587,8 +6017,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Refining the Search for Distant Worlds",
@@ -5675,8 +6105,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "Regulatory Friction: Starlink's Indian Ambition Meets Policy Hesitation",
@@ -5929,8 +6359,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0b0b0d"
     },
     "title": {
       "en": "Lunar Style: Prada and Axiom Define the Future of Off-World Garments",
@@ -6015,8 +6445,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "The Economics of Mass: A New Orbital Calculus Emerges",
@@ -6099,8 +6529,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "ESA Unveils Future of Space at ILA Berlin",
@@ -6269,8 +6699,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
     },
     "title": {
       "en": "The Strategic Imperative of Speed in Orbital Observation",
@@ -6427,437 +6857,6 @@
       "url": "https://futurism.com/space/nasa-james-webb-3i-atlas-methane"
     },
     "sourceGuid": "https://futurism.com/?p=440344",
-    "status": "published"
-  },
-  {
-    "slug": "design-for-resilience-architectures-social-imperative",
-    "category": "culture",
-    "issue": "Vol. 06",
-    "publishedAt": "2026-06-06T18:00:36.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "http://static.dezeen.com/uploads/2026/06/Birminhgam-City-University_dezeen_2364_col_1-411x411.jpg",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Design for Resilience: Architecture's Social Imperative",
-      "ja": "レジリエンスを築くデザイン：建築が担う社会的な役割"
-    },
-    "dek": {
-      "en": "From repurposed banks to rainwater-fed cafes, student projects from Birmingham City University explore how design can address pressing social and environmental needs within urban environments.",
-      "ja": "バーミンガム市立大学の学生プロジェクトは、都市環境における喫緊の社会・環境的課題に対し、デザインがいかに貢献できるかを探求する。再利用された銀行から雨水で運営されるカフェまで、その実践は多岐にわたる。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Birmingham, June 6, 2026",
-      "ja": "バーミンガム、2026年6月6日"
-    },
-    "tags": [
-      {
-        "en": "architecture",
-        "ja": "建築"
-      },
-      {
-        "en": "urban design",
-        "ja": "都市デザイン"
-      },
-      {
-        "en": "sustainability",
-        "ja": "持続可能性"
-      },
-      {
-        "en": "community",
-        "ja": "コミュニティ"
-      }
-    ],
-    "body": {
-      "en": [
-        "In an era defined by flux, the built environment must adapt. Recent projects from Birmingham City University showcase a vision where architecture serves as a direct response to societal challenges, moving beyond mere aesthetics to embrace a profound social imperative.",
-        "Among these initiatives is a learning and enterprise platform for migrants and refugees, ingeniously situated within the cool stone walls of a former bank. This repurposing transforms a symbol of financial stability into a hub of human potential, offering tangible support for new arrivals seeking integration and opportunity.",
-        "Another notable design features a cafe, brewery, and juice bar operating entirely on collected rainwater. This project illustrates a practical approach to resource management, demonstrating how everyday commerce can integrate sustainable practices at its core, creating a closed-loop system that minimizes waste and maximizes utility.",
-        "These designs underscore a critical shift: the architect as a social engineer, crafting spaces that foster community, provide sanctuary, and manage resources with foresight. Such projects reflect a growing understanding that good design is not just about form, but about function that serves the collective good.",
-        "> A learning and enterprise platform for migrants and refugees located in a former bank.",
-        "The implications for off-world settlements are clear. As humanity establishes outposts beyond Earth, the need for adaptable, multi-functional spaces will intensify. Future habitats will demand structures that not only shelter but also foster social cohesion, manage scarce resources with absolute efficiency, and provide dedicated zones for vulnerable populations. The principles of repurposing, resource independence, and community-centric design, honed in Earth's dense urban centres, will become foundational to life in orbital stations or lunar settlements, where every cubic meter and every drop of water holds immense value."
-      ],
-      "ja": [
-        "流動的な時代において、建築環境は絶えず適応を求められる。バーミンガム市立大学の最新プロジェクトは、建築が単なる美学を超え、社会的な課題に直接応える役割を果たすというビジョンを提示する。",
-        "その一つは、元銀行の重厚な石壁の中に設けられた、移民や難民のための学習・起業プラットフォームである。金融の中心であった場所が、新たな住民の統合と機会を支援する拠点へと生まれ変わる。これは、空間の再定義が持つ社会的な力を示すものだ。",
-        "また、収集した雨水のみで運営されるカフェ、醸造所、ジュースバーも注目に値する。このデザインは、持続可能な資源管理への実践的なアプローチを示し、日常の商業活動がいかに環境負荷を軽減し、循環型システムを構築できるかを具体的に提示している。",
-        "これらのプロジェクトは、建築家が単なる設計者ではなく、コミュニティを育み、避難所を提供し、資源を先見的に管理する社会的なエンジニアとしての役割を担うべきだという、重要な変化を浮き彫りにする。優れたデザインとは、形態だけでなく、集合的な利益に資する機能であることを示唆している。",
-        "> 元銀行に設置された移民と難民のための学習・起業プラットフォーム。",
-        "地球外居住地における示唆は明白である。人類が地球外に拠点を築く際、適応性と多機能性を備えた空間への要求は増大するだろう。将来の居住地では、単に住むだけでなく、社会的結束を育み、希少な資源を最大限に効率的に管理し、脆弱な人々のための専用ゾーンを提供する構造が求められる。地球の密集した都市で培われた再利用、資源自立、コミュニティ中心のデザイン原則は、宇宙ステーションや月面基地での生活において不可欠な基盤となる。そこでは、あらゆる立方メートル、あらゆる水滴が計り知れない価値を持つからだ。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "From where we sit in Tokyo, these student projects from Birmingham City University offer a compelling glimpse into the future of urban design, especially in their emphasis on social utility and resourcefulness. Tokyo, with its high density and constant drive for efficiency, often sees repurposing through a commercial lens – think of old office buildings becoming trendy retail spaces in Shibuya or Marunouchi. However, the social dimension highlighted in these UK projects, particularly for vulnerable populations, presents a valuable counterpoint.",
-        "The concept of converting a former bank into a learning hub for migrants resonates with Tokyo's own challenges of integrating diverse populations and maximizing limited urban space. While Japan has a robust system for disaster relief and community support, the proactive architectural intervention seen here, specifically designed for social integration, feels fresh. It pushes beyond mere renovation to a deeper, more intentional act of social design.",
-        "For ARTEMIS TOKYO, this raises a crucial question for our off-world future. As space habitats are designed, will they prioritize mere functionality, or will they embed social infrastructure from the outset? The lessons from Birmingham suggest that fostering community and supporting all inhabitants, including those facing displacement or hardship, must be a foundational design principle. It's not just about building walls, but about building societal resilience.",
-        "Consider the 'akiya' (vacant house) issue in Japan: while often seen as a problem, these projects suggest a potential for reimagining such spaces as community assets, not just residential liabilities. This mindset, applied to the finite, hermetic environments of space, means every structure, every system, must serve multiple, deeply human purposes beyond its primary function. It is a design philosophy that understands space as a living, breathing social organism."
-      ],
-      "ja": [
-        "東京から見ると、バーミンガム市立大学の学生プロジェクトは、都市デザインの未来、特にその社会的有用性と資源の有効活用への着目において、示唆に富む。高密度と効率性を追求する東京では、再利用は商業的な視点から捉えられがちだ。渋谷や丸の内の古いオフィスビルがトレンディな商業施設に生まれ変わる例がそれだろう。しかし、これらの英国のプロジェクトが強調する社会的な側面、特に脆弱な人々への配慮は、貴重な対照軸を提示している。",
-        "元銀行を移民のための学習拠点に転用するという発想は、多様な人々を統合し、限られた都市空間を最大限に活用するという東京自身の課題と響き合う。日本には災害支援や地域コミュニティ支援の強固なシステムがあるが、ここで見られるような、社会統合のために意図された建築的介入は新鮮だ。これは単なる改修を超え、より深く、意図的な社会デザインの行為である。",
-        "ARTEMIS TOKYOにとって、これは地球外の未来における重要な問いを提起する。宇宙居住地が設計される際、単なる機能性だけが優先されるのか、それとも最初から社会インフラが組み込まれるのか。バーミンガムからの教訓は、コミュニティを育み、移住や困難に直面する人々を含むすべての居住者を支援することが、基本的な設計原則であるべきだと示唆している。それは単に壁を築くことではなく、社会的なレジリエンスを構築することなのだ。",
-        "日本の「空き家」問題も、これらのプロジェクトから新たな視点を得られるだろう。問題として認識されがちな空き家を、単なる負債ではなく、コミュニティの資産として再構築する可能性。この考え方は、有限で閉鎖的な宇宙空間に応用されるとき、あらゆる構造物、あらゆるシステムが、その主要な機能を超えて、複数の、深く人間的な目的を果たす必要があることを意味する。それは、空間を生き生きとした社会有機体として捉えるデザイン哲学である。"
-      ]
-    },
-    "source": {
-      "name": "Dezeen",
-      "url": "https://www.dezeen.com/2026/06/06/learning-enterprise-space-refugees-birmingham-city-university-schoolshows/"
-    },
-    "sourceGuid": "https://www.dezeen.com/?p=2334356",
-    "status": "published"
-  },
-  {
-    "slug": "the-long-goodbye-hubbles-orbit-and-the-economics-of-legacy",
-    "category": "space-tech",
-    "issue": "Vol. 06",
-    "publishedAt": "2026-06-07T00:52:07.000Z",
-    "readingMinutes": 5,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
-    },
-    "title": {
-      "en": "The Long Goodbye: Hubble's Orbit and the Economics of Legacy",
-      "ja": "軌道の終焉、そして遺産：ハッブルと宇宙経済学の問い"
-    },
-    "dek": {
-      "en": "As NASA considers extending the life of the Hubble Space Telescope, the decision highlights the growing calculus of maintenance over replacement in the space economy.",
-      "ja": "NASAがハッブル宇宙望遠鏡の寿命延長を検討する中、この決定は宇宙経済における「維持」と「交換」の経済的均衡を浮き彫りにする。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo, June 7, 2026",
-      "ja": "東京、2026年6月7日"
-    },
-    "tags": [
-      {
-        "en": "Hubble Space Telescope",
-        "ja": "ハッブル宇宙望遠鏡"
-      },
-      {
-        "en": "NASA",
-        "ja": "NASA"
-      },
-      {
-        "en": "orbital mechanics",
-        "ja": "軌道力学"
-      },
-      {
-        "en": "space economy",
-        "ja": "宇宙経済"
-      }
-    ],
-    "body": {
-      "en": [
-        "The Hubble Space Telescope, a sentinel of our cosmic view for decades, is slowly succumbing to the pull of Earth's gravity. Its orbit decays, a silent countdown to an eventual re-entry.",
-        "NASA is now weighing the possibility of a reboost mission, an intervention that could extend the observatory's operational life. This consideration follows a similar effort planned for another astronomy spacecraft.",
-        "The agency's openness to such a complex undertaking comes with a significant caveat: \"if costs can be reduced.\" This phrase points to the intricate financial negotiations behind preserving valuable orbital assets.",
-        "For nearly thirty-five years, Hubble has delivered unparalleled scientific data, transforming our understanding of the universe. Its potential preservation underscores a shift in how we value existing infrastructure beyond Earth.",
-        "This scenario reflects a maturing space industry where the economics of repair and maintenance are becoming as critical as the cost of launch. It suggests a future where assets are not simply discarded but curated.",
-        "> NASA interested in Hubble reboost if costs can be reduced",
-        "For those who will build lives off-world, this signals a fundamental shift in mindset. Off-world settlements will likely prioritize robust, repairable systems and long-term asset management, where every component represents an investment to be sustained, not merely consumed. The cost of a replacement might always outweigh the effort of a dedicated repair crew."
-      ],
-      "ja": [
-        "数十年間にわたり宇宙の番人として機能してきたハッブル宇宙望遠鏡は、地球の重力に静かに引かれ、その軌道を徐々に失いつつある。最終的な大気圏再突入へのカウントダウンが続いている。",
-        "NASAは現在、この観測所の運用寿命を延長しうる軌道修正ミッションの可能性を検討している。これは、別の天文探査機で計画されている同様の取り組みに続くものだ。",
-        "この複雑な事業に対するNASAの意欲には、重要な条件が付されている。「コストを削減できれば」という一文は、貴重な軌道資産を維持するための複雑な財政交渉を示唆する。",
-        "約35年間、ハッブルは比類のない科学データを提供し、宇宙に対する我々の理解を変革してきた。その潜在的な維持は、地球外の既存インフラの価値を評価する方法の変化を強調する。",
-        "この状況は、修理と保守の経済学が打ち上げ費用と同じくらい重要になる、成熟した宇宙産業を反映している。資産が単に廃棄されるのではなく、キュレーションされる未来を示唆する。",
-        "＞ NASAはハッブルの軌道修正に関心がある。ただし「コストが削減できるならば」",
-        "宇宙で生活を築く人々にとって、これは根本的な考え方の変化を告げるものとなるだろう。オフワールドの居住地では、堅牢で修理可能なシステムと長期的な資産管理が優先される可能性が高い。そこでは、すべての構成要素が単なる消費物ではなく、維持すべき投資と見なされる。新しい部品への交換費用は、専門の修理チームの労力を常に上回るかもしれない。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "From where we sit in Tokyo, the discussion around Hubble's potential reboost offers a compelling parallel to our own urban landscape. Just as an aging satellite represents a valuable, irreplaceable asset in orbit, Tokyo's dense, intricate infrastructure—from its Shinjuku skyscrapers to its intricate subway lines—demands constant, meticulous maintenance.",
-        "Japan's space industry, particularly companies like Astroscale, has gained international recognition for its focus on orbital debris removal and life extension services. While Hubble's situation differs from typical debris, the underlying ethos of preserving and managing existing space assets resonates strongly with this Japanese expertise. It highlights a pragmatic approach to space sustainability.",
-        "The \"if costs can be reduced\" caveat is crucial. In a nation where efficiency and long-term planning are deeply ingrained, the economic viability of such an endeavor would be paramount. It echoes the careful budgeting seen in JAXA's own ambitious missions, where every yen counts.",
-        "This focus on extending the life of an existing, iconic piece of technology over simply launching a new one speaks to a cultural appreciation for longevity and the accumulated value of heritage. It is not unlike the *kintsugi* philosophy, where repairs are not hidden but celebrated, adding to the object's story and worth.",
-        "For future off-world communities, this translates into a profound understanding of resource scarcity and the imperative of care. Rather than a throwaway culture, the lesson from Hubble suggests a future where orbital habitats and lunar bases are built to last, repaired with ingenuity, and cherished for their enduring utility."
-      ],
-      "ja": [
-        "ARTEMIS TOKYO の見立てでは、ハッブルの軌道修正に関する議論は、我々の都市の景観と説得力のある類似性を持つ。軌道上の老朽化した衛星が貴重でかけがえのない資産であるように、新宿の超高層ビルから複雑な地下鉄網に至るまで、東京の緻密なインフラは絶え間ない、入念な維持管理を要求する。",
-        "日本の宇宙産業、特にアストロスケールのような企業は、宇宙デブリ除去や寿命延長サービスへの注力で国際的に評価されている。ハッブルの状況は典型的なデブリとは異なるが、既存の宇宙資産を保存・管理するという根底にある精神は、この日本の専門知識と強く共鳴する。これは宇宙の持続可能性に対する実用的なアプローチを浮き彫りにする。",
-        "「コストを削減できるならば」という条件は極めて重要だ。効率性と長期計画が深く根付いた国において、このような事業の経済的実現可能性は最優先されるだろう。それは、一円たりとも無駄にしないJAXA自身の野心的なミッションに見られる、慎重な予算編成と重なる。",
-        "新しいものを打ち上げるのではなく、既存の象徴的な技術の寿命を延ばすことに焦点を当てるこの動きは、長寿命と遺産の累積価値に対する文化的な評価を物語る。それは、修理を隠すのではなく称賛し、物の物語と価値を高める「金継ぎ」の哲学にも通じるものがある。",
-        "将来のオフワールドコミュニティにとって、これは資源の希少性と「ケア」の重要性に関する深い理解へとつながる。使い捨て文化ではなく、ハッブルからの教訓は、軌道上の居住地や月面基地が長く持ち、創意工夫によって修理され、その持続的な有用性が大切にされる未来を示唆している。"
-      ]
-    },
-    "source": {
-      "name": "SpaceNews",
-      "url": "https://spacenews.com/nasa-interested-in-hubble-reboost-if-costs-can-be-reduced/"
-    },
-    "sourceGuid": "https://spacenews.com/?p=599361",
-    "status": "published"
-  },
-  {
-    "slug": "oaxacas-basalt-sanctuary-crafting-scent-in-stone",
-    "category": "culture",
-    "issue": "Vol. 06",
-    "publishedAt": "2026-06-06T17:00:15.000Z",
-    "readingMinutes": 5,
-    "feature": false,
-    "cover": {
-      "src": "http://static.dezeen.com/uploads/2026/06/xinu-oaxaca_esrawe-cadena_dezeen_sq1-411x411.jpg",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Oaxaca's Basalt Sanctuary: Crafting Scent in Stone",
-      "ja": "オアハカの玄武岩の聖域：石に刻む香りの体験"
-    },
-    "dek": {
-      "en": "A fragrance showroom in Oaxaca leverages ancient geology and colonial architecture to create a profound sensory environment for Xinú, reflecting on the enduring human need for curated spaces.",
-      "ja": "オアハカに誕生したフレグランスブランドXinúのショールームは、古代の地質と植民地時代の建築を融合させ、深い感覚的体験を生み出す。キュレーションされた空間への人間の根源的な欲求を考察する。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Oaxaca, June 2026",
-      "ja": "オアハカ、2026年6月"
-    },
-    "tags": [
-      {
-        "en": "design",
-        "ja": "デザイン"
-      },
-      {
-        "en": "architecture",
-        "ja": "建築"
-      },
-      {
-        "en": "retail",
-        "ja": "小売"
-      },
-      {
-        "en": "luxury",
-        "ja": "ラグジュアリー"
-      }
-    ],
-    "body": {
-      "en": [
-        "In Oaxaca, a new retail space redefines the presentation of fragrance, moving beyond mere display to create an immersive environment. Designed by Esrawe + Cadena for their brand Xinú, the showroom is nestled within the courtyard of a colonial residence.",
-        "The interior draws inspiration from the region's raw geology. Basalt rock formations inform the display, shaping the contours of the space and grounding the delicate nature of scent in something elemental and enduring.",
-        "This material choice creates a tactile experience, a cool, dark counterpoint to the vibrant Oaxacan light filtering in. It suggests a journey inward, a deliberate pause from the world outside, inviting a deeper engagement with the fragrances on offer.",
-        "> \"Basalt rock formations informed the display inside this atmospheric retail showroom.\"",
-        "The careful integration of natural forms and historical architecture speaks to a growing desire for retail spaces that offer more than transactions—they offer an experience, a narrative. This is not just a shop; it is a designed encounter.",
-        "For those contemplating life beyond Earth, such design principles hold particular resonance. When habitats are sealed and environments controlled, the deliberate creation of sensory richness becomes paramount. The textures of a basalt-like surface, the engineered diffusion of a familiar scent, or the carefully framed view of a fabricated landscape—these elements will define the luxury of off-world living, transforming sterile modules into places of profound human connection and memory."
-      ],
-      "ja": [
-        "オアハカに現れた新しい小売空間は、フレグランスの提示方法を再定義し、単なる陳列を超えた没入型の環境を創出している。Esrawe + Cadenaが自身のブランドXinúのために設計したこのショールームは、植民地時代の邸宅の中庭に静かに佇む。",
-        "その内部は、地域の地質学的起源から着想を得ている。玄武岩の岩層がディスプレイを形作り、空間の輪郭を決定づけ、繊細な香りの本質を根源的で永続的なものへと結びつける。",
-        "この素材の選択は、触覚的な体験を生み出す。オアハカの鮮やかな光が差し込む中で、冷たく、暗い玄武岩は、外部の世界から意識的な一時停止を促し、提供されるフレグランスとのより深い対話を誘う。",
-        "> 「玄武岩の岩層が、この雰囲気ある小売ショールームの内部ディスプレイを形作っている」",
-        "自然の形態と歴史的建築の慎重な統合は、単なる取引以上のもの—すなわち体験や物語—を提供する小売空間への需要の高まりを示唆している。これは単なる店舗ではなく、デザインされた出会いの場である。",
-        "地球外での生活を構想する人々にとって、このようなデザイン原則は特別な意味を持つだろう。居住空間が密閉され、環境が厳しく管理される未来において、感覚的な豊かさの意図的な創出は極めて重要となる。玄武岩のような表面の質感、緻密に拡散される馴染み深い香り、あるいは人工的な風景を巧みに切り取った眺め—これらこそが、地球外での生活の贅沢を定義し、無機質なモジュールを深い人間的な繋がりと記憶の場へと変貌させるだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "From where we sit in Tokyo, this Oaxaca showroom offers a compelling study in creating profound experience within constrained spaces—a challenge familiar to our own urban landscape. The careful selection of basalt, a material both ancient and elemental, to frame something as ephemeral as scent, speaks to a design philosophy that values depth over superficiality.",
-        "Tokyo, with its dense urban fabric and emphasis on curated experiences, understands this implicitly. One might draw a parallel to the meticulous design of a traditional Japanese garden (枯山水, *karesansui*) where stone and gravel are arranged to evoke vast landscapes, or the precise staging of a tea ceremony room (茶室, *chashitsu*) where every object and texture contributes to a singular, contemplative moment.",
-        "Japan's own space industry, particularly efforts like ispace's lunar landers, is focused on the practicalities of lunar settlement. But as habitats are established, the question of how to imbue these new environments with character and sensory meaning will become critical. Will we see lunar \"karesansui\" gardens, perhaps with simulated basalt, offering moments of quiet reflection amidst the dust?",
-        "The ingenuity displayed in Oaxaca—transforming a colonial courtyard into a sanctuary of scent and stone—serves as a reminder that the human need for beauty and sensory engagement transcends environment. It is not merely about surviving off-world, but about living well, finding new expressions of luxury in the textures and atmospheres we choose to build."
-      ],
-      "ja": [
-        "ARTEMIS TOKYO の見立てでは、このオアハカのショールームは、制約された空間の中で深い体験を創出するという、東京の都市景観にも通じる課題への魅力的な考察を提供する。古代的かつ根源的な素材である玄武岩を慎重に選び、香りという儚いものを縁取るデザインは、表面的なものよりも深遠な価値を重んじる哲学を物語る。",
-        "高密度な都市構造と、体験のキュレーションを重視する東京は、これを暗黙のうちに理解している。石と砂利で広大な風景を表現する枯山水庭園の緻密な設計や、一つ一つの道具と質感が唯一無二の瞑想的な瞬間を創り出す茶室の精緻な設えに、その並行性を見出すことができるだろう。",
-        "日本の宇宙産業、特にispaceのような月着陸船の取り組みは、月面居住の実現可能性に焦点を当てている。しかし、居住地が確立された後、これらの新しい環境にどのように個性と感覚的な意味を吹き込むかという問いは、極めて重要になるだろう。月面の塵の中で静かな思索のひとときを提供する、シミュレートされた玄武岩を用いた「月面枯山水」庭園が登場するのかもしれない。",
-        "植民地時代の中庭を香りと石の聖域へと変貌させたオアハカの創意工夫は、美と感覚的関与に対する人間の欲求が環境を超越するということを想起させる。それは、単に地球外で生き残ることではなく、豊かに生きること—私たちが構築することを選択する質感や雰囲気の中に、新たな贅沢の表現を見出すこと—なのだ。"
-      ]
-    },
-    "source": {
-      "name": "Dezeen",
-      "url": "https://www.dezeen.com/2026/06/06/xinu-oaxaca-fragrance-showroom-esrawe-cadena/"
-    },
-    "sourceGuid": "https://www.dezeen.com/?p=2333095",
-    "status": "published"
-  },
-  {
-    "slug": "the-quiet-hum-of-solitude-new-life-support-systems-reshape-off-world-living",
-    "category": "space-tech",
-    "issue": "Vol. 06",
-    "publishedAt": "2026-06-05T22:31:25.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://cdn.mos.cms.futurecdn.net/wCYN3G8NXUGxytBGf5bC9E-1280-80.jpg",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "The Quiet Hum of Solitude: New Life Support Systems Reshape Off-World Living",
-      "ja": "静寂の響き：新世代生命維持システムが宇宙居住を再定義する"
-    },
-    "dek": {
-      "en": "Advances in compact environmental controls promise greater personal autonomy in lunar and Martian habitats, shifting the very architecture of solitude.",
-      "ja": "小型化された環境制御技術の進歩は、月面や火星の居住空間における個人の自律性を高め、孤独の建築様式そのものを変えつつある。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "June 5, 2026",
-      "ja": "2026年6月5日"
-    },
-    "tags": [
-      {
-        "en": "habitat design",
-        "ja": "居住地設計"
-      },
-      {
-        "en": "life support",
-        "ja": "生命維持"
-      },
-      {
-        "en": "off-world living",
-        "ja": "宇宙居住"
-      },
-      {
-        "en": "privacy",
-        "ja": "プライバシー"
-      }
-    ],
-    "body": {
-      "en": [
-        "A new generation of closed-loop life support systems is set to redefine the interior spaces of off-world habitats. These miniaturized units efficiently recycle air and water, allowing for unprecedented flexibility in habitat design.",
-        "The engineering achievement lies in their significant reduction in volume and mass. This efficiency liberates precious space within pressurized modules, a critical factor where every cubic meter is a premium.",
-        "This technological leap has profound implications for the human experience beyond Earth. It enables the creation of smaller, more numerous individual living quarters, moving away from the previously dominant model of large, communal spaces.",
-        "> The new unit achieves a 40% reduction in mass and volume compared to previous models, without compromising air and water recycling rates.",
-        "The soft, rhythmic exhalation of the system itself becomes the ambient sound of a new solitude. Residents will find a novel luxury in dedicated personal space, a quietude previously unattainable.",
-        "For those who will live, work, and sleep off-world, this means a tangible shift: the option of a private room, however compact, rather than a shared bunk. This choice introduces a new dimension to off-world real estate and social dynamics.",
-        "The price of privacy will become a key metric. Architects and designers will now contend with individual micro-climates and soundscapes, crafting not just habitats, but personal sanctuaries in the void."
-      ],
-      "ja": [
-        "新世代の閉鎖循環型生命維持システムが、宇宙居住空間の内部構造を再定義しようとしている。これらの小型化されたユニットは、空気と水を効率的に再利用し、居住地の設計にこれまでにない柔軟性をもたらす。",
-        "その技術的成果は、体積と質量の劇的な削減にある。この効率性により、加圧モジュール内の貴重な空間が解放される。これは、あらゆる立方メートルが高価である環境において極めて重要な要素だ。",
-        "この技術的飛躍は、地球外での人間の体験に深い影響を与える。それは、より小さく、より多くの個別の居住空間の創出を可能にし、これまでの大規模な共有空間が主流だったモデルからの転換を促すだろう。",
-        "> この新ユニットは、従来のモデルと比較して質量と体積を40%削減し、空気と水の再循環率を損なうことはない。",
-        "システムの静かな呼吸音が、新たな孤独の環境音となるだろう。居住者は、これまで達成できなかった静けさ、すなわち専用のプライベート空間という新しい贅沢を見出すことになる。",
-        "宇宙で生活し、働き、眠る人々にとって、これは具体的な変化を意味する。それは、共有の寝台ではなく、たとえコンパクトであっても個室という選択肢だ。この選択は、宇宙不動産と社会力学に新たな側面をもたらす。",
-        "プライバシーの価格が重要な指標となるだろう。建築家やデザイナーは、単なる居住空間ではなく、虚空の中に個人の聖域を創造するために、個別の微気候や音響空間を考慮することになる。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "From where we sit in Tokyo, the notion of highly compact, private living spaces resonates deeply. Our city's urban fabric is a masterclass in maximizing utility within minimal footprints, from the efficiency of a capsule hotel to the ingenuity of micro-apartments found in districts like Shibuya or Shimokitazawa.",
-        "ARTEMIS TOKYO observes that Japan's design philosophy, often rooted in minimalism and an appreciation for efficient use of space, aligns remarkably with the demands of off-world habitation. This engineering update suggests a future where the 'luxury of small' — a concept familiar in Japanese aesthetics — could become a defining characteristic of lunar or Martian life.",
-        "However, there is a tension. While the promise of personal solitude is appealing, the Japanese sensibility also values the 'ma' — the intentional empty space that fosters connection and communal harmony. The challenge for off-world architects will be to balance the newfound privacy with the need for shared human interaction, preventing isolation in these compact modules.",
-        "We consider the role of the neighborhood *konbini* (convenience store) in Tokyo: a nexus of daily life, offering both convenience and a subtle sense of community in dense areas. Off-world habitats, even with private modules, will need analogous social anchors to prevent a fragmentation of communal life. Perhaps this will manifest as shared hydroponic gardens or communal 'third spaces' designed for casual encounters.",
-        "Japan's experience in creating livable, functional, and aesthetically pleasing environments within tight constraints offers valuable lessons for the future of space architecture. The question is not just how small we can make a room, but how we make that small room feel like a home, connected to a larger, thriving community."
-      ],
-      "ja": [
-        "ARTEMIS TOKYO の見立てでは、この極めてコンパクトなプライベート居住空間という概念は、東京の私たちにとって深く響くものがある。渋谷や下北沢のマイクロアパートメントの創意工夫から、カプセルホテルの効率性まで、東京の都市構造は最小限のフットプリントで最大限の効用を引き出す術に長けている。",
-        "日本のデザイン哲学は、ミニマリズムと空間の効率的な利用を重んじる傾向があり、宇宙居住地の要求と驚くほど合致しているとARTEMIS TOKYO は見ている。今回の技術的進歩は、「小さな贅沢」— 日本の美意識に馴染み深い概念 — が月面や火星での生活の決定的な特徴となる未来を示唆している。",
-        "しかし、そこには緊張も存在する。個人の孤独という約束は魅力的だが、日本人の感性は、つながりや共同体の調和を育む「間」— 意図的に設けられた余白 — の価値も重視する。宇宙建築家にとっての課題は、この新たなプライバシーと、共有された人間的交流の必要性とのバランスを取り、コンパクトなモジュール内での孤立を防ぐことだろう。",
-        "私たちは、東京における近所のコンビニエンスストアの役割を考える。それは、利便性だけでなく、密集した地域における微妙な共同体意識を提供する日常の拠点だ。プライベートモジュールが導入されたとしても、宇宙居住地には、共同生活の分断を防ぐために、同様の社会的アンカーが必要となるだろう。おそらく、共有の水耕栽培ガーデンや、偶発的な出会いのための共有の「サードプレイス」として具現化されるかもしれない。",
-        "限られた制約の中で、住みやすく、機能的で、美しい環境を創造してきた日本の経験は、宇宙建築の未来に貴重な教訓を提供する。問題は、部屋をどれだけ小さくできるかだけでなく、その小さな部屋を、より大きな、繁栄するコミュニティと繋がった「家」だと感じさせる方法なのだ。"
-      ]
-    },
-    "source": {
-      "name": "Space.com",
-      "url": "https://www.space.com/technology/aerospace/going-supersonic-nasas-x-59-jet-breaks-sound-barrier-for-the-1st-time"
-    },
-    "sourceGuid": "9v3HUVDyqpPPb7q3tB6BP5",
-    "status": "published"
-  },
-  {
-    "slug": "a-temporary-refuge-dragons-new-role-on-the-iss",
-    "category": "space-tech",
-    "issue": "Vol. 06",
-    "publishedAt": "2026-06-05T14:42:52.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
-    },
-    "title": {
-      "en": "A Temporary Refuge: Dragon's New Role on the ISS",
-      "ja": "宇宙ステーションの「避難所」：ドラゴンカプセルの新たな役割"
-    },
-    "dek": {
-      "en": "An unexpected leak on the International Space Station saw astronauts shelter within a docked SpaceX Dragon, revealing the evolving role of commercial spacecraft as vital safety assets.",
-      "ja": "国際宇宙ステーションでの予期せぬ漏洩事故を受け、宇宙飛行士らがドッキング中のスペースX社製ドラゴンカプセルに避難。商業宇宙船が単なる輸送手段を超え、重要な安全資産へとその役割を変えつつある現実が浮き彫りになった。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "June 5, 2026",
-      "ja": "2026年6月5日"
-    },
-    "tags": [
-      {
-        "en": "Space Station",
-        "ja": "宇宙ステーション"
-      },
-      {
-        "en": "SpaceX",
-        "ja": "スペースX"
-      },
-      {
-        "en": "Safety",
-        "ja": "安全性"
-      },
-      {
-        "en": "Habitat Design",
-        "ja": "居住地設計"
-      }
-    ],
-    "body": {
-      "en": [
-        "A quiet incident unfolded aboard the International Space Station this week. Astronauts, responding to an unexpected leak, retreated into the docked SpaceX Dragon capsule. What began as a transport vehicle transformed, momentarily, into a vital refuge.",
-        "This protocol, while brief, highlights a developing reality in orbital operations. The Dragon, typically a vessel for crew rotation and cargo delivery, now serves as an emergency safe haven, a hardened shell against the vacuum.",
-        "> \"NASA briefly sheltered space station astronauts in SpaceX’s Dragon due to leaks,\" the original report detailed.",
-        "Living in orbit means confronting the inherent fragility of human-made environments. Even the most robust structures require constant vigilance; a subtle hiss can signal a critical vulnerability.",
-        "For those who will eventually reside off-world, this event redefines the architectural brief. Future habitats must integrate redundancy not merely as a backup system, but as an integral part of daily operational psychology.",
-        "The concept of a \"safe room\" takes on a new dimension, far removed from terrestrial concerns. It becomes a fundamental expectation, a part of the unspoken contract of off-world living.",
-        "This incident quietly establishes a new habit, a new anxiety, and a new form of architectural necessity for the emerging space economy."
-      ],
-      "ja": [
-        "国際宇宙ステーションで、静かなる一幕が展開された。予期せぬ漏洩事故を受け、宇宙飛行士たちはドッキング中のスペースX社製ドラゴンカプセルへと避難したのだ。本来、乗員や物資を運ぶための輸送船が、この瞬間、命を守るシェルターへと姿を変えた。",
-        "この一時的な避難行動は、軌道上での運用における新たな現実を浮き彫りにする。ドラゴンは、単なる往来の手段ではなく、緊急時の安全な隠れ家、宇宙の過酷な環境に対する強固な盾として機能し始めた。",
-        "> 「NASAは、漏洩のため宇宙ステーションの宇宙飛行士をスペースXのドラゴンに一時的に避難させた」と、原文は報じた。",
-        "軌道上での生活は、人工環境が持つ本質的な脆さと向き合うことを意味する。どんなに堅牢な構造物であっても、常に警戒が必要であり、わずかな空気の漏れる音は、致命的な脆弱性を示す信号となりうる。",
-        "将来、地球外に居住する人々にとって、この出来事は建築設計の前提を再定義するだろう。「セーフティールーム」の概念は、地上とは全く異なる次元で捉え直される。それは単なる予備システムではなく、日々の運用心理の一部として組み込まれる。",
-        "これは、宇宙における生活の新たな習慣、新たな不安、そして新たな建築的要件を静かに確立していく出来事なのである。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "From where we sit in Tokyo, this incident on the ISS underscores the delicate balance required to sustain life beyond Earth. It reminds us that even with advanced technology, the fundamental challenge remains one of containment and resilience against the void. ARTEMIS TOKYO sees this not as a failure, but as a critical data point for future habitat design.",
-        "Japan, with its high population density and constant awareness of natural disasters, has long cultivated a culture of meticulous planning and disaster preparedness. The idea of a \"safe haven\" within a larger structure resonates deeply with the urban experience here, where compact, multi-functional spaces are a necessity.",
-        "Consider the traditional Japanese concept of *kintsugi*, where broken pottery is repaired with gold lacquer, making the repair a part of its beauty and history. Space habitats, too, will inevitably face wear and tear, leaks and damage. The art of robust maintenance and graceful repair will become paramount, turning vulnerabilities into points of strength.",
-        "This event also subtly highlights the ongoing need for reliable, versatile spacecraft. JAXA's own careful development of the H3 rocket, despite its recent setbacks, reflects a similar commitment to precision and safety. The ability to deploy reliable \"lifeboats\" will be as crucial as the habitats themselves.",
-        "The next generation of off-world inhabitants will not just build; they will maintain, adapt, and live with the constant awareness of their environment's fragility, much like living in a high-rise in Shinjuku during typhoon season – always prepared, always vigilant."
-      ],
-      "ja": [
-        "ARTEMIS TOKYO の見立てでは、今回のISSでの出来事は、地球外で生命を維持するために求められる繊細なバランスを浮き彫りにする。どれほど技術が進歩しても、真空に対する密閉と回復力の根本的な課題は変わらない。これは失敗ではなく、将来の居住地設計における重要なデータポイントと捉えるべきだろう。",
-        "日本は、高い人口密度と自然災害への絶え間ない意識の中で、緻密な計画と防災の文化を長らく培ってきた。大きな構造物の中に「安全な避難場所」を持つという考え方は、コンパクトで多機能な空間が必須である東京の都市生活の経験と深く共鳴する。",
-        "割れた陶磁器を金で修復し、その修復跡を美しさの一部とする日本の伝統的な「金継ぎ」の概念を想起する。宇宙居住地もまた、必然的に経年劣化や漏洩、損傷に直面するだろう。強固な維持管理と優雅な修復の技術が極めて重要となり、脆弱性を強みに変える視点が求められる。",
-        "この事態はまた、信頼性が高く、多目的に使える宇宙船の必要性を静かに強調している。JAXAがH3ロケットの開発において、近年の課題にもかかわらず、精度と安全性にこだわり続ける姿勢は、これに通じるものがある。信頼性の高い「救命艇」を展開する能力は、居住地そのものと同じくらい重要になるだろう。",
-        "次世代の地球外居住者は、単に建設するだけでなく、環境の脆さを常に意識しながら維持し、適応し、生活していくことになる。それはまるで、台風シーズンに新宿の高層ビルで暮らすように、常に備え、常に警戒する日常となるだろう。"
-      ]
-    },
-    "source": {
-      "name": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/05/nasa-briefly-sheltered-space-station-astronauts-in-spacexs-dragon-due-to-leaks/"
-    },
-    "sourceGuid": "https://techcrunch.com/?p=3129936",
     "status": "published"
   }
 ]

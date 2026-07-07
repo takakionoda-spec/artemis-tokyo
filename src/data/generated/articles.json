@@ -1,5 +1,267 @@
 [
   {
+    "slug": "securing-the-future-us-semiconductor-manufacturing-for-aerospace",
+    "category": "space-tech",
+    "issue": "Vol. 07",
+    "publishedAt": "2026-07-07T18:46:40.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
+    },
+    "title": {
+      "en": "Securing the Future: U.S. Semiconductor Manufacturing for Aerospace",
+      "ja": "未来を支える：米国航空宇宙産業向け半導体製造の確保"
+    },
+    "dek": {
+      "en": "Spirit Electronics announces a new managed-access program, ensuring a secure domestic supply of advanced semiconductors for critical U.S. aerospace and defense applications. This strategic move underscores the growing importance of resilient supply chains for off-world operations.",
+      "ja": "スピリット・エレクトロニクスは、米国の航空宇宙および防衛プログラム向けに、先進半導体の国内供給を確保する新たなマネージドアクセス・プログラムを発表した。この戦略的な動きは、地球外活動における強靭なサプライチェーンの重要性を浮き彫りにする。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "PHOENIX, AZ — June 9, 2026",
+      "ja": "アリゾナ州フェニックス — 2026年6月9日"
+    },
+    "tags": [
+      {
+        "en": "semiconductors",
+        "ja": "半導体"
+      },
+      {
+        "en": "aerospace manufacturing",
+        "ja": "航空宇宙製造"
+      },
+      {
+        "en": "supply chain",
+        "ja": "サプライチェーン"
+      },
+      {
+        "en": "defense technology",
+        "ja": "防衛技術"
+      }
+    ],
+    "body": {
+      "en": [
+        "The architecture of future off-world habitats and orbital platforms relies on an intricate web of unseen components. Among these, advanced semiconductors form the very nervous system of critical space systems, dictating everything from navigation to life support.",
+        "Spirit Electronics, based in Phoenix, Arizona, announced on June 9, 2026, a new initiative designed to fortify this foundational layer. The company’s managed-access offering provides aerospace and defense customers with a secure pathway to U.S.-based advanced semiconductor manufacturing.",
+        "This program addresses a pressing strategic concern: the reliability and security of microelectronics supply chains. As space operations become increasingly vital for national security and economic growth, ensuring that the core computational elements are domestically sourced and protected from vulnerabilities is paramount.",
+        "The move reflects a broader global trend towards reshoring critical manufacturing capabilities, particularly for technologies deemed essential for national infrastructure and defense. For the U.S., this means reducing reliance on overseas production for components that will power everything from next-generation satellites to crewed lunar landers.",
+        "> \"a secure pathway to advanced, U.S.-based semiconductor manufacturing for aerospace and defense programs.\"",
+        "The program is not merely about production volume; it emphasizes secure access and the integrity of the manufacturing process. This ensures that the chips deployed in sensitive aerospace applications meet stringent quality and security standards, without risk of compromise.",
+        "For those who will eventually live and work beyond Earth, such initiatives translate directly into the trustworthiness of their environment. Every sensor, every communication array, every environmental control system in an orbital station or a lunar base will depend on these miniature, yet immensely powerful, components.",
+        "The reliability of these chips becomes an unspoken promise of safety and continuity. It is the unseen bedrock upon which the daily rhythms of off-world life—from data processing to habitat maintenance—will be built, shaping the very resilience of humanity’s extraterrestrial presence."
+      ],
+      "ja": [
+        "未来の地球外居住施設や軌道プラットフォームの構造は、目に見えない無数の部品の複雑な網の目に依存している。その中でも、先進半導体は重要な宇宙システムの神経系を形成し、航法から生命維持システムまであらゆるものを司る。",
+        "アリゾナ州フェニックスに拠点を置くスピリット・エレクトロニクスは、この基盤を強化するための新たな取り組みを2026年6月9日に発表した。同社のマネージドアクセス・プログラムは、航空宇宙および防衛分野の顧客に対し、米国を拠点とする先進半導体製造への安全な経路を提供する。",
+        "このプログラムは、マイクロエレクトロニクスのサプライチェーンの信頼性とセキュリティという喫緊の戦略的懸念に対処するものだ。宇宙活動が国家安全保障と経済成長にとってますます不可欠となる中で、中核となる計算要素が国内で調達され、脆弱性から保護されていることを保証することは最重要事項である。",
+        "この動きは、特に国家インフラと防衛に不可欠と見なされる技術において、重要な製造能力を国内回帰させるという広範な世界的傾向を反映している。米国にとって、これは次世代衛星から有人月着陸船に至るまで、あらゆるものを動かす部品の海外生産への依存を減らすことを意味する。",
+        "> 「航空宇宙および防衛プログラム向けに、米国を拠点とする先進半導体製造への安全な経路」",
+        "このプログラムは単なる生産量だけでなく、安全なアクセスと製造プロセスの完全性を重視している。これにより、機密性の高い航空宇宙アプリケーションに展開されるチップが、妥協のリスクなしに厳格な品質およびセキュリティ基準を満たすことが保証される。",
+        "やがて地球外で生活し、働く人々にとって、このような取り組みは彼らの環境の信頼性に直結する。軌道上のステーションや月面基地のあらゆるセンサー、あらゆる通信アレイ、あらゆる環境制御システムが、これらの小型でありながら計り知れないほど強力な部品に依存することになる。",
+        "これらのチップの信頼性は、安全と継続性という暗黙の約束となる。データ処理から居住環境の維持に至るまで、地球外での日常の営みが築かれる目に見えない基盤であり、人類の地球外における存在の回復力そのものを形作るものだ。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This news from Spirit Electronics means that the United States is taking concrete steps to ensure that the highly specialized computer chips needed for its space missions and defense systems are made securely within its own borders. Think of it like a country making sure it has its own reliable factory for the most critical parts of its advanced self-driving cars, rather than relying on parts from potentially less secure or distant sources. These chips are the 'brains' of satellites, rockets, and future lunar equipment.",
+        "For Tokyo readers, this development primarily impacts the global supply chain for high-reliability components. While your smartphone or home electronics won't directly change, this move could influence the cost and availability of certain advanced components for Japanese aerospace companies like Mitsubishi Heavy Industries or IHI Aerospace. It also highlights the strategic importance of domestic manufacturing for critical technologies, potentially spurring similar policy discussions in Japan regarding its own space ambitions and technological independence.",
+        "The immediate impact is already being felt in procurement decisions for U.S. programs. For Japan to establish a fully comparable, secure domestic supply chain for all categories of advanced, space-grade semiconductors, we are likely looking at a 5-10 year timeframe. This is gated by significant public and private investment, as well as the strategic alignment of industrial policy through bodies like METI.",
+        "Japan already has world-class semiconductor companies like Renesas and has a strong history in materials science. While a direct, comprehensive 'space-grade chip' initiative comparable to this specific U.S. focus is still nascent, the broader push for domestic semiconductor production, championed by METI and supported by companies like Rapidus, shows a similar recognition of strategic importance. The challenge will be to specifically tailor some of these efforts to the unique demands of space-hardened electronics, perhaps in collaboration with JAXA or university research programs."
+      ],
+      "ja": [
+        "スピリット・エレクトロニクスからのこのニュースは、米国が宇宙ミッションや防衛システムに必要な非常に特殊なコンピューターチップを、自国内で安全に製造することを確実にするための具体的な措置を講じていることを意味します。これは、国が高度な自動運転車の最も重要な部品について、潜在的に安全でない、あるいは遠隔の供給源に頼るのではなく、自国に信頼できる工場を確保するようなものだと考えてください。これらのチップは、衛星、ロケット、そして将来の月面機器の「頭脳」となるものです。",
+        "東京の読者にとって、この進展は主に高信頼性部品の世界的なサプライチェーンに影響を与えます。皆さんのスマートフォンや家電製品が直接変わるわけではありませんが、この動きは三菱重工業やIHIエアロスペースのような日本の航空宇宙企業にとって、特定の先進部品のコストや入手可能性に影響を与える可能性があります。また、重要技術の国内製造の戦略的重要性を浮き彫りにし、日本の宇宙開発目標と技術的自立に関する同様の政策議論を促す可能性も秘めています。",
+        "米国プログラムの調達決定にはすでに直接的な影響が出ています。日本が、この米国の特定の焦点に匹敵する、あらゆる種類の先進的な宇宙グレード半導体向けの完全に安全な国内サプライチェーンを確立するには、おそらく5年から10年の時間枠が必要となるでしょう。これは、大規模な官民投資と、経済産業省（METI）のような機関を通じた産業政策の戦略的連携によって左右されます。",
+        "日本にはルネサスのような世界クラスの半導体企業があり、材料科学においても長い歴史を持っています。この米国の特定の焦点に匹敵する直接的で包括的な「宇宙グレードチップ」イニシアティブはまだ初期段階ですが、ラピダスのような企業に支えられた、より広範な国内半導体生産推進の動きは、同様の戦略的重要性への認識を示しています。課題は、これらの取り組みの一部を、JAXAや大学の研究プログラムと協力しながら、宇宙環境に耐えうるエレクトロニクスという独自の要求に具体的に合わせていくことでしょう。"
+      ]
+    },
+    "source": {
+      "name": "SpaceNews",
+      "url": "https://spacenews.com/spirit-electronics-announces-managed-access-to-u-s-based-advanced-semiconductor-manufacturing-for-aerospace-and-defense-programs/"
+    },
+    "sourceGuid": "https://spacenews.com/?p=604160",
+    "status": "published"
+  },
+  {
+    "slug": "fcc-moves-to-streamline-satellite-licensing",
+    "category": "space-tech",
+    "issue": "Vol. 07",
+    "publishedAt": "2026-07-07T17:30:00.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
+    },
+    "title": {
+      "en": "FCC Moves to Streamline Satellite Licensing",
+      "ja": "FCC、衛星免許プロセスの合理化へ"
+    },
+    "dek": {
+      "en": "The U.S. Federal Communications Commission prepares to vote on a new order designed to accelerate satellite deployment and foster innovation in the burgeoning space economy.",
+      "ja": "米国連邦通信委員会は、衛星の展開を加速し、拡大する宇宙経済におけるイノベーションを促進するための新命令について投票準備を進めている。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Washington D.C.",
+      "ja": "ワシントンD.C."
+    },
+    "tags": [
+      {
+        "en": "FCC",
+        "ja": "FCC"
+      },
+      {
+        "en": "Satellite Licensing",
+        "ja": "衛星免許"
+      },
+      {
+        "en": "Space Economy",
+        "ja": "宇宙経済"
+      },
+      {
+        "en": "Regulation",
+        "ja": "規制"
+      }
+    ],
+    "body": {
+      "en": [
+        "The relentless expansion of the orbital economy has long outpaced the regulatory frameworks designed to govern it. For years, companies seeking to deploy satellite constellations have navigated a complex, often fragmented system of approvals, leading to delays and increased operational costs.",
+        "A significant shift is now on the horizon. The U.S. Federal Communications Commission (FCC) is poised to advance a comprehensive reform of its satellite licensing process. This move acknowledges the rapid growth of private space ventures and the critical need for a more agile regulatory environment.",
+        "FCC Chair Brendan Carr announced last week that the commission is expected to vote on the Space Modernization Order on July 22. This order aims to consolidate various licensing requirements, moving towards a single, streamlined process for both satellite launch and subsequent operation.",
+        "The current system often requires separate licenses for different phases of a mission, creating bureaucratic bottlenecks. The proposed reform seeks to simplify these pathways, potentially cutting down approval times from months, or even years, to a matter of weeks.",
+        "> \"The commission is expected to vote on the Space Modernization Order on July 22.\"",
+        "Such a change would dramatically reduce the barrier to entry for new players and accelerate the deployment of large satellite constellations, from low-Earth orbit broadband providers to advanced Earth observation platforms. This efficiency gain is not merely administrative; it translates directly into reduced capital expenditure for operators.",
+        "For those envisioning a future beyond Earth, this regulatory acceleration holds tangible implications. The infrastructure for off-world habitats — be it for communication, navigation, or remote sensing — will rely heavily on an accessible and rapidly deployable satellite network. Cheaper, faster access to orbit means more robust, more affordable services for the pioneers who will eventually call the Moon or Mars home, making their digital lives as seamless as possible."
+      ],
+      "ja": [
+        "軌道経済の絶え間ない拡大は、それを統治するために設計された規制の枠組みを長い間凌駕してきた。衛星コンステレーションの展開を目指す企業は、これまで複雑でしばしば断片的な承認システムを乗り越える必要があり、それが遅延と運用コストの増加につながっていた。",
+        "しかし、今、大きな変化が訪れようとしている。米国連邦通信委員会（FCC）は、衛星免許プロセスの包括的な改革を進める準備を整えている。この動きは、民間宇宙事業の急速な成長と、より機敏な規制環境が不可欠であるという認識に基づいている。",
+        "FCCのブレンダン・カー委員長は先週、委員会が7月22日に「宇宙近代化命令」について投票を行う予定だと発表した。この命令は、様々な免許要件を統合し、衛星の打ち上げとその後の運用の両方に対し、単一の合理化されたプロセスへと移行することを目指すものだ。",
+        "現在のシステムでは、ミッションの異なる段階ごとに別々の免許が必要となることが多く、官僚的なボトルネックを生み出していた。提案されている改革は、これらの経路を簡素化し、承認にかかる時間を数ヶ月、あるいは数年から数週間に短縮する可能性がある。",
+        "> 「委員会は7月22日に宇宙近代化命令について投票を行う予定だ。」",
+        "このような変更は、新規参入企業への障壁を劇的に低減し、低軌道ブロードバンドプロバイダーから高度な地球観測プラットフォームに至るまで、大規模な衛星コンステレーションの展開を加速させるだろう。この効率性の向上は単なる事務的なものではなく、事業者にとっての設備投資の削減に直接つながる。",
+        "地球外の未来を構想する人々にとって、この規制の加速は具体的な意味を持つ。月面や火星の居住地のためのインフラ — 通信であれ、ナビゲーションであれ、リモートセンシングであれ — は、アクセスしやすく、迅速に展開可能な衛星ネットワークに大きく依存する。より安価で迅速な軌道へのアクセスは、やがて月や火星を故郷と呼ぶ開拓者たちに、より堅牢で手頃なサービスを提供し、彼らのデジタルライフを可能な限りシームレスにするだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The news from the U.S. Federal Communications Commission (FCC) means that the American government agency responsible for managing communications, much like Japan's Ministry of Internal Affairs and Communications, is making it significantly easier and faster for companies to launch and operate satellites. Imagine if, instead of applying for separate permits for your car, your driver's license, and your road tax, you could get one streamlined approval for everything. That's the essence of this reform for the space industry.",
+        "For Tokyo readers, this could translate into several tangible benefits. You might notice improvements in global internet connectivity, especially for services that rely on satellite backbones, potentially leading to faster data speeds or more reliable access in remote areas. It could also reduce the cost of satellite data used for critical services like advanced weather forecasting or early disaster warnings, indirectly contributing to urban resilience and safety. Furthermore, Japanese companies operating globally could find it easier and more affordable to integrate satellite-based solutions into their operations.",
+        "These impacts are likely to materialize within the next 2 to 4 years. The exact timeline depends on how quickly the FCC's new rules are fully implemented and how other nations, including Japan, respond by either adopting similar streamlined processes or establishing compatible frameworks. International cooperation in regulatory harmonization will be a key gating factor.",
+        "Japan's own space industry has players like Synspective, which deploys radar satellites for Earth observation, and ispace, focused on lunar landers and resource development, both of whom rely heavily on efficient satellite operations. While Japan's Ministry of Internal Affairs and Communications manages domestic radio frequency allocation and satellite licensing, the FCC's move sets a precedent for regulatory agility. Japan could learn from this approach to ensure its own regulatory environment supports, rather than hinders, the global competitiveness of its burgeoning private space sector."
+      ],
+      "ja": [
+        "米国連邦通信委員会（FCC）からのこのニュースは、日本の総務省に相当するアメリカの通信管理機関が、企業が人工衛星を打ち上げ、運用するプロセスを大幅に簡素化し、迅速化しようとしていることを意味します。例えるなら、車の登録、運転免許、自動車税の支払いをそれぞれ個別に申請する代わりに、すべてを一度で合理的に承認してもらえるようなものです。これが宇宙産業における今回の改革の本質です。",
+        "東京に暮らす私たちにとって、これはいくつかの具体的な利益につながる可能性があります。例えば、衛星通信を基盤とするサービスにおいて、世界的なインターネット接続の改善を感じるかもしれません。これにより、データ速度が向上したり、遠隔地でのアクセスがより安定したりする可能性があります。また、高度な気象予報や災害早期警戒システムなど、重要なサービスに利用される衛星データのコストが下がることで、都市のレジリエンス（回復力）や安全性にも間接的に貢献するでしょう。さらに、国際的に事業を展開する日本の企業にとっても、衛星ベースのソリューションを業務に統合することがより容易で手頃になるかもしれません。",
+        "これらの影響は、今後2年から4年以内に具体的に現れ始める可能性があります。正確な時期は、FCCの新しい規則がどれだけ迅速に完全に実施されるか、そして日本を含む他の国々が、同様の合理化されたプロセスを採用したり、互換性のある枠組みを確立したりすることで、どのように対応するかにかかっています。規制の調和における国際協力が、重要な促進要因となるでしょう。",
+        "日本の宇宙産業には、地球観測レーダー衛星を展開するSynspectiveや、月面着陸機や資源開発に注力するispaceのような企業があり、いずれも効率的な衛星運用に大きく依存しています。日本の総務省が国内の電波周波数割り当てや衛星免許を管理していますが、FCCの動きは規制の機敏性における先例を示しています。日本もこのアプローチから学び、自国の規制環境が、成長する民間宇宙セクターの国際競争力を阻害するのではなく、むしろ支援するものであることを確実にする必要があります。"
+      ]
+    },
+    "source": {
+      "name": "Payload",
+      "url": "https://payloadspace.com/fcc-poised-to-advance-sat-licensing-reform/"
+    },
+    "sourceGuid": "https://payloadspace.com/?p=30552",
+    "status": "published"
+  },
+  {
+    "slug": "europes-next-generation-weather-eye-prepares-for-launch",
+    "category": "space-tech",
+    "issue": "Vol. 07",
+    "publishedAt": "2026-07-07T08:00:00.000Z",
+    "readingMinutes": 3,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
+    },
+    "title": {
+      "en": "Europe's Next-Generation Weather Eye Prepares for Launch",
+      "ja": "欧州の次世代気象衛星、打ち上げ準備へ"
+    },
+    "dek": {
+      "en": "The second Meteosat Third Generation Imager satellite, MTG-I2, begins its launch campaign, promising enhanced weather forecasting for Europe and North Africa and setting a precedent for environmental monitoring beyond Earth.",
+      "ja": "メテオサット第三世代撮像衛星MTG-I2が打ち上げキャンペーンを開始。欧州と北アフリカの気象予報を大幅に改善し、地球外の環境監視にも先例を示す。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "KOUROU, French Guiana — July 7, 2026",
+      "ja": "フランス領ギアナ、クールー — 2026年7月7日"
+    },
+    "tags": [
+      {
+        "en": "Weather forecasting",
+        "ja": "気象予報"
+      },
+      {
+        "en": "Satellites",
+        "ja": "衛星"
+      },
+      {
+        "en": "ESA",
+        "ja": "ESA"
+      },
+      {
+        "en": "Ariane 6",
+        "ja": "アリアン6"
+      }
+    ],
+    "body": {
+      "en": [
+        "The unseen infrastructure of Earth observation satellites quietly underpins much of daily life, from agricultural planning to global shipping routes. These orbiting instruments provide the critical data that shapes our understanding of the planet's dynamic systems.",
+        "Europe's commitment to this vital work is underscored by the imminent launch of the Meteosat Third Generation Imager satellite (MTG-I2). This sophisticated spacecraft has commenced its final launch campaign, undergoing rigorous inspections before its integration into the fairing of an Ariane 6 rocket.",
+        "Scheduled for launch towards the end of the summer, the 3800 kg satellite is poised to significantly upgrade weather forecasting capabilities across Europe and North Africa. It is designed to deliver higher resolution imagery and more frequent updates than its predecessors, offering meteorologists unprecedented detail.",
+        "The enhanced data from MTG-I2 will translate into more accurate short-term forecasts, improved severe weather warnings, and better climate monitoring. Farmers will benefit from precise rainfall predictions, while emergency services can prepare more effectively for storms and floods.",
+        "This mission is part of a larger constellation, with MTG-I2 being the second of its kind. The program represents a substantial leap forward in geostationary meteorological observation, building on decades of European expertise in space-based environmental monitoring.",
+        "> \"how will this 3800 kg satellite help improve weather forecasts for Europe and North Africa?\"",
+        "The precision and resilience demanded by Earth-based weather forecasting hold profound implications for future off-world settlements. Understanding and predicting atmospheric phenomena, whether on Earth, Mars, or a future orbital habitat, requires robust, high-cadence sensor networks.",
+        "As humanity expands its presence beyond Earth, the lessons learned from missions like MTG-I2—in instrumentation, data processing, and predictive modeling—will be directly applicable. The ability to monitor dynamic environments, from Martian dust storms to the subtle movements of lunar regolith, will be crucial for the safety and sustainability of off-world communities, shaping everything from architectural design to daily operational routines."
+      ],
+      "ja": [
+        "地球観測衛星という目に見えないインフラは、農業計画から世界の海運ルートまで、私たちの日常生活の多くを静かに支えている。これらの軌道上の機器は、地球のダイナミックなシステムを理解するための不可欠なデータを提供している。",
+        "欧州がこの重要な活動に注力していることは、メテオサット第三世代撮像衛星（MTG-I2）の打ち上げが間近に迫っていることからも明らかだ。この洗練された宇宙船は、アリアン6ロケットのフェアリングに搭載される前に、厳格な検査を受ける最終的な打ち上げキャンペーンを開始した。",
+        "夏終わりに予定されている打ち上げでは、3800kgのこの衛星が、欧州と北アフリカ全域の気象予報能力を大幅に向上させることが期待されている。前世代の衛星よりも高解像度の画像と、より頻繁な更新を提供し、気象学者に前例のない詳細情報をもたらす。",
+        "MTG-I2から得られる強化されたデータは、より正確な短期予報、改善された悪天候警報、そしてより良い気候監視へと繋がるだろう。農家は正確な降雨予測の恩恵を受け、緊急サービスは嵐や洪水に対してより効果的に準備できるようになる。",
+        "このミッションは、より大きなコンステレーションの一部であり、MTG-I2はその2番目の衛星となる。このプログラムは、宇宙からの環境監視における数十年の欧州の専門知識に基づき、静止気象観測における大きな飛躍を意味する。",
+        "> 「この3800kgの衛星は、どのようにヨーロッパと北アフリカの天気予報を改善するのだろうか。」",
+        "地球の気象予報に求められる精度と堅牢性は、将来の地球外居住地に対して深遠な意味を持つ。地球上であれ、火星であれ、あるいは将来の軌道上の居住地であれ、大気現象を理解し予測するには、堅牢で高頻度なセンサーネットワークが必要となる。",
+        "人類が地球外へと活動範囲を広げるにつれて、MTG-I2のようなミッションから学ばれる教訓――計装、データ処理、予測モデリングにおける――は直接応用可能となるだろう。火星の砂嵐から月のレゴリスの微細な動きまで、動的な環境を監視する能力は、地球外コミュニティの安全性と持続可能性にとって極めて重要であり、建築設計から日々の運用ルーチンに至るまで、あらゆるものを形作ることになる。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The European Space Agency (ESA) is preparing to launch a new, very advanced weather satellite named MTG-I2. Think of it like a significant upgrade to a high-definition camera specifically designed to watch Earth's weather. This satellite, weighing as much as a small truck, will provide much clearer and faster images of weather patterns over Europe and North Africa, helping forecasters predict everything from daily rain to severe storms with greater accuracy.",
+        "While this particular satellite focuses on Europe, the cutting-edge technology it uses for super-accurate weather imaging has global implications. For us in Tokyo, this means two things: indirectly, it contributes to better global climate models that inform international policy and long-term economic outlooks. More directly, the advanced sensor designs and data processing techniques could eventually be adopted by Japan's own meteorological satellite programs, leading to more precise typhoon tracking or localized heavy rainfall warnings here at home.",
+        "We can expect to see these kinds of advancements reflected in Japan's weather services within the next 5 to 10 years. This timeframe is largely dependent on the development and deployment schedule for Japan's next generation of Himawari satellites, which would integrate similar state-of-the-art capabilities. International data sharing agreements and collaborative research efforts might offer some earlier, though less direct, benefits.",
+        "Japan is already a leader in this field with its Himawari series of geostationary meteorological satellites, operated by the Japan Meteorological Agency. These satellites are crucial for weather forecasting and disaster monitoring across Asia and the Pacific. The success of ESA's MTG-I2 provides a valuable benchmark for the kinds of technological upgrades and new capabilities that could be incorporated into future Himawari missions, ensuring Japan remains at the forefront of Earth observation."
+      ],
+      "ja": [
+        "欧州宇宙機関（ESA）は、MTG-I2という非常に先進的な気象衛星の打ち上げを準備しています。これは、地球の気象を専門に監視する高精細カメラが大幅にアップグレードされるようなものだと考えてください。小型トラックほどの重さがあるこの衛星は、ヨーロッパと北アフリカ上空の気象パターンを、これまでよりもはるかに鮮明かつ迅速に撮影し、日々の雨から激しい嵐まで、気象予報士がより正確に予測できるよう支援します。",
+        "この衛星自体は欧州に焦点を当てていますが、その超高精度な気象画像技術は世界的な意味を持っています。東京に住む私たちにとって、これは二つの側面で影響を及ぼす可能性があります。一つは、間接的に、国際的な政策や長期的な経済見通しに影響を与える、より優れた地球規模の気候モデルの構築に貢献することです。もう一つは、より直接的に、その先進的なセンサー設計やデータ処理技術が、いずれ日本の気象衛星プログラムにも採用され、国内での台風追跡や局地的な豪雨警報の精度向上に繋がる可能性があることです。",
+        "このような技術的進歩が日本の気象サービスに反映されるのは、今後5年から10年以内と見ています。この期間は、主に日本の次世代ひまわり衛星の開発・配備スケジュールに左右されます。これらの衛星には、同様の最先端機能が統合されることになるでしょう。国際的なデータ共有協定や共同研究の取り組みは、それよりも早く、しかし間接的な恩恵をもたらすかもしれません。",
+        "日本は、気象庁が運用する静止気象衛星「ひまわり」シリーズで、この分野のリーダーです。これらの衛星は、アジア太平洋地域の気象予報と災害監視に不可欠な役割を担っています。ESAのMTG-I2の成功は、将来のひまわりミッションに組み込むべき技術的なアップグレードや新しい能力の種類について、貴重な指標を提供し、日本が地球観測の最前線に留まることを確実にするでしょう。"
+      ]
+    },
+    "source": {
+      "name": "ESA",
+      "url": ""
+    },
+    "sourceGuid": "2bd934d47fdd01caefe2680be9c4be94",
+    "status": "published"
+  },
+  {
     "slug": "the-enclosed-sky-indian-courtyard-homes-and-off-world-design-principles",
     "category": "culture",
     "issue": "Vol. 07",
@@ -1381,8 +1643,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "New Alliances: Europe and the Middle East Reshape Space Diplomacy",
@@ -1641,8 +1903,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Perovskite Solar Panels Pivot to Orbit",
@@ -1727,8 +1989,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Orbital Vigilance: True Anomaly Demonstrates Rapid Satellite Inspection",
@@ -1813,8 +2075,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101012"
     },
     "title": {
       "en": "ESA Contracts First Asteroid Surface CubeSat for Apophis Mission",
@@ -1985,8 +2247,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "Starliner Delays: A Cautionary Tale for Off-World Ambition",
@@ -2159,8 +2421,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101012"
+      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "A Planet's Resilience: Surviving a Star's Demise",
@@ -2329,8 +2591,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0b0b0d"
     },
     "title": {
       "en": "Lunar Outpost: NASA Expands Moon Base Science, Signals New Era",
@@ -2501,8 +2763,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0f12"
     },
     "title": {
       "en": "New Glenn's Unanswered Questions: A Setback for Orbital Ambitions",
@@ -2759,8 +3021,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0f12"
+      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Rocket Lab Expands Reach with Iridium Acquisition",
@@ -3017,8 +3279,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0b0b0d"
+      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#08080a"
     },
     "title": {
       "en": "Mapping the Lunar Future: Argonaut's Path to Autonomy",
@@ -3531,8 +3793,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101010"
     },
     "title": {
       "en": "Orbital Data Centers: A Vision Under Scrutiny",
@@ -3703,8 +3965,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#08080a"
+      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Consolidation in Orbit: Musk Acquires SpaceX Alumni Startup Mesh",
@@ -4139,8 +4401,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Synspective's Orbiting Eye: Rocket Lab Deploys Tenth Radar Satellite",
@@ -4223,8 +4485,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "The Spreading Seeds: SpaceX Alumni Fuel New Space Economy",
@@ -4307,8 +4569,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101010"
+      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "Artemis Accords Expand: Botswana Becomes 68th Signatory",
@@ -4475,7 +4737,7 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
+      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
       "tone": "#0e0e10"
     },
     "title": {
@@ -4735,8 +4997,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "Space Force Reconfigures Satellite Control Network After Contract Termination",
@@ -4821,8 +5083,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Orbital Congestion: Operators Form New Trade Body",
@@ -4909,8 +5171,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0f12"
     },
     "title": {
       "en": "Artemis: The Path to Permanent Presence",
@@ -5249,8 +5511,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "The Crowded Gates of Orbit: NASA Warns of Launch Site Strain",
@@ -5595,8 +5857,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Quantum Imperative: White House Directs NASA Towards Next-Gen Space Capabilities",
@@ -6021,8 +6283,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0b0b0d"
     },
     "title": {
       "en": "Astrobotic Acquired by Voyager: Scaling for Lunar Base Demands",
@@ -6537,8 +6799,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "India's Digital Sovereignty in Orbit: Jio's LEO Constellation Ambition",
@@ -6613,266 +6875,6 @@
       "url": "https://spacenews.com/indias-jio-lays-out-sovereign-leo-constellation-plan-ahead-of-ipo/"
     },
     "sourceGuid": "https://spacenews.com/?p=601448",
-    "status": "published"
-  },
-  {
-    "slug": "the-unseen-architects-of-orbit-esas-eurocom-and-the-voice-of-earth",
-    "category": "space-tech",
-    "issue": "Vol. 06",
-    "publishedAt": "2026-06-19T14:00:00.000Z",
-    "readingMinutes": 4,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
-    },
-    "title": {
-      "en": "The Unseen Architects of Orbit: ESA's EUROCOM and the Voice of Earth",
-      "ja": "軌道の見えざる設計者たち：ESAのEUROCOMと地球の声"
-    },
-    "dek": {
-      "en": "At the European Astronaut Centre, a dedicated team ensures astronauts remain connected, transforming complex operations into clear, real-time human communication.",
-      "ja": "欧州宇宙飛行士センターでは、専門チームが宇宙飛行士とのつながりを確保し、複雑な運用を明確なリアルタイムの人間的コミュニケーションへと変換する。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Cologne, Germany",
-      "ja": "ドイツ、ケルン"
-    },
-    "tags": [
-      {
-        "en": "Human Spaceflight",
-        "ja": "有人宇宙飛行"
-      },
-      {
-        "en": "Communication",
-        "ja": "通信"
-      },
-      {
-        "en": "Astronauts",
-        "ja": "宇宙飛行士"
-      },
-      {
-        "en": "International Space Station",
-        "ja": "国際宇宙ステーション"
-      }
-    ],
-    "body": {
-      "en": [
-        "The space between Earth and its orbiting outposts is not merely a vacuum; it is a medium for human connection, a conduit for guidance. At the heart of this connection stands the EUROCOM team, a dedicated corps within the European Space Agency's European Astronaut Centre (EAC) in Cologne, Germany. They are the constant, unwavering voice in the ears of astronauts.",
-        "Their mission is to bridge the vast distances, translating the intricate science and engineering of orbital operations into clear, actionable directives. For astronauts like ESA's Sophie Adenot aboard the International Space Station (ISS), this voice from Earth is a lifeline, guiding her through daily experiments, maintenance, and emergency procedures.",
-        "Andreas Orth, a EUROCOM expert, describes the meticulous process: complex protocols are distilled into precise, real-time communication. Every word carries weight, every inflection conveys urgency or reassurance, ensuring seamless execution of tasks hundreds of kilometers above the planet.",
-        "> \"It is about being the one voice connecting Earth and orbit,\" the original report noted, highlighting the unique responsibility. This singular link demands not only technical proficiency but also an acute understanding of human psychology under extreme conditions. The sound of a familiar voice can be as critical as the instruction itself.",
-        "The cadence of a ground controller's voice, the calm delivery of a critical parameter, forms an auditory architecture for life in microgravity. It is a constant presence, a reminder of home and purpose, shaping the temporal and emotional landscape of an astronaut's day.",
-        "As humanity extends its reach to lunar outposts and eventual Martian habitats, the principles refined by EUROCOM will become even more fundamental. The challenges of communication latency and greater psychological isolation will necessitate even more robust, empathetic, and efficient protocols.",
-        "For those who will one day live and work off-world, this means the very texture of their daily existence will be woven with the threads of distant voices. Their sense of safety, their ability to perform complex tasks, even their connection to the terrestrial world, will hinge on the reliability and humanity of these auditory links, making the ground controller not just a guide, but a crucial part of their off-world home."
-      ],
-      "ja": [
-        "地球と軌道上の前哨基地の間にあるのは、単なる真空ではありません。それは人間同士のつながり、指示を伝える媒体です。このつながりの中心には、ドイツ・ケルンにある欧州宇宙機関（ESA）の欧州宇宙飛行士センター（EAC）に位置するEUROCOMチームがいます。彼らは宇宙飛行士の耳に届く、常に揺るぎない声なのです。",
-        "彼らの使命は、広大な距離を橋渡しし、軌道上での複雑な科学や工学の運用を、明確で実行可能な指示へと変換することです。国際宇宙ステーション（ISS）に滞在するESAのソフィー・アデノット宇宙飛行士にとって、地球からのこの声は命綱であり、日々の実験、メンテナンス、緊急手順を導きます。",
-        "EUROCOMの専門家であるアンドレアス・オルトは、その綿密なプロセスを説明します。複雑なプロトコルは、正確なリアルタイム通信へと凝縮されます。一つ一つの言葉に重みがあり、抑揚の一つ一つが緊急性や安心感を伝え、地球から数百キロメートル上空での作業が滞りなく実行されることを保証します。",
-        "「地球と軌道をつなぐ唯一の声であること」と原文は記し、その特異な責任を強調しています。この単一のリンクは、技術的な熟練度だけでなく、極限状態における人間の心理に対する鋭い理解をも要求します。親しみのある声の響きは、指示そのものと同じくらい重要になり得ます。",
-        "地上管制官の声の調子、重要なパラメータを冷静に伝える話し方。これらは微小重力下での生活を支える聴覚的な建築を形成します。それは常に存在するものであり、故郷と目的を思い起こさせ、宇宙飛行士の一日の時間的・感情的な風景を形作ります。",
-        "人類が月面基地や将来の火星居住地へとその到達範囲を広げるにつれて、EUROCOMによって磨かれた原則はさらに不可欠なものとなるでしょう。通信の遅延や、より大きな心理的孤立といった課題は、さらに堅牢で、共感に満ちた効率的なプロトコルを必要とします。",
-        "やがて地球外で生活し働く人々にとって、彼らの日々の生活の質感そのものが、遠い声の糸によって織りなされることを意味します。彼らの安全感、複雑なタスクを実行する能力、さらには地球とのつながりまでもが、これらの聴覚的なリンクの信頼性と人間性に依存することになり、地上管制官は単なる案内人ではなく、彼らのオフワールドの家の一部となるでしょう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The European Space Agency has a dedicated team, EUROCOM, that acts as the sole voice link for astronauts on the International Space Station. They translate complex instructions into clear, real-time guidance, essentially serving as a constant, reassuring presence from Earth. It's like a highly specialized air traffic controller, but for astronauts living in space.",
-        "This focus on human-centric, reliable communication will be crucial for services that rely on real-time decision-making in remote or hazardous environments. Think about future autonomous delivery systems in urban areas, or remote-controlled robotics in disaster zones. The lessons learned in maintaining precise verbal guidance for astronauts could inform the protocols for these Earth-bound applications, improving safety and efficiency.",
-        "This impact is likely to be felt within 5-10 years. The bottleneck isn't the technology itself, but the integration of such rigorous human-interface protocols into commercial and public sector operations on Earth, which requires significant regulatory and cultural shifts.",
-        "Japan's JAXA has similar ground control and communication teams for its astronauts and modules on the ISS, such as the Kibo module. Companies like Astroscale, which manages orbital debris removal, also rely on precise remote command and control, although their communication is primarily machine-to-machine. The human element of \"the voice\" remains a unique and critical area of expertise, one that Japan will need to further develop as it sends more astronauts into deep space."
-      ],
-      "ja": [
-        "欧州宇宙機関（ESA）には、国際宇宙ステーション（ISS）に滞在する宇宙飛行士と地上を結ぶ専門チーム「EUROCOM」があります。彼らは、複雑な作業手順を宇宙飛行士が理解しやすい明確な指示に変換し、リアルタイムで伝達します。まるで宇宙版の交通管制官のように、地球からの唯一の声として宇宙飛行士を支えているのです。",
-        "このような人間中心で信頼性の高い通信システムは、将来的に遠隔地や危険な環境でのリアルタイムな意思決定を必要とするサービスにとって非常に重要になります。例えば、都市部での自律型配送システムや、災害現場で遠隔操作されるロボット技術などが挙げられます。宇宙飛行士への精密な音声ガイダンスのノウハウは、地上のこれらの応用分野における安全性と効率性を高めるプロトコルに影響を与える可能性があります。",
-        "この影響は、おそらく5〜10年以内に感じられるでしょう。ボトルネックは技術そのものよりも、このような厳密なヒューマンインターフェースプロトコルが、地上の商業および公共部門の運用に統合されることにあります。これには、規制や文化的な大きな変化が必要となります。",
-        "日本のJAXAも、国際宇宙ステーションの「きぼう」モジュールや日本の宇宙飛行士のために、同様の地上管制・通信チームを運用しています。また、宇宙ごみ除去を手がけるアストロスケールのような企業も、精密な遠隔コマンド＆コントロールに依存していますが、その通信は主に機械間です。しかし、「声」という人間的な要素は、日本がより多くの宇宙飛行士を深宇宙に送る上で、さらに発展させる必要のある独自の重要な専門分野であり続けるでしょう。"
-      ]
-    },
-    "source": {
-      "name": "ESA",
-      "url": ""
-    },
-    "sourceGuid": "62f8f0c1e337c816ced6a2630119e126",
-    "status": "published"
-  },
-  {
-    "slug": "orbital-living-solutions-unveils-haven-1-designing-home-beyond-earth",
-    "category": "space-tech",
-    "issue": "Vol. 06",
-    "publishedAt": "2026-06-19T10:00:00.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://cdn.mos.cms.futurecdn.net/xZh6S52ZjNRwbCJDrcM3JJ-1280-80.png",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Orbital Living Solutions Unveils Haven-1: Designing Home Beyond Earth",
-      "ja": "軌道上の住居：OLSがHaven-1を発表、地球外に「家」を設計する"
-    },
-    "dek": {
-      "en": "A new modular habitat prioritizes resident experience, marking a shift towards comfort and psychological well-being in space.",
-      "ja": "新しいモジュール式居住施設は居住者の体験を優先し、宇宙における快適性と心理的幸福への転換を示す。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "ORBITAL POST",
-      "ja": "軌道上通信"
-    },
-    "tags": [
-      {
-        "en": "orbital habitat",
-        "ja": "軌道居住施設"
-      },
-      {
-        "en": "private space",
-        "ja": "民間宇宙"
-      },
-      {
-        "en": "space architecture",
-        "ja": "宇宙建築"
-      },
-      {
-        "en": "living in space",
-        "ja": "宇宙生活"
-      }
-    ],
-    "body": {
-      "en": [
-        "Orbital Living Solutions (OLS) has introduced its vision for sustained human presence beyond Earth with the unveiling of the Haven-1 modular orbital habitat. This new design represents a deliberate pivot from purely utilitarian space station architecture, focusing instead on the daily lived experience of its residents. The initial Haven-1 module is slated for deployment in late 2027.",
-        "The habitat is engineered to accommodate up to four individuals for extended missions, potentially lasting six months. With an internal volume of approximately 50 cubic meters, Haven-1 is comparable in size to a small two-bedroom apartment, a significant step towards more spacious off-world accommodations.",
-        "A core innovation lies in its reconfigurable interior spaces, allowing residents to adapt their environment to various activities and personal preferences. This flexibility is complemented by a novel bio-luminescent lighting system designed to mimic natural circadian rhythms, aiming to mitigate the psychological stresses of prolonged isolation.",
-        "Integrated hydroponics will provide fresh produce, adding a sensory dimension often absent in current orbital facilities. This detail underscores OLS's commitment to creating an environment that feels less like a temporary outpost and more like a permanent dwelling.",
-        "The company explicitly states its intention to prioritize resident well-being. This approach contrasts sharply with the historical focus of government-led space programs, which have traditionally emphasized scientific research or functional utility over personal comfort.",
-        "> \"Our goal is to make space feel like home, not just a laboratory.\"",
-        "This shift suggests a future where off-world living is not merely tolerated but genuinely embraced. For future inhabitants, this means an environment where personal space, natural light cycles, and even fresh food are considered fundamental, rather than luxuries. The design of Haven-1 anticipates a time when the texture of a meal or the subtle changes in ambient light become as important as life support itself."
-      ],
-      "ja": [
-        "Orbital Living Solutions (OLS)は、モジュール式軌道居住施設「Haven-1」の発表により、地球外における持続的な人類の存在に向けたビジョンを提示した。この新しい設計は、純粋に実用性を追求した従来の宇宙ステーション建築から意図的に転換し、居住者の日々の生活体験に焦点を当てている。最初のHaven-1モジュールは2027年後半に配備される予定だ。",
-        "この居住施設は、最長6ヶ月に及ぶ長期ミッションで最大4名を収容できるよう設計されている。内部容積は約50立方メートルで、Haven-1は小さな2LDKのアパートに匹敵するサイズであり、より広々とした地球外居住空間への重要な一歩となる。",
-        "核となる革新は、再構成可能な内部空間にある。これにより、居住者はさまざまな活動や個人的な好みに合わせて環境を調整できる。この柔軟性は、自然の概日リズムを模倣するように設計された新しいバイオ発光照明システムによって補完され、長期にわたる隔離による心理的ストレスの軽減を目指す。",
-        "統合された水耕栽培システムは新鮮な農産物を提供し、現在の軌道施設ではしばしば欠けている感覚的な側面を加える。この細部は、OLSが一時的な前哨基地ではなく、より永続的な住居のように感じられる環境を作り出すことへのコミットメントを強調している。",
-        "同社は、居住者の幸福を優先する意図を明確に表明している。このアプローチは、伝統的に科学研究や機能的実用性を個人の快適さよりも重視してきた政府主導の宇宙プログラムの歴史的な焦点とは対照的である。",
-        "> 「私たちの目標は、宇宙を単なる実験室ではなく、家のように感じさせることです。」",
-        "この転換は、地球外での生活が単に耐えるものではなく、真に受け入れられる未来を示唆している。将来の居住者にとって、これは個人の空間、自然な光のサイクル、さらには新鮮な食事が贅沢ではなく、基本的なものと見なされる環境を意味する。Haven-1の設計は、食事の質感や周囲の光の微妙な変化が、生命維持そのものと同じくらい重要になる時代を予見している。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The news of Orbital Living Solutions' Haven-1 habitat marks a subtle but significant change in how we think about living in space. Instead of just focusing on the technical challenges of survival, this new design emphasizes making an orbital outpost feel like a comfortable home. Imagine a small apartment in orbit, but one where you can change the layout and the lighting mimics the sunrise and sunset you'd see from a Tokyo window.",
-        "For Tokyo readers, this development could influence the design philosophy for compact, high-quality living spaces, both on Earth and eventually off-world. Japanese companies, known for their precision engineering and thoughtful design, might find new opportunities in creating the interior modules, furniture, and environmental control systems for such habitats. It sets a new benchmark for what \"comfortable\" means when space is at a premium, whether in a crowded city or in orbit.",
-        "This impact is likely 5-10 years away. The primary gating factor will be the maturation of the commercial space tourism and orbital manufacturing sectors, coupled with the establishment of clear international regulatory frameworks for private space habitats. Once the demand for extended stays grows, the need for human-centric design will become paramount.",
-        "Japan already has companies like ispace, which is pioneering private lunar missions, demonstrating a strong private sector drive in space. While Haven-1 is an orbital habitat, the underlying principle of making space habitable and commercially viable resonates. Furthermore, firms like Shimizu Corporation have long explored concepts for lunar bases and space hotels, suggesting a deep-seated interest in the architecture of off-world living that aligns well with OLS's new direction."
-      ],
-      "ja": [
-        "Orbital Living Solutions（OLS）によるHaven-1居住施設のニュースは、私たちが宇宙での生活をどのように考えるかについて、ささやかではあるものの重要な変化を示しています。単に生存のための技術的な課題に焦点を当てるのではなく、この新しい設計は、軌道上の拠点を快適な家のように感じさせることに重点を置いています。軌道上に小さなアパートがあり、レイアウトを変更でき、東京の窓から見えるような日の出と日没を模倣した照明がある、と想像してみてください。",
-        "東京の読者にとって、この開発は、地球上および将来的には地球外における、コンパクトで質の高い生活空間のデザイン哲学に影響を与える可能性があります。精密工学と思慮深いデザインで知られる日本の企業は、このような居住施設の内装モジュール、家具、環境制御システムを開発する上で新たな機会を見出すかもしれません。これは、限られた空間（混雑した都市でも軌道上でも）において「快適さ」が何を意味するかについて、新しい基準を打ち立てるものです。",
-        "この影響は、おそらく5年から10年先に現れるでしょう。主な要因は、商業宇宙旅行および軌道上製造セクターの成熟、そして民間宇宙居住施設に関する明確な国際規制枠組みの確立です。長期滞在の需要が高まるにつれて、人間中心の設計の必要性が最も重要になるでしょう。",
-        "日本にはすでに、民間による月探査を先駆けるispaceのような企業があり、宇宙における強力な民間部門の推進力を示しています。Haven-1は軌道上の居住施設ですが、宇宙を居住可能にし、商業的に実現可能にするという根本的な原則は共通しています。さらに、清水建設のような企業は、月面基地や宇宙ホテルの構想を長年探求しており、OLSの新しい方向性とよく合致する、地球外居住建築への深い関心があることを示唆しています。"
-      ]
-    },
-    "source": {
-      "name": "Space.com",
-      "url": "https://www.space.com/astronomy/asteroids/juicy-new-details-emerge-about-an-asteroid-nasas-lucy-spacecraft-flew-by-last-year"
-    },
-    "sourceGuid": "kLHd5XbhJa47B2Xm82gK5",
-    "status": "published"
-  },
-  {
-    "slug": "dark-matters-hidden-stars-new-insights-from-primordial-black-holes",
-    "category": "research",
-    "issue": "Vol. 06",
-    "publishedAt": "2026-06-18T17:38:19.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
-    },
-    "title": {
-      "en": "Dark Matter's Hidden Stars: New Insights from Primordial Black Holes",
-      "ja": "ダークマターの隠れた星：原始ブラックホールからの新たな洞察"
-    },
-    "dek": {
-      "en": "Theoretical physics suggests primordial black holes, interacting with 'string axions,' could be a significant source of the universe's elusive dark matter, forming 'micro-boson stars.'",
-      "ja": "理論物理学の最新研究は、原始ブラックホールが「弦理論アクシオン」と相互作用し、「マイクロボソン星」と呼ばれるダークマターの塊を生成する可能性を示唆する。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "GENEVA",
-      "ja": "ジュネーブ"
-    },
-    "tags": [
-      {
-        "en": "dark matter",
-        "ja": "ダークマター"
-      },
-      {
-        "en": "cosmology",
-        "ja": "宇宙論"
-      },
-      {
-        "en": "theoretical physics",
-        "ja": "理論物理学"
-      },
-      {
-        "en": "black holes",
-        "ja": "ブラックホール"
-      }
-    ],
-    "body": {
-      "en": [
-        "The vast, unseen fabric of the universe is largely composed of dark matter, a mysterious substance that exerts gravitational pull but remains invisible. Unlocking its origins is a fundamental quest, shaping our understanding of cosmic structure and evolution.",
-        "A recent preprint published on arXiv explores a novel mechanism for dark matter production, positing that primordial black holes (PBHs)—hypothetical black holes formed in the early universe—could play a crucial role. These ancient cosmic entities might be more than just gravitational sinks.",
-        "The research centers on the interaction of these PBHs with 'string axions,' theoretical particles predicted by string theory. The paper suggests that through a process known as Hawking emission, PBHs could release a significant number of these axion species, estimated between 100 and 100,000.",
-        "This influx of axions, the study finds, can significantly enhance the efficiency of 'superradiance' around a spinning PBH. Superradiance is a phenomenon where a rotating black hole sheds energy by creating a dense cloud of particles, much like a rapidly spinning top throwing off dust.",
-        "> \"...significantly enhance the efficiency of superradiance...\"",
-        "The increased spin of the PBHs, driven by axion emission, could lead to a more prolific creation of these particle clouds. The ultimate outcome of this process, according to the paper, is the formation of \"micro-boson stars\"—self-gravitating remnants of these dark matter clouds, dense and stable.",
-        "These findings expand the theoretical parameters for dark matter mass, and the mass and spin of PBHs, for which a substantial fraction of dark matter could exist in these unique forms. However, the theory also notes a delicate balance: an excessive number of axion species could cause PBHs to evaporate too quickly, preventing the superradiant clouds from reaching their maximum mass.",
-        "For those who will eventually live and work beyond Earth, understanding the fundamental constituents of the cosmos is not merely an academic exercise. It is a foundational layer of knowledge that informs their perception of the universe, potentially influencing long-term resource strategies, material science exploration, and even the philosophical underpinnings of off-world societies. The universe, in its vast indifference, conceals its deepest secrets within these ephemeral cosmic dances."
-      ],
-      "ja": [
-        "宇宙の大部分を構成する謎めいた存在、ダークマター。その正体と起源の解明は、宇宙の構造と進化を理解するための根源的な探求である。",
-        "arXivに掲載された最新のプレプリントは、ダークマター生成の新たなメカニズムを探り、初期宇宙に存在したとされる「原始ブラックホール（PBH）」が重要な役割を果たす可能性を提示する。これらの太古の天体は、単なる重力源以上の意味を持つかもしれない。",
-        "研究の焦点は、PBHと「弦理論アクシオン」と呼ばれる理論上の素粒子との相互作用にある。論文は、ホーキング放射として知られるプロセスを通じて、PBHが100から10万種に及ぶ膨大な数のアクシオン種を放出する可能性を示唆する。",
-        "このアクシオンの流入が、回転するPBH周辺で起こる「超放射（スーパーラディアンス）」の効率を著しく高めることを、研究は発見した。超放射とは、高速回転するコマが塵を撒き散らすように、回転するブラックホールがエネルギーを放出し、粒子の密な雲を形成する現象である。",
-        "「…超放射の効率を著しく高める…」",
-        "アクシオン放出によってPBHの回転が加速されることで、これらの粒子雲の生成がより活発になるという。論文によれば、このプロセスの最終的な結果は、「マイクロボソン星」と呼ばれる自己重力で凝集したダークマターの塊の形成である。",
-        "これらの発見は、ダークマターの質量やPBHの質量・スピンに関する理論的パラメーターを拡張し、ダークマターの相当部分がこのような特異な形態で存在しうる可能性を示す。ただし、アクシオンの種類が多すぎるとPBHが急速に蒸発し、超放射によるダークマター雲が最大質量に達する前に消滅する可能性も指摘されている。",
-        "将来、地球を離れて暮らす人々にとって、宇宙の根源的な構成要素を理解することは、単なる学術的な興味に留まらない。それは、宇宙に対する彼らの認識を形成し、長期的な資源戦略、新たな素材科学の探求、さらにはオフワールド社会の哲学的基盤に間接的な影響を与える、深い知識の層となるだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Scientists are exploring the fundamental question of how dark matter, the invisible substance that makes up most of the universe, might have come into being. This new research suggests that tiny black holes from the early universe could have acted like cosmic particle factories, spinning off theoretical particles called 'axions' to create invisible 'stars' or clumps of dark matter.",
-        "While this remains deep theoretical physics, understanding the universe's fundamental constituents could eventually open doors to entirely new concepts in energy or even advanced propulsion, though these are distant possibilities. More immediately, these insights shape our cosmic worldview, influencing science education and funding priorities, which in turn affects the types of research careers available to young Japanese scientists.",
-        "Practical applications are likely decades, if not a century, away. The immediate impact is on refining theoretical models of cosmology. However, the search for these elusive 'micro-boson stars' could drive the development of new astronomical instruments and detectors within the next 10 to 20 years, pushing the boundaries of observational science.",
-        "Although there isn't a direct Japanese research program focused specifically on 'string axiverse enhancement of superradiant dark matter production,' institutions like the Kavli Institute for the Physics and Mathematics of the Universe (Kavli IPMU) at the University of Tokyo are global leaders in theoretical cosmology and dark matter research. Their work, alongside JAXA's astronomical missions observing the large-scale structure of the cosmos, contributes significantly to humanity's collective effort to unravel these profound mysteries."
-      ],
-      "ja": [
-        "科学者たちは、宇宙の大部分を占める目に見えない物質「ダークマター」がどのようにして生まれたのかという根源的な問いを探求しています。今回の新しい研究は、宇宙の初期に存在した小さなブラックホールが、宇宙の粒子工場のように振る舞い、「アクシオン」と呼ばれる理論上の素粒子を放出し、目に見えないダークマターの「星」のような塊を作り出した可能性を示唆しています。",
-        "これは非常に深遠な理論物理学の領域ですが、宇宙の基本的な構成要素を理解することは、遠い将来、全く新しいエネルギー概念や先進的な推進技術への道を開くかもしれません。より身近な影響としては、これらの洞察が私たちの宇宙観を形成し、科学教育や研究予算の優先順位に影響を与え、ひいては日本の若い科学者たちのキャリアパスに影響を与える可能性があります。",
-        "実用化への道のりは、数十年、あるいは一世紀以上先になるでしょう。当面の影響は、宇宙論の理論モデルを洗練させることにあります。しかし、この捉えどころのない「マイクロボソン星」の探索は、今後10年から20年以内に新しい天文観測機器や検出器の開発を促進し、観測科学の限界を押し広げるかもしれません。",
-        "「弦理論アクシオンによる超放射ダークマター生成の増強」に特化した日本の研究プログラムは直接的にはありませんが、東京大学カブリ数物連携宇宙研究機構（Kavli IPMU）のような機関は、理論宇宙論とダークマター研究において世界をリードしています。彼らの研究は、JAXAが宇宙の大規模構造を観測する天文ミッションと並行して、これらの深遠な謎を解き明かす人類全体の努力に大きく貢献しています。"
-      ]
-    },
-    "source": {
-      "name": "arXiv",
-      "url": "http://arxiv.org/abs/2606.20524v1"
-    },
-    "sourceGuid": "http://arxiv.org/abs/2606.20524v1",
     "status": "published"
   }
 ]

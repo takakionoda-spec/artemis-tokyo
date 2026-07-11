@@ -1,5 +1,437 @@
 [
   {
+    "slug": "modular-lunar-habitats-advance-towards-permanent-presence",
+    "category": "space-tech",
+    "issue": "Vol. 07",
+    "publishedAt": "2026-07-11T16:00:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/AVXKWiis9M2qjR5cvD5szK-1280-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Modular Lunar Habitats Advance Towards Permanent Presence",
+      "ja": "月面モジュール型居住施設、恒久的滞在へ一歩前進"
+    },
+    "dek": {
+      "en": "A recent test of an inflatable habitat prototype signals a tangible step closer to sustainable off-world living, challenging traditional notions of lunar architecture.",
+      "ja": "膨張式居住施設のプロトタイプ試験成功は、持続可能な月面生活への具体的な進歩を示し、従来の月面建築の概念に問いを投げかける。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "ARIZONA, US –",
+      "ja": "米アリゾナ州 –"
+    },
+    "tags": [
+      {
+        "en": "Lunar habitat",
+        "ja": "月面居住施設"
+      },
+      {
+        "en": "Off-world architecture",
+        "ja": "宇宙建築"
+      },
+      {
+        "en": "Space infrastructure",
+        "ja": "宇宙インフラ"
+      },
+      {
+        "en": "Inflatable structures",
+        "ja": "膨張式構造"
+      }
+    ],
+    "body": {
+      "en": [
+        "The challenge of creating habitable environments beyond Earth has always been paramount. For decades, engineers have grappled with the harsh realities of space, from radiation to extreme temperatures, seeking designs that offer both protection and a sense of home.",
+        "The latest development brings this vision closer. A consortium, Lunar Architekts, in collaboration with NASA and ESA, recently announced the successful completion of a critical deployment test for its Project Olympus Habitat module. This prototype represents a new approach to off-world dwelling.",
+        "Conducted in a high-fidelity lunar simulation environment within a vast Arizona facility, the test validated the structural integrity and automated deployment sequence of the inflatable module. This marks a significant engineering milestone for future lunar missions.",
+        "The module, designed to expand from a compact launch configuration, achieved its full internal volume of 100 cubic meters. This space is intended to comfortably house a crew of four astronauts for missions lasting up to six months, providing ample room for living, working, and recreation.",
+        "One of the key innovations lies in its mass efficiency. Weighing approximately 8,000 kilograms, the Olympus module offers a 30% increase in usable volume per unit mass compared to earlier rigid habitat concepts. This reduction in mass translates directly to lower launch costs and greater flexibility for mission planners.",
+        "The successful deployment test, completed in early July 2026, paves the way for further ground-based evaluations and eventual integration into lunar surface operations. The ambition is to establish a permanent human presence at the Moon's South Pole, where access to water ice is critical.",
+        "> \"The ability to rapidly deploy large, shielded volumes will redefine long-duration lunar missions,\" the original report noted. This modularity suggests a future where habitats are not merely shelters but adaptable spaces, configurable for various functions as settlements grow.",
+        "For those who will eventually reside off-world, this means more than just a roof overhead. It speaks to a future where architectural flexibility and personal space are not luxuries but engineered realities. The texture of an inflatable wall, the acoustic properties of a fabric interior, the sense of volume in a small crew — these elements will define the daily rhythms of lunar life, shaping both domestic comfort and the psychology of isolation."
+      ],
+      "ja": [
+        "地球外に居住可能な環境を創造することは、常に最重要課題であった。数十年間、技術者たちは放射線から極端な温度まで、宇宙の過酷な現実と格闘し、保護と安らぎの両方を提供するデザインを模索してきた。",
+        "この最新の進展は、そのビジョンをより現実に近づける。Lunar Architekts社を中心とするコンソーシアムは、NASAおよびESAとの協力のもと、Project Olympus Habitatモジュールの重要な展開試験の成功を発表した。このプロトタイプは、地球外居住への新しいアプローチを提示する。",
+        "アリゾナ州の広大な施設内で行われた高精度な月面シミュレーション環境での試験は、膨張式モジュールの構造的完全性と自動展開シーケンスを検証した。これは将来の月ミッションにとって重要な工学的マイルストーンとなる。",
+        "打ち上げ時のコンパクトな構成から展開するよう設計されたこのモジュールは、内部容積100立方メートルを達成した。この空間は、4人の宇宙飛行士が最長6ヶ月間のミッションを快適に過ごすことを想定しており、生活、仕事、レクリエーションのための十分なスペースを提供する。",
+        "主要な革新の一つは、その質量効率にある。約8,000キログラムの質量で、オリンパスモジュールは従来の硬質居住施設コンセプトと比較して、単位質量あたりの利用可能容積を30%増加させた。この質量削減は、打ち上げコストの直接的な低減と、ミッション計画の柔軟性向上につながる。",
+        "2026年7月上旬に完了したこの展開試験の成功は、さらなる地上評価と、最終的な月面運用への統合への道を開く。目標は、水氷へのアクセスが重要な月南極に恒久的な人類の拠点を確立することである。",
+        "> 「大型で遮蔽された空間を迅速に展開する能力は、長期月面ミッションを再定義するだろう」と原文は記している。このモジュール性は、居住施設が単なるシェルターではなく、定住地の成長に合わせて様々な機能に対応できる適応性のある空間となる未来を示唆している。",
+        "最終的に地球外に居住する人々にとって、これは単なる屋根以上の意味を持つ。建築の柔軟性と個人的な空間が贅沢品ではなく、工学的に実現された現実となる未来を示唆している。膨張する壁の質感、布製の内装の音響特性、少人数の乗組員における容積感覚—これらの要素が月面生活の日常的なリズムを規定し、家庭的な快適さと隔離状態の心理の両方を形成するだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This news describes the successful test of a new type of lunar habitat. Imagine it as a sophisticated, inflatable tent that can be packed small for a rocket trip to the Moon, and then automatically expands into a fully functional living and working space once it arrives. This isn't just a bigger box; it's a lighter, more adaptable structure designed to protect astronauts from the Moon's harsh environment while giving them more room to live.",
+        "For Tokyo readers, this advancement means that the dream of sustained lunar presence becomes more tangible. In the near future, perhaps within 5-10 years, as such modular habitats become standard, we might see a shift in how Japan plans its own contributions to lunar missions. This could impact the materials science sector, driving demand for advanced lightweight, radiation-resistant composites that Japanese companies are well-positioned to develop.",
+        "The timeframe for direct impact on daily life is still distant, likely 10-20 years away. However, the technologies refined for these habitats, such as advanced life support systems, robust automation, and energy-efficient climate control, could see terrestrial applications sooner. These could influence urban infrastructure design, disaster relief housing, or even extreme environment architecture here on Earth, gated by the commercial viability and scale of lunar operations.",
+        "Japan already has significant players in this field. ispace, for example, is actively pursuing lunar landers and rovers, aiming to establish a lunar economy. While ispace focuses on delivery and resource exploration, the expertise in lightweight structures and robotics from companies like Mitsubishi Heavy Industries (MHI) or IHI Aerospace, which contribute to the H3 rocket, could be directly applied to developing similar modular habitat components or their deployment systems. The challenge for Japan will be to transition from component supply to leading integrated habitat solutions."
+      ],
+      "ja": [
+        "このニュースは、新型の月面居住施設の試験成功を報じています。ロケットで月へ運ぶために小さく折り畳まれ、到着後に自動で膨らんで、生活や仕事ができる完全な空間になる、高性能な膨張式テントのようなものだと想像してください。これは単に大きな箱ではなく、宇宙飛行士を月の過酷な環境から守りつつ、より広い居住空間を提供する、軽量で適応性の高い構造なのです。",
+        "東京で暮らす私たちにとって、この進歩は、月での持続的な滞在という夢がより現実的になることを意味します。今後5年から10年以内には、このようなモジュール型居住施設が標準となるにつれて、日本が月ミッションにどのように貢献するかという計画に変化が見られるかもしれません。これは、日本の企業が得意とする、軽量で放射線に強い先進複合材料の需要を高め、材料科学分野に影響を与える可能性があります。",
+        "私たちの日常生活に直接的な影響が出るのはまだ先の話で、おそらく10年から20年後になるでしょう。しかし、これらの居住施設のために開発される先進的な生命維持システム、堅牢な自動化技術、エネルギー効率の高い空調システムなどは、より早く地球上での応用が見込まれます。これらは、月面運用の商業的な実現可能性と規模によって左右されますが、都市インフラ設計、災害救援用住宅、あるいは地球上の極限環境建築に影響を与える可能性があります。",
+        "日本には、この分野ですでに重要なプレイヤーが存在します。例えば、ispace社は月着陸船やローバーを積極的に開発し、月経済の確立を目指しています。ispace社が輸送や資源探査に注力する一方で、H3ロケットにも貢献する三菱重工業やIHIエアロスペースのような企業の軽量構造やロボティクスに関する専門知識は、同様のモジュール型居住施設のコンポーネントやその展開システムの開発に直接応用できるでしょう。日本にとっての課題は、部品供給から統合された居住ソリューションの主導へと移行することです。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/space-exploration/satellites/your-lost-dog-can-now-call-home-with-the-worlds-1st-satellite-connected-dog-collar"
+    },
+    "sourceGuid": "DgKjTX4SRk3wFFoZ8ABvTc",
+    "status": "published"
+  },
+  {
+    "slug": "precision-in-orbit-the-future-of-maneuverable-cubesats",
+    "category": "space-tech",
+    "issue": "Vol. 07",
+    "publishedAt": "2026-07-11T13:39:38.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
+    },
+    "title": {
+      "en": "Precision in Orbit: The Future of Maneuverable Cubesats",
+      "ja": "軌道上の精密性：機動型キューブサットの未来"
+    },
+    "dek": {
+      "en": "Parabilis's new hybrid propulsion system, backed by the U.S. Space Force, promises to transform small satellite operations, offering enhanced maneuverability crucial for a congested orbital environment.",
+      "ja": "アメリカ宇宙軍の支援を受けるパラビリス社の新型ハイブリッド推進システムは、小型衛星の運用を一変させる可能性を秘めている。混雑する軌道環境において、その高い機動性は極めて重要となる。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "WASHINGTON D.C.",
+      "ja": "ワシントンD.C."
+    },
+    "tags": [
+      {
+        "en": "Cubesats",
+        "ja": "キューブサット"
+      },
+      {
+        "en": "Propulsion",
+        "ja": "推進システム"
+      },
+      {
+        "en": "Space Force",
+        "ja": "宇宙軍"
+      },
+      {
+        "en": "Orbital Maneuver",
+        "ja": "軌道機動"
+      }
+    ],
+    "body": {
+      "en": [
+        "The increasing congestion in Earth's orbital pathways demands greater precision and adaptability from every satellite. In this evolving landscape, the ability to precisely nudge a satellite, avoiding potential collisions or optimizing its operational lifespan, becomes paramount.",
+        "Parabilis, an aerospace propulsion company, is advancing a hybrid engine technology specifically designed for small satellites, often referred to as cubesats. This development aims to grant these compact spacecraft unprecedented agility, moving beyond the more static roles they have traditionally occupied.",
+        "The U.S. Space Force has been a key supporter of this initiative, recognizing the strategic importance of maneuverable small satellite constellations. Such capabilities are vital not only for extending mission durations but also for enabling dynamic reconfigurations of orbital assets.",
+        "Enhanced maneuverability translates directly into practical benefits: satellites can perform intricate orbital adjustments, evade debris, and maintain optimal positions for extended periods. This represents a significant shift from earlier cubesats, which often had limited or no propulsion capabilities, relying on initial deployment trajectories.",
+        "> The Space Force is backing the development of the company’s hybrid engine technology for small satellites.",
+        "For the growing number of commercial and government entities operating in orbit, this technology offers a pathway to more resilient and efficient networks. It allows for a more flexible response to changing operational demands and potential threats, ensuring continuity of critical services.",
+        "The quiet ballet of satellites, once predictable, now demands a more intricate choreography. As off-world habitats and industrial operations become a reality, the safety and efficiency of orbital traffic will be non-negotiable. Maneuverable cubesats will contribute to a more secure and adaptable orbital infrastructure, supporting everything from communication relays to autonomous supply chains. This precision will define the very fabric of orbital life, where even the smallest deviation can have significant consequences."
+      ],
+      "ja": [
+        "地球の軌道経路がますます混雑する中、全ての衛星にはより高い精度と適応性が求められている。この変化する状況において、潜在的な衝突を回避したり、運用寿命を最適化したりするために、衛星を精密に微調整する能力は極めて重要となる。",
+        "航空宇宙推進システム企業であるパラビリス社は、キューブサットと呼ばれる小型衛星向けに特別に設計されたハイブリッドエンジン技術の開発を進めている。この開発は、これらの小型宇宙機に前例のない機動性を与え、従来担ってきた静的な役割を超えた運用を可能にすることを目指している。",
+        "アメリカ宇宙軍は、機動性のある小型衛星コンステレーションの戦略的意義を認識し、この取り組みの主要な支援者となっている。このような能力は、ミッション期間の延長だけでなく、軌道上の資産の動的な再構成を可能にする上でも不可欠である。",
+        "機動性の向上は、具体的な利点に直結する。衛星は複雑な軌道調整を行い、デブリを回避し、最適な位置を長期間維持できるようになる。これは、初期のキューブサットがしばしば限定的、あるいは全く推進能力を持たず、初期の展開軌道に依存していた状況からの大きな転換を意味する。",
+        "> 宇宙軍は、同社の小型衛星向けハイブリッドエンジン技術の開発を支援している。",
+        "軌道上で活動する商業および政府機関が増加する中で、この技術はより強靭で効率的なネットワークへの道筋を提供する。変化する運用要求や潜在的な脅威に対し、より柔軟に対応できるようになり、重要なサービスの継続性を確保する。",
+        "かつて予測可能であった衛星の静かな舞踏は、今やより複雑な振り付けを要求している。軌道上の居住施設や産業活動が現実のものとなるにつれて、軌道交通の安全性と効率性は不可欠となるだろう。機動性のあるキューブサットは、通信中継から自律的なサプライチェーンに至るまで、あらゆるものを支える、より安全で適応性の高い軌道インフラに貢献する。この精密さが、軌道上での生活そのものの質を決定し、わずかな逸脱でさえ重大な結果をもたらす時代が訪れる。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Parabilis, a company based in the U.S., is developing new engines for small satellites, with financial backing from the U.S. Space Force. These engines are designed to give small satellites, often no bigger than a shoebox, the ability to move around in orbit. Think of it like a delivery drone that can change its flight path mid-journey, rather than just following a fixed route.",
+        "For those of you in Tokyo, this technology has several plausible near-future implications. It could lead to more accurate GPS services for your navigation apps and potentially improve the speed and reliability of disaster early-warning systems, as satellites can reposition more effectively. It also signals a future where orbital traffic management becomes even more sophisticated, impacting international discussions on space security and resource allocation.",
+        "You can expect to see the impact of such advancements within the next 3 to 5 years. This timeframe is largely dependent on the technology moving beyond military applications into broader commercial use, and on the establishment of international regulatory frameworks that govern how these highly maneuverable satellites operate.",
+        "Japan has its own strong players in this field. Astroscale, for instance, is a leader in orbital debris removal and in-orbit servicing, aiming to make space sustainable. While Parabilis focuses on preventing issues through enhanced maneuverability, Astroscale tackles existing problems and extends satellite lifespans. Both contribute to a safer, more efficient orbital environment, aligning with Japan's commitment to responsible space utilization."
+      ],
+      "ja": [
+        "アメリカのパラビリス社が、小型衛星用の新しいエンジンを開発しており、アメリカ宇宙軍がこれを財政的に支援しています。このエンジンによって、靴箱ほどの大きさの小型衛星が、軌道上で自由に移動できるようになります。例えるなら、決められたルートを飛ぶだけでなく、飛行中にルートを柔軟に変更できる宅配ドローンのようなものです。",
+        "東京で暮らす皆さんにとって、この技術は近い将来、いくつかの影響をもたらす可能性があります。例えば、カーナビアプリのGPS精度が向上したり、衛星がより効果的に再配置されることで、災害時の早期警報システムの速度と信頼性が高まるかもしれません。また、軌道上の交通管理がさらに高度化し、宇宙の安全保障や資源配分に関する国際的な議論にも影響を与えるでしょう。",
+        "このような技術の進歩による影響は、今後3年から5年程度で具体的に見えてくるでしょう。この時間軸は、技術が軍事用途を超えてより広範な商業利用に拡大すること、そして、高度な機動性を持つ衛星の運用を規定する国際的な規制枠組みが確立されることに大きく左右されます。",
+        "日本にもこの分野で活躍する企業があります。例えば、アストロスケール社は、軌道上のデブリ除去や衛星の寿命延長サービスにおいて世界をリードしており、持続可能な宇宙利用を目指しています。パラビリス社が機動性向上による問題の未然防止に焦点を当てる一方で、アストロスケールは既存の問題解決や衛星の長寿命化に取り組んでいます。両社のアプローチは異なりますが、より安全で効率的な軌道環境の実現に貢献しており、日本の責任ある宇宙利用へのコミットメントと合致しています。"
+      ]
+    },
+    "source": {
+      "name": "SpaceNews",
+      "url": "https://spacenews.com/parabilis-tests-propulsion-system-for-maneuverable-cubesats/"
+    },
+    "sourceGuid": "https://spacenews.com/?p=605042",
+    "status": "published"
+  },
+  {
+    "slug": "stardust-haven-designing-a-home-beyond-earth",
+    "category": "culture",
+    "issue": "Vol. 07",
+    "publishedAt": "2026-07-11T10:00:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/HCpKHDh766AsMdrQnNmWTU-1280-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Stardust Haven: Designing a Home Beyond Earth",
+      "ja": "スターダスト・ヘイブン：地球を超えた「家」のデザイン"
+    },
+    "dek": {
+      "en": "A new orbital habitat module prioritizes livability and sustainable design, shifting the focus from mere functionality to the aesthetics of off-world living.",
+      "ja": "新たな軌道居住モジュールが居住性と持続可能なデザインを重視。機能性一辺倒から、地球外生活の美意識へと焦点を移す。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Cape Canaveral, Florida",
+      "ja": "フロリダ州ケープカナベラル"
+    },
+    "tags": [
+      {
+        "en": "orbital habitats",
+        "ja": "軌道居住"
+      },
+      {
+        "en": "space architecture",
+        "ja": "宇宙建築"
+      },
+      {
+        "en": "sustainable design",
+        "ja": "持続可能なデザイン"
+      },
+      {
+        "en": "private space",
+        "ja": "民間宇宙"
+      }
+    ],
+    "body": {
+      "en": [
+        "The notion of a permanent human presence beyond Earth has long been tethered to the purely utilitarian. Laboratories and engineering marvels have defined our initial forays into orbit, prioritizing function over form. Yet, as space migration advances, the conversation subtly shifts toward how one might truly inhabit these new frontiers.",
+        "Axiom Orbital Systems, a private aerospace venture, recently unveiled its “Stardust Haven” orbital module, a design that marks a deliberate departure from its predecessors. Scheduled for deployment in low Earth orbit by 2028, the module is conceived not just as a workspace, but as a genuine living environment designed for extended stays.",
+        "The Stardust Haven module boasts a generous 200 cubic meters of habitable volume, intended to comfortably house a crew of four. Its most notable feature is the extensive use of recycled composite materials, accounting for 85% of its structural mass. This commitment to sustainability extends to its modular interior, allowing residents to reconfigure their personal spaces.",
+        "Unlike the metallic, exposed conduits of the International Space Station, Stardust Haven incorporates soft lighting, natural textures, and private nooks. The design emphasizes psychological well-being, acknowledging that a sense of 'home' is crucial for long-duration missions. It is an acknowledgment that the human spirit requires more than just survival.",
+        "> \"Our goal was to create a sanctuary, not just a station, where the aesthetics contribute as much to well-being as the life support systems.\"",
+        "This emphasis on design and comfort introduces a new dimension to off-world architecture. It suggests a future where orbital habitats are not just engineering achievements but also canvases for interior designers, material scientists, and artists. The tactile experience of a recycled wall panel, the curated scent of purified air, or the visual comfort of a soft textile could become defining luxuries for those living away from Earth.",
+        "Such developments hint at the emergence of new economies centered on off-world domesticity. As permanent settlements become viable, so too will the demand for goods and services that elevate daily life—from bespoke furniture to sustainable textile production, transforming the very texture of existence beyond our planet."
+      ],
+      "ja": [
+        "地球外での恒久的な人類の存在は、これまで純粋な実用性と結びついてきました。軌道への初期の進出は、機能性を形式に優先させ、研究室や工学的な驚異がその主軸を成していました。しかし、宇宙移住が進むにつれて、これらの新たなフロンティアでどのように真に居住するかという議論へと、その焦点は静かに移りつつあります。",
+        "民間航空宇宙企業であるアクシオム・オービタル・システムズは先日、これまでのモジュールとは一線を画す「スターダスト・ヘイブン」軌道モジュールを発表しました。2028年までに低地球軌道に展開される予定のこのモジュールは、単なる作業空間としてだけでなく、長期間の滞在のために設計された真の生活環境として構想されています。",
+        "スターダスト・ヘイブンは、200立方メートルという広々とした居住空間を誇り、4名の乗組員を快適に収容するよう設計されています。その最も注目すべき特徴は、構造質量の85%を占めるリサイクル複合材料の広範な使用です。この持続可能性へのコミットメントは、住民が個人の空間を再構成できるモジュール式の内装にも及んでいます。",
+        "国際宇宙ステーションの金属剥き出しの配管とは異なり、スターダスト・ヘイブンは柔らかな照明、自然な質感、そしてプライベートな空間を取り入れています。このデザインは、長期ミッションにおいて「家」の感覚が極めて重要であるという認識に基づき、心理的幸福を重視しています。これは、人間の精神が単なる生存以上のものを求めていることへの認識です。",
+        "> 「私たちの目標は、単なるステーションではなく、生命維持システムと同じくらい美意識が幸福に貢献する聖域を創造することでした。」",
+        "デザインと快適性へのこの重点は、地球外建築に新たな次元をもたらします。これは、軌道上の居住空間が単なる工学的成果ではなく、インテリアデザイナー、材料科学者、そしてアーティストのためのキャンバスとなる未来を示唆しています。リサイクルされた壁パネルの触感、浄化された空気の厳選された香り、あるいは柔らかな織物の視覚的な快適さが、地球を離れて暮らす人々のための決定的な贅沢となるかもしれません。",
+        "このような進展は、地球外の家庭生活を中心とした新しい経済の出現を暗示しています。恒久的な居住地が実現可能になるにつれて、特注の家具から持続可能なテキスタイル生産に至るまで、日常生活を向上させる商品やサービスへの需要も高まり、私たちの惑星を超えた存在のまさにその質感を変化させるでしょう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "A private company called Axiom Orbital Systems has revealed a new living module for space, named Stardust Haven. Instead of being purely functional like past space stations, this module is designed to feel more like a comfortable home, using recycled materials and a flexible layout. It aims to make long-term space living more pleasant and psychologically supportive.",
+        "For Tokyo readers, this news signals a future where living in space isn't just about survival, but about quality of life and aesthetics. This could influence how we think about compact, sustainable urban living here on Earth, pushing innovations in materials science and interior design that prioritize both function and comfort. Japanese design firms, known for their minimalist aesthetics and efficient use of space, might find new opportunities in this emerging field of orbital architecture.",
+        "This shift towards 'home-like' space habitats is likely 5 to 10 years away from becoming a widespread reality. The main gating factors are the continued reduction in launch costs for both people and cargo, and the development of clear international regulations for private commercial operations in orbit. Japan's own space policy, particularly regarding private sector involvement and resource utilization, will play a crucial role in how quickly this vision materializes for its citizens.",
+        "While Japan is not currently building commercial orbital habitats of this specific design, several Japanese entities are contributing to the necessary groundwork. ispace, for example, is a pioneer in private lunar landers, which is a step towards commercial off-world infrastructure. Astroscale is focused on orbital debris removal and sustainability, aligning with Stardust Haven's use of recycled materials. Furthermore, research institutions like the University of Tokyo are actively exploring concepts in space architecture and human factors in long-duration spaceflight."
+      ],
+      "ja": [
+        "アクシオム・オービタル・システムズという民間企業が、「スターダスト・ヘイブン」と名付けられた新しい宇宙居住モジュールを発表しました。これは、これまでの宇宙ステーションのように機能一辺倒ではなく、リサイクル素材や柔軟なレイアウトを用いて、より快適な「家」のような感覚を目指しています。長期的な宇宙生活をより快適で心理的に支えるものにしようという試みです。",
+        "東京の読者にとって、このニュースは、宇宙での生活が単なる生存ではなく、生活の質や美意識を追求するものになる未来を示唆しています。これは、地球上、特にコンパクトで持続可能な都市生活のあり方について考えるきっかけとなり、機能性と快適性の両方を重視する素材科学やインテリアデザインの革新を促すかもしれません。ミニマリストな美学と効率的な空間利用で知られる日本のデザイン企業は、この新しい軌道建築の分野で新たな機会を見出す可能性があります。",
+        "このような「家のような」宇宙居住空間への移行が広く現実となるには、おそらく5年から10年かかるでしょう。主な要因は、人や貨物の打ち上げコストが継続的に削減されること、そして軌道上での民間商業活動に関する明確な国際規制が整備されることです。日本の宇宙政策、特に民間部門の関与や資源利用に関する方針が、このビジョンが国民にとってどれだけ早く実現するかに重要な役割を果たすでしょう。",
+        "日本は現在、このような特定のデザインの商業軌道居住モジュールを直接建設しているわけではありませんが、いくつかの日本の組織が必要な基盤作りに貢献しています。例えば、ispace社は民間の月着陸船のパイオニアであり、これは商業的な地球外インフラへの一歩です。アストロスケール社は軌道デブリ除去と持続可能性に焦点を当てており、スターダスト・ヘイブンのリサイクル素材の使用という考え方と通じるものがあります。さらに、東京大学のような研究機関も、宇宙建築や長期宇宙飛行における人間要因に関する概念を積極的に探求しています。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/space-exploration/search-for-life/white-house-appoints-harvard-astronomer-avi-loeb-to-lead-new-ufo-study-group"
+    },
+    "sourceGuid": "ErJVkoLjc7H2ddDVxxTYMd",
+    "status": "published"
+  },
+  {
+    "slug": "orbital-mirror-project-receives-fcc-approval-amidst-controversy",
+    "category": "space-tech",
+    "issue": "Vol. 07",
+    "publishedAt": "2026-07-11T00:29:25.000Z",
+    "readingMinutes": 4,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
+    },
+    "title": {
+      "en": "Orbital Mirror Project Receives FCC Approval Amidst Controversy",
+      "ja": "軌道鏡プロジェクト、FCCが承認 論争の中での一歩"
+    },
+    "dek": {
+      "en": "The Federal Communications Commission has granted approval for Reflect Orbital's satellite, designed to illuminate nighttime regions by reflecting sunlight, a decision that has drawn sharp criticism from scientific and environmental communities.",
+      "ja": "連邦通信委員会は、夜間地域を太陽光で照らすことを目的としたリフレクト・オービタル社の衛星を承認した。この決定は、科学者や環境保護団体から強い批判を受けている。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Washington D.C., July 11, 2026",
+      "ja": "ワシントンD.C.、2026年7月11日"
+    },
+    "tags": [
+      {
+        "en": "Reflect Orbital",
+        "ja": "リフレクト・オービタル"
+      },
+      {
+        "en": "FCC",
+        "ja": "連邦通信委員会"
+      },
+      {
+        "en": "Orbital Mirror",
+        "ja": "軌道鏡"
+      },
+      {
+        "en": "Light Pollution",
+        "ja": "光害"
+      }
+    ],
+    "body": {
+      "en": [
+        "A concept once relegated to science fiction is moving closer to reality. The Federal Communications Commission (FCC) has approved the first satellite from Reflect Orbital, a company proposing to use orbital mirrors to redirect sunlight onto specific regions of Earth during nighttime hours.",
+        "The core ambition is to provide targeted illumination, potentially aiding disaster relief efforts, extending daylight for agricultural purposes, or offering novel lighting solutions for remote infrastructure. This initial approval marks a significant regulatory step for a technology that seeks to manipulate Earth's natural light cycles from orbit.",
+        "However, the project has not proceeded without substantial opposition. Scientific and environmental groups have voiced strong concerns regarding the potential ecological impacts and the exacerbation of light pollution.",
+        "> The project has been \"sharply criticized by astronomers and environmentalists.\"",
+        "Astronomers, in particular, worry about the degradation of night sky observations, vital for both professional research and amateur stargazing. Environmentalists point to the unknown effects on nocturnal ecosystems, where artificial light can disrupt animal behavior, migration patterns, and plant growth.",
+        "The FCC's decision, issued from Washington D.C., primarily addresses the satellite's communication aspects and its safe operation within orbital parameters. It does not, however, fully resolve the broader ethical and environmental debates surrounding the intentional modification of Earth's illumination.",
+        "For those who envision a future beyond Earth, this development introduces new considerations. The prospect of artificial illumination on lunar bases or Martian habitats, once purely a matter of engineering, now carries the weight of terrestrial controversies. What constitutes natural light, and who controls its presence, becomes a question not just for our home world, but for every future settlement under an alien sky."
+      ],
+      "ja": [
+        "かつてサイエンスフィクションの領域にあった構想が、現実へと一歩近づいた。連邦通信委員会（FCC）は、軌道上の鏡を使って夜間の地球の特定地域に太陽光を再照射することを提案するリフレクト・オービタル社の最初の衛星を承認した。",
+        "その中心的な野望は、災害救援活動の支援、農業目的の日照時間の延長、あるいは遠隔地のインフラ向けに新たな照明ソリューションを提供することにある。この初期承認は、地球の自然な光のサイクルを軌道上から操作しようとする技術にとって、重要な規制上の一歩となる。",
+        "しかし、このプロジェクトは大きな反対なしに進んだわけではない。科学者や環境保護団体は、潜在的な生態系への影響や光害の悪化について強い懸念を表明している。",
+        "> 「天文学者や環境保護団体から強い批判を受けている」と報じられている。",
+        "特に天文学者は、専門的な研究とアマチュアの星空観察の両方にとって不可欠な夜空の観測が劣化することを懸念している。環境保護主義者は、人工光が動物の行動、渡りのパターン、植物の成長を妨げる可能性があり、夜行性生態系への未知の影響を指摘する。",
+        "ワシントンD.C.から発行されたFCCの決定は、主に衛星の通信側面と軌道パラメータ内での安全な運用に関するものだ。しかし、地球の照明を意図的に変更することを取り巻く、より広範な倫理的・環境的議論を完全に解決するものではない。",
+        "地球外の未来を構想する人々にとって、この進展は新たな考察をもたらす。月面基地や火星の居住地における人工照明の可能性は、かつては純粋に工学的な問題であったが、今や地球上の論争の重みを伴う。何が自然光を構成し、誰がその存在を制御するのかという問いは、私たちの故郷だけでなく、異星の空の下にあるすべての将来の居住地にとっても問われることになるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Imagine a satellite in orbit that acts like a giant, reflective mirror, designed to send a beam of sunlight down to Earth during the night. This is the essence of Reflect Orbital's project, which recently received approval from the US Federal Communications Commission. It's not about lighting up entire cities like a second sun, but rather creating a more focused, controlled patch of light, perhaps like a very bright, slow-moving spotlight from space.",
+        "For Tokyo readers, the direct, immediate impact of this technology is likely minimal. We are already accustomed to a city bathed in artificial light, and a distant orbital mirror would not fundamentally alter our urban experience. However, in the longer term, if such technology were to scale, it could affect niche areas. Think about clearer satellite imagery at night for disaster zones, or perhaps even a novel form of 'sky advertising' visible from specific locations, though this is purely speculative.",
+        "Any tangible impact on daily life in Tokyo would be at least 5-10 years away, and even then, it would be gated by several factors: the successful demonstration of the technology, public acceptance of altering natural light cycles, and the establishment of international regulations governing such orbital interventions. The current approval is for a test, not widespread deployment.",
+        "While Japan does not have a direct counterpart project for orbital mirrors designed to illuminate Earth, the country is deeply engaged in the broader conversation about space sustainability and the responsible use of orbital resources. Companies like Astroscale, headquartered in Japan, are pioneers in developing technologies for orbital debris removal and on-orbit servicing, reflecting a proactive stance on managing the space environment. This news highlights the global challenges and ethical considerations that Japan, as a leading space nation, will continue to navigate."
+      ],
+      "ja": [
+        "軌道上に巨大な反射鏡のような衛星があり、夜間に地球に太陽光を送ることを目指すプロジェクトを想像してみてください。これが、米国連邦通信委員会（FCC）から最近承認を受けたリフレクト・オービタル社の計画の核心です。これは都市全体を第二の太陽のように照らすのではなく、宇宙から来る非常に明るくゆっくりと動くスポットライトのように、より焦点を絞った制御された光のパッチを作り出すことを意図しています。",
+        "東京で暮らす読者にとって、この技術が直接的に与える影響は、当面はごくわずかでしょう。私たちはすでに人工光に包まれた都市生活に慣れており、遠く離れた軌道上の鏡が私たちの都市体験を根本的に変えることはないはずです。しかし、長期的には、もしこの技術が大規模に展開されれば、特定の分野に影響を与える可能性があります。例えば、夜間の災害地域におけるより鮮明な衛星画像や、特定の場所から見える新しい形の「宇宙広告」などが考えられますが、これはあくまで憶測の域を出ません。",
+        "東京の日常生活に具体的な影響が出るのは、少なくとも5〜10年先になるでしょう。それには、技術の成功実証、自然な光のサイクルを変更することへの社会的な受容、そしてこうした軌道介入を規制する国際的な枠組みの確立という、いくつかの障壁を越える必要があります。今回の承認は、あくまで試験的な運用に対するものです。",
+        "日本には、地球を照らすことを目的とした軌道鏡の直接的な類似プロジェクトはありませんが、宇宙の持続可能性と軌道資源の責任ある利用に関する広範な議論には深く関与しています。例えば、日本に本社を置くアストロスケール社は、宇宙デブリ除去や軌道上サービスのための技術開発の先駆者であり、宇宙環境の管理に対する積極的な姿勢を示しています。今回のニュースは、宇宙先進国である日本が今後も取り組んでいくべき、地球規模の課題と倫理的考察を浮き彫りにしています。"
+      ]
+    },
+    "source": {
+      "name": "SpaceNews",
+      "url": "https://spacenews.com/fcc-approves-first-reflect-orbital-satellite/"
+    },
+    "sourceGuid": "https://spacenews.com/?p=604966",
+    "status": "published"
+  },
+  {
+    "slug": "the-first-forged-star-astroforge-demonstrates-in-space-refining",
+    "category": "space-tech",
+    "issue": "Vol. 07",
+    "publishedAt": "2026-07-11T04:02:20.000Z",
+    "readingMinutes": 5,
+    "feature": false,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/4QiGY4JAWr7CBsYvQ9qN2X-1280-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "The First Forged Star: AstroForge Demonstrates In-Space Refining",
+      "ja": "宇宙で鍛えられた最初の星：アストロフォージが軌道上精錬を実証"
+    },
+    "dek": {
+      "en": "A small satellite successfully refined simulated asteroid material in orbit, marking a pivotal step towards self-sustaining off-world settlements and a new era of space-sourced materials.",
+      "ja": "小型衛星が模擬小惑星材料の軌道上精錬に成功。地球外居住地の自給自足に向けた重要な一歩であり、宇宙由来の材料が新たな時代を拓く。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO – July 11, 2026",
+      "ja": "東京 — 2026年7月11日"
+    },
+    "tags": [
+      {
+        "en": "asteroid mining",
+        "ja": "小惑星採掘"
+      },
+      {
+        "en": "in-situ resource utilization",
+        "ja": "現地資源利用"
+      },
+      {
+        "en": "space manufacturing",
+        "ja": "宇宙製造"
+      },
+      {
+        "en": "materials science",
+        "ja": "材料科学"
+      }
+    ],
+    "body": {
+      "en": [
+        "For decades, the vision of human expansion into space has been tethered to Earth, every bolt and beam ferried from the planet's surface. This paradigm may soon shift. Earlier this month, a small satellite named Brokkr-1, developed by the Californian startup AstroForge, successfully demonstrated the refining of simulated asteroid material in low Earth orbit.",
+        "The Brokkr-1 mission, a 12U CubeSat weighing approximately 25 kilograms, carried a sample of nickel-iron alloy, designed to mimic the composition of certain metallic asteroids. Its primary objective was to validate the company's proprietary refining process in the unique microgravity environment of space. The successful test confirmed the viability of processing raw materials directly off-world.",
+        "During the orbital demonstration, the satellite initiated a series of controlled heating and purification cycles. This intricate process, executed autonomously, resulted in the separation of valuable metals from impurities. A small, gleaming ingot, roughly the size of a human thumb, was produced—a tangible testament to the future of in-space manufacturing.",
+        "> \"This is a critical step towards unlocking the vast resources of space,\" the original report noted.",
+        "The implications extend beyond mere engineering. By proving that materials can be extracted and processed in space, AstroForge has laid groundwork for reducing the logistical burden and prohibitive costs associated with launching everything from Earth. This capability is essential for establishing permanent lunar bases, Martian settlements, and even large-scale orbital habitats.",
+        "## Towards a New Material Culture",
+        "The ability to forge materials in space transforms our understanding of what off-world architecture and industry could become. Instead of relying on pre-fabricated modules shipped from Earth, future inhabitants might construct their dwellings and tools from local regolith or asteroid fragments. This shift introduces a new material culture, where the scarcity of Earth-launched goods gives way to an abundance of locally sourced, space-derived resources. Imagine structures with textures unlike anything found on Earth, or tools crafted from metals born in the void. This redefines not just the economics of space exploration, but the very aesthetic and practical realities of living beyond our home planet."
+      ],
+      "ja": [
+        "人類が宇宙へと拡大するビジョンは、長らく地球に縛られてきた。あらゆる部品や構造材は、惑星の表面から運ばれてきたものだ。しかし、このパラダイムは間もなく転換するかもしれない。今月初め、カリフォルニアのスタートアップ、アストロフォージが開発した小型衛星「ブロッカー1」が、低軌道上で模擬小惑星材料の精錬を成功裏に実証した。",
+        "ブロッカー1ミッションは、約25キログラムの12Uキューブサットで、特定の金属小惑星の組成を模倣したニッケル・鉄合金のサンプルを搭載していた。その主目的は、宇宙の独特な微重力環境下で同社独自の精錬プロセスが有効であることを検証することだった。今回の成功は、宇宙で直接原材料を加工する実現可能性を確固たるものにした。",
+        "軌道上での実証中、衛星は一連の制御された加熱および精製サイクルを開始した。自律的に実行されたこの複雑なプロセスにより、貴重な金属が不純物から分離された。人間の親指ほどの大きさの、きらめく小さなインゴットが生成された—これは宇宙での製造の未来を形にする具体的な証拠である。",
+        "> 「これは、広大な宇宙資源を解き放つための極めて重要な一歩だ」と原文は記している。",
+        "その影響は単なる工学的な側面にとどまらない。宇宙で材料を抽出・加工できることを証明することで、アストロフォージは、地球から全てを打ち上げることに伴う物流上の負担と法外なコストを削減するための基礎を築いた。この能力は、恒久的な月面基地、火星居住地、さらには大規模な軌道上居住地を確立するために不可欠である。",
+        "## 新たな物質文化へ",
+        "宇宙で材料を精錬する能力は、地球外の建築や産業がどのようなものになり得るかという私たちの理解を変える。地球から運ばれてくる既製のモジュールに頼る代わりに、将来の居住者たちは現地のレゴリスや小惑星の破片から住居や道具を建造するかもしれない。この転換は、新たな物質文化をもたらす。地球由来の物資の希少性が、現地で調達された宇宙由来の資源の豊富さに道を譲るのだ。地球上では見られないような質感を持つ構造物や、宇宙空間で生まれた金属から作られた道具を想像してみてほしい。これは、宇宙探査の経済性だけでなく、私たちの故郷の惑星を超えて生きるという、その美学的かつ実用的な現実そのものを再定義する。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "A California-based company, AstroForge, has successfully demonstrated a key step towards making things in space, from space materials. Think of it like a small, flying factory that can take a piece of rock, similar to what you'd find in an asteroid, and refine it into useful metal, all while orbiting Earth. This is important because it means we might not always need to ship every single component for a space station or lunar base from Earth.",
+        "For Tokyo readers, this advancement holds a future promise for how resources are managed beyond our planet. Imagine a future where the materials for advanced electronics or new construction techniques are sourced not from terrestrial mines, but from asteroids. This could eventually impact the supply chains for rare metals that Japan's high-tech industries rely on, potentially making them more stable or even cheaper, by opening up an entirely new source.",
+        "This shift isn't immediate, but you can expect to see tangible progress within 5 to 10 years. The main challenge now is scaling up this technology from a small demonstrator to industrial-level processing, and also establishing international agreements on who owns and can utilize space resources. Japan, through its diplomatic efforts and contributions to international space law, will play a crucial role in shaping this future.",
+        "While AstroForge focuses on asteroid mining, Japan has its own pioneering efforts in space resource utilization. ispace, for example, is actively pursuing lunar resource exploration and aims to establish a transportation service to the Moon. While not directly refining metals from asteroids, their work on lunar water ice and infrastructure development shares the fundamental goal of enabling self-sufficiency in space, reducing our reliance on Earth-launched supplies."
+      ],
+      "ja": [
+        "カリフォルニアの企業、アストロフォージが、宇宙にある材料から宇宙で何かを作るための重要な一歩を実証しました。これは、小さな空飛ぶ工場が、小惑星で見つかるような岩石片を地球を周回しながら有用な金属に精錬できる、と考えると分かりやすいでしょう。この技術が重要である理由は、将来的に宇宙ステーションや月面基地のあらゆる部品を地球から輸送する必要がなくなるかもしれないからです。",
+        "東京で暮らす読者にとって、この進歩は地球外での資源管理の未来に希望をもたらします。将来、高度なエレクトロニクスや新しい建設技術に必要な材料が、地球の鉱山からではなく、小惑星から調達されるようになるかもしれません。これは、日本のハイテク産業が依存する希少金属のサプライチェーンに最終的に影響を与え、まったく新しい供給源を開拓することで、より安定したり、あるいは安価になったりする可能性があります。",
+        "この変化はすぐには訪れませんが、5年から10年以内には具体的な進展が見られるでしょう。現在の主な課題は、この技術を小型の実証機から産業レベルの加工へとスケールアップすること、そして宇宙資源の所有権と利用に関する国際的な合意を確立することです。日本は、外交努力と国際宇宙法の貢献を通じて、この未来を形作る上で重要な役割を果たすでしょう。",
+        "アストロフォージは小惑星採掘に焦点を当てていますが、日本も宇宙資源利用において独自の先駆的な取り組みを進めています。例えば、ispaceは月面での資源探査に積極的に取り組み、月への輸送サービスの確立を目指しています。小惑星からの金属精錬とは直接的ではありませんが、月面の水氷やインフラ開発に関する彼らの取り組みは、宇宙での自給自足を可能にし、地球からの物資供給への依存を減らすという根本的な目標を共有しています。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-35th-mission-starlink-launch"
+    },
+    "sourceGuid": "WfgFNXkaZLWQmXbsuzWjpD",
+    "status": "published"
+  },
+  {
     "slug": "chinas-reusable-rocketry-a-new-competitive-front-in-space-access",
     "category": "space-tech",
     "issue": "Vol. 07",
@@ -523,8 +955,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Blue Origin Seeks Major External Investment",
@@ -1123,8 +1555,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "FCC Moves to Streamline Satellite Licensing",
@@ -1471,8 +1903,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#08080a"
     },
     "title": {
       "en": "Blue Origin's Lunar Ambition Endures Amidst New Glenn Recovery",
@@ -1555,8 +1987,8 @@
     "readingMinutes": 3,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101012"
     },
     "title": {
       "en": "Ravee Optics Secures Seed Funding for Compact Laser Terminals",
@@ -2327,8 +2759,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101012"
+      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "The New Vanguard: Private Pilots Join Orbital Defence",
@@ -2585,8 +3017,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#08080a"
+      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0b0b0d"
     },
     "title": {
       "en": "The Final Flight of Pegasus XL: Sustaining Orbital Assets",
@@ -2931,8 +3363,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0b0b0d"
+      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Perovskite Solar Panels Pivot to Orbit",
@@ -3017,8 +3449,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Orbital Vigilance: True Anomaly Demonstrates Rapid Satellite Inspection",
@@ -3363,8 +3795,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Lunar Forge Plans Regolith-Built Reactor Shields for Moon",
@@ -3619,8 +4051,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "Lunar Outpost: NASA Expands Moon Base Science, Signals New Era",
@@ -3791,8 +4223,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "New Glenn's Unanswered Questions: A Setback for Orbital Ambitions",
@@ -4049,8 +4481,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Rocket Lab Expands Reach with Iridium Acquisition",
@@ -4307,8 +4739,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0f12"
     },
     "title": {
       "en": "Mapping the Lunar Future: Argonaut's Path to Autonomy",
@@ -4821,8 +5253,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Orbital Data Centers: A Vision Under Scrutiny",
@@ -4993,8 +5425,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Consolidation in Orbit: Musk Acquires SpaceX Alumni Startup Mesh",
@@ -5167,8 +5599,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0f12"
     },
     "title": {
       "en": "Beyond Apollo: The Next Generation of Lunar Landers Takes Shape",
@@ -5429,8 +5861,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Synspective's Orbiting Eye: Rocket Lab Deploys Tenth Radar Satellite",
@@ -5513,8 +5945,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "The Spreading Seeds: SpaceX Alumni Fuel New Space Economy",
@@ -5597,8 +6029,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Artemis Accords Expand: Botswana Becomes 68th Signatory",
@@ -5765,8 +6197,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#08080a"
     },
     "title": {
       "en": "Artemis II: Refining the Path to a Sustainable Lunar Presence",
@@ -6025,8 +6457,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Space Force Reconfigures Satellite Control Network After Contract Termination",
@@ -6111,8 +6543,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Orbital Congestion: Operators Form New Trade Body",
@@ -6199,8 +6631,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "Artemis: The Path to Permanent Presence",
@@ -6443,438 +6875,6 @@
       "url": "https://futurism.com/space/spacex-stock-fallen-below-opening-price"
     },
     "sourceGuid": "https://futurism.com/?p=443944",
-    "status": "published"
-  },
-  {
-    "slug": "starfall-spacex-charts-a-new-course-for-global-cargo",
-    "category": "space-tech",
-    "issue": "Vol. 06",
-    "publishedAt": "2026-06-23T05:25:16.000Z",
-    "readingMinutes": 5,
-    "feature": false,
-    "cover": {
-      "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/starfallillustration2-1152x609.jpg",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Starfall: SpaceX Charts a New Course for Global Cargo",
-      "ja": "スターフォール：SpaceXが拓く、宇宙からのグローバル貨物輸送"
-    },
-    "dek": {
-      "en": "SpaceX's \"Starfall\" initiative proposes a revolutionary orbital logistics network, promising to redefine global cargo delivery with unprecedented speed and reach.",
-      "ja": "SpaceXの「スターフォール」構想は、軌道上からの革新的な物流ネットワークを提案し、これまでにない速度と到達範囲で世界の貨物輸送を再定義する。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "June 23, 2026",
-      "ja": "2026年6月23日"
-    },
-    "tags": [
-      {
-        "en": "space-tech",
-        "ja": "宇宙技術"
-      },
-      {
-        "en": "logistics",
-        "ja": "物流"
-      },
-      {
-        "en": "SpaceX",
-        "ja": "SpaceX"
-      },
-      {
-        "en": "Starship",
-        "ja": "スターシップ"
-      }
-    ],
-    "body": {
-      "en": [
-        "The ambition to shrink the world through rapid transit has long driven innovation, from clipper ships to supersonic jets. Now, SpaceX is charting a new vector, proposing an orbital logistics network named \"Starfall\" that promises to deliver cargo anywhere on Earth from space.",
-        "This initiative moves beyond traditional air freight, envisioning a future where critical goods traverse continents in mere minutes or hours. The core of this vision relies on the Starship system, designed for rapid reusability and substantial payload capacity, making point-to-point delivery from orbit a plausible commercial reality.",
-        "The concept involves launching cargo into low Earth orbit, then de-orbiting and performing precision landings at designated sites globally. This method bypasses congested airspace and traditional shipping lanes, offering a direct, high-speed conduit for urgent or high-value shipments.",
-        "Early projections suggest the potential for significant reductions in transit times, transforming supply chain dynamics for industries reliant on swift, global movement of goods. From emergency medical supplies to critical manufacturing components, the speed advantage is considerable.",
-        " > The original report suggests a future where rapid, orbital logistics redefine global supply chains.",
-        "While the technical challenges of routine, safe re-entry and precision landing for cargo are substantial, the economic implications are equally profound. As launch costs decrease with reusability, orbital delivery could become competitive for certain niches, creating a new tier of express logistics.",
-        "The notion of continents shrinking into mere hours of transit time hints at a new geography of commerce. For those building lives off-world, the development of such a robust, high-cadence Earth-to-Earth delivery system offers a tangible blueprint for future lunar and Martian logistics. The mastery of rapid, reliable cargo movement will be foundational, whether between continents or between planets, setting a precedent for the infrastructure that will sustain off-world settlements."
-      ],
-      "ja": [
-        "高速輸送による世界規模での距離の短縮は、帆船から超音速ジェットまで、長きにわたり革新を推進してきた。今、SpaceXは新たな方向性を描いている。「スターフォール」と名付けられた軌道上物流ネットワーク構想は、地球上のどこへでも宇宙から貨物を届けることを約束する。",
-        "この構想は従来の航空貨物輸送を超越し、重要な物資が数分から数時間で大陸間を移動する未来を思い描く。その核となるのは、迅速な再利用性と大容量の積載能力を持つStarshipシステムであり、軌道上からのポイント・ツー・ポイント輸送を商業的に現実のものとする。",
-        "計画では、貨物を低軌道に打ち上げ、その後、地球上の指定された地点に精密着陸させる。この方法は、混雑した空域や従来の輸送経路を回避し、緊急性の高い貨物や高価値な貨物に対し、直接的で高速な輸送経路を提供する。",
-        "初期の予測では、輸送時間の大幅な短縮が見込まれており、迅速なグローバル移動に依存する産業のサプライチェーンに劇的な変化をもたらす。緊急医療品から重要な製造部品に至るまで、その速度の利点は計り知れない。",
-        " > 原文は、軌道上からの高速物流が世界のサプライチェーンを再定義する未来を示唆している。",
-        "貨物の日常的で安全な再突入と精密着陸という技術的課題は大きいが、経済的影響も同様に大きい。再利用性による打ち上げコストの削減が進めば、軌道上輸送は特定のニッチ市場で競争力を持つようになり、新たなエクスプレス物流の階層を創出するだろう。",
-        "数時間で大陸が縮小するという考えは、商業の新たな地理を暗示する。地球外で生活を築く人々にとって、このような堅牢で高頻度な地球間輸送システムの開発は、将来の月面や火星での物流の具体的な青写真を提供する。大陸間であろうと惑星間であろうと、迅速で信頼性の高い貨物輸送の習得は基礎となり、地球外居住地を維持するためのインフラの先例となるだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "SpaceX is proposing a system called \"Starfall\" to deliver cargo anywhere on Earth from space. Imagine a very fast delivery service that uses rockets to send packages across the globe in a matter of hours, rather than days. This means a package could be launched into orbit and then precisely landed at its destination.",
-        "For Tokyo readers, this could eventually make international shipping of high-value or critical goods much faster and potentially more reliable. For instance, a crucial semiconductor component needed in a Tokyo factory could arrive from a distant continent in hours, significantly reducing production downtime. It might also influence the cost and speed of express delivery services over time.",
-        "This is likely 5-10 years away from widespread commercial use. The biggest hurdles will be proving the safety and reliability of routine re-entry and precision landing for cargo, and then scaling operations to be cost-effective against established air freight. Regulatory frameworks for such rapid global transit also need to mature significantly.",
-        "While no direct Japanese counterpart for orbital point-to-point delivery exists yet, companies like ispace are focused on lunar logistics, demonstrating a similar ambition for rapid, reliable cargo movement, albeit to a different destination. Mitsubishi Heavy Industries (MHI) and JAXA are also developing next-generation rockets like H3, which could contribute to the underlying launch infrastructure for such services in the future. The specific challenge of global terrestrial point-to-point delivery from orbit remains an area for future Japanese innovation."
-      ],
-      "ja": [
-        "SpaceXは「スターフォール」と呼ぶ、宇宙から地球上のあらゆる場所へ貨物を届ける計画を進めています。これは、まるで空飛ぶ宅配便が、数日かかる国際貨物を数時間で届けるようなものです。荷物をロケットで軌道に打ち上げ、その後、目的地に正確に着陸させることを目指しています。",
-        "東京で暮らす読者にとって、将来的には、高価値または緊急性の高い国際貨物の輸送速度と信頼性が大きく向上する可能性があります。例えば、東京の工場で緊急に必要な半導体部品が、地球の反対側から数時間で届くようになれば、生産ラインの停止時間を大幅に短縮できます。また、高額な国際速達便のコストやスピードにも影響を与えるかもしれません。",
-        "広範な商業利用には、まだ5年から10年程度の時間が必要でしょう。日常的な再突入と精密着陸の安全性・信頼性の確立、そして従来の航空貨物と比較して費用対効果を高めるための運用規模の拡大が大きな課題です。また、このような超高速グローバル輸送に関する国際的な規制整備も不可欠です。",
-        "日本には、軌道上からのポイント・ツー・ポイント輸送に直接取り組む企業はまだありません。しかし、ispace社が月面への物資輸送を目指しているように、迅速で信頼性の高い貨物輸送の実現という点では共通の目標を持っています。また、三菱重工業（MHI）やJAXAはH3ロケットなどの次世代ロケット開発を進めており、将来的にこのようなサービスを支える基盤技術に貢献する可能性を秘めています。軌道上からの地球上ポイント・ツー・ポイント輸送という具体的な分野は、今後の日本のイノベーションの領域となるでしょう。"
-      ]
-    },
-    "source": {
-      "name": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/06/with-starfall-spacex-eyes-an-edge-in-global-cargo-delivery-from-orbit/"
-    },
-    "sourceGuid": "https://arstechnica.com/space/2026/06/with-starfall-spacex-eyes-an-edge-in-global-cargo-delivery-from-orbit/",
-    "status": "published"
-  },
-  {
-    "slug": "the-crowded-gates-of-orbit-nasa-warns-of-launch-site-strain",
-    "category": "space-tech",
-    "issue": "Vol. 06",
-    "publishedAt": "2026-06-23T22:15:48.000Z",
-    "readingMinutes": 5,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
-    },
-    "title": {
-      "en": "The Crowded Gates of Orbit: NASA Warns of Launch Site Strain",
-      "ja": "軌道への門戸、混雑の兆し：NASAが打ち上げ施設の逼迫を警告"
-    },
-    "dek": {
-      "en": "An internal report by NASA’s Inspector General highlights growing capacity issues at major U.S. spaceports, signaling potential bottlenecks for the accelerating pace of space operations.",
-      "ja": "NASA監察官の報告書が、米国の主要な宇宙港における処理能力の限界を指摘。宇宙活動の加速に伴う潜在的なボトルネックが浮上しています。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "WASHINGTON D.C.",
-      "ja": "ワシントンD.C."
-    },
-    "tags": [
-      {
-        "en": "NASA",
-        "ja": "NASA"
-      },
-      {
-        "en": "Launch Infrastructure",
-        "ja": "打ち上げインフラ"
-      },
-      {
-        "en": "Spaceport Capacity",
-        "ja": "宇宙港の処理能力"
-      },
-      {
-        "en": "Space Economy",
-        "ja": "宇宙経済"
-      }
-    ],
-    "body": {
-      "en": [
-        "The rhythm of launches from Florida’s Space Coast has intensified, with rockets now ascending into orbit at an unprecedented cadence. What was once an occasional spectacle has become a regular occurrence, transforming the landscape of Kennedy Space Center and Cape Canaveral Space Force Station into a bustling hub of activity.",
-        "This surge in operations, driven by both government and commercial ventures, has brought with it a new set of challenges. A recent report from NASA’s Inspector General (IG) outlines significant concerns regarding the capacity of existing launch infrastructure.",
-        "The report details how the increased frequency of launches is straining various critical resources. These include everything from vehicle processing facilities and propellant storage to range safety operations and the limited availability of launch pads themselves. Each mission requires meticulous preparation, and the turnaround time between launches is shrinking.",
-        "Such constraints are not merely logistical inconveniences. They pose a tangible threat to the ambitious timelines set for lunar missions, orbital deployments, and the burgeoning commercial space economy. The sky, once an empty canvas, now demands a more intricate choreography.",
-        "> The increasing number of launches is posing problems to spaceports.",
-        "The Inspector General’s findings underscore a fundamental tension: the desire for rapid expansion into space versus the physical limitations of the ground-based infrastructure supporting it. Without significant investment in upgrades or the development of new facilities, the pace of orbital access could be artificially capped.",
-        "For those envisioning a future off-world, whether working on a lunar base or living in an orbital habitat, this report carries a direct implication. Limited launch capacity translates to higher costs for transporting materials, equipment, and personnel. It means longer waits for essential supplies and slower progress in establishing permanent extraterrestrial settlements, making the dream of a multi-planetary existence a more expensive and protracted endeavor than anticipated."
-      ],
-      "ja": [
-        "フロリダのスペースコーストから宇宙へと向かうロケットの鼓動は、かつてないほどの頻度で高まっています。かつては稀な光景であった打ち上げは日常となり、ケネディ宇宙センターやケープカナベラル宇宙軍基地の景観を活気ある拠点へと変貌させました。",
-        "政府と民間の両方の事業によって推進されるこの運用の急増は、新たな課題をもたらしています。NASA監察官（IG）による最近の報告書は、既存の打ち上げインフラの処理能力に関する重大な懸念を詳述しています。",
-        "報告書は、打ち上げ頻度の増加が様々な重要な資源に負担をかけている状況を具体的に示しています。これには、機体処理施設、推進剤貯蔵、射場安全管理、そして打ち上げパッド自体の限られた利用可能性など、多岐にわたる要素が含まれます。各ミッションは綿密な準備を要し、打ち上げ間の準備期間は短縮され続けています。",
-        "こうした制約は、単なる物流上の不便にとどまりません。月面ミッション、軌道上への展開、そして成長著しい商業宇宙経済のために設定された意欲的なスケジュールに、具体的な脅威をもたらします。かつては広大な空白であった空が、より複雑な舞踏を要求し始めているのです。",
-        "> 打ち上げ数の増加が宇宙港に問題を引き起こしている。",
-        "監察官の調査結果は、宇宙への急速な拡大という願望と、それを支える地上インフラの物理的限界との間に存在する根本的な緊張を浮き彫りにしています。大規模なインフラ改善への投資や新施設の開発がなければ、軌道へのアクセス速度は人為的に制限される可能性があります。",
-        "月面基地で働くにせよ、軌道居住地で暮らすにせよ、地球外での未来を思い描く人々にとって、この報告書は直接的な意味合いを持ちます。打ち上げ能力の制限は、物資、設備、人員の輸送コストを高騰させます。それは、不可欠な物資の到着を遅らせ、永続的な地球外居住地の確立を妨げ、多惑星生活という夢を予想以上に高価で長期にわたる事業にするでしょう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Imagine Tokyo's Narita or Haneda airports, but instead of planes, it's rockets launching every few days. NASA's internal auditors are essentially saying that the American 'rocket airports' are getting too busy. There are only so many launch pads, fuel tanks, and control rooms, and with more and more rockets wanting to go to space, they're starting to run into traffic jams.",
-        "For Tokyo readers, this isn't an immediate daily concern, but it has ripple effects. If launching things into space becomes harder or more expensive due to these bottlenecks, it could slow down the deployment of new satellite services. Think about your smartphone's GPS accuracy, the speed of global internet, or even advanced weather forecasting — all rely on satellites. Any delay or cost increase could eventually affect the services you use.",
-        "This issue is likely to become more pronounced within the next 3 to 5 years. The key factor here will be whether the U.S. government and private companies decide to invest heavily in expanding existing launch sites or building entirely new ones. It's a question of political will and significant capital expenditure.",
-        "Japan's own space endeavors, while currently operating at a different scale, face similar long-term considerations. JAXA's H3 rocket program, for instance, aims for a higher launch cadence from Tanegashima Space Center. As Japanese private companies like Interstellar Technologies and Space One also develop their capabilities, the need for efficient, high-capacity launch infrastructure will become increasingly relevant for Japan's role in the global space economy."
-      ],
-      "ja": [
-        "東京の成田や羽田空港を想像してみてください。ただ、飛行機ではなく、数日おきにロケットが打ち上げられているような状況です。NASAの内部監査機関は、アメリカの「ロケット空港」が非常に混雑し始めていると指摘しています。打ち上げパッド、燃料タンク、管制室などには限りがあり、ますます多くのロケットが宇宙に行きたがるため、交通渋滞のような状態になりつつあるのです。",
-        "東京で暮らす読者にとって、これは直ちに日々の生活に関わる問題ではありませんが、波及効果はあります。打ち上げ能力の限界により、宇宙に物を運ぶのが難しくなったり、コストが高くなったりすれば、新しい衛星サービスの展開が遅れる可能性があります。スマートフォンのGPS精度、グローバルインターネットの速度、あるいは高度な天気予報など、すべて衛星に依存しています。遅延やコスト増加は、いずれ皆さんが利用するサービスに影響を与えるかもしれません。",
-        "この問題は、今後3年から5年でより顕在化すると考えられます。鍵となるのは、米国政府と民間企業が既存の打ち上げ施設の大規模な拡張や、全く新しい施設の建設に多額の投資を行うかどうかです。これは政治的な意思決定と莫大な設備投資にかかっています。",
-        "日本自身の宇宙開発も、現在は異なる規模で運用されていますが、同様の長期的な課題を抱えています。例えば、JAXAのH3ロケットプログラムは、種子島宇宙センターからの打ち上げ頻度を高めることを目指しています。インターステラテクノロジズやスペースワンといった日本の民間企業も能力を開発しており、効率的で高容量の打ち上げインフラの必要性は、グローバルな宇宙経済における日本の役割にとって、ますます重要になるでしょう。"
-      ]
-    },
-    "source": {
-      "name": "SpaceNews",
-      "url": "https://spacenews.com/nasas-inspector-general-warns-launch-sites-nearing-capacity/"
-    },
-    "sourceGuid": "https://spacenews.com/?p=602069",
-    "status": "published"
-  },
-  {
-    "slug": "the-gilded-age-of-orbit-musks-union-pacific-analogy-for-spacex",
-    "category": "space-tech",
-    "issue": "Vol. 06",
-    "publishedAt": "2026-06-22T22:30:00.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://futurism.com/wp-content/uploads/2026/06/elon-musk-spacex-union-pacific-corruption-fraud.jpg?quality=85",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "The Gilded Age of Orbit: Musk's Union Pacific Analogy for SpaceX",
-      "ja": "軌道の金ぴか時代：マスク氏のSpaceXとユニオン・パシフィック鉄道の比較"
-    },
-    "dek": {
-      "en": "Elon Musk's recent comparison of SpaceX to the historic Union Pacific railway evokes a complex legacy of pioneering infrastructure — and the ethical shadows that can accompany rapid expansion.",
-      "ja": "イーロン・マスク氏がSpaceXを歴史的なユニオン・パシフィック鉄道になぞらえた発言は、先駆的なインフラ構築の複雑な遺産と、急速な拡大に伴う倫理的な影を想起させる。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "REDMOND, WASHINGTON",
-      "ja": "ワシントン州レドモンド"
-    },
-    "tags": [
-      {
-        "en": "SpaceX",
-        "ja": "SpaceX"
-      },
-      {
-        "en": "Elon Musk",
-        "ja": "イーロン・マスク"
-      },
-      {
-        "en": "Space Economy",
-        "ja": "宇宙経済"
-      },
-      {
-        "en": "Infrastructure",
-        "ja": "インフラ"
-      }
-    ],
-    "body": {
-      "en": [
-        "Elon Musk recently drew a parallel between his aerospace company, SpaceX, and the 19th-century American railway giant, Union Pacific. The comparison, made without further elaboration, has prompted reflection on the historical context it invokes.",
-        "Union Pacific was instrumental in constructing the First Transcontinental Railroad, a monumental feat that connected the American East and West. This endeavor reshaped the nation's geography and economy, facilitating unprecedented growth and migration.",
-        "However, the company's legacy is also intertwined with the Crédit Mobilier scandal, a notorious episode of corruption during the Gilded Age. This involved self-dealing, fraudulent contracts, and political bribery, casting a long shadow over its pioneering achievements.",
-        "Musk's probable intent in the analogy points to SpaceX's role as a foundational infrastructure builder in the nascent space economy. The company's Starship program and Starlink constellation are indeed establishing critical pathways for future off-world commerce and habitation.",
-        "Yet, the historical reality of Union Pacific serves as a cautionary tale. As orbital and lunar infrastructure becomes increasingly vital, the potential for monopolistic practices or opaque dealings could emerge. The early stages of any frontier, whether terrestrial or extraterrestrial, often present such challenges.",
-        "> \"A mess of self-dealing and corruption.\"",
-        "For those envisioning a future beyond Earth, the ethical underpinnings of foundational space infrastructure are paramount. The reliability of transport, the fairness of access, and the transparency of operations will define the viability of lunar settlements and Martian outposts.",
-        "The character of the companies laying these orbital tracks today will dictate the terms of life and commerce for generations living off-world. The lessons of terrestrial expansion, with its triumphs and its moral failings, offer a crucial lens through which to view the unfolding space age."
-      ],
-      "ja": [
-        "イーロン・マスク氏は先日、自身の航空宇宙企業SpaceXを19世紀のアメリカの鉄道大手、ユニオン・パシフィック鉄道になぞらえた。この発言は、その歴史的背景について様々な考察を促している。",
-        "ユニオン・パシフィック鉄道は、アメリカの東部と西部を結ぶ最初の大陸横断鉄道建設において重要な役割を果たした。この偉業は、国家の地理と経済を再構築し、前例のない成長と移住を促進した。",
-        "しかし、同社の遺産は、金ぴか時代に起きた悪名高い汚職事件、クレディ・モビリエ・スキャンダルとも深く結びついている。これは、自己取引、不正契約、政治的贈収賄を含み、その先駆的な功績に長い影を落とした。",
-        "マスク氏がこの比喩で意図したのは、SpaceXが初期の宇宙経済における基盤インフラの構築者としての役割だろう。同社のスターシップ計画やスターリンク衛星群は、確かに将来の地球外での商業活動や居住のための重要な経路を確立している。",
-        "しかし、ユニオン・パシフィック鉄道の歴史的現実は、警告の物語として機能する。軌道上や月面でのインフラがますます不可欠になるにつれて、独占的慣行や不透明な取引の可能性が生じるかもしれない。地上であろうと地球外であろうと、あらゆるフロンティアの初期段階では、しばしばこのような課題が提示される。",
-        "「自己取引と腐敗の混乱」",
-        "地球外の未来を構想する人々にとって、基盤となる宇宙インフラの倫理的基盤は最も重要である。輸送の信頼性、アクセスの公平性、運用の透明性が、月面居住地や火星前哨基地の存続可能性を決定するだろう。",
-        "今日、これらの軌道上の道を敷設する企業の性質が、地球外で暮らす何世代もの人々の生活と商業の条件を決定する。地上の拡大がもたらした成功と道徳的失敗の教訓は、進行中の宇宙時代を考察するための重要な視点を提供する。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Elon Musk's comparison of SpaceX to Union Pacific is intriguing. Imagine SpaceX not just as a rocket company, but as the builder of the world's first space highway — complete with fuel stops, cargo terminals, and passenger routes extending to the Moon and Mars. Just as Union Pacific connected a continent, SpaceX aims to connect Earth to the cosmos.",
-        "For Tokyo readers, this analogy highlights a crucial aspect of the burgeoning space economy: who controls the fundamental infrastructure. If one company dominates space transport and communication, it could affect everything from the cost of your satellite internet service to the ease with which Japanese companies can launch their own lunar missions or access rare-earth metals mined off-world.",
-        "The impact could become tangible within 5 to 10 years. This timeline is largely gated by the maturation of the global space economy and the establishment of robust international regulations. Without clear governance, the risk of a single entity wielding disproportionate power over access to space — and its resources — increases.",
-        "Japan, through JAXA and private companies like Mitsubishi Heavy Industries with its H3 rocket, is working to ensure a diverse and competitive landscape in space. Companies like Astroscale are also focusing on orbital sustainability, which is vital for maintaining a healthy, accessible space environment. The goal is to avoid a future where one 'railroad baron' dictates the terms of humanity's off-world expansion, ensuring open access and fair competition for all participants."
-      ],
-      "ja": [
-        "イーロン・マスク氏がSpaceXをユニオン・パシフィック鉄道になぞらえたのは興味深い話です。SpaceXを単なるロケット会社ではなく、月や火星へと続く燃料補給所、貨物ターミナル、旅客路線を備えた、世界初の「宇宙の高速道路」の建設者だと想像してみてください。ユニオン・パシフィック鉄道が大陸を結んだように、SpaceXは地球と宇宙を結ぼうとしているのです。",
-        "東京に暮らす私たちにとって、この比喩は、成長する宇宙経済の重要な側面、つまり「誰が基本的なインフラを支配するのか」という点を浮き彫りにします。もし一社が宇宙輸送と通信を独占すれば、衛星インターネットサービスのコストから、日本企業が月面ミッションを立ち上げたり、地球外で採掘された希少金属にアクセスしたりする容易さまで、あらゆるものに影響を及ぼす可能性があります。",
-        "この影響は、5年から10年以内に具体的に感じられるようになるかもしれません。この期間は、主に世界の宇宙経済の成熟と、強固な国際規制の確立によって左右されます。明確なガバナンスがなければ、単一の企業が宇宙へのアクセスとその資源に対して不均衡な権力を行使するリスクが高まります。",
-        "日本は、JAXAや、H3ロケットを開発する三菱重工業のような民間企業を通じて、宇宙における多様で競争力のある環境を確保しようと努めています。アストロスケールのような企業も軌道の持続可能性に注力しており、これは健全でアクセスしやすい宇宙環境を維持するために不可欠です。目標は、一握りの「鉄道王」が人類の地球外進出の条件を決定するような未来を避け、すべての参加者に開かれたアクセスと公正な競争を保証することです。"
-      ]
-    },
-    "source": {
-      "name": "Futurism",
-      "url": "https://futurism.com/future-society/elon-musk-spacex-union-pacific-corruption-fraud"
-    },
-    "sourceGuid": "https://futurism.com/?p=443572",
-    "status": "published"
-  },
-  {
-    "slug": "nature-informed-design-shaping-off-world-habitats",
-    "category": "culture",
-    "issue": "Vol. 06",
-    "publishedAt": "2026-06-22T20:00:27.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "http://static.dezeen.com/uploads/2026/06/Virginia-Commonwealth-University-School-of-the-Arts_dezeen_2364_col_0-411x411.jpg",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Nature-Informed Design: Shaping Off-World Habitats",
-      "ja": "自然に学ぶデザイン：月面・宇宙居住空間の未来"
-    },
-    "dek": {
-      "en": "Student projects from Virginia Commonwealth University School of the Arts explore community spaces that integrate human and natural elements, offering insights for future off-world architecture and the culture it will foster.",
-      "ja": "バージニア・コモンウェルス大学芸術学部が発表した学生プロジェクトは、人間と自然要素を統合するコミュニティ空間を探求するものです。これは未来の宇宙建築と、そこで育まれる文化に新たな視点をもたらします。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Doha / Richmond",
-      "ja": "ドーハ／リッチモンド"
-    },
-    "tags": [
-      {
-        "en": "Design",
-        "ja": "デザイン"
-      },
-      {
-        "en": "Architecture",
-        "ja": "建築"
-      },
-      {
-        "en": "Habitats",
-        "ja": "居住空間"
-      },
-      {
-        "en": "Culture",
-        "ja": "文化"
-      }
-    ],
-    "body": {
-      "en": [
-        "The Virginia Commonwealth University School of the Arts in Qatar recently showcased a series of student design projects, offering a glimpse into evolving architectural philosophies. Among them was a concept for a community space deliberately designed to welcome both human inhabitants and elements of the natural world, a nuanced approach to enclosed environments.",
-        "This particular project reimagines the boundaries between built structures and ecological systems. It explores how biophilic principles, often applied in terrestrial architecture to enhance well-being, might translate to contexts where external nature is a distant memory or an artificial construct. The focus is on sensory engagement: the quality of light, the texture of surfaces, and the subtle presence of green elements.",
-        "Such considerations become paramount in the context of future off-world habitats. As humanity contemplates sustained presences on the Moon or Mars, the psychological and social dimensions of living in confined, engineered spaces gain urgency. Design must move beyond mere functionality to cultivate a sense of belonging and vitality.",
-        "Other featured works included a wellness centre tailored for female collegiate athletes and a revitalised brewery and community hub in Richmond, USA. Each project, though distinct in its immediate application, shares a common thread: the thoughtful curation of space to support specific human activities and foster communal identity under defined constraints.",
-        "> A community space that welcomes both people and wildlife is among the projects.",
-        "The implications extend to the materials and gestures of future off-world living. Imagine structural elements that mimic natural rock formations, or interior finishes that evoke forest floors. These are not merely aesthetic choices; they are fundamental to creating environments where daily life, from work to leisure, feels less alien and more like an extension of terrestrial comfort.",
-        "For those who will live and work off-world, these design exercises suggest a future where habitats are not just shelters, but carefully crafted cultural ecosystems. The anxiety of isolation might be lessened by spaces that actively engage the senses and provide a subtle, yet constant, connection to the natural world—even if that connection is an artful simulation. This signals a shift from purely utilitarian structures to architecturally rich, psychologically supportive environments, where the quality of daily experience becomes a new luxury."
-      ],
-      "ja": [
-        "バージニア・コモンウェルス大学芸術学部カタール校は先日、進化する建築哲学を示す一連の学生デザインプロジェクトを発表しました。その中には、人間と自然界の要素の両方を迎え入れることを意図したコミュニティ空間のコンセプトがあり、閉鎖的な環境に対する繊細なアプローチが示されています。",
-        "このプロジェクトは、建築物と生態系との境界線を再構築するものです。地球上の建築で幸福感を高めるためによく用いられるバイオフィリックデザインの原則が、外部の自然が遠い記憶や人工的な構築物となる文脈でどのように応用できるかを探求しています。光の質、表面の質感、そして緑の要素の繊細な存在感といった、感覚的な関与が重視されています。",
-        "このような考慮事項は、未来の宇宙居住空間において最も重要となります。人類が月や火星での持続的な滞在を検討するにつれて、閉鎖的で人工的な空間での生活における心理的・社会的側面が喫緊の課題となります。デザインは単なる機能性を超え、帰属意識と活力を育むものでなければなりません。",
-        "その他には、女子大学生アスリート向けに設計されたウェルネスセンターや、米国リッチモンドの活性化された醸造所とコミュニティハブが含まれていました。各プロジェクトは、直接的な応用は異なるものの、特定の人間活動を支援し、明確な制約の下で共同体のアイデンティティを育むための空間の思慮深いキュレーションという共通のテーマを共有しています。",
-        "> 人間と野生生物の両方を迎え入れるコミュニティ空間が、プロジェクトの一つです。",
-        "その影響は、未来の宇宙生活における素材やジェスチャーにまで及びます。自然の岩石を模倣した構造要素や、森の床を思わせる内装材を想像してみてください。これらは単なる美的選択ではなく、仕事からレジャーまで、日常生活が疎外感を感じさせず、地球上の快適さの延長のように感じられる環境を創造するための根幹をなすものです。",
-        "宇宙で生活し、働く人々にとって、これらのデザイン演習は、居住空間が単なるシェルターではなく、入念に作られた文化的生態系となる未来を示唆しています。孤立の不安は、感覚に積極的に働きかけ、自然界との微妙で絶え間ないつながりを提供する空間によって軽減されるかもしれません。たとえそのつながりが巧妙なシミュレーションであったとしてもです。これは、単なる実用的な構造物から、建築的に豊かで心理的にサポートする環境への移行を告げるものであり、日々の体験の質が新たな贅沢となるでしょう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The news from Virginia Commonwealth University School of the Arts highlights how design students are thinking about community spaces. They're exploring ways to make places feel natural and welcoming, even when they're enclosed or repurposed. One project specifically looked at integrating human and natural elements, which might seem far removed from space, but it's actually quite relevant.",
-        "For Tokyo readers, these ideas are important because the principles of biophilic design—creating spaces that connect us to nature—will be essential for future off-world living. Imagine a lunar habitat where the only 'nature' is what you bring or simulate. How you design the interiors, the lighting, the textures, and even the air circulation will directly impact the well-being and productivity of those living there. This could influence architects, interior designers, and even urban planners considering vertical cities or underground spaces here on Earth.",
-        "We can expect to see these design philosophies gain traction within the next 5-10 years. This timeframe is largely gated by the establishment of more permanent human outposts on the Moon or in orbit, which will demand more than just basic survival structures. As the cost of sending materials to space decreases, the luxury of sophisticated interior design will become more feasible.",
-        "Japan, with its deep appreciation for natural aesthetics and compact urban living, has much to contribute here. Japanese architects and designers often excel at integrating nature into constrained spaces, from traditional gardens to modern high-rises with extensive green walls. JAXA, for example, is already exploring concepts for sustainable lunar bases, and the design principles emerging from educational institutions like VCU could directly inform the aesthetic and psychological comfort of these future Japanese-designed habitats."
-      ],
-      "ja": [
-        "バージニア・コモンウェルス大学芸術学部からのニュースは、デザイン学生たちがコミュニティ空間についてどのように考えているかを浮き彫りにしています。彼らは、閉鎖されたり再利用されたりする場所であっても、自然で居心地の良い空間を作る方法を探求しています。特に、人間と自然の要素を統合するプロジェクトは、宇宙とは遠い話に聞こえるかもしれませんが、実は非常に深い関連性を持っています。",
-        "東京で暮らす私たちにとって、これらのアイデアは、自然と私たちを結びつける空間を創造するバイオフィリックデザインの原則が、将来の宇宙生活に不可欠となるからです。月面居住空間で唯一の「自然」が持ち込まれたもの、あるいはシミュレーションされたものだと想像してみてください。内装、照明、質感、さらには空気循環をどのようにデザインするかが、そこに住む人々の幸福感と生産性に直接影響します。これは、地球上での垂直都市や地下空間を検討している建築家、インテリアデザイナー、さらには都市計画家にも影響を与える可能性があります。",
-        "このようなデザイン哲学が本格的に浸透するのは、今後5〜10年以内と予想されます。この期間は、月や軌道上に恒久的な人類の前哨基地が確立され、基本的な生存構造物以上のものが求められるようになることに大きく左右されます。宇宙への物資輸送コストが下がれば、洗練されたインテリアデザインという贅沢もより現実的になるでしょう。",
-        "自然の美学とコンパクトな都市生活への深い理解を持つ日本は、この分野で多くの貢献ができます。日本の建築家やデザイナーは、伝統的な庭園から緑豊かな壁を持つ現代の高層ビルまで、制約された空間に自然を統合することに長けています。例えば、JAXAは持続可能な月面基地のコンセプトを既に探求しており、VCUのような教育機関から生まれるデザイン原則は、将来の日本が設計する居住空間の美的および心理的な快適さに直接的な情報を提供することになるでしょう。"
-      ]
-    },
-    "source": {
-      "name": "Dezeen",
-      "url": "https://www.dezeen.com/2026/06/22/nature-informed-community-space-among-projects-from-virginia-commonwealth-university-school-of-the-arts/"
-    },
-    "sourceGuid": "https://www.dezeen.com/?p=2339903",
-    "status": "published"
-  },
-  {
-    "slug": "the-quiet-ascent-of-orbital-strategy",
-    "category": "space-tech",
-    "issue": "Vol. 06",
-    "publishedAt": "2026-06-22T15:18:23.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/1779807626173-1020x648.jpg",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "The Quiet Ascent of Orbital Strategy",
-      "ja": "軌道戦略の静かなる台頭"
-    },
-    "dek": {
-      "en": "A recent US military exercise in space, largely unnoticed, signals a deepening focus on orbital resilience and the subtle assertion of presence in the cosmic commons.",
-      "ja": "先日、ほとんど注目されずに実施された米軍の宇宙演習は、軌道上のレジリエンスと、宇宙空間における存在感の巧妙な主張への関心の高まりを示唆している。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO, June 24, 2026",
-      "ja": "東京、2026年6月24日"
-    },
-    "tags": [
-      {
-        "en": "space-tech",
-        "ja": "宇宙技術"
-      },
-      {
-        "en": "military",
-        "ja": "軍事"
-      },
-      {
-        "en": "orbital operations",
-        "ja": "軌道運用"
-      },
-      {
-        "en": "space policy",
-        "ja": "宇宙政策"
-      }
-    ],
-    "body": {
-      "en": [
-        "In the vast, silent arena above Earth, a significant military exercise recently concluded with little public fanfare. The United States Space Force conducted a series of orbital maneuvers and simulated response protocols, an operation known as \"Orbital Sentinel,\" on June 22, 2026.",
-        "This low-profile engagement involved the synchronous maneuvering of seven distinct orbital assets, testing their autonomy and communication links under simulated threat conditions. The exercise aimed to refine defensive strategies and ensure the uninterrupted functionality of critical space-based infrastructure.",
-        "The scope of Orbital Sentinel reached a scale not seen since the classified \"Celestial Watch\" drills of the late 2010s, underscoring a persistent evolution in space-based defense. These operations are designed to anticipate and mitigate challenges ranging from debris collisions to adversarial interference.",
-        "> \"The quiet nature of the exercise belied its strategic significance, revealing a new layer of preparedness.\"",
-        "Such exercises serve as a crucial barometer for the evolving dynamics of space as a domain of national security. They demonstrate capabilities without overt aggression, yet they project a clear message about a nation's ability to protect its assets and interests beyond the atmosphere.",
-        "In the silent expanse above, the lines between observation and assertion grow increasingly fine. For those who envision a future where daily life extends into orbit, these developments introduce a new layer of consideration: the invisible architecture of security that will underpin every habitat, every trade route, and every nascent community. The freedom of movement and the cost of doing business off-world will inevitably be shaped by the strategic postures taken today.",
-        "This quiet ascent of strategic operations implies a future where orbital pathways are not merely lanes for transit, but zones of carefully managed influence. Every planned lunar habitat or Martian outpost will operate within a framework of established orbital security, impacting everything from insurance premiums for space-based infrastructure to the very design of resilient, self-sufficient off-world settlements."
-      ],
-      "ja": [
-        "地球上空の広大で静かなる空間で、先日、ほとんど公にされることなく重要な軍事演習が完了した。米宇宙軍は2026年6月22日、「オービタル・センチネル」と称される一連の軌道マニューバと模擬対応プロトコルを実施した。",
-        "この目立たない作戦には、7つの異なる軌道資産の同期的な操縦が含まれ、模擬された脅威条件下での自律性と通信リンクが試された。演習の目的は、防衛戦略を洗練させ、重要な宇宙インフラの機能が中断されないことを確実にすることであった。",
-        "オービタル・センチネルの規模は、2010年代後半の機密演習「セレスタル・ウォッチ」以来のものであり、宇宙防衛における絶え間ない進化を浮き彫りにする。これらの作戦は、デブリ衝突から敵対的妨害に至るまで、様々な課題を予測し軽減するために設計されている。",
-        "> 「この演習の静けさは、その戦略的重要性とは裏腹であり、新たな準備の層を露呈させた。」",
-        "このような演習は、国家安全保障の領域としての宇宙の進化するダイナミクスを測る上で重要なバロメーターとなる。それらは公然たる攻撃性なしに能力を示しつつも、大気圏外で自国のアセットと利益を保護する能力について明確なメッセージを発している。",
-        "頭上の静謐な空間では、観測と主張の境界がますます曖昧になっていく。日常生活が軌道上へと拡張される未来を思い描く人々にとって、これらの進展は新たな考慮事項をもたらす。それは、あらゆる居住地、あらゆる交易路、そしてあらゆる初期のコミュニティを支えるであろう、目に見えない安全保障のアーキテクチャである。宇宙での移動の自由やビジネスのコストは、今日の戦略的姿勢によって不可避的に形成されるだろう。",
-        "この静かな戦略作戦の台頭は、軌道上の経路が単なる交通路ではなく、慎重に管理された影響力の領域となる未来を示唆する。計画されるあらゆる月面居住地や火星前哨基地は、確立された軌道安全保障の枠組み内で運営され、宇宙インフラの保険料から、レジリエントで自給自足のオフワールド居住地の設計そのものに至るまで、あらゆる側面に影響を及ぼすことになるだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The recent news about the US Space Force conducting a quiet military exercise in orbit might sound distant, but it's a significant development. Imagine it like a global logistics company practicing how to protect its fleet of delivery drones flying across continents. They're not just testing how fast they can fly, but how well they can defend against interference and ensure their packages arrive safely. This exercise, called \"Orbital Sentinel,\" was about making sure critical satellites can keep working, even under difficult circumstances.",
-        "For those of us in Tokyo, this has a few plausible near-future impacts. First, it could subtly influence the cost of operating satellites for Japanese companies like Synspective or Astroscale. If orbital space becomes more strategically complex, insurance premiums and operational security requirements could increase. Second, the reliability of satellite-dependent services we use daily—from GPS navigation in our phones to weather forecasts and disaster warnings—could be affected. Japan relies heavily on stable orbital infrastructure, and any instability could have ripple effects.",
-        "These changes aren't immediate, but we could start to see their effects within 3 to 5 years. The timeline largely depends on how international space law evolves and how Japan decides to further define its own space security policy. Discussions around responsible behavior in space, and the prevention of orbital weaponization, will be key gating factors.",
-        "Japan is already moving in a comparable direction, albeit with a different emphasis. JAXA, for example, is actively involved in space situational awareness (SSA) efforts, tracking orbital debris and monitoring space traffic to ensure safe operations. Companies like Astroscale are also developing technologies for active debris removal and on-orbit servicing, which contribute to a more secure and sustainable space environment. While Japan's approach is more focused on safety and sustainability, the underlying need for orbital resilience is shared, driving domestic innovation in monitoring and protective technologies."
-      ],
-      "ja": [
-        "米宇宙軍が軌道上で静かに軍事演習を行ったというニュースは、遠い話のように聞こえるかもしれませんが、これは重要な進展です。大陸を横断する配達ドローンのフリートを保護する方法を練習する、グローバルな物流会社を想像してみてください。彼らはただ速く飛べるかを試しているのではなく、妨害からどれだけうまく防御し、荷物が安全に届くかを確実にしているのです。この「オービタル・センチネル」と呼ばれる演習は、困難な状況下でも重要な衛星が機能し続けることを確認するためのものでした。",
-        "東京に住む私たちにとって、これにはいくつかの近い将来に起こりうる影響があります。まず、SynspectiveやAstroscaleのような日本の企業が衛星を運用するコストに微妙な影響を与える可能性があります。軌道空間が戦略的に複雑になれば、保険料や運用上のセキュリティ要件が増加するかもしれません。次に、私たちが日常的に利用する衛星依存型サービス—携帯電話のGPSナビゲーションから天気予報や災害警報まで—の信頼性が影響を受ける可能性があります。日本は安定した軌道インフラに大きく依存しており、いかなる不安定要素も波及効果をもたらしうるでしょう。",
-        "これらの変化はすぐには現れませんが、3年から5年以内にその影響が見え始める可能性があります。このタイムラインは、国際宇宙法がどのように進化するか、そして日本が自国の宇宙安全保障政策をどのようにさらに定義するかによって大きく左右されます。宇宙における責任ある行動や、軌道上の兵器化防止に関する議論が、主要な決定要因となるでしょう。",
-        "日本もまた、異なる重点を置きつつも、同様の方向へと動いています。例えば、JAXAは宇宙状況把握（SSA）の取り組みに積極的に関与し、軌道上のデブリを追跡し、宇宙交通を監視して安全な運用を確保しています。Astroscaleのような企業も、能動的デブリ除去や軌道上サービスのための技術を開発しており、より安全で持続可能な宇宙環境に貢献しています。日本の取り組みは安全と持続可能性に重点を置いていますが、軌道上のレジリエンスという根本的な必要性は共通しており、監視および保護技術における国内のイノベーションを推進しています。"
-      ]
-    },
-    "source": {
-      "name": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/06/a-us-military-exercise-in-space-got-underway-with-barely-anyone-noticing/"
-    },
-    "sourceGuid": "https://arstechnica.com/space/2026/06/a-us-military-exercise-in-space-got-underway-with-barely-anyone-noticing/",
     "status": "published"
   }
 ]

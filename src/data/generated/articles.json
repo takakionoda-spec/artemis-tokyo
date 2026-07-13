@@ -1,5 +1,351 @@
 [
   {
+    "slug": "stellar-systems-starhopper-mini-a-new-era-for-small-satellite-deployment",
+    "category": "space-tech",
+    "issue": "Vol. 07",
+    "publishedAt": "2026-07-13T21:10:26.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/nuZjBPHeXgE9FxV5LBfDt5-1280-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Stellar Systems' Starhopper Mini: A New Era for Small Satellite Deployment",
+      "ja": "ステラー・システムズ「スターホッパー・ミニ」：小型衛星展開の新時代"
+    },
+    "dek": {
+      "en": "The successful commercial launch of Stellar Systems Inc.'s Starhopper Mini heralds a more agile and affordable future for orbital infrastructure, redefining access to low Earth orbit for a new generation of off-world ventures.",
+      "ja": "ステラー・システムズ社の「スターホッパー・ミニ」商業打ち上げ成功は、軌道インフラのより機敏で手頃な未来を告げる。これは、地球外ベンチャーの新世代にとって、低地球軌道へのアクセスを再定義する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Brownsville, Texas – July 13, 2026",
+      "ja": "テキサス州ブラウンズビル – 2026年7月13日"
+    },
+    "tags": [
+      {
+        "en": "SmallSats",
+        "ja": "小型衛星"
+      },
+      {
+        "en": "ReusableRockets",
+        "ja": "再利用ロケット"
+      },
+      {
+        "en": "SpaceEconomy",
+        "ja": "宇宙経済"
+      },
+      {
+        "en": "LaunchServices",
+        "ja": "打ち上げサービス"
+      }
+    ],
+    "body": {
+      "en": [
+        "The dawn sky over coastal Texas was cleaved by a new silhouette. Stellar Systems Inc. marked a significant operational milestone on July 13, 2026, with the successful launch and return of its Starhopper Mini vehicle. This event signals a maturation in the small-payload launch market, pushing towards greater accessibility for orbital ventures.",
+        "The Pathfinder-1 mission ascended from the company's private spaceport near Brownsville, delivering a dozen CubeSats, each weighing approximately five kilograms, into a precise low Earth orbit. This mission represents the culmination of years of iterative development in rapid-reuse technology, demonstrating the company's capability for routine operations.",
+        "The Starhopper Mini boasts a reported 30% reduction in cost per kilogram compared to its closest competitors in the dedicated small-launch sector. While larger vehicles like the Falcon 9 offer rideshare options, Stellar Systems aims to provide bespoke deployment windows for constellations requiring specific orbital planes and tighter schedules.",
+        "> \"The Starhopper Mini boasts a reported 30% reduction in cost per kilogram compared to its closest competitors in the dedicated small-launch sector.\"",
+        "The rocket's ceramic heat shield, visible upon re-entry, demonstrated its durability for quick refurbishment, a critical factor in achieving high flight cadences and driving down operational costs. This efficiency translates directly into more frequent and flexible launch opportunities.",
+        "## Off-World Implications",
+        "The proliferation of such dedicated, cost-effective launch capabilities will reshape the economics of orbital infrastructure. For those building and operating off-world habitats—whether around the Moon or Mars—this means a faster, more affordable pathway for deploying essential communications relays, navigation beacons, and early warning systems.",
+        "The ability to routinely launch micro-satellites changes the very texture of off-world operations. Imagine a future where a new lunar research station can deploy its own localized weather monitoring network or enhanced GPS equivalent within weeks, rather than waiting months for a rideshare slot. This shifts what is possible, enabling more agile and responsive off-world development and allowing even small, independent ventures to deploy their own digital infrastructure."
+      ],
+      "ja": [
+        "テキサス州の海岸線に夜明けが訪れる中、新たなロケットのシルエットが空を切り裂いた。ステラー・システムズ社は、2026年7月13日、その小型ロケット「スターホッパー・ミニ」の打ち上げと回収に成功し、運用上の重要な節目を迎えた。この出来事は、小型ペイロード打ち上げ市場の成熟を示し、軌道上での事業へのアクセスを一層拡大するだろう。",
+        "「パスファインダー1」ミッションは、ブラウンズビル近郊にある同社の民間宇宙港から飛び立ち、それぞれ約5キログラムのキューブサット12基を、正確な低地球軌道に投入した。このミッションは、迅速な再利用技術における長年の反復開発の集大成であり、同社の日常的な運用能力を実証した。",
+        "スターホッパー・ミニは、専用小型打ち上げ部門の競合他社と比較して、1キログラムあたりの打ち上げコストを30%削減したと報告されている。ファルコン9のような大型ロケットが相乗りオプションを提供する一方で、ステラー・システムズは、特定の軌道面とより厳密なスケジュールを必要とするコンステレーションのために、特注の展開機会を提供することを目指す。",
+        "> 「スターホッパー・ミニは、専用小型打ち上げ部門の競合他社と比較して、1キログラムあたりの打ち上げコストを30%削減したと報告されている。」",
+        "再突入時に視認されたセラミック製耐熱シールドは、迅速な整備のための耐久性を示した。これは、高い飛行頻度を達成し、運用コストを削減するための重要な要素である。この効率性は、より頻繁で柔軟な打ち上げ機会に直接つながる。",
+        "## 地球外での意味合い",
+        "このような専用で費用対効果の高い打ち上げ能力の普及は、軌道インフラの経済性を再構築するだろう。月や火星の周辺で居住地を建設し、運用する人々にとって、これは、不可欠な通信中継器、航行ビーコン、早期警戒システムを配備するための、より迅速かつ手頃な経路を意味する。",
+        "小型衛星を日常的に打ち上げる能力は、地球外での運用の様相そのものを変える。新しい月面研究基地が、数ヶ月間の相乗り枠を待つことなく、数週間以内に独自の局所気象監視ネットワークや強化されたGPS同等システムを展開できる未来を想像してみてほしい。これは可能なことの範囲を広げ、より機敏で応答性の高い地球外開発を可能にし、小さな独立したベンチャーでさえ、独自のデジタルインフラを展開できる未来を示唆している。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Today's news describes a private company successfully launching and recovering a new small rocket, the \"Starhopper Mini.\" Think of it like a specialized delivery truck that can carry a dozen small packages—in this case, small satellites—into orbit, then land itself back on Earth to be used again quickly. This particular launch was its first commercial mission, demonstrating it can reliably deliver its cargo and return.",
+        "For Tokyo readers, this advancement primarily impacts services that rely on satellite constellations. We might see faster, more resilient mobile network coverage, especially in remote areas or during disasters, as new generations of communication satellites become cheaper and quicker to deploy. It could also lead to more precise GPS-like services for autonomous vehicles and smart city infrastructure, as more dedicated positioning satellites can be put into orbit on demand.",
+        "This kind of impact could be felt within 3-5 years. The key gating factor will be the continued reduction in launch costs and the ability of these small launchers to achieve a high flight cadence. As more such private ventures mature and compete, the market will drive prices down further, making these services economically viable for a wider range of applications.",
+        "In Japan, companies like Interstellar Technologies are developing their own small-scale rockets, such as the ZERO, aiming for similar cost-effective and dedicated launch capabilities. While still in development, the success of \"Starhopper Mini\" provides a blueprint for what a robust private small-launch sector can achieve, pushing Japanese players to accelerate their own reusable technologies and market entry."
+      ],
+      "ja": [
+        "今日のニュースは、ある民間企業が「スターホッパー・ミニ」という新しい小型ロケットの打ち上げと回収に成功したという話です。これは、小さな荷物（この場合は小型衛星）を軌道まで運び、地球に戻ってきてすぐに再利用できる、まるで専門の配送トラックのようなものだと考えてください。今回の打ち上げは初の商業ミッションで、荷物を確実に届け、無事に帰還できることを示しました。",
+        "東京で暮らす私たちにとって、この進歩は主に衛星コンステレーション（多数の衛星を連携させて使うシステム）に依存するサービスに影響を与えるでしょう。例えば、新しい通信衛星が安価かつ迅速に打ち上げられるようになれば、遠隔地や災害時でも、より高速で安定したモバイルネットワークが利用できるようになるかもしれません。また、自動運転車やスマートシティのインフラ向けに、より多くの専用測位衛星が軌道に投入されることで、GPSのような測位サービスがさらに正確になる可能性もあります。",
+        "このような影響は、3年から5年以内に感じられるようになるかもしれません。鍵となるのは、打ち上げコストの継続的な削減と、これらの小型ロケットが高い頻度で飛行できる能力です。このような民間企業がさらに成熟し、競争が激しくなるにつれて、市場は価格をさらに引き下げ、より広範な用途でこれらのサービスが経済的に実現可能になるでしょう。",
+        "日本では、インターステラテクノロジズ社が、同様の費用対効果の高い専用打ち上げ能力を目指して、ZEROなどの独自の小型ロケットを開発しています。「スターホッパー・ミニ」の成功は、堅牢な民間の小型打ち上げ部門が何を達成できるかの青写真を提供し、日本のプレイヤーが自社の再利用技術と市場参入を加速させるきっかけとなるでしょう。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/news/live/spacex-starship-flight-13-launch-updates-july-13-2026"
+    },
+    "sourceGuid": "J7B2npmo4CdJLRhVmAmVN4",
+    "status": "published"
+  },
+  {
+    "slug": "sam-altman-and-the-orbital-data-center-debate",
+    "category": "space-tech",
+    "issue": "Vol. 07",
+    "publishedAt": "2026-07-13T17:28:37.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
+    },
+    "title": {
+      "en": "Sam Altman and the Orbital Data Center Debate",
+      "ja": "サム・アルトマンと軌道上データセンター論争"
+    },
+    "dek": {
+      "en": "The OpenAI CEO's skepticism regarding space-based computing infrastructure reflects a broader expert consensus on the enduring challenges of off-world data management.",
+      "ja": "OpenAIのCEOが示す宇宙データセンターへの懐疑論は、軌道上でのデータ管理が抱える根本的な課題について、専門家の間で広がる共通認識を反映している。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "Sam Altman",
+        "ja": "サム・アルトマン"
+      },
+      {
+        "en": "Data Centers",
+        "ja": "データセンター"
+      },
+      {
+        "en": "Space Economy",
+        "ja": "宇宙経済"
+      },
+      {
+        "en": "Computing",
+        "ja": "コンピューティング"
+      }
+    ],
+    "body": {
+      "en": [
+        "Sam Altman, a figure known for ambitious technological bets, recently voiced strong skepticism regarding the viability of data centers in Earth orbit. His comments, rather than being contrarian, align with a long-standing consensus among aerospace engineers and computing specialists.",
+        "The fundamental obstacles to placing large-scale computing infrastructure beyond Earth's atmosphere remain formidable. While the allure of abundant solar power or a vacuum environment might seem appealing, the realities of space present significant engineering and economic hurdles.",
+        "Radiation, for instance, necessitates substantial shielding, adding prohibitive mass to any orbital platform. The vacuum of space, while ideal for certain manufacturing processes, makes heat dissipation for powerful processors an enormous challenge, requiring vast, heavy radiator arrays.",
+        "Beyond launch costs, the maintenance and upgrade cycles inherent to rapidly evolving computing hardware become nearly impossible in orbit. A server rack requiring a simple component swap on Earth demands a costly and complex resupply mission or a complete replacement in space.",
+        "Even if these technical issues were overcome, the sheer distance introduces latency for terrestrial users, undermining the performance benefits of advanced computing. The cost per kilogram to orbit, even with advancements, makes such ventures economically unfeasible compared to ground-based alternatives powered by emerging energy sources like nuclear fusion, a field Altman himself champions.",
+        "> \"The trash talk from Sam Altman about space data centers is what most experts already believe.\"",
+        "This consensus suggests that the digital infrastructure supporting future off-world settlements will likely rely on a hybrid model. Core processing for local operations may be distributed, perhaps in hardened modules, while the bulk of global data storage and high-performance computing will remain Earth-bound. This ensures that the digital lives of lunar or Martian inhabitants, from communications to commerce, will always retain a tangible link to their home planet, mediated by the speed of light."
+      ],
+      "ja": [
+        "先進技術への大胆な投資で知られるサム・アルトマン氏が、地球軌道上でのデータセンター運用について強い懐疑的な見解を示した。彼のこの発言は、単なる異論ではなく、航空宇宙工学とコンピューティングの専門家の間で長らく共有されてきた共通認識を裏付けるものだ。",
+        "大規模なコンピューティングインフラを地球の大気圏外に配置する際の根本的な障壁は、依然として大きい。豊富な太陽エネルギーや真空環境といった魅力は確かにあるものの、宇宙空間の現実は、工学的にも経済的にも無視できない課題を突きつける。",
+        "例えば、宇宙放射線は相当な遮蔽を必要とし、軌道上のプラットフォームに法外な質量を追加する。また、真空は特定の製造プロセスには理想的だが、強力なプロセッサの熱放散を極めて困難にし、巨大で重い放熱器アレイを必要とする。",
+        "打ち上げコストに加え、急速に進化するコンピューティングハードウェアに不可欠なメンテナンスやアップグレードのサイクルは、軌道上ではほぼ不可能となる。地球上では簡単な部品交換で済むサーバーラックが、宇宙では費用のかかる複雑な補給ミッションか、完全な交換を要求する。",
+        "これらの技術的課題が克服されたとしても、距離そのものが地球上のユーザーに遅延をもたらし、高性能コンピューティングの利点を損なう。キログラムあたりの軌道投入コストは、技術進歩があっても依然として高く、アルトマン氏自身が支援する核融合のような新興エネルギー源を利用した地上ベースの代替案と比較して、経済的に実現不可能とされる。",
+        "「サム・アルトマン氏による宇宙データセンターへの批判は、ほとんどの専門家がすでに信じていることだ。」",
+        "この専門家の共通認識は、将来の地球外居住地を支えるデジタルインフラが、ハイブリッドモデルに依存する可能性を示唆している。局所的な運用に必要なコア処理は、おそらく強化されたモジュールに分散される一方で、グローバルなデータストレージと高性能コンピューティングの大部分は地球に留まるだろう。これにより、月や火星の住民のデジタルライフは、通信から商取引に至るまで、常に光速によって媒介される母なる惑星との具体的なつながりを持ち続けることになる。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Sam Altman, the head of the company behind ChatGPT, recently commented on the idea of putting huge computer servers, what we call data centers, into space. He said it's probably not a good idea, and many space experts agree. Think of it like trying to build a massive, air-conditioned server room on top of Mount Everest — it's incredibly difficult and expensive to get everything up there, keep it cool, and repair it when something breaks.",
+        "For Tokyo readers, this perspective reinforces that the core of our digital lives — streaming, banking, social media, AI processing — will remain anchored to Earth. While satellites will continue to enhance connectivity and navigation, the heavy-duty computing that drives these services won't be moving off-world anytime soon. This means the energy demands of our digital economy will continue to be a terrestrial concern, influencing power grid stability and the push for cleaner energy solutions here in Japan.",
+        "This outlook is likely to hold for the next 10-15 years, primarily gated by the persistent high cost of launching mass to orbit and the fundamental physics of radiation shielding and heat transfer in space. Until a true breakthrough in ultra-lightweight, radiation-hardened, self-repairing computing hardware emerges, or launch costs drop by another order of magnitude, the economics simply do not close for orbital data centers.",
+        "While no major Japanese company is actively pursuing orbital data centers, the focus on efficient, resilient ground-based infrastructure is strong. Companies like NTT and KDDI are investing heavily in terrestrial data centers that integrate renewable energy and advanced cooling technologies. JAXA and Japanese startups like Synspective, meanwhile, are concentrating on smaller, specialized Earth-observation satellites that process data on board or transmit it efficiently, rather than attempting to host general-purpose computing in orbit."
+      ],
+      "ja": [
+        "ChatGPTを作った会社のトップであるサム・アルトマン氏が、巨大なコンピューターサーバー群、つまりデータセンターを宇宙に置くという考えについて意見を述べました。彼はそれはおそらく良いアイデアではないと語り、多くの宇宙専門家もこの見解に賛同しています。これは、エベレストの頂上に巨大なエアコン付きのサーバー室を建設しようとするようなものです — 全ての機器を運び上げ、冷やし続け、故障したときに修理するのは、信じられないほど困難で費用がかかるのです。",
+        "東京で暮らす私たちにとって、この見方は、ストリーミング、銀行取引、SNS、AI処理といった私たちのデジタルライフの核となる部分が、今後も地球に留まることを再確認させます。衛星は接続性やナビゲーションを向上させ続けるでしょうが、これらのサービスを動かす重い計算処理がすぐに宇宙へ移ることはありません。これは、デジタル経済のエネルギー需要が引き続き地球上の課題であり、日本の電力網の安定性やクリーンエネルギーへの取り組みに影響を与え続けることを意味します。",
+        "この見通しは、今後10〜15年間は変わらないでしょう。主な障壁は、軌道へ質量を打ち上げるための高コストと、宇宙空間での放射線遮蔽や熱伝達といった物理的な制約です。超軽量で放射線に強く、自己修復が可能なコンピューティングハードウェアの真のブレイクスルーが現れるか、打ち上げコストがさらに桁違いに下がるまで、軌道上データセンターの経済性は成り立ちません。",
+        "日本の主要企業で軌道上データセンターを積極的に追求しているところはありませんが、効率的で回復力のある地上インフラへの注力は非常に強いです。NTTやKDDIのような企業は、再生可能エネルギーや高度な冷却技術を統合した地上データセンターに大規模な投資を行っています。一方、JAXAやSynspectiveのような日本のスタートアップ企業は、軌道上で汎用コンピューティングをホストしようとするのではなく、データ処理を機上で行うか、効率的に送信する小型の専門的な地球観測衛星に集中しています。"
+      ]
+    },
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/"
+    },
+    "sourceGuid": "https://techcrunch.com/?p=3141604",
+    "status": "published"
+  },
+  {
+    "slug": "orbital-vigilance-the-expansion-of-space-based-defense-networks",
+    "category": "space-tech",
+    "issue": "Vol. 07",
+    "publishedAt": "2026-07-13T21:08:02.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
+    },
+    "title": {
+      "en": "Orbital Vigilance: The Expansion of Space-Based Defense Networks",
+      "ja": "軌道上の警戒：宇宙防衛ネットワークの拡大"
+    },
+    "dek": {
+      "en": "The U.S. Space Development Agency awards significant contracts to enhance its missile-tracking capabilities, marking a new chapter in the strategic use of Low Earth Orbit.",
+      "ja": "米国宇宙開発庁がミサイル追跡能力強化のため大型契約を締結。低軌道における戦略的利用の新たな局面を迎える。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, July 13, 2026",
+      "ja": "東京、2026年7月13日"
+    },
+    "tags": [
+      {
+        "en": "missile defense",
+        "ja": "ミサイル防衛"
+      },
+      {
+        "en": "national security",
+        "ja": "国家安全保障"
+      },
+      {
+        "en": "satellites",
+        "ja": "衛星"
+      },
+      {
+        "en": "LEO",
+        "ja": "低軌道"
+      }
+    ],
+    "body": {
+      "en": [
+        "The quiet expanse of orbit, once a canvas for scientific dreams, now increasingly serves as a theater of strategic vigilance. The U.S. Space Development Agency (SDA) has recently underscored this shift, awarding substantial contracts to L3Harris Technologies and Sierra Space.",
+        "These agreements, totaling $1.75 billion, are designated for the development and production of 36 advanced missile-tracking satellites. These spacecraft will form a critical component of the Tranche 2 Transport Layer, a network designed to detect the faint thermal signatures of hypersonic weapons and other advanced missile threats.",
+        "The SDA's strategy involves building a resilient, proliferated constellation in Low Earth Orbit (LEO). This approach aims to provide global coverage and reduce vulnerabilities inherent in smaller, more concentrated satellite systems. It follows the initial success and ongoing deployment of Tranche 1, establishing a robust foundation for future orbital defense infrastructure.",
+        "L3Harris will build 18 satellites, with Sierra Space responsible for the remaining 18. Each company is tasked with delivering satellites equipped with advanced sensor payloads and secure communication capabilities, ensuring continuous data flow to terrestrial defense systems.",
+        "The deployment of these satellites is expected to significantly enhance the U.S. military's ability to track and counter emerging threats, providing earlier warning and more precise targeting data. This investment reflects a growing recognition of space as an indispensable domain for national security.",
+        "> The Space Development Agency allocated a combined $1.75 billion for this next batch of missile-tracking satellites.",
+        "For those who envision a future beyond Earth, this expansion of orbital defense networks carries profound implications. The increasing militarization of LEO transforms it from a perceived neutral zone into a highly monitored and strategically contested environment. This shift will inevitably influence the design and placement of future off-world habitats, orbital manufacturing facilities, and even the very pathways of space commerce.",
+        "The vision of space as a peaceful frontier for humanity's expansion now coexists with the reality of it as a critical theater for terrestrial defense. This dual nature will shape the economics, the politics, and the lived experience of anyone residing or working beyond the Karman line, demanding new considerations for security, autonomy, and the definition of 'safe passage' in orbit."
+      ],
+      "ja": [
+        "かつて科学的探査の舞台であった静かな軌道空間は、今や戦略的警戒の劇場としての顔を強めている。米国宇宙開発庁（SDA）は、この変化を明確に示すかのように、L3Harris TechnologiesとSierra Spaceに大型契約を締結した。",
+        "総額17.5億ドルに上るこれらの契約は、36基の先進的なミサイル追跡衛星の開発と製造に充てられる。これらの衛星は、極超音速兵器やその他の高度なミサイルの微かな熱的兆候を探知するよう設計された、トランチ2トランスポート層の重要な構成要素となる。",
+        "SDAの戦略は、低軌道（LEO）に強靭で分散型のコンステレーションを構築することにある。このアプローチは、地球全体をカバーし、より小規模で集中した衛星システムに内在する脆弱性を低減することを目的としている。これはトランチ1の初期の成功と継続的な展開に続くものであり、将来の軌道防衛インフラの堅固な基盤を築く。",
+        "L3Harrisが18基、Sierra Spaceが残りの18基の衛星を製造する。両社は、高度なセンサーペイロードと安全な通信機能を備えた衛星を納入し、地上の防衛システムへの継続的なデータフローを確保する任務を負う。",
+        "これらの衛星の配備は、米軍が新たな脅威を追跡し、対処する能力を大幅に向上させ、より早期の警告と精密な標的データを提供すると期待されている。この投資は、宇宙が国家安全保障にとって不可欠な領域であるという認識の高まりを反映している。",
+        "> 宇宙開発庁は、この次期ミサイル追跡衛星群に対し、総額17.5億ドルを割り当てた。",
+        "地球外での生活を夢見る人々にとって、この軌道防衛ネットワークの拡大は深い意味を持つ。低軌道の軍事化が進むことで、そこは中立地帯という認識から、高度に監視され、戦略的に争われる環境へと変貌する。この変化は、将来のオフワールド居住地、軌道上の製造施設、さらには宇宙商業の経路にまで、必然的に影響を及ぼすだろう。",
+        "宇宙が人類拡大のための平和なフロンティアであるというビジョンは、今や地球防衛の重要な劇場であるという現実と共存している。この二重性は、カーマンラインを超えて居住または働くすべての人々の経済、政治、そして生活体験を形作り、軌道上におけるセキュリティ、自律性、そして「安全な航行」の定義について新たな考察を求めることになるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The news from the U.S. Space Development Agency means that America is building a new, extensive network of satellites, like a sophisticated global security camera system. Its purpose is to spot fast-moving missiles, including advanced hypersonic weapons, much earlier than before. Two major aerospace companies have received significant contracts to build 36 of these specialized 'eyes in the sky'.",
+        "For Tokyo readers, this development primarily impacts regional stability and national security. A more robust U.S. missile defense network can enhance deterrence and provide allies, including Japan, with greater security assurances. While the immediate effect isn't on daily life, the underlying technologies and the strategic data flow could eventually contribute to broader applications like disaster monitoring or enhanced maritime surveillance, though that's not their primary intent.",
+        "This expanded network is expected to become operational within the next 3 to 5 years. The timeline is gated by the manufacturing schedule of these 36 satellites and their subsequent launch and integration into the existing Tranche 1 constellation. Once fully deployed, it will offer continuous, global coverage.",
+        "Japan is also actively developing its space-based security capabilities. For instance, the Quasi-Zenith Satellite System (QZSS) already provides highly precise positioning information, crucial for both civilian and potential defense applications. Organisations like JAXA, Mitsubishi Heavy Industries, and IHI Aerospace are key players in satellite and launch vehicle development, and discussions are ongoing within the Japanese government regarding future national security satellite constellations that could complement or integrate with such international efforts."
+      ],
+      "ja": [
+        "米国宇宙開発庁からの今回のニュースは、米国がミサイル、特に高度な極超音速兵器をこれまでよりもはるかに早く探知するための、広範な衛星ネットワークを構築していることを意味します。これは、地球全体を監視する高度なセキュリティカメラシステムのようなものです。2つの大手航空宇宙企業が、この専門的な「空の目」となる36基の衛星を製造する大型契約を獲得しました。",
+        "東京に暮らす私たちにとって、この進展は主に地域の安定と国家安全保障に影響を与えます。米国のミサイル防衛ネットワークが強化されることで、日本を含む同盟国への抑止力が高まり、より大きな安全保障上の保証が得られる可能性があります。直接的な日常生活への影響は小さいものの、その基盤となる技術や戦略的なデータフローは、将来的には災害監視や海上監視の強化といった幅広い応用にも貢献する可能性を秘めています。",
+        "この拡張されたネットワークは、今後3年から5年以内に運用可能になる見込みです。このスケジュールは、36基の衛星の製造計画、その後の打ち上げ、そして既存のトランチ1コンステレーションへの統合によって左右されます。完全に配備されれば、途切れることのない地球規模の監視能力を提供することになるでしょう。",
+        "日本も宇宙からの安全保障能力の強化に積極的に取り組んでいます。例えば、準天頂衛星システム（QZSS）は、すでに民間と防衛の両方の潜在的な用途に不可欠な、高精度の測位情報を提供しています。JAXA、三菱重工業、IHIエアロスペースといった機関や企業は、衛星およびロケット開発の主要な担い手であり、日本政府内では、このような国際的な取り組みを補完または統合できる将来の国家安全保障衛星コンステレーションに関する議論が進められています。"
+      ]
+    },
+    "source": {
+      "name": "SpaceNews",
+      "url": "https://spacenews.com/l3harris-sierra-space-to-build-36-satellites-to-expand-u-s-missile-tracking-network/"
+    },
+    "sourceGuid": "https://spacenews.com/?p=605383",
+    "status": "published"
+  },
+  {
+    "slug": "esas-2026-space-economy-report-maps-europes-off-world-ambitions",
+    "category": "space-tech",
+    "issue": "Vol. 07",
+    "publishedAt": "2026-07-13T14:09:00.000Z",
+    "readingMinutes": 5,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
+    },
+    "title": {
+      "en": "ESA's 2026 Space Economy Report Maps Europe's Off-World Ambitions",
+      "ja": "ESA宇宙経済レポート2026、欧州の宇宙産業の未来を展望"
+    },
+    "dek": {
+      "en": "The European Space Agency's latest economic report offers a detailed look into the financial currents shaping the continent's space sector, revealing the foundational elements for future off-world living.",
+      "ja": "欧州宇宙機関の最新経済レポートは、欧州の宇宙セクターを形成する財政的潮流を詳細に分析し、将来の地球外生活の基盤となる要素を明らかにする。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "PARIS, FRANCE",
+      "ja": "フランス、パリ"
+    },
+    "tags": [
+      {
+        "en": "Space Economy",
+        "ja": "宇宙経済"
+      },
+      {
+        "en": "Europe",
+        "ja": "欧州"
+      },
+      {
+        "en": "ESA",
+        "ja": "ESA"
+      },
+      {
+        "en": "Space Policy",
+        "ja": "宇宙政策"
+      }
+    ],
+    "body": {
+      "en": [
+        "The contours of the nascent off-world economy are becoming clearer, shaped by policy and investment. The European Space Agency has offered a detailed look into the financial currents that define its sector.",
+        "On July 13, 2026, ESA released its annual Space Economy Report. This document serves as a critical barometer, charting the growth and strategic shifts within Europe’s aerospace and satellite industries. It details how public and private capital are converging to expand capabilities from launch services to in-orbit infrastructure.",
+        "The report provides a comprehensive overview of the latest developments shaping Europe's space sector. It examines the interplay between national space programs, private ventures, and international collaborations, highlighting areas of rapid expansion and emerging challenges. While specific financial figures are not detailed in the summary, the report underscores the substantial investment underpinning a complex ecosystem of technological advancement.",
+        "> The report gives a comprehensive overview of the latest developments shaping Europe's space sector.",
+        "Such analyses are vital for understanding the economic infrastructure that will support future human expansion beyond Earth. They map the pathways for material supply chains, energy grids, and communication networks that will eventually extend to lunar outposts and orbital habitats.",
+        "For those contemplating lives off-world, these reports outline the very bedrock of their future existence. The cost of a flight, the availability of a specific orbital service, or the economic viability of manufacturing in microgravity — all are influenced by the trends captured in such a report. It is in these financial currents that the texture of a new economic reality begins to form, a tangible sense of what a sustainable life beyond Earth might feel like."
+      ],
+      "ja": [
+        "宇宙経済の輪郭が、政策と投資によって徐々にその姿を現している。欧州宇宙機関（ESA）は、そのセクターを定義する財政的潮流を詳細に分析した報告書を発表した。",
+        "2026年7月13日、ESAは年次「宇宙経済レポート」を公開した。この文書は、欧州の航空宇宙および衛星産業における成長と戦略的変化を測る重要な指標となる。打ち上げサービスから軌道上インフラに至るまで、官民の資本がどのように連携し、能力を拡大しているかを詳述している。",
+        "レポートは「欧州の宇宙セクターを形作る最新の動向を包括的に概観」している。各国宇宙計画、民間ベンチャー、国際協力の相互作用を検証し、急速な拡大分野と新たな課題を浮き彫りにする。具体的な財政数値は概要では詳述されていないが、報告書は技術進歩の複雑なエコシステムを支える相当な投資を強調している。",
+        "> 欧州の宇宙セクターを形作る最新の動向を包括的に概観する。",
+        "この種の分析は、将来の地球外への人類の拡大を支える経済インフラを理解するために不可欠である。それは、月面基地や軌道上居住地へと最終的に広がるであろう、物資供給網、エネルギー網、通信ネットワークの経路を描き出す。",
+        "宇宙での生活を志す人々にとって、これらの報告書は彼らの未来の存在の基盤そのものを示している。フライトの費用、特定の軌道サービスの利用可能性、微小重力下での製造の経済的実現性—これらすべてが、このようなレポートに捉えられたトレンドによって左右される。新たな経済的リアリティの質感が、これらの財政的潮流の中に形作られ始める。それは、地球外での持続可能な生活がどのような手触りを持つのかを予感させるものだ。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The European Space Agency, much like Japan's JAXA, has released a major report on the financial health and future trends of its space industry. Think of it as an economic forecast, but instead of predicting housing prices or stock market trends, it looks at how much money is being invested in rockets, satellites, and space-related businesses across Europe. It helps them understand where the industry is growing and what challenges lie ahead, much like a national economic white paper.",
+        "For Tokyo residents, this report, while European-centric, offers insights into global space market dynamics. Specifically, it could influence the availability and cost of satellite data used in everything from precise GPS navigation for ride-sharing apps to real-time weather forecasting that impacts daily commutes. It also points to areas of international competition and cooperation that could affect the supply chain for advanced materials used in Japanese electronics or automotive industries, especially those components with space-grade requirements.",
+        "We might see indirect effects within 3-5 years. This timeframe is gated by the speed at which European space policy translates into commercial offerings and international partnerships. As global space infrastructure becomes more interconnected, the economic health of one major player like Europe inevitably ripples through the wider system. Japanese companies will need to react to these shifts.",
+        "Japan has its own robust space industry, with players like JAXA and METI actively monitoring and shaping the domestic space economy. Companies such as Synspective, which develops radar satellites, and ispace, focused on lunar landers, are prime examples of Japanese private sector growth in areas analogous to those highlighted in the ESA report. While Japan doesn't publish an identical \"Space Economy Report\" in the same format, its government and industry bodies conduct similar analyses to guide investment and policy."
+      ],
+      "ja": [
+        "欧州宇宙機関（ESA）が、欧州の宇宙産業の財政状況と将来のトレンドに関する重要な報告書を発表しました。これは、日本のJAXAのような機関が、宇宙関連のロケットや衛星、ビジネスにどれだけの資金が投資されているかを予測する経済見通しのようなものです。この報告書は、業界がどこで成長しているか、どのような課題があるかを理解するのに役立ちます。",
+        "東京に暮らす私たちにとって、この欧州中心の報告書は、世界の宇宙市場の動向を読み解く手がかりになります。具体的には、ライドシェアアプリの精密なGPSナビゲーションから、日々の通勤に影響を与えるリアルタイムの天気予報まで、あらゆる場所で使われる衛星データの利用可能性やコストに影響を与える可能性があります。また、欧州の動向は、日本のエレクトロニクスや自動車産業で使用される先進素材、特に宇宙グレードの部品のサプライチェーンに影響を及ぼす国際競争や協力の分野を示唆しています。",
+        "間接的な影響は3年から5年以内に現れるかもしれません。これは、欧州の宇宙政策が商業的な提供や国際的なパートナーシップにどれだけ早く結びつくかによって決まります。世界の宇宙インフラがより相互接続されるにつれて、欧州のような主要プレイヤーの経済的健全性は、必然的に広範なシステム全体に波及するでしょう。日本の企業もこれらの変化に対応する必要があります。",
+        "日本にもJAXAや経済産業省（METI）が国内の宇宙経済を積極的に監視し、形成しています。レーダー衛星を開発するSynspectiveや、月面着陸機に注力するispaceのような企業は、ESAの報告書で強調されている分野と類似した日本の民間セクターの成長の好例です。日本はESAと全く同じ形式の「宇宙経済レポート」を発表していませんが、政府や業界団体は投資と政策を導くために同様の分析を行っています。"
+      ]
+    },
+    "source": {
+      "name": "ESA",
+      "url": ""
+    },
+    "sourceGuid": "1ccf46b903f53f8dbc6ba5d5b87f1640",
+    "status": "published"
+  },
+  {
     "slug": "designing-for-life-the-aether-dwelling-prototype",
     "category": "space-tech",
     "issue": "Vol. 07",
@@ -4225,8 +4571,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0f12"
+      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Lunar Outpost: NASA Expands Moon Base Science, Signals New Era",
@@ -4397,8 +4743,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "New Glenn's Unanswered Questions: A Setback for Orbital Ambitions",
@@ -4655,8 +5001,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "Rocket Lab Expands Reach with Iridium Acquisition",
@@ -4913,8 +5259,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0f12"
     },
     "title": {
       "en": "Mapping the Lunar Future: Argonaut's Path to Autonomy",
@@ -5427,8 +5773,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "Orbital Data Centers: A Vision Under Scrutiny",
@@ -5599,8 +5945,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Consolidation in Orbit: Musk Acquires SpaceX Alumni Startup Mesh",
@@ -5773,8 +6119,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#08080a"
     },
     "title": {
       "en": "Beyond Apollo: The Next Generation of Lunar Landers Takes Shape",
@@ -6035,8 +6381,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Synspective's Orbiting Eye: Rocket Lab Deploys Tenth Radar Satellite",
@@ -6119,8 +6465,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "The Spreading Seeds: SpaceX Alumni Fuel New Space Economy",
@@ -6371,8 +6717,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101012"
+      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0b0b0d"
     },
     "title": {
       "en": "Artemis II: Refining the Path to a Sustainable Lunar Presence",
@@ -6533,354 +6879,6 @@
       "url": "https://www.space.com/space-exploration/artemis/nasas-aging-infrastructure-cant-handle-artemis-launches-without-usd1-billion-in-upgrades-watchdog-warns"
     },
     "sourceGuid": "7ABFFWZEuM4gvomeKnRQp3",
-    "status": "published"
-  },
-  {
-    "slug": "spacex-valuation-shift-implications-for-off-world-ambitions",
-    "category": "space-tech",
-    "issue": "Vol. 06",
-    "publishedAt": "2026-06-24T17:23:25.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://futurism.com/wp-content/uploads/2026/06/spacex-stock-fallen-elon-musk-trillionaire.jpg?quality=85",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "SpaceX Valuation Shift: Implications for Off-World Ambitions",
-      "ja": "SpaceX評価変動：月面経済への影響"
-    },
-    "dek": {
-      "en": "A recent market correction has seen the valuation of SpaceX shift, impacting the personal wealth of its founder. This development underscores the volatile nature of private space investment and its potential ripple effects on long-term off-world infrastructure projects.",
-      "ja": "最近の市場調整によりSpaceXの評価額が変動し、創業者の個人資産にも影響を与えている。この動向は、民間宇宙投資の変動性と、それが長期的な地球外インフラプロジェクトに与える潜在的な波及効果を浮き彫りにする。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo, June 24, 2026",
-      "ja": "東京、2026年6月24日"
-    },
-    "tags": [
-      {
-        "en": "SpaceX",
-        "ja": "SpaceX"
-      },
-      {
-        "en": "Elon Musk",
-        "ja": "イーロン・マスク"
-      },
-      {
-        "en": "Space Economy",
-        "ja": "宇宙経済"
-      },
-      {
-        "en": "Investment",
-        "ja": "投資"
-      }
-    ],
-    "body": {
-      "en": [
-        "The financial markets have recently registered a notable shift in the valuation of SpaceX, the private aerospace manufacturer and space transportation services company. This adjustment has had a direct impact on the personal net worth of its founder, Elon Musk.",
-        "Reported on June 24, 2026, the company's stock performance led to a re-evaluation of Musk's assets, signifying that he is no longer counted among the world's trillionaires. This event, while focused on an individual's financial standing, highlights the broader economic currents affecting the burgeoning space industry.",
-        "The private space sector, often fueled by ambitious long-term visions and significant capital expenditure, remains susceptible to market sentiment and investor confidence. Fluctuations in a leading player's valuation can prompt a re-assessment across the entire ecosystem.",
-        "SpaceX has been at the forefront of developing reusable rocket technology and expanding satellite internet constellations like Starlink. Its ambitious plans for lunar and Martian colonization, alongside the development of the Starship vehicle, rely heavily on sustained investment and financial stability.",
-        "> \"SpaceX Stock Has Fallen So Far That Elon Musk Is No Longer a Trillionaire.\"",
-        "The implications of such market corrections extend beyond the immediate balance sheet. They can influence the pace of research and development, the scaling of manufacturing capabilities, and the timeline for deploying critical infrastructure both in Earth orbit and beyond.",
-        "For those envisioning a future where humanity lives and works off-world, the financial health of key private entities like SpaceX is paramount. A sustained decrease in valuation or a tightening of investment capital could mean slower progress on the development of lunar habitats, Martian transit systems, or orbital manufacturing facilities.",
-        "The cost of a ticket to orbit, the availability of specialized materials for off-world construction, or even the viability of new space-based industries could all be recalibrated. This market shift suggests that the foundational elements of an off-world economy are still deeply tethered to terrestrial financial cycles, introducing a new layer of anxiety for future lunar settlers and orbital workers."
-      ],
-      "ja": [
-        "民間航空宇宙メーカーであり宇宙輸送サービス企業であるSpaceXの評価額が、金融市場で顕著な変化を見せた。この調整は、創業者イーロン・マスク氏の個人資産に直接的な影響を及ぼしている。",
-        "2026年6月24日に報じられたところによると、同社の株価パフォーマンスはマスク氏の資産の再評価につながり、彼がもはや世界の億万長者のリストには含まれないことを示している。この出来事は、個人の財政状態に焦点を当てているものの、成長する宇宙産業全体に影響を与える広範な経済的潮流を浮き彫りにする。",
-        "壮大な長期ビジョンと巨額の設備投資によってしばしば推進される民間宇宙セクターは、市場センチメントと投資家の信頼に依然として影響を受けやすい。主要プレーヤーの評価額の変動は、エコシステム全体での再評価を促す可能性がある。",
-        "SpaceXは、再利用可能なロケット技術の開発や、Starlinkのような衛星インターネットコンステレーションの拡大を主導してきた。月面や火星への入植、Starshipの開発といった野心的な計画は、持続的な投資と財政的安定に大きく依存している。",
-        "> 「SpaceXの株価は下落し、イーロン・マスクはもはや兆万長者ではない。」",
-        "このような市場調整の影響は、直接的な貸借対照表を超えて広がる。研究開発のペース、製造能力の拡大、そして地球軌道内外での重要なインフラ展開のタイムラインに影響を与える可能性がある。",
-        "人類が地球外で生活し、働く未来を構想する者にとって、SpaceXのような主要な民間企業の財政健全性は極めて重要である。評価額の持続的な下落や投資資金の逼迫は、月面居住施設、火星輸送システム、または軌道上製造施設の開発ペースを遅らせる可能性がある。",
-        "軌道へのチケット代、地球外建設用の特殊材料の入手可能性、あるいは新たな宇宙ベース産業の実現可能性までもが再調整されるだろう。今回の市場変動は、地球外経済の基盤が依然として地球の金融サイクルに深く結びついていることを示唆しており、将来の月面入植者や軌道上労働者にとって新たな不安要素をもたらす。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The recent news about SpaceX's stock performance and its impact on Elon Musk's personal wealth might seem distant from daily life in Tokyo. Essentially, one of the world's most prominent private space companies has seen its market value fluctuate, leading to a significant adjustment in its founder's net worth. Think of it like a major tech company listed on the Tokyo Stock Exchange experiencing a notable dip; it affects investor confidence and potentially future projects.",
-        "For Tokyo readers, the immediate impact isn't direct. However, in the near future, such financial shifts in the space industry could subtly affect domains like satellite communication services, which many rely on for navigation (GPS) and broadcasting. A slowdown in Starlink's expansion, for instance, could mean a longer wait for truly global, low-latency internet, impacting remote work or disaster response capabilities that depend on robust satellite links.",
-        "This kind of impact is likely to be felt within the next 3 to 5 years. The gating factor here is the global investment climate and the ability of major private space players to secure consistent funding. If capital becomes scarcer, the pace of new satellite deployments or critical infrastructure projects will inevitably slow, affecting the services built upon them.",
-        "Japan has its own burgeoning private space sector, with companies like ispace, Astroscale, and Interstellar Technologies making significant strides. While these firms operate on different scales and business models than SpaceX, their growth and stability are similarly tied to investor confidence and market conditions. For example, ispace's lunar lander missions, while distinct, also highlight the capital-intensive nature of space ventures. The lesson from SpaceX's valuation adjustment serves as a reminder that even the most ambitious off-world visions must navigate the realities of terrestrial finance."
-      ],
-      "ja": [
-        "SpaceXの株価パフォーマンスとイーロン・マスク氏の個人資産への影響に関する最近のニュースは、東京での日常生活とは遠い話に聞こえるかもしれません。要するに、世界で最も著名な民間宇宙企業の一つが市場価値の変動を経験し、その創業者の資産が大きく調整されたということです。これは、東京証券取引所に上場している大手テクノロジー企業が一時的な株価下落を経験するようなもので、投資家の信頼や将来のプロジェクトに影響を与える可能性があります。",
-        "東京の読者にとって、直接的な影響はすぐにはありません。しかし、近い将来、宇宙産業におけるこのような金融変動は、多くの人がナビゲーション（GPS）や放送で利用している衛星通信サービスといった分野に、間接的な影響を与える可能性があります。例えば、Starlinkの拡張が遅れれば、真にグローバルで低遅延のインターネットの普及が遅れ、堅牢な衛星リンクに依存するリモートワークや災害対応能力に影響が出るかもしれません。",
-        "このような影響は、今後3年から5年以内に感じられる可能性があります。決定要因となるのは、世界の投資環境と、主要な民間宇宙プレーヤーが一貫した資金調達を確保できるかどうかです。もし資金がより希少になれば、新しい衛星の展開や重要なインフラプロジェクトのペースは必然的に減速し、それに依存するサービスにも影響を与えるでしょう。",
-        "日本にも、ispace、Astroscale、Interstellar Technologiesといった、目覚ましい進歩を遂げている民間宇宙セクターがあります。これらの企業はSpaceXとは異なる規模やビジネスモデルで運営されていますが、その成長と安定性も同様に投資家の信頼と市場状況に結びついています。例えば、ispaceの月着陸船ミッションは、その独自性がある一方で、宇宙事業が資本集約型であるという性質を浮き彫りにしています。SpaceXの評価調整から得られる教訓は、最も野心的な地球外のビジョンでさえ、地球上の金融の現実を乗り越える必要があるということを思い出させます。"
-      ]
-    },
-    "source": {
-      "name": "Futurism",
-      "url": "https://futurism.com/space/spacex-stock-fallen-elon-musk-trillionaire"
-    },
-    "sourceGuid": "https://futurism.com/?p=444231",
-    "status": "published"
-  },
-  {
-    "slug": "space-force-reconfigures-satellite-control-network-after-contract-termination",
-    "category": "space-tech",
-    "issue": "Vol. 06",
-    "publishedAt": "2026-06-24T21:26:29.000Z",
-    "readingMinutes": 5,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
-    },
-    "title": {
-      "en": "Space Force Reconfigures Satellite Control Network After Contract Termination",
-      "ja": "米宇宙軍、衛星管制網の再構築へ—17億ドル契約解除の波紋"
-    },
-    "dek": {
-      "en": "The U.S. Space Force seeks new partners for its critical Satellite Control Antenna Replacement (SCAR) program, revisiting a $1.7 billion contract to ensure the resilience of its orbital assets.",
-      "ja": "米宇宙軍は、衛星管制アンテナ交換（SCAR）プログラムの新たな入札者を募る。17億ドルの契約解除を経て、軌道資産のレジリエンス確保に向けた再編が始まる。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "WASHINGTON D.C.",
-      "ja": "ワシントンD.C."
-    },
-    "tags": [
-      {
-        "en": "Space Force",
-        "ja": "宇宙軍"
-      },
-      {
-        "en": "Satellite Control",
-        "ja": "衛星管制"
-      },
-      {
-        "en": "Infrastructure",
-        "ja": "インフラ"
-      },
-      {
-        "en": "US",
-        "ja": "米国"
-      }
-    ],
-    "body": {
-      "en": [
-        "The quiet hum of ground stations, often out of sight, forms the unseen sinews of orbital operations. In a significant move, the U.S. Space Force has terminated a $1.7 billion contract for its Satellite Control Antenna Replacement (SCAR) program, signaling a recalibration of its approach to vital space infrastructure.",
-        "This decision necessitates a fresh search for bidders to modernize the global network of antennas responsible for communicating with and controlling military satellites. The SCAR program aims to replace aging ground systems, ensuring robust and secure links to assets critical for national security and global communication.",
-        "The initial contract's termination underscores the complexities inherent in large-scale defense procurements. It highlights the imperative for solutions that are not only technologically advanced but also adaptable to the rapidly evolving landscape of space operations and potential adversarial threats.",
-        "Reliable ground control is the bedrock of all space activity. Without resilient antenna arrays dotting the landscape, even the most advanced satellites become inert objects. This re-evaluation by the Space Force reflects a broader strategic pivot towards ensuring uncompromising command and control capabilities for its burgeoning constellation.",
-        "> The Space Force seeks fresh bidders for satellite-control antennas.",
-        "The pursuit of new partners is not merely about replacing hardware; it is about building a more secure and efficient architecture for the next generation of space operations. This includes integrating advanced cybersecurity measures and developing flexible systems that can evolve with future technological demands.",
-        "For those envisioning a future beyond Earth, the stability and security of such ground networks are paramount. Whether for lunar habitats, Martian outposts, or vast orbital stations, continuous communication and precise navigation depend entirely on the integrity of these terrestrial links. The efficiency and security of this network directly translate to the safety and operational capacity of those living beyond Earth, underpinning every aspect of off-world life from resource management to emergency protocols."
-      ],
-      "ja": [
-        "地上局の静かなる稼働音は、目に見えない軌道運用を支える神経網を形成している。米宇宙軍は、衛星管制アンテナ交換（SCAR）プログラムに関する17億ドルの契約を解除した。これは、極めて重要な宇宙インフラへのアプローチを再調整する、重大な動きである。",
-        "この決定により、軍事衛星との通信および制御を担うグローバルなアンテナネットワークを近代化するための、新たな入札者の募集が求められる。SCARプログラムは老朽化した地上システムを更新し、国家安全保障とグローバル通信に不可欠な資産への堅牢で安全なリンクを確保することを目指している。",
-        "最初の契約解除は、大規模な防衛調達に内在する複雑さを示唆している。これは、技術的に進んでいるだけでなく、急速に進化する宇宙運用環境や潜在的な敵対的脅威に適応できるソリューションが不可欠であることを浮き彫りにする。",
-        "信頼性の高い地上管制は、あらゆる宇宙活動の基盤である。堅牢なアンテナアレイが地上に点在しなければ、どれほど高度な衛星であってもただの不活性な物体となる。宇宙軍によるこの再評価は、拡大する衛星群に対する妥協のない指揮統制能力を確保するための、より広範な戦略的転換を反映している。",
-        "> 米宇宙軍は、衛星管制アンテナの新たな入札者を募っている。",
-        "新たなパートナーの追求は、単にハードウェアを交換するだけではない。次世代の宇宙運用のために、より安全で効率的なアーキテクチャを構築することである。これには、高度なサイバーセキュリティ対策の統合や、将来の技術要求に合わせて進化できる柔軟なシステムの開発が含まれる。",
-        "地球外での未来を構想する人々にとって、このような地上ネットワークの安定性と安全性は極めて重要である。月面居住地、火星の前哨基地、あるいは広大な軌道ステーションであれ、継続的な通信と精密な航法は、これらの地上リンクの整合性に完全に依存する。このネットワークの効率性と安全性は、地球外で生活する人々の安全と運用能力に直結し、資源管理から緊急プロトコルまで、地球外生活のあらゆる側面を支えることになるだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The U.S. Space Force recently decided to cancel a major contract, worth $1.7 billion, that was intended to upgrade its ground stations. Think of these ground stations as the air traffic control towers for satellites — they are absolutely essential for sending commands and receiving data from spacecraft. Now, they're starting over to find new companies to build these critical antenna systems.",
-        "For Tokyo readers, this news might seem distant, but it has tangible implications. Our daily lives are increasingly intertwined with satellite services, from the accuracy of GPS navigation in our phones to the timing systems that underpin financial markets and the early warnings for natural disasters. A more secure and resilient U.S. satellite control network indirectly strengthens the entire global space infrastructure, which Japan heavily relies upon.",
-        "This kind of large-scale infrastructure project will take time. We can expect a new system to be fully implemented over the next 5 to 10 years. The impact won't be sudden, but rather a gradual improvement in the overall reliability and security of satellite services, gated by the rigorous procurement and testing phases.",
-        "Japan also operates its own vital ground stations for satellite control. JAXA, for instance, manages an extensive network. Private companies like Synspective and Astroscale similarly rely on robust ground infrastructure for their commercial satellite operations. While the scale and military context differ, the principle of securing critical ground infrastructure for national space assets is a shared and paramount concern, with companies like Mitsubishi Electric playing a key role in developing these sophisticated systems for Japan."
-      ],
-      "ja": [
-        "米宇宙軍が、人工衛星を地上から操作するための重要な契約（17億ドル相当）を解除し、新しいパートナーを探し直すことになりました。これは、まるで空港の管制塔のような役割を果たす地上局のシステムを、より現代的で安全なものに更新する計画です。一度白紙に戻してでも、将来にわたって確実に衛星をコントロールできる体制を築こうとしているのです。",
-        "東京の読者にとって、これは一見遠い話に思えるかもしれません。しかし、私たちの日常生活はGPSナビゲーション、金融取引の正確な時刻同期、気象予報、災害監視など、多くの衛星サービスに支えられています。米国の衛星管制ネットワークの堅牢性が高まることは、間接的に国際的な宇宙インフラ全体の信頼性を向上させ、結果として日本の社会が享受するサービス品質の安定につながります。",
-        "このような大規模なシステム再構築は、新たな入札者の選定から開発、導入、テストまで、5年から10年という長期的なスパンで進むでしょう。影響は劇的なものではなく、時間をかけて徐々に、しかし確実に衛星サービスの安定性という形で現れると予想されます。厳格な調達と試験の段階が、その進捗を左右する要因となります。",
-        "日本でも、JAXAはもちろん、SynspectiveやAstroscaleといった民間企業が、自社の衛星を運用するための地上局を保有・運用しています。また、三菱電機のような企業は、衛星本体だけでなく、その管制システム全体の開発に深く関わっています。米国のような軍事的な文脈とは異なりますが、日本の宇宙活動においても、地上からの確実な管制能力を維持・発展させることは、極めて重要な課題です。"
-      ]
-    },
-    "source": {
-      "name": "SpaceNews",
-      "url": "https://spacenews.com/space-force-seeks-fresh-bidders-for-satellite-control-antennas/"
-    },
-    "sourceGuid": "https://spacenews.com/?p=602266",
-    "status": "published"
-  },
-  {
-    "slug": "orbital-congestion-operators-form-new-trade-body",
-    "category": "space-tech",
-    "issue": "Vol. 06",
-    "publishedAt": "2026-06-24T12:50:00.000Z",
-    "readingMinutes": 6,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
-    },
-    "title": {
-      "en": "Orbital Congestion: Operators Form New Trade Body",
-      "ja": "軌道上の混雑：衛星運用者が新業界団体を設立"
-    },
-    "dek": {
-      "en": "A consortium of major satellite operators has established a new trade association to navigate the complexities of non-geostationary orbit. This move signals a maturing market and the growing need for coordinated policy in an increasingly crowded celestial sphere.",
-      "ja": "主要な衛星運用企業が、非静止軌道における複雑な課題に対応するため、新たな業界団体を設立した。この動きは、成熟しつつある市場と、混雑が進む宇宙空間における協調的な政策の必要性を示している。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "ORBITAL FRONTIER, 2026-06-24",
-      "ja": "軌道フロンティア、2026年06月24日"
-    },
-    "tags": [
-      {
-        "en": "satellites",
-        "ja": "衛星"
-      },
-      {
-        "en": "trade association",
-        "ja": "業界団体"
-      },
-      {
-        "en": "NGSO",
-        "ja": "非静止軌道"
-      },
-      {
-        "en": "space economy",
-        "ja": "宇宙経済"
-      }
-    ],
-    "body": {
-      "en": [
-        "The burgeoning landscape of Earth orbit is becoming increasingly complex. In response, a powerful new alliance of satellite operators has formed, aiming to bring order and advocacy to the rapidly expanding realm of non-geostationary orbit (NGSO) operations.",
-        "Amazon, Globalstar, Iridium, and Canada’s Telesat have joined forces to establish the SpaceConnect Association. This collective represents a significant portion of the commercial entities deploying and managing vast constellations of satellites at lower altitudes, far below the traditional geostationary arc.",
-        "The primary objective of SpaceConnect is to represent the interests of NGSO operators on a global scale. This includes advocating for fair access to radio spectrum, developing common operational standards, and engaging with regulatory bodies worldwide to ensure the sustainable use of orbital resources.",
-        "The proliferation of NGSO constellations, driven by demands for global internet access and advanced Earth observation, has intensified concerns over orbital debris, spectrum interference, and the sheer volume of active spacecraft. A unified voice from the industry is now seen as essential.",
-        "> \"Satellite Operators Launch Trade Association.\"",
-        "This initiative echoes historical precedents where industries facing rapid expansion and shared challenges have coalesced to shape their future. From early aviation to deep-sea cabling, such associations often play a critical role in standardizing practices and influencing policy.",
-        "For those envisioning a life beyond Earth, the implications are tangible. Reliable, high-bandwidth communication will be the lifeblood of lunar bases, Martian settlements, and orbital habitats. The coordinated efforts of groups like SpaceConnect could streamline the infrastructure, ensuring robust and interference-free data pathways crucial for everything from remote surgery to real-time supply chain management.",
-        "The establishment of common protocols and a unified lobbying front could reduce the cost and complexity of integrating off-world communication systems with Earth-based networks. This translates directly into more affordable and accessible services for the first generations living and working away from home, making daily life in space more connected and less isolated."
-      ],
-      "ja": [
-        "地球軌道の風景は、急速にその複雑さを増している。この状況に対応するため、衛星運用者の強力な新たな連合体が結成された。彼らは、非静止軌道（NGSO）運用という急速に拡大する領域に秩序をもたらし、その利益を擁護することを目指している。",
-        "アマゾン、グローバルスター、イリジウム、そしてカナダのテレスatが協力し、「スペースコネクト協会」を設立した。この団体は、従来の静止軌道よりも低い高度に広大な衛星コンステレーションを展開・管理する商業企業の大部分を代表している。",
-        "スペースコネクトの主な目的は、非静止軌道運用者の利益を世界規模で代表することにある。これには、無線スペクトルへの公平なアクセスを擁護し、共通の運用標準を開発し、世界中の規制機関と連携して軌道資源の持続可能な利用を確保することが含まれる。",
-        "地球規模のインターネットアクセスや高度な地球観測への需要に牽引され、非静止軌道コンステレーションの急速な増加は、宇宙ゴミ、スペクトル干渉、そして稼働中の宇宙機の総量に対する懸念を強めている。業界からの統一された声が、今や不可欠とされている。",
-        "> 「衛星運用者が業界団体を設立した。」",
-        "この取り組みは、急速な拡大と共通の課題に直面する産業が、その未来を形作るために団結してきた歴史的先例を想起させる。初期の航空産業から深海ケーブル敷設に至るまで、このような協会は慣行の標準化と政策への影響において重要な役割を果たすことが多い。",
-        "地球外での生活を構想する人々にとって、その影響は具体的だ。信頼性の高い大容量通信は、月面基地、火星の居住地、そして軌道上居住空間の生命線となるだろう。スペースコネクトのようなグループの協調的な努力は、インフラを合理化し、遠隔手術からリアルタイムのサプライチェーン管理まで、あらゆるものに不可欠な堅牢で干渉のないデータ経路を確保する可能性がある。",
-        "共通のプロトコルの確立と統一されたロビー活動は、地球外通信システムと地球ベースのネットワークを統合する際のコストと複雑さを低減するだろう。これは、故郷を離れて生活し働く最初の世代にとって、より手頃でアクセスしやすいサービスに直接つながり、宇宙での日常生活をより接続され、孤立感を減らすものにする。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "A new group called the SpaceConnect Association has been formed by big satellite companies like Amazon. Think of it as a neighborhood watch for the thousands of new satellites flying closer to Earth, in what's called non-geostationary orbit. These satellites are not fixed in the sky like older ones; they move constantly, providing services like global internet.",
-        "For Tokyo readers, this could mean several practical improvements. Your smartphone's GPS might become even more precise, benefiting navigation apps or future self-driving vehicles. Satellite internet services, which are becoming more common, could become more reliable and potentially cheaper, especially in areas with limited fiber optic access. It also strengthens communication resilience during natural disasters, ensuring more robust connections when ground infrastructure fails.",
-        "These impacts are likely to be felt within the next 3 to 5 years. The timeline depends on how quickly these large constellations are fully deployed and how effectively SpaceConnect can advocate for common standards and regulatory frameworks globally. As more satellites go up, the need for coordinated traffic management and spectrum allocation becomes more urgent.",
-        "Japan already has companies contributing to and benefiting from this evolving space. For example, Synspective operates its own constellation of small radar satellites for Earth observation, and Astroscale is a leader in orbital debris removal, a critical issue for a crowded NGSO environment. This new association will likely influence how these Japanese players operate and collaborate on the international stage, potentially opening new avenues for domestic innovation in satellite services and space traffic management."
-      ],
-      "ja": [
-        "アマゾンなどの大手衛星企業が、「スペースコネクト協会」という新しい団体を設立しました。これは、地球に近い軌道（非静止軌道）を飛ぶ何千もの新しい衛星のための「町内会」のようなものだと考えてください。これらの衛星は、古い衛星のように空に固定されているのではなく、常に動きながら全世界にインターネットなどのサービスを提供しています。",
-        "東京で暮らす読者にとって、これはいくつかの実用的な改善をもたらす可能性があります。スマートフォンのGPSの精度がさらに向上し、カーナビや将来の自動運転車に恩恵をもたらすかもしれません。また、普及が進む衛星インターネットサービスは、特に光ファイバー網が限られた地域で、より信頼性が高く、将来的には安価になる可能性があります。これは災害時の通信レジリエンス（回復力）も強化し、地上のインフラが機能しなくなった際にも強固な接続を確保するのに役立ちます。",
-        "これらの影響は、今後3年から5年以内に感じられるようになるでしょう。この時期は、大規模な衛星コンステレーションが完全に展開される速度と、スペースコネクトが世界中で共通の標準と規制枠組みをどれだけ効果的に推進できるかにかかっています。より多くの衛星が打ち上げられるにつれて、協調的な交通管理と周波数割り当ての必要性はますます高まります。",
-        "日本には、この進化する宇宙分野に貢献し、恩恵を受けている企業がすでに存在します。例えば、Synspectiveは地球観測用の小型レーダー衛星コンステレーションを運用しており、Astroscaleは混雑した非静止軌道環境にとって重要な宇宙ゴミ除去の分野でリーダーです。この新しい協会は、これらの日本のプレーヤーが国際舞台でどのように活動し、協力するかに影響を与え、衛星サービスや宇宙交通管理における国内イノベーションの新たな道を開く可能性があります。"
-      ]
-    },
-    "source": {
-      "name": "Payload",
-      "url": "https://payloadspace.com/satellite-operators-launch-trade-association/"
-    },
-    "sourceGuid": "https://payloadspace.com/?p=30400",
-    "status": "published"
-  },
-  {
-    "slug": "artemis-the-path-to-permanent-presence",
-    "category": "artemis",
-    "issue": "Vol. 06",
-    "publishedAt": "2026-06-23T15:43:54.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0b0b0d"
-    },
-    "title": {
-      "en": "Artemis: The Path to Permanent Presence",
-      "ja": "アルテミス計画：恒久的な月面滞在への道"
-    },
-    "dek": {
-      "en": "NASA's Artemis program navigates a complex transition from pioneering lunar missions to establishing a sustained human presence, balancing ambition with the practicalities of off-world habitation.",
-      "ja": "NASAのアルテミス計画は、月面開拓ミッションから持続的な人類の月面滞在確立へと複雑な移行期を迎えている。その野心と、地球外居住の現実との間で均衡が図られる。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "HOUSTON",
-      "ja": "ヒューストン"
-    },
-    "tags": [
-      {
-        "en": "Artemis",
-        "ja": "アルテミス"
-      },
-      {
-        "en": "Moon",
-        "ja": "月"
-      },
-      {
-        "en": "Lunar Economy",
-        "ja": "月面経済"
-      },
-      {
-        "en": "NASA",
-        "ja": "NASA"
-      }
-    ],
-    "body": {
-      "en": [
-        "The Artemis program represents a deliberate stride towards humanity's return to the Moon, envisioning more than transient visits. Unlike the Apollo era, which prioritized singular scientific and geopolitical achievements, Artemis aims to construct the foundational infrastructure for sustained lunar operations.",
-        "This ambition manifests in the development of key components: the Orion spacecraft, the Lunar Gateway orbital outpost, and the Human Landing System (HLS) — a crucial element for transporting astronauts to the lunar surface. The program's trajectory, however, is not without its intricate challenges, demanding consistent political will and technological innovation.",
-        "Initial missions like Artemis III, targeting a crewed landing near the lunar South Pole in the mid-2020s, are designed to test these nascent systems. Subsequent phases focus on deploying habitats, scientific instruments, and resource extraction capabilities, laying the groundwork for a long-term human foothold.",
-        "The transition from exploration to sustained presence requires a substantial logistical commitment. Moving beyond flags and footprints, the program anticipates transporting dozens of tons of cargo and equipment to the Moon, a scale far exceeding Apollo's hundreds of kilograms per mission.",
-        "> \"The path to a permanent lunar presence demands a delicate balance of ambition and pragmatism.\"",
-        "Establishing such a presence will fundamentally reshape the experience of living off-world. Future lunar inhabitants will navigate not only the stark environment but also the complex logistics of resupply, maintenance, and community building, all reliant on the infrastructure currently in development. This shift implies new professions, new material demands, and a redefinition of daily life far from Earth's embrace.",
-        "The success of Artemis hinges on the ability to translate grand vision into reliable, repeatable operations. This includes refining life support systems, developing robust power generation, and fostering international collaboration to share the immense costs and risks. The Moon, once a distant objective, is slowly becoming a potential extension of human civilization, demanding a new blueprint for existence."
-      ],
-      "ja": [
-        "アルテミス計画は、人類の月への帰還に向けた意図的な一歩であり、一時的な訪問以上のものを構想している。単一の科学的・地政学的成果を優先したアポロ時代とは異なり、アルテミスは持続的な月面活動のための基盤インフラを構築することを目指している。",
-        "この野心は、オリオン宇宙船、月周回軌道ステーション「ゲートウェイ」、そして宇宙飛行士を月面へ輸送する重要な要素である有人着陸システム（HLS）といった主要コンポーネントの開発に表れている。しかし、計画の軌道は複雑な課題を抱えており、一貫した政治的意志と技術革新が求められている。",
-        "2020年代半ばに月の南極付近への有人着陸を目指すアルテミスIIIのような初期ミッションは、これらの初期システムを試験するために設計されている。その後のフェーズでは、居住施設、科学機器、資源採掘能力の展開に焦点を当て、長期的な人類の足がかりの基礎を築く。",
-        "探査から持続的な滞在への移行には、大規模なロジスティクスへのコミットメントが必要となる。旗を立てるだけでなく、アポロ計画のミッションごとの数百キログラムをはるかに超える数十トンもの貨物と機器を月へ輸送することが計画されている。",
-        "> 「恒久的な月面滞在への道は、野心と現実主義の繊細なバランスを要求する。」",
-        "このような存在の確立は、地球外での生活体験を根本的に変えるだろう。将来の月面居住者は、過酷な環境だけでなく、現在開発中のインフラに依存する補給、維持、コミュニティ構築の複雑なロジスティクスにも対応しなければならない。この変化は、新たな職業、新たな材料需要、そして地球の恩恵から遠く離れた日常生活の再定義を意味する。",
-        "アルテミス計画の成功は、壮大なビジョンを信頼性のある反復可能な運用へと転換する能力にかかっている。これには、生命維持システムの改良、堅牢な発電の開発、そして莫大なコストとリスクを分担するための国際協力の促進が含まれる。かつて遠い目標であった月は、人類文明の潜在的な延長となりつつあり、新たな生存の青写真が求められている。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The news about the Artemis program highlights its crucial pivot: it's no longer just about sending people to the Moon for a brief visit. Instead, NASA and its partners are building a permanent home there. Think of it like setting up a remote research station or a small village, complete with living quarters, power sources, and ways to get supplies.",
-        "For those of us in Tokyo, this shift has several plausible near-future impacts. Firstly, it could drive innovation in materials science, leading to new, lightweight, and durable composites that find their way into everyday products or construction here. Secondly, the demand for lunar resources might accelerate the development of advanced robotics and AI, which could then be applied to urban infrastructure maintenance or disaster response in Japan.",
-        "This kind of impact is likely to be felt within 5-10 years. The primary gating factor will be the sustained funding and political commitment from participating nations, including Japan, to build out the full Lunar Gateway and Human Landing System infrastructure. We also need to see the cost per kilogram to the Moon fall significantly.",
-        "Japan is already a key player in this endeavor. JAXA is contributing modules to the Lunar Gateway, and companies like ispace are actively pursuing commercial lunar landers and resource exploration. While no Japanese entity is currently building a full human landing system like Starship HLS, the expertise gained in robotics and precision landing through missions like SLIM and MMX positions Japan to be a crucial partner in the long-term lunar economy."
-      ],
-      "ja": [
-        "今回のアルテミス計画のニュースは、その重要な転換点を示しています。もはや単に人を月に送る一時的な訪問ではなく、NASAとそのパートナーは月に恒久的な「家」を築こうとしています。これは、遠隔地の研究基地や小さな村を建設するようなもので、住居、電源、物資を調達する手段などが含まれます。",
-        "東京に暮らす私たちにとって、この変化はいくつかの具体的な近い将来の影響をもたらす可能性があります。まず、材料科学における革新を促進し、軽量で耐久性のある新しい複合材料が、私たちの日常製品や建築物にも応用されるかもしれません。次に、月面資源への需要は、高度なロボット工学やAIの開発を加速させ、それが日本の都市インフラの維持や災害対応に応用される可能性もあります。",
-        "このような影響が顕在化するのは、おそらく5〜10年以内でしょう。主な決定要因は、日本を含む参加国からの継続的な資金提供と政治的コミットメントが、月周回軌道ゲートウェイや有人着陸システムといったインフラを完全に構築できるかどうかです。また、月への物資輸送コストが大幅に低下することも必要になります。",
-        "日本はこの取り組みにおいてすでに重要な役割を担っています。JAXAは月周回軌道ゲートウェイへのモジュール提供に貢献しており、ispaceのような企業は商業月着陸船や資源探査に積極的に取り組んでいます。現状、HLSのような本格的な有人着陸システムを開発している日本企業はありませんが、SLIMやMMXといったミッションを通じて得られたロボット工学や精密着陸の専門知識は、長期的な月面経済において日本が不可欠なパートナーとなることを示しています。"
-      ]
-    },
-    "source": {
-      "name": "NASA Artemis",
-      "url": "https://www.nasa.gov/image-article/hanging-in-the-balance/"
-    },
-    "sourceGuid": "https://www.nasa.gov/?post_type=image-article&#038;p=1008039",
     "status": "published"
   }
 ]

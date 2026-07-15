@@ -1,5 +1,351 @@
 [
   {
+    "slug": "artemis-iii-lander-test-blueprint-for-lunar-life",
+    "category": "artemis",
+    "issue": "Vol. 07",
+    "publishedAt": "2026-07-15T18:50:52.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0b0b0d"
+    },
+    "title": {
+      "en": "Artemis III Lander Test: Blueprint for Lunar Life",
+      "ja": "アルテミスIII着陸船試験：月面生活への青写真"
+    },
+    "dek": {
+      "en": "NASA prepares for a critical test of its Artemis III lunar lander, a rehearsal that will determine the rhythm and reliability of future life on the Moon.",
+      "ja": "NASAはアルテミスIII月着陸船の重要な試験を準備している。この予行演習は、将来の月面生活のリズムと信頼性を決定づけるものとなる。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Washington D.C., July 15, 2026",
+      "ja": "ワシントンD.C.、2026年7月15日"
+    },
+    "tags": [
+      {
+        "en": "Artemis",
+        "ja": "アルテミス"
+      },
+      {
+        "en": "Moon Landing",
+        "ja": "月面着陸"
+      },
+      {
+        "en": "Lunar Lander",
+        "ja": "月着陸船"
+      },
+      {
+        "en": "NASA",
+        "ja": "NASA"
+      }
+    ],
+    "body": {
+      "en": [
+        "A pivotal moment in humanity's return to the Moon is approaching. NASA is meticulously preparing for a crucial test of the lunar lander intended for its Artemis III mission, a rehearsal set to validate the intricate systems required for human presence on another celestial body.",
+        "This isn't merely a technical exercise. The scheduled test, targeting 2026, will serve as a comprehensive dry run, assessing the lander's ability to perform autonomous descent, precise landing, and ascent operations. Success here means more than just a safe touchdown; it signifies the maturation of the infrastructure vital for sustained lunar exploration.",
+        "The Artemis III mission aims to land astronauts near the Moon's South Pole, a region believed to harbor significant water ice resources. The lander test is designed to simulate the demanding conditions of this uncharted territory, ensuring that future crews can operate safely and efficiently in one of the most challenging environments in the solar system.",
+        "Engineers are focused on refining every parameter, from navigation algorithms to propulsion system performance. The precision required for a lunar landing is immense, akin to docking a large vessel in a swirling current—every variable must be accounted for, every system proven reliable.",
+        "> The test will pave the way for human landings.",
+        "The implications extend beyond the immediate mission. Each successful test flight builds confidence in the systems that will underpin future lunar habitats, research stations, and even commercial ventures. It de-risks the prospect of long-duration stays and the establishment of permanent outposts.",
+        "For those who envision a life beyond Earth, these lander tests are foundational. They are the quiet, methodical steps that transform audacious visions into tangible realities. The reliability forged in these trials will define the quality of daily life for lunar residents, from the consistency of resupply to the safety of their return journeys. It dictates the very cadence of lunar existence, shaping everything from the design of their living quarters to the peace of mind with which they inhabit them."
+      ],
+      "ja": [
+        "人類が月へ帰還する上での極めて重要な瞬間が近づいている。NASAはアルテミスIII計画で使用される月着陸船の決定的な試験を綿密に準備している。これは、地球外天体での人類の存在に不可欠な複雑なシステムを検証するための予行演習となる。",
+        "これは単なる技術的な演習ではない。2026年を目標とするこの試験は、着陸船の自律降下、精密着陸、そして上昇操作の能力を評価する包括的な予行演習となる。ここでの成功は、単に安全な着陸を意味するだけでなく、持続的な月探査に不可欠なインフラの成熟を示すものだ。",
+        "アルテミスIII計画は、豊富な水氷資源が存在するとされる月の南極付近に宇宙飛行士を着陸させることを目指している。この着陸船試験は、この未踏の地の厳しい条件をシミュレートするように設計されており、将来のクルーが太陽系で最も挑戦的な環境の一つで安全かつ効率的に活動できることを保証する。",
+        "技術者たちは、航法アルゴリズムから推進システムの性能に至るまで、あらゆるパラメーターの改良に注力している。月面着陸に求められる精度は計り知れず、それは荒れる潮流の中で大型船をドッキングさせるようなものだ。あらゆる変数を考慮し、すべてのシステムが信頼できることを証明しなければならない。",
+        "> この試験は、有人月面着陸への道を開く。",
+        "その影響は、目前のミッションを超えて広がる。成功するたびに、将来の月面居住施設、研究基地、さらには商業ベンチャーを支えるシステムの信頼性が高まる。それは長期滞在や恒久的な前哨基地の設立という見通しからリスクを取り除く。",
+        "地球外での生活を夢見る人々にとって、これらの着陸船試験は根幹をなすものだ。大胆なビジョンを具体的な現実へと変える、静かで計画的な一歩である。これらの試練で培われる信頼性が、月面居住者の日々の生活の質を決定づけるだろう。物資補給の一貫性から帰還の安全に至るまで、すべてに影響を与える。それは月面での存在そのもののリズムを決定し、居住空間のデザインから、そこに暮らす人々の心の平穏に至るまで、あらゆるものを形作るのだ。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "NASA is conducting a crucial test for its Artemis III mission in 2026. This isn't the actual human landing, but a dress rehearsal for the lander's systems, ensuring it can safely put people on the Moon. Think of it as a highly sophisticated delivery drone practicing its route and landing before carrying precious cargo to a remote, challenging destination.",
+        "This test, if successful, will accelerate the timeline for lunar resource extraction and the establishment of basic infrastructure. Tokyo readers might see indirect impacts on materials science, particularly for advanced ceramics or lightweight alloys developed for lunar conditions, which could eventually find their way into high-performance goods or construction here. Also, the expansion of satellite constellations supporting lunar missions could improve global positioning services or communication networks on Earth.",
+        "We can expect these impacts to become tangible within 3-5 years, once the foundational lunar infrastructure begins to take shape following successful human landings. The cost-effectiveness of transporting materials to and from the Moon remains a significant gating factor, requiring further technological and economic advancements.",
+        "Japan's ispace, with its Hakuto-R missions, is already demonstrating private lunar lander capabilities and autonomous navigation. While not directly part of Artemis III's human landing system, their efforts in developing autonomous lunar navigation and landing technologies are highly complementary and contribute to the broader ecosystem of lunar access. JAXA's MMX mission to the Martian moons also involves advanced autonomous navigation, showcasing Japan's expertise in this critical area."
+      ],
+      "ja": [
+        "NASAは2026年にアルテミスIII計画の重要な試験を行います。これは実際に人が月面に着陸するわけではなく、着陸船のシステムが安全に人を月に降ろせるかを確かめるための予行演習のようなものです。大切な貨物を遠く離れた困難な目的地へ運ぶ前に、高度な無人輸送機が経路と着陸を練習するようなものだと考えてください。",
+        "この試験が成功すれば、月面資源の採掘や基本的なインフラ構築のタイムラインが加速するでしょう。東京の読者にとっては、月面環境向けに開発される先進的なセラミックスや軽量合金といった材料科学の進歩が間接的に影響を与える可能性があります。これらは将来的に、高性能製品や日本の建設分野で応用されるかもしれません。また、月ミッションを支える衛星群の拡充は、地球上のGPSサービスや通信ネットワークの精度向上にも繋がるかもしれません。",
+        "これらの影響は、有人月面着陸後の基礎的な月面インフラが整い始める3〜5年以内に具体化すると考えられます。月への物資輸送コストの削減が、依然として大きな障壁であり、さらなる技術的・経済的進歩が求められます。",
+        "日本のispace社は、HAKUTO-Rミッションを通じて、すでに民間月着陸船の能力と自律航法技術を示しています。アルテミスIIIの有人着陸システムとは直接異なりますが、月面での自律航法・着陸技術の開発は非常に補完的であり、月へのアクセスという広範なエコシステムに貢献しています。JAXAのMMX計画もまた、火星の衛星への探査で高度な自律航法技術を開発しており、この重要な分野における日本の専門性を示しています。"
+      ]
+    },
+    "source": {
+      "name": "NASA Artemis",
+      "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/how-nasas-artemis-iii-lander-test-will-pave-way-for-moon-landings/"
+    },
+    "sourceGuid": "https://www.nasa.gov/?p=1017820",
+    "status": "published"
+  },
+  {
+    "slug": "starships-ascent-and-the-markets-gravity-spacex-valuation-shifts",
+    "category": "space-tech",
+    "issue": "Vol. 07",
+    "publishedAt": "2026-07-15T18:06:05.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
+    },
+    "title": {
+      "en": "Starship's Ascent and the Market's Gravity: SpaceX Valuation Shifts",
+      "ja": "スターシップの飛翔と市場の重力：スペースXの企業評価に変化"
+    },
+    "dek": {
+      "en": "Ahead of a critical Starship launch, SpaceX's valuation on the private market saw a recalibration, signaling a maturing investor outlook on the future of off-world commerce.",
+      "ja": "スターシップの重要な打ち上げを前に、スペースXの未公開市場での企業評価が調整された。これは、地球外商業の未来に対する投資家の見方が成熟しつつあることを示唆している。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "July 15, 2026, Boca Chica, Texas",
+      "ja": "2026年7月15日、テキサス州ボカチカ"
+    },
+    "tags": [
+      {
+        "en": "SpaceX",
+        "ja": "スペースX"
+      },
+      {
+        "en": "Starship",
+        "ja": "スターシップ"
+      },
+      {
+        "en": "Space Economy",
+        "ja": "宇宙経済"
+      },
+      {
+        "en": "IPO",
+        "ja": "IPO"
+      }
+    ],
+    "body": {
+      "en": [
+        "The vastness of South Texas, often a silent witness to the dawn, was once again poised for the roar of Starship's ascent. Yet, on the financial ledgers, a different kind of gravity was at play.",
+        "Ahead of this critical test flight, the valuation of SpaceX, a company synonymous with ambition, experienced a notable recalibration. Shares in the private secondary market found their equilibrium at $135.",
+        "This figure, while still significant, marked a departure from earlier, more speculative pricing peaks. It suggested a maturing investor sentiment, balancing the promise of a multi-planetary future with the tangible realities of capital expenditure and development timelines.",
+        "> Its shares, offered on the private secondary market, settled at a price of $135.",
+        "Starship itself embodies a fundamental shift in space logistics. Designed for rapid reusability and unprecedented payload capacity, its success is crucial for dramatically lowering the cost of reaching orbit and enabling large-scale lunar and Martian operations.",
+        "The $135 price point, as reported, places SpaceX at a substantial valuation, underscoring its pivotal role in the nascent off-world economy. It reflects a tempered confidence, acknowledging both the audacious vision and the enduring challenges of pioneering a new frontier.",
+        "For those envisioning life beyond Earth's atmosphere, this financial adjustment carries tangible implications. A more stable, predictable valuation for a company like SpaceX could translate into clearer, more accessible pricing for cargo and passenger services. This, in turn, might lead to more affordable construction materials for lunar habitats, cheaper transit for Martian settlers, and a more defined economic horizon for businesses operating in cislunar space. The eventual cost of a bespoke garment tailored for low-gravity living, or the daily ration of recycled air, will ultimately be shaped by such foundational numbers."
+      ],
+      "ja": [
+        "テキサス州南部の広大な大地は、スターシップの轟音を再び待っていた。しかし、金融市場では、異なる重力が作用していた。",
+        "この重要な試験飛行を目前に控え、野心と同義であるスペースXの企業評価に、新たな調整が見られた。セカンダリー市場で取引された同社の株価は、135ドルで落ち着いた。",
+        "この数字は、依然として大きな価値を示すものの、以前の過熱した投機的な価格からは一線を画すものだった。それは、多惑星間の未来という壮大な約束と、設備投資や開発スケジュールの具体的な現実との間で、投資家の成熟した感情を反映しているのかもしれない。",
+        "> 未公開株はセカンダリー市場で135ドルの価格で取引された。",
+        "スターシップ自体は、宇宙輸送における根本的な変革を体現する。迅速な再利用性と前例のない積載能力を追求し、その成功は軌道投入コストを劇的に下げ、月や火星での大規模な活動を可能にする上で不可欠である。",
+        "報道された135ドルという価格は、スペースXが初期の宇宙経済において極めて重要な役割を担っていることを示し、依然として高い評価を得ている。これは、大胆なビジョンと、新たなフロンティアを開拓する上での根強い課題の両方を認識した、抑制された信頼の表れと言えるだろう。",
+        "地球の大気を超えた生活を夢見る人々にとって、この財務的な調整は具体的な意味を持つ。スペースXのような企業のより安定し、予測可能な評価は、貨物や人員輸送サービスのより明確で手頃な価格設定につながる可能性がある。これはひいては、月面居住地のための建設資材をより安価にし、火星への入植者の移動費用を下げ、地球と月の間の経済活動を行う企業にとって、より明確な経済的展望をもたらすだろう。低重力下での生活に合わせた特注の衣服の最終的な費用や、再生された空気の1日分の配給量も、究極的にはこのような基礎的な数字によって形作られていく。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "SpaceX, the company behind the giant Starship rocket, saw its shares trading on a special market at $135 each. This happened just before their massive Starship rocket was scheduled for another test flight. Think of it like a very big, private delivery service for space, and investors are trying to figure out how much its future services are really worth. This price, while still significant, is a bit lower than some people might have guessed before, suggesting a more cautious but still very interested view from the financial world.",
+        "For Tokyo readers, this kind of news might seem distant, but it subtly influences several areas. Cheaper and more frequent space launches, enabled by Starship, could eventually lower the cost of satellite services. This means things like more accurate GPS for navigation apps in Shibuya, faster mobile network speeds across the city, and even more detailed weather forecasts for typhoon season. It also impacts the global supply chain for rare metals and advanced materials that might eventually be sourced or processed in space.",
+        "We're looking at a 5-10 year timeframe for these impacts to become noticeable. This is gated by Starship achieving consistent, high-cadence operational flights, and for the overall cost-per-kilogram to low Earth orbit to fall by another 50% or more. International agreements on space resource utilization, which Japan is actively contributing to, will also play a role in how quickly these services become commercially viable.",
+        "Japan's own space industry is moving in a comparable direction. Companies like ispace are actively pursuing lunar lander missions, aiming to establish a lunar economy. While ispace focuses on lunar transport, the ambition to lower access costs and enable off-world commerce is shared. JAXA's H3 rocket also aims for cost-effective launches, though Starship's scale and reusability represent a different class of ambition. The gap lies in the sheer scale of private capital and rapid iteration seen in companies like SpaceX."
+      ],
+      "ja": [
+        "スペースXという、スターシップという巨大なロケットを開発している会社が、特別な市場で自社の株を1株135ドルで取引しました。これは、その巨大なスターシップロケットの次の試験飛行が予定されている直前のことでした。例えるなら、宇宙へ物を運ぶための非常に大きな民間配送サービスがあり、投資家たちがその将来的な価値を慎重に見積もっているような状況です。この価格は、依然として高いものの、以前の予想より少し低いかもしれませんが、金融市場がこの宇宙事業に対して、より現実的でありながらも依然として大きな期待を寄せていることを示しています。",
+        "東京で暮らす私たちにとって、このニュースは一見遠いことのように思えるかもしれません。しかし、スターシップのようなロケットによる安価で頻繁な宇宙打ち上げは、いくつかの分野に間接的に影響を与えます。例えば、衛星サービスのコストが下がれば、渋谷でのナビアプリのGPS精度が向上したり、都市部のモバイルネットワーク速度が速くなったり、台風シーズンの気象予報がさらに詳細になったりする可能性があります。また、将来的に宇宙から調達されるかもしれないレアメタルや先端材料の国際的なサプライチェーンにも影響を与えるでしょう。",
+        "これらの影響が実際に私たちの生活に実感として現れるまでには、5年から10年程度の期間が必要でしょう。これは、スターシップが安定して高頻度で運用飛行を達成し、低軌道へのキログラムあたりの輸送コストがさらに50%以上削減されることが条件となります。日本も積極的に貢献している宇宙資源利用に関する国際的な合意も、これらのサービスが商業的に実現可能になる速度に影響を与える要因です。",
+        "日本の宇宙産業も、これに匹敵する方向性で進んでいます。例えば、ispaceのような企業は、月面着陸ミッションを積極的に追求し、月経済の確立を目指しています。ispaceは月輸送に特化していますが、宇宙へのアクセスコストを下げ、地球外での商業活動を可能にするという野心は共通しています。JAXAのH3ロケットもコスト効率の良い打ち上げを目指していますが、スターシップの規模と再利用性は、また異なるレベルの野心を示しています。この分野における日本とのギャップは、スペースXのような企業に見られる民間資本の規模と、迅速な試行錯誤のペースにあると言えるでしょう。"
+      ]
+    },
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/"
+    },
+    "sourceGuid": "https://techcrunch.com/?p=3135290",
+    "status": "published"
+  },
+  {
+    "slug": "spacex-investor-sentiment-reflects-long-horizon-of-off-world-economy",
+    "category": "space-tech",
+    "issue": "Vol. 07",
+    "publishedAt": "2026-07-15T15:53:34.000Z",
+    "readingMinutes": 3,
+    "feature": true,
+    "cover": {
+      "src": "https://futurism.com/wp-content/uploads/2026/07/rager.jpg?quality=85",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "SpaceX Investor Sentiment Reflects Long Horizon of Off-World Economy",
+      "ja": "SpaceX投資家の感情、宇宙経済の長期的な展望を映す"
+    },
+    "dek": {
+      "en": "While private space ventures promise a multi-planetary future, the financial realities of long-term investment are prompting a re-evaluation of timelines and returns.",
+      "ja": "民間宇宙ベンチャーが多惑星居住の未来を約束する一方で、長期投資の経済的現実は、時間軸とリターンに対する再評価を促している。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, Japan",
+      "ja": "東京、日本"
+    },
+    "tags": [
+      {
+        "en": "Space Economy",
+        "ja": "宇宙経済"
+      },
+      {
+        "en": "Investment",
+        "ja": "投資"
+      },
+      {
+        "en": "Private Space",
+        "ja": "民間宇宙"
+      },
+      {
+        "en": "SpaceX",
+        "ja": "SpaceX"
+      }
+    ],
+    "body": {
+      "en": [
+        "The allure of private space ventures, particularly those spearheaded by companies like SpaceX, has consistently drawn significant capital from a diverse range of investors. This influx of funding fuels ambitious projects, from the deployment of vast orbital internet constellations to the planning of crewed lunar and Martian missions.",
+        "However, the path to profitability in the nascent space sector is often protracted and exceptionally capital-intensive. Recent reports from within investor communities suggest a noticeable shift in sentiment, with some expressing disappointment over the immediate returns on their high-stakes commitments.",
+        "The private space economy operates on timelines that far exceed traditional investment cycles, requiring sustained capital injection before mature, predictable revenue streams can stabilize. This inherent characteristic creates a unique risk profile for early-stage investors, distinguishing space from other technology sectors.",
+        "While the long-term prospects for establishing robust space infrastructure and off-world economies remain compelling, the immediate financial landscape can be volatile. Valuations, often driven by speculative future potential, are increasingly facing scrutiny against current operational costs and the tangible market realities.",
+        "> \"So my Roth IRA is down 25 percent.\"",
+        "The lament of individual investors, as highlighted in recent discussions, underscores the speculative nature inherent in certain high-growth technology investments. It serves as a potent reminder that even ventures promising a multi-planetary future are not immune to the earthly forces of market correction and investor patience.",
+        "For those who envision a future where humanity lives and works off-world, the stability and predictability of these financial structures are paramount. The eventual cost of a lunar habitat, the price of a ticket to Mars, or the accessibility of orbital services will ultimately be shaped by the fiscal health and sustained investor confidence in the companies building them.",
+        "A resilient and transparent investment climate is therefore as vital as advanced propulsion systems or innovative life support for the sustained, orderly development of off-world civilization. It dictates the pace at which the next generation might truly inhabit the cosmos."
+      ],
+      "ja": [
+        "SpaceXのような企業が主導する民間宇宙ベンチャーの魅力は、これまで多様な投資家から多額の資金を引き寄せてきた。この資金流入は、広大な軌道上インターネット網の展開から、有人月・火星ミッションの計画に至るまで、野心的なプロジェクトを支えている。",
+        "しかし、黎明期の宇宙セクターにおける収益化への道は、しばしば長期にわたり、極めて資本集約的である。最近の投資家コミュニティからの報告では、投資家の感情に顕著な変化が見られ、一部は高リスクな投資に対する即時的なリターンが得られていないことに不満を表明している。",
+        "民間宇宙経済は、従来の投資サイクルをはるかに超える時間軸で動く。安定した予測可能な収益源が確立されるまで、継続的な資金注入が不可欠だ。この固有の特性は、宇宙産業を他のテクノロジーセクターと区別し、初期段階の投資家にとって特有のリスクプロファイルを生み出す。",
+        "堅牢な宇宙インフラとオフワールド経済を確立する長期的な可能性は依然として魅力的だが、短期的な金融情勢は変動しやすい。しばしば投機的な将来の可能性によって高騰した評価額は、現在の運用コストや具体的な市場の現実と照らし合わせて、ますます厳しく精査されることになる。",
+        "> 「私のRoth IRAは25パーセント下落した」",
+        "最近の議論で浮き彫りになった個々の投資家からの嘆きの声は、高成長テクノロジー投資に内在する投機的な性質を強調している。これは、多惑星居住の未来を約束する事業でさえ、市場の調整や投資家の忍耐といった地球上の力から免れることはできないという、強力な再認識となる。",
+        "人類が地球外で生活し、働く未来を思い描く人々にとって、こうした金融構造の安定性と予測可能性は極めて重要だ。月面居住地の最終的な費用、火星へのチケット価格、あるいは軌道上サービスの利用可能性は、究極的にはそれらを構築する企業の財政健全性と、持続的な投資家の信頼によって形成されるだろう。",
+        "したがって、強靭で透明性の高い投資環境は、先進的な推進システムや革新的な生命維持システムと同様に、秩序だった地球外文明の持続的な発展にとって不可欠である。それは、次世代が真に宇宙に住まうことができる速度を決定する要素となる。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The news indicates that investors in a major private space company, like SpaceX, are beginning to feel the strain of slow returns on their capital. It's not a sign of collapse, but rather a reality check on the immense timelines and significant risks involved in building an entirely new space economy. Think of it less as a quick tech startup investment and more like funding a grand, long-term infrastructure project that might take decades to mature.",
+        "For Tokyo readers, this could translate into a slower rollout or higher initial costs for future space-based services. For instance, the widespread availability of next-generation satellite internet, offering ultra-low latency for global communications, might be delayed. Similarly, advanced earth observation data, crucial for urban planning or disaster preparedness in a city like Tokyo, could become accessible at a more measured pace, impacting the speed of innovation in these areas.",
+        "This impact is likely to be felt within the next 3 to 5 years. The gating factor will be how quickly these private space companies can transition from heavy investment in infrastructure to generating consistent, scalable revenue. Until then, financing for new ventures or expansions might become more conservative, and the market will continue to recalibrate its expectations for returns.",
+        "In Japan, companies like ispace, which is focused on lunar exploration and resource utilization, face similar challenges. As a private entity aiming for ambitious off-world goals, ispace also requires substantial, long-term investment. While their immediate focus is different, the underlying capital-intensive pathway and the need for sustained investor confidence mirror the broader trends seen with larger global players. This underscores that building a future in space is a marathon, not a sprint, for all involved."
+      ],
+      "ja": [
+        "今回のニュースは、SpaceXのような大手民間宇宙企業の投資家たちが、投じた資金に対するリターンの遅さに負担を感じ始めていることを示しています。これは企業の破綻を意味するものではなく、むしろ全く新しい宇宙経済を構築する上で、途方もない時間軸と大きなリスクが伴うという現実を突きつけるものです。これは、短期間で利益を出すITスタートアップへの投資というよりは、成熟までに何十年もかかるような、壮大な長期インフラプロジェクトへの出資と考える方が適切でしょう。",
+        "東京で暮らす私たちにとって、この動向は将来の宇宙ベースサービスの普及速度の低下や、初期費用の高騰につながる可能性があります。例えば、世界中の通信遅延を極限まで減らす次世代の衛星インターネットが、広く利用可能になるまでの時間が延びるかもしれません。また、東京のような都市の都市計画や災害対策に不可欠な高度な地球観測データも、より緩やかなペースで提供されることになり、これらの分野でのイノベーションの速度に影響を与える可能性があります。",
+        "この影響は、今後3年から5年以内に顕在化すると考えられます。鍵となるのは、これらの民間宇宙企業が、大規模なインフラ投資から安定した収益を生み出す体制へと、いかに迅速に移行できるかです。それまでは、新規事業や拡大のための資金調達がより慎重になり、市場はリターンに対する期待値を再調整し続けるでしょう。",
+        "日本においては、月面探査や資源利用を目指すispaceのような企業が同様の課題に直面しています。ispaceもまた、壮大な宇宙目標を持つ民間企業として、多額の長期投資を必要とします。彼らの当面の焦点は異なりますが、根底にある資本集約的な道のりや、持続的な投資家の信頼が必要とされる点は、より大きな世界のプレイヤーに見られる広範な傾向と共通しています。これは、宇宙の未来を築くことが、関係者全員にとって短距離走ではなく、マラソンであることを示しています。"
+      ]
+    },
+    "source": {
+      "name": "Futurism",
+      "url": "https://futurism.com/space/spacex-investors-lamenting-money-lost"
+    },
+    "sourceGuid": "https://futurism.com/?p=447757",
+    "status": "published"
+  },
+  {
+    "slug": "ai-and-the-future-of-orbital-defense-training",
+    "category": "space-tech",
+    "issue": "Vol. 07",
+    "publishedAt": "2026-07-15T19:04:17.000Z",
+    "readingMinutes": 3,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
+    },
+    "title": {
+      "en": "AI and the Future of Orbital Defense Training",
+      "ja": "AIと軌道防衛訓練の未来"
+    },
+    "dek": {
+      "en": "The U.S. Space Force has awarded Slingshot Aerospace a significant contract to develop AI-enabled training for satellite defense, signaling a new era in space domain awareness and strategic readiness.",
+      "ja": "米宇宙軍は、衛星防衛のためのAI活用型訓練技術開発契約をSlingshot Aerospaceに授与しました。これは、宇宙状況把握と戦略的即応性の新たな時代を告げるものです。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "WASHINGTON",
+      "ja": "ワシントン"
+    },
+    "tags": [
+      {
+        "en": "Space Force",
+        "ja": "宇宙軍"
+      },
+      {
+        "en": "AI",
+        "ja": "AI"
+      },
+      {
+        "en": "Training",
+        "ja": "訓練"
+      },
+      {
+        "en": "Satellite Defense",
+        "ja": "衛星防衛"
+      }
+    ],
+    "body": {
+      "en": [
+        "The orbital domain, increasingly dense with satellites and debris, has become a complex theater of operations. As strategic interests in space intensify, the ability to manage and protect assets orbiting Earth demands sophisticated tools and highly trained personnel.",
+        "In response to this evolving landscape, the U.S. Space Force has awarded a substantial 4½-year contract worth $69 million to Slingshot Aerospace. The company will develop advanced AI-enabled training technology designed to prepare space operators for the challenges of an increasingly contested environment.",
+        "This initiative moves beyond traditional simulation methods, leveraging artificial intelligence to create dynamic and realistic satellite-defense scenarios. Operators will train in environments that mimic real-world threats and system interactions, enhancing their decision-making capabilities under pressure.",
+        "> The award will fund simulated satellite-defense scenarios.",
+        "The goal is to improve space domain awareness—the comprehensive understanding of objects and activities in orbit—and to accelerate the proficiency of space personnel. This investment underscores a strategic shift towards integrating AI as a core component of defense readiness, preparing for a future where rapid, data-driven responses are paramount.",
+        "Such training systems are critical for maintaining a technological edge, ensuring that personnel can effectively navigate and respond to complex orbital events, from unexpected malfunctions to adversarial actions. The silent ballet of orbital assets, once a domain of predictable mechanics, now demands an agile, intelligent response.",
+        "For those who will eventually live and work off-world, the development of these AI-driven simulation platforms carries profound implications. The same core technology enabling rapid scenario generation and intelligent response in defense will be vital for managing the intricate ecosystems of lunar bases or Martian habitats. Autonomous systems, trained through such simulations, could monitor life support, predict equipment failures, and even guide emergency procedures, ensuring resilience and safety in isolated, extraterrestrial environments."
+      ],
+      "ja": [
+        "衛星やデブリで密度を増す軌道空間は、今や複雑な作戦領域となっています。宇宙における戦略的利害が深まるにつれて、地球を周回する資産を管理し保護する能力は、高度なツールと高度に訓練された人員を必要とします。",
+        "この変化する状況に対応するため、米宇宙軍はSlingshot Aerospaceに対し、6900万ドル（約100億円）に及ぶ4年半の大型契約を授与しました。同社は、競争が激化する環境下での宇宙運用者を準備させるための、AIを活用した先進的な訓練技術を開発します。",
+        "この取り組みは、従来のシミュレーション手法を超え、人工知能を活用して動的かつ現実的な衛星防衛シナリオを生成します。運用者は、現実世界の脅威やシステム間の相互作用を模倣した環境で訓練し、プレッシャー下での意思決定能力を高めます。",
+        "原文より：「模擬的な衛星防衛シナリオ」",
+        "目的は、軌道上の物体や活動の包括的な理解である宇宙状況把握（Space Domain Awareness）を向上させ、宇宙担当者の熟練度を加速させることです。この投資は、AIを防衛準備の中核要素として統合する戦略的転換を強調しており、迅速でデータ駆動型の対応が最重要となる未来に備えています。",
+        "このような訓練システムは、技術的優位性を維持するために不可欠であり、予期せぬ故障から敵対的な行動まで、複雑な軌道イベントに人員が効果的に対応できるようにします。かつて予測可能な力学の領域であった軌道資産の静かな舞踏は、今や機敏で知的な対応を求めています。",
+        "将来、地球外で生活し働く人々にとって、これらのAI駆動型シミュレーションプラットフォームの開発は深遠な意味を持ちます。防衛分野で迅速なシナリオ生成と知的な対応を可能にするのと同じ基盤技術は、月面基地や火星の居住地の複雑な生態系を管理するために不可欠となるでしょう。このようなシミュレーションを通じて訓練された自律システムは、生命維持装置を監視し、機器の故障を予測し、さらには緊急手順を案内することで、孤立した地球外環境における回復力と安全性を確保することに貢献します。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The U.S. Space Force is investing a significant sum in training its personnel using advanced AI simulations. Imagine it like a highly sophisticated flight simulator, but for managing satellites and responding to threats in space, with AI creating realistic, dynamic scenarios. It's about preparing people to make quick, informed decisions in a complex, fast-changing orbital environment.",
+        "For Tokyo readers, this kind of AI-driven simulation technology could eventually trickle down into civilian applications. This might mean more robust and reliable satellite services – from GPS navigation in our phones and cars to weather forecasting that impacts daily commutes and disaster preparedness. The underlying AI could also enhance the resilience of communication networks, making them less susceptible to interference.",
+        "We might see the commercial application of similar AI simulation techniques within 5-10 years. This will be gated by the declassification of certain technologies and the development of commercial-grade, scalable platforms. Japan's own push for space domain awareness will also drive this.",
+        "Japan's JAXA and companies like Synspective are actively developing satellite constellations and advanced earth observation capabilities. While not directly military, the need for sophisticated orbital traffic management and anomaly detection is shared. Astroscale, for instance, focuses on orbital debris removal and in-orbit services, which requires precise navigation and understanding of the orbital environment – areas where AI simulation can play a crucial role. The development of such AI tools domestically would enhance Japan's own space operational capabilities."
+      ],
+      "ja": [
+        "米宇宙軍が、AIを使った高度な訓練技術に多額の投資をしました。これは、宇宙空間にある衛星を管理し、潜在的な脅威に対応するための、非常に精巧な「宇宙版フライトシミュレーター」のようなものです。AIがリアルで変化に富んだシナリオを作り出し、人間が複雑な軌道環境で迅速かつ正確な意思決定を行うための準備をします。",
+        "東京で暮らす私たちにとっては、この種のAI駆動のシミュレーション技術は、いずれ民生分野にも応用される可能性があります。スマートフォンのGPSナビゲーション、通勤に影響する天気予報、災害時の早期警報システムなどが、より正確で途切れないサービスとして提供されるようになるでしょう。基盤となるAIは、通信ネットワークのレジリエンス（回復力）を高め、妨害に強いものにする可能性を秘めています。",
+        "この種のAIシミュレーション技術が商業利用されるのは、5年から10年以内と見られます。これは、特定の技術の機密解除や、商用レベルで拡張可能なプラットフォームの開発が鍵となります。日本自身の宇宙状況把握（SSA）能力強化への取り組みも、この流れを加速させるでしょう。",
+        "日本では、JAXAやSynspectiveのような企業が、衛星コンステレーションや先進的な地球観測能力の開発を進めています。直接的な軍事用途ではありませんが、軌道上での精密な交通管理や異常検知の必要性は共通しています。特に、宇宙ごみ除去や軌道上サービスを手がけるAstroscaleは、軌道環境の正確な理解と精密な航行が求められ、AIシミュレーションが重要な役割を果たす分野です。こうしたAIツールの国内開発は、日本の宇宙運用能力を大きく向上させるでしょう。"
+      ]
+    },
+    "source": {
+      "name": "SpaceNews",
+      "url": "https://spacenews.com/space-force-awards-slingshot-69-million-for-ai-enabled-training-technology/"
+    },
+    "sourceGuid": "https://spacenews.com/?p=605836",
+    "status": "published"
+  },
+  {
     "slug": "serbia-joins-artemis-accords-expanding-lunar-governance-framework",
     "category": "artemis",
     "issue": "Vol. 07",
@@ -441,8 +787,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Sam Altman and the Orbital Data Center Debate",
@@ -527,8 +873,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "Orbital Vigilance: The Expansion of Space-Based Defense Networks",
@@ -1563,8 +1909,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Europe's Orbital Priorities Shift: Earth Observation Leads Space Sales",
@@ -1735,8 +2081,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#08080a"
     },
     "title": {
       "en": "Accelerating Space Defense: A New Collaborative Model Emerges in Colorado",
@@ -1821,8 +2167,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Blue Origin Seeks Major External Investment",
@@ -2333,8 +2679,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "Securing the Future: U.S. Semiconductor Manufacturing for Aerospace",
@@ -2507,8 +2853,8 @@
     "readingMinutes": 3,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101012"
     },
     "title": {
       "en": "Europe's Next-Generation Weather Eye Prepares for Launch",
@@ -2769,8 +3115,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#08080a"
+      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "Blue Origin's Lunar Ambition Endures Amidst New Glenn Recovery",
@@ -2853,8 +3199,8 @@
     "readingMinutes": 3,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101012"
+      "src": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101010"
     },
     "title": {
       "en": "Ravee Optics Secures Seed Funding for Compact Laser Terminals",
@@ -2939,8 +3285,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0f12"
+      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Euclid Unveils the Universe's Ancient Beacon",
@@ -3111,8 +3457,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101010"
+      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Aeolus-2: Charting Earth's Winds from Orbit",
@@ -3625,8 +3971,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532618793091-ec5fe9635fbd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "The New Vanguard: Private Pilots Join Orbital Defence",
@@ -3883,8 +4229,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "The Final Flight of Pegasus XL: Sustaining Orbital Assets",
@@ -3969,8 +4315,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1532618793091-ec5fe9635fbd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "New Alliances: Europe and the Middle East Reshape Space Diplomacy",
@@ -4229,8 +4575,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "Perovskite Solar Panels Pivot to Orbit",
@@ -4315,8 +4661,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "Orbital Vigilance: True Anomaly Demonstrates Rapid Satellite Inspection",
@@ -4401,8 +4747,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "ESA Contracts First Asteroid Surface CubeSat for Apophis Mission",
@@ -4573,8 +4919,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Starliner Delays: A Cautionary Tale for Off-World Ambition",
@@ -4661,8 +5007,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Lunar Forge Plans Regolith-Built Reactor Shields for Moon",
@@ -4747,8 +5093,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "A Planet's Resilience: Surviving a Star's Demise",
@@ -4917,8 +5263,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Lunar Outpost: NASA Expands Moon Base Science, Signals New Era",
@@ -5089,8 +5435,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "New Glenn's Unanswered Questions: A Setback for Orbital Ambitions",
@@ -5347,8 +5693,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "Rocket Lab Expands Reach with Iridium Acquisition",
@@ -5605,7 +5951,7 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
+      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
       "tone": "#0c0c0e"
     },
     "title": {
@@ -6119,8 +6465,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Orbital Data Centers: A Vision Under Scrutiny",
@@ -6291,8 +6637,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Consolidation in Orbit: Musk Acquires SpaceX Alumni Startup Mesh",
@@ -6465,8 +6811,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101012"
     },
     "title": {
       "en": "Beyond Apollo: The Next Generation of Lunar Landers Takes Shape",
@@ -6543,348 +6889,6 @@
       "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/"
     },
     "sourceGuid": "https://www.nasa.gov/?p=1012463",
-    "status": "published"
-  },
-  {
-    "slug": "the-quiet-ascent-of-lunar-logistics",
-    "category": "space-tech",
-    "issue": "Vol. 06",
-    "publishedAt": "2026-06-26T21:00:00.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://cdn.mos.cms.futurecdn.net/JpCvY8s8SzErpcX8zqHPE4-1280-80.png",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "The Quiet Ascent of Lunar Logistics",
-      "ja": "月面物流の静かなる胎動"
-    },
-    "dek": {
-      "en": "A private entity demonstrates a new autonomous lunar lander, laying groundwork for regular cargo delivery to future off-world settlements.",
-      "ja": "ある民間企業が新たな自律型月面着陸機のプロトタイプを実証。将来の月面居住地への定期的な貨物輸送に向けた基盤を築く。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "MOJAVE DESERT",
-      "ja": "モハーベ砂漠"
-    },
-    "tags": [
-      {
-        "en": "space-tech",
-        "ja": "宇宙技術"
-      },
-      {
-        "en": "lunar exploration",
-        "ja": "月探査"
-      },
-      {
-        "en": "private space",
-        "ja": "民間宇宙"
-      },
-      {
-        "en": "logistics",
-        "ja": "物流"
-      }
-    ],
-    "body": {
-      "en": [
-        "Amidst the arid expanse of the Mojave Desert, a subtle shift in the trajectory of lunar operations unfolded. Dust, stirred by the descent of a prototype vehicle, momentarily obscured a landscape that has long served as a terrestrial proxy for extraterrestrial terrain. This recent test, conducted by a private entity, signals a tangible step towards a sustained human presence beyond Earth.",
-        "Lunar Logistics Corp. (LLC), a burgeoning player in the commercial space sector, successfully completed a critical flight test of its autonomous lunar lander, designated Voyager-1. The exercise focused on validating the craft's precision landing capabilities and its advanced hazard avoidance systems, essential for navigating the Moon's unforgiving surface.",
-        "During the demonstration, the Voyager-1 prototype executed a controlled descent and soft landing, simulating the precise delivery of cargo to a designated lunar site. The lander, designed to transport up to 500 kilograms of payload, showcased its ability to autonomously identify and adapt to unexpected obstacles, a crucial feature for future uncrewed missions.",
-        "This successful test positions LLC to move forward with its ambitious timeline, aiming for its inaugural lunar mission by late 2027. This rapid progression contrasts with the traditionally longer development cycles of state-led space programs, highlighting the agility of private enterprise in the new space economy.",
-        "The implications extend beyond mere technical achievement. The development of reliable, commercially operated lunar cargo services is fundamental to enabling permanent lunar outposts. It promises to reduce the logistical burden on governmental agencies and foster a more dynamic, accessible lunar economy.",
-        "For those who will eventually live and work off-world, this means a future where essential supplies, infrastructure components, and even personal effects can be delivered with greater regularity and predictability. The notion of a consistent supply chain transforms lunar habitation from a transient endeavor into a more viable, long-term reality.",
-        "> \"This successful test brings us closer to a future where lunar outposts receive regular, reliable resupply.\"",
-        "The dust settled, not just on the desert floor, but on the evolving blueprint of human expansion, marking a quiet yet profound step towards the routine commerce of the cosmos."
-      ],
-      "ja": [
-        "モハーベ砂漠の乾燥した広がりの中で、月面運用における微妙な変化が静かに展開された。試作機の降下によって舞い上がった砂塵は、長らく地球外の地形の代理を務めてきた風景を一瞬覆い隠した。ある民間企業によって行われたこの試験は、地球を超えた人類の持続的な存在に向けた具体的な一歩を示している。",
-        "商業宇宙セクターの新興企業であるLunar Logistics Corp. (LLC) は、自律型月面着陸機「Voyager-1」の重要な飛行試験を成功裏に完了した。この演習は、月の過酷な表面を航行するために不可欠な、機体の高精度着陸能力と高度な障害物回避システムの検証に焦点を当てた。",
-        "実証中、Voyager-1のプロトタイプは制御された降下と軟着陸を実行し、指定された月面サイトへの貨物の正確な配送をシミュレートした。最大500キログラムのペイロードを輸送するように設計されたこの着陸機は、将来の無人ミッションにとって重要な機能である、予期せぬ障害物を自律的に識別し適応する能力を示した。",
-        "この成功した試験により、LLCは2027年後半に初の月面ミッションを目指すという野心的な計画を進めることができる。この急速な進展は、国家主導の宇宙プログラムの伝統的に長い開発サイクルとは対照的であり、新しい宇宙経済における民間企業の機敏性を浮き彫りにしている。",
-        "その意味するところは、単なる技術的成果を超えている。信頼性の高い商業的な月面貨物輸送サービスの開発は、恒久的な月面前哨基地を可能にする上で不可欠である。それは政府機関の物流負担を軽減し、よりダイナミックでアクセスしやすい月面経済を育むことを約束する。",
-        "最終的に宇宙で暮らし、働く人々にとって、これは食料、インフラ部品、さらには私物といった必要不可欠な物資が、より規則的かつ予測可能に配送される未来を意味する。一貫したサプライチェーンの概念は、月面居住を一時的な試みから、より実現可能で長期的な現実へと変えるだろう。",
-        "> 「この成功した試験は、月面前哨基地が定期的かつ信頼性の高い再補給を受けられる未来へと私たちを近づけます。」",
-        "砂漠の砂は、ただ地面に降り積もっただけでなく、人類の拡大という進化する青写真の上に静かに横たわった。これは、宇宙の日常的な商業化に向けた静かではあるが深遠な一歩を刻んだ。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "What happened here is that a private company successfully tested a kind of self-flying delivery truck for the Moon. This vehicle, called Voyager-1, can carry half a ton of goods and land very precisely, even avoiding hazards on its own. It means we're getting closer to a future where sending things to the Moon is as routine as ordering a package online, rather than a once-in-a-lifetime government mission.",
-        "This development could directly affect the cost and availability of lunar resources and services. For Tokyo readers, this might manifest in cheaper access to lunar data for scientific research, or eventually, the availability of rare materials sourced from the Moon, impacting electronics and manufacturing sectors. It also opens pathways for Japanese companies to provide services to these private lunar logistics chains, from ground support to specialized components.",
-        "We can expect to see a more tangible impact within 5-8 years. This timeline is gated by the scalability of such private operations and the establishment of a robust lunar economy, which requires more than just one successful lander. While initial missions are close, the regular, cost-effective delivery needed for widespread impact will take time to mature and become truly integrated into global supply chains.",
-        "Japan's ispace, with its Hakuto-R missions, is a direct analogue to Lunar Logistics Corp., aiming to provide lunar transportation and data services. While ispace's landers have smaller initial cargo capacities, their commercial approach and focus on lunar infrastructure development align closely with LLC's ambitions. Both companies represent a significant shift towards private enterprise driving lunar access, paving the way for a new era of space commerce."
-      ],
-      "ja": [
-        "ここで起きたのは、ある民間企業が月へ荷物を運ぶための自動運転トラックのような着陸機の試験を成功させたということです。Voyager-1と呼ばれるこの機体は、500kgの貨物を積載し、障害物を自律的に回避しながら非常に正確に着陸できます。これは、月面への物資輸送が、一生に一度の政府ミッションではなく、まるでオンラインで荷物を注文するような身近なものになる未来に一歩近づいたことを意味します。",
-        "この進展は、月面資源やサービスへのアクセスコストと利用可能性に直接影響を与えるでしょう。東京で暮らす私たちにとっては、科学研究のための月面データがより安価に手に入ったり、長期的には月面から調達される希少金属がエレクトロニクスや製造業に影響を与えたりする可能性があります。また、地上支援から特殊部品の提供まで、日本の企業がこうした民間の月面物流チェーンにサービスを提供する新たな道も開かれます。",
-        "より具体的な影響が見え始めるのは、5年から8年以内と考えるのが妥当でしょう。この時間軸は、民間企業の月面事業がどれだけ規模を拡大できるか、そして単一の着陸機の成功以上のものが必要となる強固な月面経済が確立されるかにかかっています。最初のミッションは近くても、広範な影響をもたらすような定期的で費用対効果の高い輸送が成熟し、真にグローバルなサプライチェーンに統合されるには時間がかかるでしょう。",
-        "日本には、月面輸送やデータサービスを目指すispace社の「HAKUTO-R」ミッションという明確なカウンターパートがあります。ispaceの着陸機は初期の貨物積載量が小さいものの、その商業的なアプローチと月面インフラ開発への注力は、今回のLLCの野心と密接に一致しています。両社ともに、月へのアクセスを民間企業が牽引する時代の到来を告げ、宇宙商業の新時代を切り開いています。"
-      ]
-    },
-    "source": {
-      "name": "Space.com",
-      "url": "https://www.space.com/astronomy/black-holes/black-holes-point-of-no-escape-studied-with-the-loudest-gravitational-waves-ever-heard"
-    },
-    "sourceGuid": "FHugNZHbHwg5D6PdnVVsh",
-    "status": "published"
-  },
-  {
-    "slug": "lunar-landing-systems-face-delays-clouding-artemis-timelines",
-    "category": "artemis",
-    "issue": "Vol. 06",
-    "publishedAt": "2026-06-26T17:41:00.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://futurism.com/wp-content/uploads/2026/06/nasa-problem-moon-plans-infrastructure.jpg?quality=85",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Lunar Landing Systems Face Delays, Clouding Artemis Timelines",
-      "ja": "月着陸システムの開発遅延、アルテミス計画のスケジュールに影を落とす"
-    },
-    "dek": {
-      "en": "The ambitious Human Landing System (HLS) program, critical for NASA's return to the Moon, encounters setbacks, pushing back the establishment of a sustained lunar presence.",
-      "ja": "NASAの月面帰還計画に不可欠な有人月着陸システム（HLS）の開発に遅れが生じ、持続的な月面拠点構築のスケジュールが後退している。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "Artemis",
-        "ja": "アルテミス"
-      },
-      {
-        "en": "Lunar Landing",
-        "ja": "月面着陸"
-      },
-      {
-        "en": "SpaceX",
-        "ja": "スペースX"
-      },
-      {
-        "en": "Blue Origin",
-        "ja": "ブルーオリジン"
-      }
-    ],
-    "body": {
-      "en": [
-        "The ambitious timelines set for humanity's return to the Moon face significant headwinds. Central to NASA's Artemis program is the Human Landing System (HLS), intended to ferry astronauts from lunar orbit to the surface. However, the development of these crucial vehicles is encountering delays, casting shadows over the planned lunar expeditions.",
-        "SpaceX's Starship, designated for the first crewed lunar landing under Artemis III, continues its rigorous testing regimen. While progress is visible, the complexity of integrating a super heavy-lift rocket with a sophisticated human-rated lander presents ongoing engineering challenges. Its sheer scale, a towering structure designed for both launch and landing, demands extensive validation.",
-        "Blue Origin, another key contractor, is developing its own lunar lander, Blue Moon. This vehicle is slated for later Artemis missions, providing redundancy and competition in the HLS program. Its advancement, too, has been slower than initial projections, raising concerns about the overall cadence of lunar missions beyond the initial landings.",
-        "These delays are not merely technical setbacks; they ripple through the entire Artemis architecture. From the scheduling of Orion capsule flights to the deployment of lunar infrastructure, each component is interdependent. A prolonged wait for HLS readiness impacts the strategic positioning of the Lunar Gateway and the establishment of base camps.",
-        "> \"NASA has a major problem threatening its entire Moon plans.\"",
-        "The vision of a sustained human presence on the Moon depends on reliable, repeatable access to its surface. Each postponement pushes back the learning curve for lunar operations, affecting everything from resource prospecting to habitat construction. The cost of maintaining readiness without active missions also accrues.",
-        "For those who envision a life off-world, these delays translate into a longer wait for the fundamental infrastructure that makes such a future possible. The promise of lunar settlements, where daily routines will involve specific material choices for radiation shielding, or the precise timing of resource deliveries, remains tethered to Earth-bound engineering hurdles. Each year of delay means another year before the first lunar communities can begin to truly define their own culture and economy, influencing the very textures of their future homes."
-      ],
-      "ja": [
-        "人類の月面帰還という壮大な計画は、現在、大きな課題に直面している。NASAのアルテミス計画の中核をなすのは、月周回軌道から宇宙飛行士を月面へと輸送する有人月着陸システム（HLS）である。しかし、この重要なシステムの開発に遅れが生じており、計画されている月探査のスケジュールに影を落としている。",
-        "アルテミスIIIミッションでの最初の有人月着陸を担うSpaceXのスターシップは、現在も厳しい試験を重ねている。開発は進んでいるものの、超大型ロケットと高性能な有人着陸機を統合する複雑さは、継続的な技術的課題を提示している。打ち上げと着陸の両方を担うその巨大な構造は、広範な検証を必要とする。",
-        "もう一つの主要契約者であるBlue Originも、独自の月着陸機「Blue Moon」を開発している。この機体は、その後のアルテミスミッションに投入され、HLSプログラムにおける冗長性と競争をもたらすことが期待されている。しかし、こちらも当初の予測よりも進捗が遅れており、初期着陸以降の月ミッション全体のペースについて懸念が高まっている。",
-        "これらの遅れは単なる技術的な問題に留まらない。アルテミス計画全体のアーキテクチャに波及効果をもたらす。オリオン宇宙船の飛行スケジュールから月面インフラの展開に至るまで、各要素は相互に依存している。HLSの準備が長期化すれば、月周回軌道上のゲートウェイや月面基地の設置計画にも影響が及ぶだろう。",
-        "> 「NASAは月面計画全体を脅かす大きな問題を抱えている。」",
-        "持続的な月面での人類の存在というビジョンは、信頼性があり、繰り返し利用可能な月面へのアクセスにかかっている。各延期は、月面での運用に関する学習曲線を押し上げ、資源探査から居住施設の建設に至るまで、あらゆる側面に影響を与える。ミッションが実行されないまま準備体制を維持するコストも増大する。",
-        "宇宙での生活を夢見る人々にとって、これらの遅れは、そのような未来を可能にする基本的なインフラの実現がさらに遠のくことを意味する。放射線遮蔽のための特定の材料選択や、資源供給の正確なタイミングが日常となる月面居住地の約束は、地球上での工学的な課題に縛られ続けている。一年ごとの遅れは、最初の月面コミュニティがその独自の文化と経済を真に定義し始めるまでの時間を延ばし、将来の住まいの質感そのものにも影響を与えるだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The news highlights a significant challenge for NASA's ambitious plan to return humans to the Moon, known as the Artemis program. Two private companies, SpaceX and Blue Origin, are building the \"Moon taxis\" – technically called Human Landing Systems (HLS) – that will carry astronauts from orbit down to the lunar surface. The problem is, these taxis are taking longer to develop than expected. Think of it like a new high-speed train system that's crucial for a major city expansion, but the trains themselves are still in advanced testing and missing their target delivery dates.",
-        "For Tokyo readers, the direct impact on daily life might not be immediately obvious. However, delays in lunar missions affect the broader space economy and scientific collaboration. For instance, Japan is a key partner in the Artemis program, and slower progress on HLS could mean a longer wait for Japanese astronauts to reach the Moon, or for lunar resource data to become available. This could subtly influence the pace of materials science research in Japan, particularly for lunar regolith applications, or the development of advanced robotics for off-world construction.",
-        "This impact will likely be felt over a medium to long timeframe, roughly 3-7 years. The gating factor here is the successful, certified flight of both Starship and Blue Moon as human-rated landers. Until these systems prove their reliability and operational cadence, the entire lunar exploration schedule for international partners, including Japan, will remain fluid. Japan's own lunar ambitions, such as the MMX mission to Mars' moons, are less directly affected by HLS delays, but the overall momentum for lunar infrastructure development could slow.",
-        "Japan has its own significant contributions to lunar exploration, notably through JAXA's SLIM mission, which achieved a pinpoint lunar landing, and ispace's Hakuto-R lander program. While Japan does not currently have a domestic human-rated lunar lander program comparable to Starship or Blue Moon, companies like ispace are actively developing commercial lunar transportation services. The challenge for Japan lies in securing consistent access to human-rated lunar transportation, potentially through international partnerships, to ensure its astronauts and technologies can reach the lunar surface as planned."
-      ],
-      "ja": [
-        "このニュースは、NASAが人類を再び月へ送るという壮大な計画、アルテミスプログラムが直面している大きな課題を伝えています。SpaceXとBlue Originという2つの民間企業が、宇宙飛行士を月周回軌道から月面へと運ぶ「月のタクシー」（正式には有人月着陸システム、HLS）を開発しているのですが、このタクシーの開発が予想よりも時間がかかっているという話です。例えるなら、新しい都市開発に不可欠な高速鉄道の車両が、まだ高度な試験段階にあり、目標の納期に間に合わないような状況と言えるでしょう。",
-        "東京で暮らす読者にとって、月面計画の遅れが日常生活に直接的な影響を与えることはすぐに感じられないかもしれません。しかし、月探査の遅れは、より広範な宇宙経済や国際的な科学協力に影響を及ぼします。例えば、日本はアルテミス計画の主要なパートナーであり、HLSの進捗が遅れると、日本人宇宙飛行士が月面に到達する時期が遅れたり、月面資源に関するデータが入手可能になるのが遅れたりする可能性があります。これは、月面レゴリス（砂）の利用に関する日本の材料科学研究や、オフワールド建設のための先進ロボット開発のペースに、間接的に影響を与えるかもしれません。",
-        "この影響は、中長期的な時間枠、およそ3年から7年で感じられる可能性が高いでしょう。主要な要因は、スターシップとBlue Moonが有人着陸機として成功裏に認証され、安定した運用ペースを確立することです。これらのシステムが信頼性と運用能力を証明するまでは、日本を含む国際パートナーの月探査スケジュール全体は流動的なままでしょう。火星衛星探査計画MMXのような日本の独自の月・惑星探査計画はHLSの遅れに直接影響されにくいですが、月面インフラ開発全体の勢いは鈍化する可能性があります。",
-        "日本は、JAXAのSLIMミッションによる高精度月面着陸や、ispaceのHakuto-R着陸船プログラムを通じて、月探査に大きく貢献しています。現在、スターシップやBlue Moonに匹敵するような国内の有人月着陸機プログラムはありませんが、ispaceのような企業は商業的な月輸送サービスの開発を積極的に進めています。日本にとっての課題は、国際的なパートナーシップを通じて、有人月面輸送への安定したアクセスを確保し、日本人宇宙飛行士や技術が計画通りに月面に到達できるようにすることでしょう。"
-      ]
-    },
-    "source": {
-      "name": "Futurism",
-      "url": "https://futurism.com/space/nasa-problem-moon-plans-infrastructure"
-    },
-    "sourceGuid": "https://futurism.com/?p=444165",
-    "status": "published"
-  },
-  {
-    "slug": "synspectives-orbiting-eye-rocket-lab-deploys-tenth-radar-satellite",
-    "category": "space-tech",
-    "issue": "Vol. 06",
-    "publishedAt": "2026-06-26T22:17:38.000Z",
-    "readingMinutes": 4,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
-    },
-    "title": {
-      "en": "Synspective's Orbiting Eye: Rocket Lab Deploys Tenth Radar Satellite",
-      "ja": "軌道上の目：Synspective、10機目のレーダー衛星をRocket Labで打ち上げ"
-    },
-    "dek": {
-      "en": "The continued expansion of Japan's commercial Earth-imaging constellation promises enhanced data for terrestrial and off-world applications, signaling a maturing orbital infrastructure.",
-      "ja": "日本の商業地球観測コンステレーションが拡張を続け、地上および将来的なオフワールド用途へのデータ提供を強化。軌道インフラの成熟を示す。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "MAHIA, NEW ZEALAND – June 26, 2026",
-      "ja": "マヒア、ニュージーランド – 2026年6月26日"
-    },
-    "tags": [
-      {
-        "en": "Rocket Lab",
-        "ja": "ロケット・ラボ"
-      },
-      {
-        "en": "Synspective",
-        "ja": "Synspective"
-      },
-      {
-        "en": "Earth Observation",
-        "ja": "地球観測"
-      },
-      {
-        "en": "Radar Satellite",
-        "ja": "レーダー衛星"
-      }
-    ],
-    "body": {
-      "en": [
-        "From its launch complex on New Zealand's Mahia Peninsula, Rocket Lab successfully deployed another satellite into orbit on June 26, 2026. This mission marked a significant milestone for Synspective, a Japanese Earth-imaging company, as it added the tenth satellite to its commercial radar constellation.",
-        "The Electron rocket, known for its dedicated small satellite launch capabilities, carried the StriX-10 satellite, further expanding Synspective's network. These synthetic aperture radar (SAR) satellites are designed to provide high-resolution imagery of Earth's surface, regardless of weather conditions or time of day.",
-        "Synspective's constellation aims to deliver data for a variety of applications, from infrastructure monitoring and disaster response to urban planning and environmental management. The steady hum of data from orbit suggests a new rhythm for planetary observation.",
-        "This particular flight, initially scheduled earlier, experienced a delay due to a prior commitment to a \"responsive space mission,\" highlighting the dynamic and often prioritized nature of launch schedules in the rapidly evolving space sector.",
-        "The deployment of the tenth satellite underscores the viability of commercial small satellite constellations. It demonstrates a growing reliance on private launch providers to build and maintain the orbital infrastructure necessary for continuous Earth observation.",
-        "For those who will eventually live and work off-world, the proliferation of such precise orbital monitoring systems holds profound implications. The technology enabling the precise, unwavering gaze of a radar aperture to map Earth can be directly adapted for lunar or Martian environments, providing crucial data for site selection, resource identification, and the ongoing surveillance of nascent off-world settlements. This establishes a precedent for familiar, consistent data streams in unfamiliar landscapes."
-      ],
-      "ja": [
-        "2026年6月26日、ニュージーランドのマヒア半島にある打ち上げ複合施設から、Rocket Labは新たな衛星を軌道に投入しました。このミッションは、日本の地球画像企業Synspectiveにとって重要な節目となり、商業レーダーコンステレーションに10機目の衛星が加わったことを意味します。",
-        "小型衛星専用の打ち上げ能力で知られるElectronロケットは、StriX-10衛星を運び、Synspectiveのネットワークをさらに拡大しました。これらの合成開口レーダー（SAR）衛星は、天候や昼夜を問わず、地球表面の高解像度画像を提供するように設計されています。",
-        "Synspectiveのコンステレーションは、インフラ監視、災害対応、都市計画、環境管理など、さまざまな用途にデータを提供することを目指しています。軌道上から絶え間なく送られるデータの囁きは、惑星観測の新たなリズムを示唆します。",
-        "この飛行は当初より早い時期に予定されていましたが、「レスポンシブ・スペース・ミッション」への先行的なコミットメントにより延期されました。これは、急速に進化する宇宙セクターにおける打ち上げスケジュールの動的で優先順位の高い性質を浮き彫りにしています。",
-        "10機目の衛星の投入は、商業小型衛星コンステレーションの実現可能性を強調します。これは、継続的な地球観測に必要な軌道インフラを構築・維持するために、民間の打ち上げプロバイダーへの依存が高まっていることを示しています。",
-        "将来、地球外で生活し働く人々にとって、このような精密な軌道監視システムの普及は深い意味を持ちます。レーダー開口部の正確で揺るぎない眼差しで地球をマッピングする技術は、月や火星の環境に直接応用でき、場所の選定、資源の特定、そして誕生しつつあるオフワールド居住地の継続的な監視に不可欠なデータを提供するでしょう。これは、未知の風景における身近で一貫したデータストリームの先例を確立します。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Rocket Lab, a company known for its nimble small rockets, successfully launched a satellite for Synspective, a Japanese firm. This particular mission added the tenth satellite to Synspective's growing network of radar-imaging satellites. Think of it like a fleet of small, specialized delivery trucks constantly sending back detailed pictures of Earth, even through clouds or at night.",
-        "This type of satellite network significantly enhances data for disaster monitoring—such as earthquakes, tsunamis, and landslides—and infrastructure surveillance across Japan. For Tokyo readers, this means more precise and timely information for emergency services and urban planning, allowing for better preparedness and response to unforeseen events. It also contributes to Japan's growing self-reliance in acquiring crucial space data.",
-        "The impact of these capabilities is already being felt and will continue to grow over the next 1 to 3 years as Synspective's constellation expands further and its data integration improves. The key factor for this acceleration is the sustained deployment cadence of these satellites and the broader adoption of this data by various government agencies and private sectors within Japan.",
-        "Synspective itself is a leading Japanese player in this field, demonstrating robust commercial innovation. While JAXA's ALOS (Advanced Land Observing Satellite) series also focuses on Earth observation, Synspective's model is purely commercial and aims for higher revisit rates with a constellation approach. This commercial agility effectively complements JAXA's institutional programs, strengthening Japan's overall capabilities in space-based Earth intelligence."
-      ],
-      "ja": [
-        "ロケット・ラボという、小型ロケットに特化した企業が、日本のSynspectiveという企業の衛星打ち上げを成功させました。今回のミッションで、Synspectiveが地球をレーダーで観測するための衛星ネットワーク（コンステレーション）に、10機目の衛星が加わりました。例えるなら、雲や夜間でも地表を詳しく見ることができる、小さな宅配トラックのフリートが宇宙から常に地球の様子を届けているようなものです。",
-        "この種の衛星ネットワークは、日本の災害監視（地震、津波、土砂災害など）や、都市インフラの状況把握に役立つデータを大幅に強化します。東京で暮らす読者にとっては、緊急サービスや都市計画において、より正確でタイムリーな情報が得られるようになり、予期せぬ事態への備えや対応が向上することを意味します。また、宇宙からのデータ取得における日本の自立性向上にも貢献します。",
-        "この能力がもたらす影響は既に現れ始めており、今後1年から3年でSynspectiveのコンステレーションがさらに拡大し、データの活用が進むにつれて一層顕著になるでしょう。この加速の主要な要因は、衛星打ち上げの継続的なペースと、日本国内の様々な政府機関や民間セクターでのデータ利用のさらなる浸透です。",
-        "Synspective自身がこの分野における日本の主要なプレイヤーであり、堅実な商業イノベーションを示しています。JAXAのALOS（だいち）シリーズも地球観測を行っていますが、Synspectiveは純粋な商業ベースで、より高頻度な観測を目指すコンステレーション型です。この商業的な機動性は、JAXAの公的なプログラムを効果的に補完し、宇宙からの地球情報取得における日本の全体的な能力を強化しています。"
-      ]
-    },
-    "source": {
-      "name": "SpaceNews",
-      "url": "https://spacenews.com/rocket-lab-launches-10th-synspective-satellite/"
-    },
-    "sourceGuid": "https://spacenews.com/?p=602639",
-    "status": "published"
-  },
-  {
-    "slug": "the-spreading-seeds-spacex-alumni-fuel-new-space-economy",
-    "category": "space-tech",
-    "issue": "Vol. 06",
-    "publishedAt": "2026-06-26T12:45:34.000Z",
-    "readingMinutes": 5,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
-    },
-    "title": {
-      "en": "The Spreading Seeds: SpaceX Alumni Fuel New Space Economy",
-      "ja": "広がる種子：SpaceX出身者が育む新たな宇宙経済"
-    },
-    "dek": {
-      "en": "Former employees of the private space giant are attracting billions in funding, signaling a new era of entrepreneurial ventures beyond launch services.",
-      "ja": "民間宇宙大手の元従業員たちが数十億ドルの資金を調達し、打ち上げサービスを超えた起業家精神に満ちた新時代の到来を告げる。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO, Japan — June 26, 2026",
-      "ja": "東京、日本 — 2026年6月26日"
-    },
-    "tags": [
-      {
-        "en": "SpaceX",
-        "ja": "SpaceX"
-      },
-      {
-        "en": "Space Economy",
-        "ja": "宇宙経済"
-      },
-      {
-        "en": "Startups",
-        "ja": "スタートアップ"
-      },
-      {
-        "en": "Investment",
-        "ja": "投資"
-      }
-    ],
-    "body": {
-      "en": [
-        "The aerospace industry, once dominated by national agencies, now sees a significant flow of talent from private pioneers. A recent analysis reveals that former employees of SpaceX have collectively secured $9.2 billion in funding for their own ventures. This capital fuels a new generation of companies aiming to reshape the off-world economy.",
-        "Over its 24-year history, SpaceX has served as a crucible for engineering expertise. Thousands of individuals have passed through its ranks, acquiring skills in rapid prototyping, iterative design, and large-scale manufacturing for space applications. This experience now seeds a diverse ecosystem of startups.",
-        "These new companies span various sectors: advanced propulsion systems, in-orbit servicing, satellite constellations, and even nascent off-world resource extraction. The sheer volume of investment suggests a maturation of the private space sector, moving beyond launch services into a broader value chain.",
-        "> SpaceX has acted as both a breeding ground for high-level engineering talent, and as a launch pad for new ideas.",
-        "The rapid iteration culture fostered at SpaceX is now being replicated across these new entities. This accelerates the development cycle for technologies critical to long-term space habitation, from life support systems to autonomous construction robotics.",
-        "For those who will live and work off-world, this proliferation of well-funded, agile companies means a faster arrival of essential infrastructure. It suggests more affordable access to orbital services, a broader array of materials for lunar habitats, and perhaps, a quicker establishment of independent supply chains. The very texture of daily life in an off-world settlement—the availability of fresh water, the reliability of communication, the cost of a new tool—will be shaped by this entrepreneurial wave."
-      ],
-      "ja": [
-        "宇宙産業の風景は、国家機関が主導する時代から大きく変貌した。その中で、SpaceX出身の技術者たちが立ち上げた新たな企業群が、合計92億ドルもの資金を調達したという分析が示された。この資本は、宇宙経済の未来を再定義する可能性を秘めている。",
-        "SpaceXは、その24年の歴史を通じて、高度なエンジニアリング人材の育成機関としての役割を果たしてきた。数千人もの技術者が同社で、迅速なプロトタイピング、反復設計、大規模な宇宙関連製造といった専門知識を培った。その経験が、今、新たなスタートアップエコシステムを形成している。",
-        "これらの新興企業は、先進的な推進システム、軌道上サービス、衛星コンステレーション、さらには初期段階の宇宙資源採掘といった多岐にわたる分野で活動している。巨額の投資は、民間宇宙セクターが単なる打ち上げサービスを超え、より広範なバリューチェーンへと成熟しつつあることを示唆する。",
-        "> SpaceXは、高レベルのエンジニアリング人材の育成の場として、また新しいアイデアの打ち上げ台として機能してきた。",
-        "SpaceXで培われた迅速な開発サイクルは、これらの新興企業にも受け継がれている。これにより、生命維持システムから自律型建設ロボットに至るまで、長期的な宇宙居住に不可欠な技術開発が加速されるだろう。",
-        "宇宙で生活し、働く人々にとって、この資金力のある機敏な企業群の台頭は、不可欠なインフラの早期実現を意味する。軌道上サービスへのより手頃なアクセス、月面居住地のための多様な材料、そして独立したサプライチェーンのより迅速な確立が期待される。宇宙居住地での日々の暮らしの質感—新鮮な水の入手、通信の信頼性、新しいツールの費用—は、この起業家精神の波によって形作られていく。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This news highlights how a lot of money is flowing into new space companies started by people who used to work at SpaceX. Think of it like a highly successful tech company in Tokyo where many talented engineers leave to start their own innovative businesses, bringing their know-how and attracting big investments. These new companies are building everything from better rocket engines to services that repair satellites in orbit.",
-        "For Tokyo readers, this trend will likely lead to more robust and cheaper satellite services. This means things like more accurate GPS for navigation apps, faster and more reliable mobile network coverage even in remote areas, and potentially better global weather forecasting that directly impacts disaster preparedness in Japan. The increased competition and innovation will drive down costs and improve service quality across these domains.",
-        "We can expect to see these impacts within the next 3 to 7 years. The main gating factor is the time it takes for these new companies to scale their operations and for their technologies to achieve commercial viability and widespread adoption. Regulatory frameworks for new space services will also need to catch up, but the capital is already flowing.",
-        "Japan has its own burgeoning private space sector. Companies like ispace, which aims for lunar resource development, and Astroscale, a leader in orbital debris removal and in-orbit servicing, are examples of Japanese firms attracting significant investment and talent. While not directly born from a single \"SpaceX-like\" parent, they embody a similar entrepreneurial spirit focused on developing the next generation of space infrastructure and services."
-      ],
-      "ja": [
-        "このニュースは、SpaceXを辞めた人々が立ち上げた新しい宇宙企業に、多額の資金が集まっていることを示しています。これはまるで、東京の有名なIT企業で経験を積んだ優秀なエンジニアたちが次々と独立し、その知識と技術を活かして新しい会社を立ち上げ、巨額の投資を集めているようなものです。彼らはより良いロケットエンジンから、軌道上で衛星を修理するサービスまで、様々な新しい技術を開発しています。",
-        "東京に暮らす私たちにとって、この動きはより堅牢で安価な衛星サービスにつながるでしょう。例えば、スマートフォンのナビアプリのGPS精度が向上したり、地方でもより高速で安定したモバイルネットワークが利用できるようになるかもしれません。また、日本の災害対策に直結する気象予報の精度も、世界規模で向上する可能性があります。競争とイノベーションが進むことで、これらのサービスのコストが下がり、質が向上することが期待されます。",
-        "これらの影響は、今後3年から7年以内に現れ始めるでしょう。主な要因は、これらの新しい企業が事業を拡大し、彼らの技術が商業的に実現可能となり、広く普及するまでの時間です。新しい宇宙サービスに関する規制の整備も必要ですが、すでに資金は活発に動いています。",
-        "日本にも独自の民間宇宙セクターが育っています。例えば、月面資源開発を目指すispaceや、宇宙ゴミ除去や軌道上サービスで世界をリードするアストロスケールなどは、日本の企業が大きな投資と優秀な人材を引きつけている好例です。これらは特定の「SpaceXのような」親会社から生まれたわけではありませんが、次世代の宇宙インフラやサービス開発に焦点を当てた、同様の起業家精神を持っています。"
-      ]
-    },
-    "source": {
-      "name": "Payload",
-      "url": "https://payloadspace.com/spacex-alum-have-raised-9-2b-new-data-shows/"
-    },
-    "sourceGuid": "https://payloadspace.com/?p=30447",
     "status": "published"
   }
 ]

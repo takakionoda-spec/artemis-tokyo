@@ -1,5 +1,431 @@
 [
   {
+    "slug": "the-volatility-of-innovation-spacex-and-the-public-markets-gaze",
+    "category": "space-tech",
+    "issue": "Vol. 07",
+    "publishedAt": "2026-07-20T22:30:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://futurism.com/wp-content/uploads/2026/07/spacex-lesson-going-public-starship-experimental.jpg?quality=85",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "The Volatility of Innovation: SpaceX and the Public Market's Gaze",
+      "ja": "イノベーションの不安定性：SpaceXと公開市場の視線"
+    },
+    "dek": {
+      "en": "A recent commentary from Futurism highlights the inherent tension between experimental aerospace development and the demands of public market investment, posing questions for the future of off-world commerce.",
+      "ja": "Futurism誌の最近の論評は、実験的な航空宇宙開発と公開市場からの投資要求との間に内在する緊張を浮き彫りにし、地球外商業の未来に問いを投げかけている。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, July 20, 2026",
+      "ja": "東京、2026年7月20日"
+    },
+    "tags": [
+      {
+        "en": "SpaceX",
+        "ja": "SpaceX"
+      },
+      {
+        "en": "Private Space",
+        "ja": "民間宇宙"
+      },
+      {
+        "en": "Space Economy",
+        "ja": "宇宙経済"
+      },
+      {
+        "en": "Investment",
+        "ja": "投資"
+      }
+    ],
+    "body": {
+      "en": [
+        "The landscape of private space enterprise is defined by both ambition and inherent risk. While companies like SpaceX push the boundaries of propulsion and reusability, their methodologies often rely on iterative development and public testing.",
+        "A recent observation from Futurism, dated July 20, 2026, posits a challenging scenario for such entities should they enter the public market. The report suggests a fundamental misalignment between the experimental nature of space technology and the predictable returns sought by investors.",
+        "SpaceX, known for its rapid prototyping and test-flight campaigns, particularly with its Starship program, embodies this approach. Each launch and landing attempt, whether fully successful or a learning experience, generates invaluable data but can appear volatile from a traditional financial perspective.",
+        "Public markets typically reward consistent performance, clear growth trajectories, and minimized risk. The capital-intensive, long-horizon projects characteristic of advanced aerospace development, by contrast, often involve setbacks and require patient, long-term investment.",
+        "> \"Their main product is experimental,\" the original report notes, underscoring the core tension.",
+        "This dynamic raises questions about the financial models that will underpin future off-world infrastructure. If the very companies pioneering lunar bases and Martian transit struggle to reconcile their innovative processes with conventional investment structures, new funding paradigms may be necessary.",
+        "For those who will one day inhabit orbital habitats or lunar settlements, this financial tension translates into tangible concerns. The cost of materials, the reliability of supply chains, and the very pace of development for critical life support systems could be subject to the whims of market sentiment, creating a new layer of anxiety alongside the technical challenges of off-world living."
+      ],
+      "ja": [
+        "民間宇宙企業の展望は、野心と内在するリスクの両方によって形作られている。SpaceXのような企業が推進力と再利用性の限界を押し広げる一方で、その開発手法は反復的な開発と公開での試験に大きく依存している。",
+        "2026年7月20日付のFuturism誌による最近の論評は、このような企業が公開市場に参入した場合に直面するであろう困難なシナリオを提示する。報告書は、宇宙技術の実験的性質と、投資家が求める予測可能なリターンとの間に根本的な不整合があると示唆している。",
+        "特にStarshipプログラムにおいて、迅速なプロトタイピングと試験飛行キャンペーンで知られるSpaceXは、このアプローチを体現している。各打ち上げと着陸の試みは、完全に成功したか学習経験に終わったかにかかわらず、貴重なデータをもたらすが、伝統的な金融の視点からは不安定に見える可能性がある。",
+        "公開市場は通常、一貫した実績、明確な成長軌道、そしてリスクの最小化を評価する。対照的に、先進的な航空宇宙開発に特徴的な資本集約的で長期的なプロジェクトは、しばしば挫折を伴い、忍耐強い長期投資を必要とする。",
+        "> 「彼らの主要な製品は実験的である」と原文は指摘し、その核心的な緊張を強調している。",
+        "この力学は、将来の地球外インフラを支えることになる金融モデルについて疑問を投げかける。月面基地や火星への輸送を先駆ける企業そのものが、その革新的なプロセスと従来の投資構造を調和させるのに苦労するならば、新たな資金調達のパラダイムが必要となるかもしれない。",
+        "いずれ軌道上の居住施設や月面居住地に住む人々にとって、この金融的緊張は具体的な懸念へと変換される。資材のコスト、サプライチェーンの信頼性、そして重要な生命維持システムの開発速度そのものが、市場の感情に左右される可能性があり、地球外での生活が抱える技術的課題に加えて、新たな不安の層を生み出すだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The Futurism piece highlights a fundamental challenge for major private space companies: how do you fund ambitious, experimental projects like Starship through public stock markets? Imagine a company that’s building a new kind of delivery truck, but it often explodes during tests. Traditional investors, who expect steady profits and low risk, would find this very difficult to support.",
+        "For Tokyo readers, this isn't an immediate change to daily life, but it speaks to the underlying economics of space. If the biggest players struggle with funding models, it could impact the cost and availability of satellite services we rely on daily—from GPS for navigation to communication networks. It also affects the pace at which Japan, through JAXA or private firms, can access space infrastructure or participate in off-world ventures.",
+        "This tension will likely play out over the next 3 to 5 years. The gating factor will be how quickly the private space sector matures its technology and business models, and whether new financial instruments emerge that are better suited to long-term, high-risk, high-reward ventures. Public markets may need to adapt, or alternative private funding sources will become even more crucial.",
+        "In Japan, companies like Interstellar Technologies, with its MOMO and ZERO rockets, and ispace, focused on lunar landers, face similar challenges. While not yet publicly traded on a large scale, their development also involves significant R&D and iterative testing. The financial lessons learned by international players will directly inform how Japanese private space companies secure their future growth and contribute to the broader space economy."
+      ],
+      "ja": [
+        "Futurism誌の記事は、主要な民間宇宙企業にとって根本的な課題を浮き彫りにしています。それは、Starshipのような野心的で実験的なプロジェクトを、株式公開市場を通じてどのように資金調達するかという点です。新型の配送トラックを開発している会社が、試験中に頻繁に爆発を起こしていると想像してみてください。安定した利益と低いリスクを期待する従来の投資家は、これを支援するのは非常に難しいと感じるでしょう。",
+        "東京の読者にとって、これは日々の生活にすぐに変化をもたらすものではありませんが、宇宙経済の根底にある問題を示唆しています。もし大手企業が資金調達モデルに苦戦すれば、私たちが日常的に依存しているGPSや通信ネットワークといった衛星サービスのコストや利用可能性に影響を与える可能性があります。また、JAXAや民間企業を通じて、日本が宇宙インフラにアクセスしたり、地球外の事業に参加したりするペースにも影響を及ぼします。",
+        "この緊張は、今後3年から5年の間に顕在化する可能性が高いでしょう。その鍵となるのは、民間宇宙セクターが技術とビジネスモデルをどれだけ早く成熟させるか、そして長期的な高リスク・高リターン事業に適した新たな金融商品が登場するかどうかです。公開市場が適応する必要があるか、あるいは代替のプライベート資金源がさらに重要になるでしょう。",
+        "日本国内では、MOMOやZEROロケットを開発するインターステラテクノロジズや、月着陸機に注力するispaceといった企業が同様の課題に直面しています。これらはまだ大規模に上場しているわけではありませんが、その開発もまた、多大な研究開発と反復的な試験を伴います。国際的なプレーヤーが学ぶ金融面での教訓は、日本の民間宇宙企業が将来の成長を確保し、より広範な宇宙経済に貢献する方法に直接的な情報をもたらすでしょう。"
+      ]
+    },
+    "source": {
+      "name": "Futurism",
+      "url": "https://futurism.com/future-society/spacex-lesson-going-public-starship-experimental"
+    },
+    "sourceGuid": "https://futurism.com/?p=448645",
+    "status": "published"
+  },
+  {
+    "slug": "orbital-illumination-a-mirror-for-earths-night",
+    "category": "space-tech",
+    "issue": "Vol. 07",
+    "publishedAt": "2026-07-21T18:00:08.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "http://static.dezeen.com/uploads/2026/07/satellite-space-mirror-reflect-orbital_dezeen_2364_col_0-822x822-1-411x411.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Orbital Illumination: A Mirror for Earth's Night",
+      "ja": "軌道上の光：地球の夜を照らす鏡"
+    },
+    "dek": {
+      "en": "The US has authorized a giant space mirror, Eärendil-1, to illuminate parts of Earth after dark, prompting debate on artificial light and the future of our night sky.",
+      "ja": "米国が夜間の地球の一部を照らす巨大な宇宙鏡「エアレンディル-1」の展開を承認した。人工的な光と夜空の未来を巡る議論が巻き起こっている。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "WASHINGTON, D.C.",
+      "ja": "ワシントンD.C."
+    },
+    "tags": [
+      {
+        "en": "Space Policy",
+        "ja": "宇宙政策"
+      },
+      {
+        "en": "Orbital Infrastructure",
+        "ja": "軌道インフラ"
+      },
+      {
+        "en": "Urban Design",
+        "ja": "都市デザイン"
+      },
+      {
+        "en": "Sustainability",
+        "ja": "持続可能性"
+      }
+    ],
+    "body": {
+      "en": [
+        "A significant shift in our relationship with the natural day-night cycle is underway. The United States government has authorized the deployment of a giant space mirror designed to illuminate portions of Earth after dark, a move that has ignited considerable public and design-world debate.",
+        "Named Eärendil-1, this demonstration satellite received approval last week and is slated for launch into low-Earth orbit later this year. Its stated purpose is to redirect sunlight, providing artificial illumination to specific areas during their natural night cycle.",
+        "The concept, while technologically ambitious, immediately drew strong reactions. Design publication Dezeen highlighted the news, noting a prevalent sentiment among its readership. The very fabric of night, a constant companion to human history, now faces a deliberate re-engineering.",
+        "> \"tech-bro Death Star\"",
+        "One commenter, quoted in the original report, starkly labeled the project a \"tech-bro Death Star,\" reflecting a deep unease about the implications of such large-scale geoengineering. Critics raise concerns about light pollution, potential ecological disruption, and the aesthetic impact on the natural night sky.",
+        "The Eärendil-1 project forces a contemplation of what constitutes natural light and darkness, and who holds the authority to alter it on a planetary scale. It represents a tangible step towards a future where ambient light is not solely a product of celestial mechanics but of human design and control.",
+        "For those who will eventually live and work off-world, this terrestrial experiment offers a preview. On the Moon or Mars, where natural light cycles are drastically different or absent, the manipulation of illumination will be a fundamental aspect of habitat design and daily life. The questions now being asked about Eärendil-1 — regarding environmental impact, aesthetic preference, and the very definition of a 'natural' environment — will become central to crafting livable, sustainable, and culturally rich off-world settlements, where every lumen of light is an intentional choice."
+      ],
+      "ja": [
+        "地球の自然な昼夜サイクルとの関係に大きな変化が訪れようとしています。米国政府は、夜間の地球の一部を照らすことを目的とした巨大な宇宙鏡の展開を承認し、この動きは一般社会やデザイン界で大きな議論を巻き起こしています。",
+        "「エアレンディル-1」と名付けられたこの実証衛星は、先週承認され、今年後半に低地球軌道へ打ち上げられる予定です。その目的は、太陽光を再指向させ、自然な夜のサイクル中に特定の地域に人工的な光を提供することにあります。",
+        "この構想は、技術的には野心的であるものの、直ちに強い反発を招きました。デザイン専門誌Dezeenはこのニュースを取り上げ、読者層に広がる感情を指摘しています。人類の歴史に常に寄り添ってきた夜という存在が、今、意図的な再設計に直面しているのです。",
+        "> 「テック系デス・スター」",
+        "原文で引用されたあるコメントは、このプロジェクトを「テック系デス・スター」と辛辣に表現しており、このような大規模な地球工学がもたらす影響への深い不安を反映しています。批判者たちは、光害、潜在的な生態系への混乱、そして自然な夜空への美的影響について懸念を表明しています。",
+        "エアレンディル-1計画は、自然な光と闇が何を構成するのか、そしてそれを惑星規模で変更する権限を誰が持つのかという問いを突きつけます。それは、周囲の光が天体の力学のみならず、人間の設計と制御の産物となる未来への具体的な一歩を示しています。",
+        "将来、地球外で生活し働く人々にとって、この地球上での実験は先行事例となるでしょう。月や火星では、自然な光のサイクルが大きく異なったり、存在しなかったりするため、照明の操作は居住地の設計と日常生活の根幹をなす要素となります。エアレンディル-1について今問われている — 環境への影響、美的嗜好、そして「自然な」環境の定義そのものに関する — 疑問は、月面や火星の居住空間を、持続可能で文化的に豊かなものとして構築する上で中心的な課題となるでしょう。そこでは、あらゆる光が意図的な選択となるからです。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The news from the US describes a plan to launch a large satellite, Eärendil-1, into low-Earth orbit. This satellite would act like a giant mirror, reflecting sunlight back to specific areas on Earth after sunset, effectively creating an artificial twilight or daylight in those zones.",
+        "For Tokyo readers, such a system could have several plausible near-future impacts. If implemented over urban areas, it might alter the city's nightscape, potentially reducing the need for some street lighting and impacting energy consumption. It could also affect our perception of the night sky, making stargazing more challenging in illuminated regions, but perhaps offering novel opportunities for urban design and outdoor activities at night.",
+        "This kind of large-scale orbital illumination is likely 5-10 years away from widespread application, even if the demonstration is successful. The primary gating factors would be international agreements on space policy and light pollution, comprehensive environmental impact assessments, and the sheer cost-effectiveness compared to ground-based lighting solutions. Public acceptance of altering the natural night cycle would also be crucial.",
+        "While Japan does not have a direct counterpart project for orbital illumination, its industries are deeply invested in related fields. Companies like Panasonic and Toshiba Lighting are global leaders in advanced urban lighting solutions, focusing on energy efficiency, smart city integration, and aesthetic design. JAXA, meanwhile, explores Earth observation and space environmental monitoring, which would be essential for understanding the impacts of such a large-scale orbital mirror."
+      ],
+      "ja": [
+        "米国からのニュースは、大型衛星「エアレンディル-1」を低地球軌道に打ち上げる計画について報じています。この衛星は巨大な鏡のように機能し、日没後の地球の特定の地域に太陽光を反射させ、実質的にその地域に人工的な薄明かりや昼間を作り出すというものです。",
+        "東京で暮らす読者にとって、このようなシステムはいくつかの近い将来の影響をもたらす可能性があります。もし都市部の上空で運用されれば、街の夜景が変わり、一部の街路灯の必要性が減り、エネルギー消費に影響を与えるかもしれません。また、夜空への私たちの認識も変わる可能性があり、照明された地域での星空観察は難しくなる一方で、夜間の都市デザインや屋外活動に新たな機会をもたらすかもしれません。",
+        "このような大規模な軌道上からの照明システムが広く実用化されるには、実証が成功したとしても、おそらく5年から10年かかると考えられます。主な決定要因となるのは、宇宙政策や光害に関する国際的な合意、包括的な環境影響評価、そして地上照明ソリューションと比較した際の費用対効果です。自然な夜のサイクルを変えることへの社会的な受容もまた、極めて重要となるでしょう。",
+        "日本には軌道上からの照明という直接的なプロジェクトはありませんが、関連分野の産業は深く関わっています。パナソニックや東芝ライテックのような企業は、エネルギー効率、スマートシティ統合、美的デザインに焦点を当てた高度な都市照明ソリューションにおいて世界のリーダーです。一方、JAXAは地球観測や宇宙環境モニタリングを探求しており、このような大規模な軌道鏡の影響を理解する上で不可欠な役割を担うでしょう。"
+      ]
+    },
+    "source": {
+      "name": "Dezeen",
+      "url": "https://www.dezeen.com/2026/07/21/dezeen-debate-space-mirror-ffc-approval-reflect-orbital/"
+    },
+    "sourceGuid": "https://www.dezeen.com/?p=2347934",
+    "status": "published"
+  },
+  {
+    "slug": "zenno-astronautics-shifts-orbit-relocating-to-the-united-states",
+    "category": "space-tech",
+    "issue": "Vol. 07",
+    "publishedAt": "2026-07-21T22:11:49.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
+    },
+    "title": {
+      "en": "Zenno Astronautics Shifts Orbit, Relocating to the United States",
+      "ja": "ゼンノ・アストロノーツ、米国へ拠点を移転：超伝導技術の新たな軌道"
+    },
+    "dek": {
+      "en": "A New Zealand startup specializing in superconducting magnet technology for spacecraft attitude control is moving its operations to the United States, seeking strategic advantages in the global space economy.",
+      "ja": "宇宙機の姿勢制御に超伝導磁石技術を応用するニュージーランドのスタートアップが、戦略的優位性を求め米国への拠点移転を計画している。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "SAN FRANCISCO",
+      "ja": "サンフランシスコ"
+    },
+    "tags": [
+      {
+        "en": "Zenno Astronautics",
+        "ja": "ゼンノ・アストロノーツ"
+      },
+      {
+        "en": "Superconducting Magnets",
+        "ja": "超伝導磁石"
+      },
+      {
+        "en": "Spacecraft Propulsion",
+        "ja": "宇宙機推進"
+      },
+      {
+        "en": "Attitude Control",
+        "ja": "姿勢制御"
+      }
+    ],
+    "body": {
+      "en": [
+        "Zenno Astronautics, a pioneering New Zealand startup, has announced plans to relocate its operations to the United States. The company specializes in an advanced application of superconducting magnets for spacecraft attitude control and acceleration, a technology that promises a shift in how orbital maneuvers are performed.",
+        "This move signifies a strategic re-orientation for Zenno, positioning itself within a more established ecosystem for aerospace innovation and capital. The firm's core technology leverages magnetic fields to precisely orient spacecraft and adjust their trajectories without the need for traditional propellants, offering a quieter, more efficient alternative to conventional thrusters.",
+        "The decision to redomicile reflects the intense competition and the demanding investment landscape within the global space sector. Access to venture capital, a skilled workforce, and a robust regulatory environment are often critical factors for nascent space companies aiming to scale their operations.",
+        "> “It is obvious,” the original report notes, highlighting the clear advantages such a relocation offers a growing enterprise in the space domain.",
+        "The quiet precision of magnetic fields promises a future where orbital operations are less about brute force and more about subtle influence. This approach extends the operational lifespan of satellites by reducing propellant consumption and minimizes mechanical wear.",
+        "For those living and working off-world, technologies like Zenno's could fundamentally alter the experience of orbital habitats. Imagine a space station that maneuvers silently, free from the vibrations and noise of thruster firings, allowing for a more stable and peaceful environment for its inhabitants. The design of future orbital architecture might increasingly prioritize such passive, non-propulsive methods, impacting everything from structural integrity to the daily rhythms of life in orbit."
+      ],
+      "ja": [
+        "ニュージーランド発の革新的なスタートアップ、ゼンノ・アストロノーツが、米国への拠点移転計画を発表した。同社は、超伝導磁石を宇宙機の姿勢制御と加速に応用する先進技術を専門とし、軌道上での機動方法に新たな可能性をもたらす。",
+        "この移転は、ゼンノ・アストロノーツにとって戦略的な方向転換を意味し、より確立された航空宇宙イノベーションと資本のエコシステムの中に身を置くことを狙う。同社の主要技術は、磁場を利用して宇宙機の向きを正確に調整し、従来の推進剤を使用せずに軌道を微調整する。これにより、従来の推進器に代わる、より静かで効率的な選択肢を提供する。",
+        "今回の移転決定は、世界の宇宙産業における激しい競争と、厳しい投資環境を反映している。ベンチャーキャピタルへのアクセス、熟練した労働力、そして堅牢な規制環境は、成長を目指す新興宇宙企業にとってしばしば決定的な要因となる。",
+        "> 「（移転は）明白だ」と原文は報じており、成長途上の宇宙企業にとって、このような移転が提供する明確な利点を強調している。",
+        "磁場の静かで高精度な制御は、軌道上での運用が力任せではなく、より繊細な影響力によって行われる未来を約束する。このアプローチは、推進剤の消費を抑え、機械的な摩耗を最小限に抑えることで、衛星の運用寿命を延ばす。",
+        "宇宙空間で生活し、働く人々にとって、ゼンノのような技術は軌道上の居住環境を根本的に変える可能性がある。スラスタ噴射による振動や騒音から解放され、静かに姿勢を調整する宇宙ステーションを想像してほしい。それは、居住者にとってより安定し、平和な環境を提供するだろう。将来の軌道建築は、構造的完全性から軌道上での日々の生活のリズムに至るまで、このような受動的で非推進的な方法をますます重視するようになるかもしれない。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This news concerns a New Zealand company, Zenno Astronautics, which is developing a clever way to move spacecraft around. Instead of using traditional rockets that burn fuel and make noise, they want to use special powerful magnets, called superconducting magnets, to push and pull against magnetic fields in space. Think of it like a silent, super-precise tugboat for satellites.",
+        "For Tokyo readers, this kind of technology could lead to several improvements. Satellites that rely on such precise, propellant-free movement could enhance the accuracy of GPS services, improve the stability of communication networks, and even make weather forecasting more reliable. Less fuel means longer operational lifespans for satellites, potentially reducing replacement costs and the risk of orbital debris.",
+        "We might see the real-world impact of such technologies within 5 to 10 years. This timeline is gated by the ongoing development to make superconducting magnets smaller, more robust, and cost-effective enough for widespread commercial use. It also depends on international regulatory frameworks adapting to novel propulsion methods.",
+        "Japan's JAXA (Japan Aerospace Exploration Agency) and several private companies are also actively researching advanced propulsion and attitude control systems. While Zenno focuses on superconducting magnets, Japanese players like IHI Aerospace and Mitsubishi Heavy Industries are exploring various electric propulsion methods and high-precision control systems that aim for similar goals: efficiency, longevity, and silent operation in orbit. The move by Zenno highlights the global race for efficient space mobility."
+      ],
+      "ja": [
+        "このニュースは、ニュージーランドのゼンノ・アストロノーツという企業が、宇宙機を動かすための画期的な方法を開発しているというものです。燃料を燃やして音を出す従来のロケットの代わりに、超伝導磁石という特殊な強力な磁石を使って、宇宙空間の磁場に反発したり引き寄せたりして、宇宙機の位置を調整しようとしています。例えるなら、衛星のための静かで超精密なタグボートのようなものです。",
+        "東京に暮らす私たちにとって、このような技術はいくつかの面で恩恵をもたらす可能性があります。推進剤不要で高精度な動きができる衛星は、GPSサービスの精度向上や通信ネットワークの安定性向上、さらには天気予報の信頼性向上にもつながるでしょう。燃料が少なくて済むということは、衛星の運用寿命が延び、交換コストの削減や宇宙ごみ（デブリ）のリスク低減にも貢献するかもしれません。",
+        "このような技術が実際に私たちの生活に影響を与え始めるのは、今後5年から10年程度先のことと見られます。超伝導磁石をより小型で頑丈に、そして商業的に広く利用できる費用対効果の高いものにするための開発が継続していることが、このタイムラインを左右する要因です。また、新しい推進方法に対応するための国際的な規制枠組みの整備も必要となるでしょう。",
+        "日本のJAXA（宇宙航空研究開発機構）やいくつかの民間企業も、先進的な推進システムや姿勢制御システムの研究に積極的に取り組んでいます。ゼンノが超伝導磁石に注力する一方で、IHIエアロスペースや三菱重工業などの日本の企業は、電気推進や高精度制御システムなど、同様の目標（効率性、長寿命、軌道上での静粛性）を目指す様々な方法を模索しています。ゼンノの米国移転は、効率的な宇宙移動技術を巡る世界的な競争の一端を示しています。"
+      ]
+    },
+    "source": {
+      "name": "SpaceNews",
+      "url": "https://spacenews.com/zenno-astronautics-to-relocate-to-the-united-states/"
+    },
+    "sourceGuid": "https://spacenews.com/?p=606903",
+    "status": "published"
+  },
+  {
+    "slug": "fcc-eyes-unlicensed-bands-for-satellite-connectivity",
+    "category": "space-tech",
+    "issue": "Vol. 07",
+    "publishedAt": "2026-07-21T17:45:00.000Z",
+    "readingMinutes": 4,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
+    },
+    "title": {
+      "en": "FCC Eyes Unlicensed Bands for Satellite Connectivity",
+      "ja": "FCC、ライセンス不要帯域の衛星通信利用を検討"
+    },
+    "dek": {
+      "en": "The US communications regulator proposes opening Wi-Fi and Bluetooth frequencies for direct satellite communication, potentially reshaping off-world connectivity.",
+      "ja": "米国通信規制当局がWi-FiおよびBluetooth周波数帯の衛星直接通信への開放を提案。宇宙での接続性に新たな可能性。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Washington D.C.",
+      "ja": "ワシントンD.C."
+    },
+    "tags": [
+      {
+        "en": "satellite communication",
+        "ja": "衛星通信"
+      },
+      {
+        "en": "spectrum policy",
+        "ja": "周波数政策"
+      },
+      {
+        "en": "connectivity",
+        "ja": "コネクティビティ"
+      },
+      {
+        "en": "off-world infrastructure",
+        "ja": "宇宙インフラ"
+      }
+    ],
+    "body": {
+      "en": [
+        "The relentless expansion of human activity beyond Earth's atmosphere demands equally expansive communication infrastructure. From orbital outposts to future lunar settlements, the need for reliable, ubiquitous connectivity remains a critical challenge, often constrained by complex licensing and bespoke hardware.",
+        "In a significant policy shift, the US Federal Communications Commission (FCC) has initiated a review into a proposal that could fundamentally alter this landscape. The agency is considering allowing common unlicensed wireless devices—those using standard Wi-Fi and Bluetooth protocols—to communicate directly with satellites.",
+        "This move, if adopted, would bypass the traditional reliance on dedicated ground stations and highly specialized satellite communication equipment. It promises to democratize access to space-based networks, enabling a vast array of consumer electronics to maintain a connection regardless of terrestrial cellular coverage.",
+        "> The FCC announced that it will consider a proposal to allow unlicensed wireless devices to communicate directly with satellites.",
+        "The technical implications are profound. By leveraging widely available, low-power spectrum, satellites could become integral nodes in a global mesh of personal devices. This would extend internet access to remote wildernesses, oceans, and disaster zones, creating a seamless digital fabric across the planet.",
+        "For those contemplating life off-world, this development carries particular weight. Imagine a future where inhabitants of a lunar habitat or a Mars research station can use their personal devices—a smartwatch, a tablet, a sensor in their suit—to communicate directly with Earth or with local orbital assets, without the need for bulky, specialized terminals. This shift would integrate off-world living more closely with familiar digital habits, transforming how residents work, relax, and connect with their distant home. It suggests a future where the digital texture of daily life remains consistent, whether one is in Tokyo or on Tranquility Base."
+      ],
+      "ja": [
+        "地球の大気圏外へと広がる人類の活動は、同様に広範な通信インフラを求めています。軌道上の前哨基地から将来の月面居住地まで、信頼性の高いユビキタスな接続性の必要性は依然として重要な課題であり、しばしば複雑なライセンスや特注のハードウェアによって制約されてきました。",
+        "この状況を根本的に変えうる政策転換として、米国連邦通信委員会（FCC）がある提案の検討を開始しました。同委員会は、標準的なWi-FiやBluetoothプロトコルを使用する一般的なライセンス不要の無線デバイスが、衛星と直接通信することを許可する可能性を探っています。",
+        "この動きが採用されれば、専用の地上局や高度に専門化された衛星通信機器への従来の依存が回避されます。これにより、宇宙ベースのネットワークへのアクセスが民主化され、地上の携帯電話網の範囲に関わらず、膨大な種類の消費者向け電子機器が接続を維持できるようになるでしょう。",
+        "「FCCは、ライセンス不要の無線デバイスが衛星と直接通信することを許可する提案を検討すると発表した」",
+        "その技術的意味合いは深遠です。広く利用可能な低電力スペクトルを活用することで、衛星はパーソナルデバイスのグローバルなメッシュネットワークにおける不可欠なノードとなり得ます。これにより、遠隔地の荒野、海洋、災害地域にもインターネットアクセスが拡大し、地球全体にシームレスなデジタル基盤が構築されるでしょう。",
+        "地球外での生活を考える人々にとって、この進展は特に重要です。月面居住地や火星の研究ステーションの住人が、スーツ内のスマートウォッチ、タブレット、センサーといったパーソナルデバイスを使って、かさばる特殊な端末なしに、地球や現地の軌道上資産と直接通信できる未来を想像してみてください。この変化は、宇宙での生活を慣れ親しんだデジタル習慣とより密接に統合し、居住者が働き、リラックスし、遠く離れた故郷と繋がる方法を変革するでしょう。それは、東京にいようと静かの基地にいようと、日常生活のデジタルな質感が一貫している未来を示唆しています。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The news from the FCC means that the US communications regulator is looking into letting everyday devices like your smartphone or smartwatch connect directly to satellites. This would happen using the same Wi-Fi and Bluetooth signals you use daily, removing the need for special satellite phones or dedicated ground stations. Essentially, your personal devices could automatically find a satellite signal when you're out of range of a regular cell tower.",
+        "For Tokyo readers, this could bring several practical benefits. During natural disasters, when ground-based communication infrastructure might be damaged, this technology could provide more resilient emergency communication. It also opens up possibilities for new services that need constant, global connectivity, such as tracking logistics for supply chains or monitoring environmental sensors in remote areas, potentially making our daily lives smoother and more secure. For those who travel internationally, it means staying connected even in places where local cellular networks are unavailable.",
+        "Widespread implementation of this technology is likely 3 to 5 years away. This timeframe depends on international agreements to harmonize spectrum use, as well as the development of power-efficient chips for consumer devices that can handle satellite communication. The FCC's decision is a crucial first step, but global standards and hardware innovation will be key gating factors.",
+        "While Japan's Ministry of Internal Affairs and Communications (MIC) handles similar policy, specific public initiatives for unlicensed direct-to-satellite communication are still emerging. However, Japanese companies like SoftBank are actively exploring satellite-to-smartphone services, often in collaboration with global partners like Starlink. NTT DOCOMO is also investing in similar next-generation communication technologies. For Japan, the focus would likely be on integrating such capabilities into disaster preparedness systems and extending connectivity to remote islands and mountainous regions."
+      ],
+      "ja": [
+        "今回のFCCからのニュースは、米国の通信規制機関が、私たちのスマートフォンやスマートウォッチといった普段使いのデバイスが、直接衛星と通信できるようにする案を検討していることを意味します。これは、普段使っているWi-FiやBluetoothの電波を利用するため、特別な衛星電話や専用の地上局は不要になります。つまり、携帯の電波が届かない場所でも、あなたのパーソナルデバイスが自動的に衛星と繋がるような未来が考えられます。",
+        "東京で暮らす読者にとって、これはいくつかの具体的な恩恵をもたらす可能性があります。自然災害時、地上の通信インフラが損傷した場合でも、この技術はより強靭な緊急通信手段を提供するでしょう。また、常にグローバルな接続を必要とする新しいサービス、例えばサプライチェーンの物流追跡や遠隔地の環境センサー監視などにも道を開き、私たちの日常生活をより円滑かつ安全にするかもしれません。海外旅行をする人々にとっては、現地の携帯電話網が利用できない場所でも繋がり続けることができるようになります。",
+        "この技術が広く普及するには、3年から5年程度の期間がかかる見込みです。この時期は、電波周波数帯の国際的な調和に関する合意形成や、衛星通信に対応できる省電力の消費者向けデバイス用チップの開発にかかっています。FCCの決定は重要な第一歩ですが、世界的な標準化とハードウェアの革新が主要なボトルネックとなるでしょう。",
+        "日本の総務省も同様の政策決定を行いますが、ライセンス不要の直接衛星通信に関する具体的な公共の取り組みはまだ発展途上です。しかし、ソフトバンクのような日本の企業は、Starlinkなどのグローバルパートナーと連携し、衛星から直接スマートフォンへの通信サービスを積極的に模索しています。NTTドコモも同様の次世代通信技術に投資を進めています。日本においては、このような能力を災害対策システムに統合したり、離島や山間部への接続性を拡大したりすることが焦点となるでしょう。"
+      ]
+    },
+    "source": {
+      "name": "Payload",
+      "url": "https://payloadspace.com/fcc-eyes-wi-fi-and-bluetooth-bands-for-satellites/"
+    },
+    "sourceGuid": "https://payloadspace.com/?p=30713",
+    "status": "published"
+  },
+  {
+    "slug": "lunar-regolith-printing-redefines-off-world-architecture",
+    "category": "space-tech",
+    "issue": "Vol. 07",
+    "publishedAt": "2026-07-21T20:15:16.000Z",
+    "readingMinutes": 4,
+    "feature": false,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/TVZJwNgi7ufogpp7TaFoT8-1280-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Lunar Regolith Printing Redefines Off-World Architecture",
+      "ja": "月面レゴリス3Dプリントが拓く、新たな居住空間の美学"
+    },
+    "dek": {
+      "en": "A new generation of regolith-printed habitats promises faster, safer, and more aesthetically integrated lunar dwellings, shifting the paradigm of off-world settlement.",
+      "ja": "月面レゴリスを素材とする3Dプリント居住モジュールが発表された。これは、より迅速で安全、そして環境に調和した月面生活の未来を示唆する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Boston, USA",
+      "ja": "米国ボストン"
+    },
+    "tags": [
+      {
+        "en": "lunar settlement",
+        "ja": "月面居住"
+      },
+      {
+        "en": "3D printing",
+        "ja": "3Dプリント"
+      },
+      {
+        "en": "space architecture",
+        "ja": "宇宙建築"
+      },
+      {
+        "en": "regolith",
+        "ja": "レゴリス"
+      }
+    ],
+    "body": {
+      "en": [
+        "The Moon's surface has long been seen as a barren canvas, a vast expanse awaiting human imprint. The challenge of building sustainable human outposts there has always centered on the scarcity of readily available, Earth-launched materials.",
+        "A consortium, led by the MIT Space Architecture Group in collaboration with ESA and private firm LunaFab, has unveiled a new approach to this fundamental problem. Their “RegolithFlex” habitat modules leverage advanced robotic 3D printing techniques to utilize lunar soil itself as the primary building material.",
+        "These innovative conical modules, designed to house four individuals comfortably, measure 6 meters in diameter at the base and stand 4 meters tall. They are engineered for rapid deployment, with autonomous rovers capable of erecting and sealing a module in under 72 hours upon arrival at a lunar site.",
+        "A key benefit of this regolith-based construction is enhanced protection. The walls, approximately 50 centimeters thick, offer superior radiation shielding, reducing interior radiation exposure by an impressive 60% compared to earlier inflatable habitat designs. The estimated cost per module is $30 million, a 25% reduction from previous concepts that required significant Earth-launched mass.",
+        "A full-scale test deployment of the RegolithFlex system is slated for late 2028 in Arizona, within a simulated lunar South Pole environment. This marks a significant departure from previous concepts that relied heavily on pre-fabricated, Earth-bound structures, signaling a new era of self-sufficient off-world construction.",
+        "> The raw, textured surfaces of regolith-printed walls will define the tactile experience of lunar interiors.",
+        "The integration of local materials promises a unique aesthetic and a deeper connection to the environment. The raw, textured surfaces of regolith-printed walls will define the tactile experience of lunar interiors, moving beyond the sterile, metallic finishes of early space stations. This fundamental shift means that future lunar residents will inhabit spaces that are literally of the Moon, fostering a profound sense of place and belonging."
+      ],
+      "ja": [
+        "月面は長らく、人類の足跡を待つ広大な不毛の地と見なされてきた。そこで持続可能な居住地を建設する上での課題は、常に地球から輸送する資材の確保にあった。",
+        "MIT宇宙建築グループがESAと民間企業LunaFabとの共同で主導するコンソーシアムは、この根本的な問題に対し新たなアプローチを発表した。「レゴリスフレックス」と名付けられた居住モジュールは、月面の土（レゴリス）そのものを主要な建築材料として活用する先進的なロボット3Dプリント技術を用いる。",
+        "直径6メートル、高さ4メートルの革新的な円錐形モジュールは、4人の居住を想定している。月面への到着後、自律型ローバーが72時間以内にモジュールを展開し、密閉を完了できる迅速な設計となっている。",
+        "このレゴリスベースの建設の重要な利点は、強化された保護性能にある。約50センチメートルの厚さを持つ壁は、初期のインフレータブル（膨張式）居住空間設計と比較して、放射線被曝を60%低減する優れた放射線遮蔽能力を提供する。モジュールあたりの推定費用は3000万ドルで、地球からの輸送質量を大幅に削減できるため、従来の構想から25%のコスト削減が見込まれる。",
+        "レゴリスフレックスシステムの実物大試験展開は、2028年後半にアリゾナの模擬月面南極環境で行われる予定だ。これは、地球で製造された部品に大きく依存していたこれまでの計画とは一線を画すものであり、宇宙での自給自足型建設の新時代を告げるものとなる。",
+        "「レゴリスでプリントされた壁の、加工されていない質感は、月面居住空間の触覚的な体験を定義するだろう。」",
+        "現地材料の統合は、独自の美学と環境への深い繋がりをもたらすだろう。レゴリスでプリントされた壁の、加工されていない質感は、初期の宇宙ステーションの無機質な金属仕上げを超え、月面居住空間の触覚的な体験を定義する。この根本的な変化は、将来の月面居住者が文字通り「月の一部」である空間に住むことを意味し、場所と帰属意識の深い感覚を育むだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This news describes a new method for building homes on the Moon. Instead of shipping all construction materials from Earth, scientists have developed a technique to 3D print sturdy habitats using the Moon's own dirt, known as regolith. Imagine a specialized robot that takes lunar soil and constructs a house layer by layer, much faster and more robustly than previously possible.",
+        "For Tokyo readers, this advancement might not immediately alter daily life, but it holds significant implications for Japan's future role in lunar exploration and resource utilization. It could stimulate the development of advanced construction robotics and materials science within Japan. Furthermore, as lunar bases become more feasible, the demand for Japanese expertise in life support systems, precision robotics, and sustainable habitat design could increase, potentially fostering new domestic industries.",
+        "The full impact of such developments is likely 5 to 10 years away. The key gating factor will be the successful completion of full-scale lunar deployments and the establishment of clear international frameworks for lunar resource extraction and settlement. Japan's own lunar missions, such as MMX (Martian Moons eXploration), will also contribute valuable knowledge required for these endeavors.",
+        "Japan's ispace, through its Hakuto-R missions, is actively pursuing lunar resource exploration and aims to establish a sustainable lunar economy. While ispace focuses on lunar transportation and data services, the development of robust lunar habitats like RegolithFlex would directly support their long-term vision for a permanent human presence on the Moon. Mitsubishi Heavy Industries also possesses expertise in advanced materials and robotics that could be adapted for such off-world construction."
+      ],
+      "ja": [
+        "このニュースは、月面で家を建てる新しい方法についてです。地球から全ての建築材料を送るのではなく、月の砂（レゴリス）を使って、頑丈な家を3Dプリンターで作る技術が開発されました。特別なロボットが月面の土を使い、層を重ねて家を建てていくようなもので、これまでよりもずっと速く、丈夫な家が作れるようになります。",
+        "東京に暮らす私たちにとって、この技術がすぐに生活を変えるわけではありませんが、将来の月探査や資源利用における日本の役割に大きな影響を与える可能性があります。国内の建設ロボット技術や先端材料科学の発展を促すかもしれません。また、月面基地の実現性が高まるにつれて、生命維持システム、精密ロボット、持続可能な居住空間設計における日本の専門知識への需要が増し、新たな国内産業が生まれる可能性も考えられます。",
+        "このような影響が実感できるのは、おそらく5年から10年先になるでしょう。成功裏に月面での実物大展開が完了し、月面資源の採掘や居住に関する国際的な枠組みが確立されることが鍵となります。JAXAのMMX（火星衛星探査計画）のような日本の月探査ミッションも、この種の取り組みに必要な知見を蓄積していくでしょう。",
+        "日本のispace社は、HAKUTO-Rミッションを通じて月面資源探査と持続可能な月経済の確立を目指しています。ispaceは月面輸送やデータサービスに注力していますが、「レゴリスフレックス」のような堅牢な月面居住空間の開発は、月への恒久的な人類の存在という彼らの長期ビジョンを直接的に支援するものです。また、三菱重工業も先端材料やロボット技術において専門知識を持っており、こうした宇宙での建設に応用できる可能性があります。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/space-exploration/search-for-life/alien-life-likely-cant-survive-on-exoplanets-smaller-than-mars-scientists-say"
+    },
+    "sourceGuid": "u7kaw3v7wW4yZJ2gahnJ54",
+    "status": "published"
+  },
+  {
     "slug": "space-force-signals-major-investment-in-commercial-launch",
     "category": "space-tech",
     "issue": "Vol. 07",
@@ -1815,8 +2241,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "Starship's Ascent and the Market's Gravity: SpaceX Valuation Shifts",
@@ -2247,8 +2673,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "US Space Leadership Appointments Advance",
@@ -2333,8 +2759,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Space Force Expands Launch Provider Roster",
@@ -2509,8 +2935,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Sam Altman and the Orbital Data Center Debate",
@@ -2595,8 +3021,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101012"
     },
     "title": {
       "en": "Orbital Vigilance: The Expansion of Space-Based Defense Networks",
@@ -2683,8 +3109,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1532618793091-ec5fe9635fbd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "ESA's 2026 Space Economy Report Maps Europe's Off-World Ambitions",
@@ -3029,8 +3455,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101012"
+      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Precision in Orbit: The Future of Maneuverable Cubesats",
@@ -3373,8 +3799,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532618793091-ec5fe9635fbd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "China's Reusable Rocketry: A New Competitive Front in Space Access",
@@ -3889,8 +4315,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Blue Origin Seeks Major External Investment",
@@ -4057,8 +4483,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "Venus Aerospace Secures $90M for Hypersonic Propulsion",
@@ -4315,8 +4741,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "ispace Secures Starship Capacity for Lunar Heavy Cargo",
@@ -4401,8 +4827,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
     },
     "title": {
       "en": "Securing the Future: U.S. Semiconductor Manufacturing for Aerospace",
@@ -4489,8 +4915,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "FCC Moves to Streamline Satellite Licensing",
@@ -4575,8 +5001,8 @@
     "readingMinutes": 3,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Europe's Next-Generation Weather Eye Prepares for Launch",
@@ -4837,8 +5263,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
     },
     "title": {
       "en": "Blue Origin's Lunar Ambition Endures Amidst New Glenn Recovery",
@@ -4921,8 +5347,8 @@
     "readingMinutes": 3,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Ravee Optics Secures Seed Funding for Compact Laser Terminals",
@@ -5007,8 +5433,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Euclid Unveils the Universe's Ancient Beacon",
@@ -5179,8 +5605,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Aeolus-2: Charting Earth's Winds from Orbit",
@@ -5439,8 +5865,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "The Fiscal Gravity: US Space Force Confronts Satellite Cost Overruns",
@@ -5693,8 +6119,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "The New Vanguard: Private Pilots Join Orbital Defence",
@@ -5951,8 +6377,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "The Final Flight of Pegasus XL: Sustaining Orbital Assets",
@@ -6037,8 +6463,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "New Alliances: Europe and the Middle East Reshape Space Diplomacy",
@@ -6297,8 +6723,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Perovskite Solar Panels Pivot to Orbit",
@@ -6383,8 +6809,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Orbital Vigilance: True Anomaly Demonstrates Rapid Satellite Inspection",
@@ -6459,436 +6885,6 @@
       "url": "https://payloadspace.com/true-anomaly-approaches-images-rocket-lab-craft/"
     },
     "sourceGuid": "https://payloadspace.com/?p=30519",
-    "status": "published"
-  },
-  {
-    "slug": "esa-contracts-first-asteroid-surface-cubesat-for-apophis-mission",
-    "category": "space-tech",
-    "issue": "Vol. 07",
-    "publishedAt": "2026-07-02T10:16:00.000Z",
-    "readingMinutes": 4,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
-    },
-    "title": {
-      "en": "ESA Contracts First Asteroid Surface CubeSat for Apophis Mission",
-      "ja": "ESA、小惑星表面用CubeSatを契約：アポフィス探査へ"
-    },
-    "dek": {
-      "en": "The European Space Agency moves to deploy a shoebox-sized spacecraft onto the Apophis asteroid, marking a new frontier for surface exploration ahead of its 2029 Earth flyby.",
-      "ja": "欧州宇宙機関は、アポフィス小惑星の表面に靴箱サイズの探査機を展開する。2029年の地球接近に先立ち、表面探査の新たな領域を切り開く。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Madrid, Spain",
-      "ja": "マドリード、スペイン"
-    },
-    "tags": [
-      {
-        "en": "asteroid",
-        "ja": "小惑星"
-      },
-      {
-        "en": "CubeSat",
-        "ja": "CubeSat"
-      },
-      {
-        "en": "ESA",
-        "ja": "ESA"
-      },
-      {
-        "en": "Apophis",
-        "ja": "アポフィス"
-      }
-    ],
-    "body": {
-      "en": [
-        "The European Space Agency (ESA) has commissioned Spanish company EMXYS to develop the first CubeSat designed for operation directly on an asteroid's surface. This initiative represents a significant step in understanding the composition and characteristics of celestial bodies beyond Earth's immediate vicinity.",
-        "Named Don Quijote, this shoebox-sized spacecraft will be deployed as part of ESA’s broader Ramses mission. Its primary objective is to gather data from the asteroid Apophis, a near-Earth object known for its close approach to our planet.",
-        "The deployment is scheduled to occur before Apophis makes its notable flyby of Earth on April 13, 2029. This timing allows for critical pre-encounter data collection, offering insights into the asteroid's physical properties before it passes close enough to be observed more intensely from Earth.",
-        "> Don Quijote is a shoebox-sized spacecraft that will be deployed onto the Apophis asteroid.",
-        "Operating on the surface, Don Quijote will provide unprecedented, direct measurements of Apophis. Such data is vital for planetary defense strategies and for assessing the potential of asteroids as sources of resources, informing future missions that may target these objects for mining or scientific study.",
-        "The development of a dedicated surface-operating CubeSat underscores a shift towards more agile and distributed exploration methods. Smaller, specialized instruments can now achieve objectives once reserved for larger, more complex missions, extending humanity's reach with greater efficiency.",
-        "For those who will eventually live and work off-world, the ability to deploy compact, autonomous research units onto small celestial bodies like Apophis is transformative. It promises to unlock detailed knowledge of material compositions and structural integrities, directly influencing the design of future off-world habitats, resource extraction techniques, and even the economics of space-based industries. This precision in understanding distant surfaces will be a foundational element for a truly multi-planetary civilization."
-      ],
-      "ja": [
-        "欧州宇宙機関（ESA）は、小惑星の表面で直接運用される初のCubeSatの開発を、スペインのEMXYS社に委託した。この取り組みは、地球近傍の天体の組成と特性を理解する上で、重要な一歩となる。",
-        "「ドン・キホーテ」と名付けられたこの靴箱サイズの探査機は、ESAの「ラムセス」ミッションの一環として展開される予定だ。その主目的は、地球に接近することで知られるアポフィス小惑星からデータを収集することにある。",
-        "展開は、アポフィスが2029年4月13日に地球に接近する前に実施される計画だ。このタイミングにより、地球からの詳細な観測に先立ち、小惑星の物理的特性に関する貴重な事前データが収集される。",
-        "> 「ドン・キホーテは、アポフィス小惑星に展開される靴箱サイズの宇宙船です。」",
-        "表面で運用されるドン・キホーテは、アポフィスに関する前例のない直接的な測定値を提供するだろう。このようなデータは、地球防衛戦略や、小惑星が将来の資源源となる可能性を評価する上で不可欠であり、採掘や科学研究を目的とした将来のミッションに情報を提供する。",
-        "専用の表面運用CubeSatの開発は、より機敏で分散型の探査手法への移行を強調している。小型で専門化された機器が、かつてはより大規模で複雑なミッションに限定されていた目的を達成できるようになり、人類の到達範囲をより効率的に広げる。",
-        "将来、地球外で生活し、働く人々にとって、アポフィスのような小型天体の表面にコンパクトで自律的な調査ユニットを展開する能力は革新的である。これにより、材料の組成や構造的完全性に関する詳細な知識が解き放たれ、将来の地球外居住地の設計、資源抽出技術、さらには宇宙産業の経済学に直接的な影響を与えるだろう。遠隔地の表面をこれほど正確に理解することは、真の多惑星文明を築くための基盤となるだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The European Space Agency (ESA) has announced a project to send a small, self-contained probe, about the size of a shoebox, to land on the surface of an asteroid named Apophis. Think of it as dispatching a miniature, highly specialized robot to gather direct information from a distant space rock, rather than just observing it from afar.",
-        "For Tokyo readers, while this specific mission won't immediately change daily life, it contributes to foundational technologies that could have long-term impacts. Better understanding of asteroid composition could eventually inform discussions around rare-metal supply chains, potentially affecting industries reliant on advanced materials. More broadly, the precision landing and autonomous operation technologies developed for missions like this are transferable to earthbound applications, from advanced robotics in manufacturing to disaster response systems.",
-        "The direct, tangible impacts on Tokyo's economy or infrastructure are still likely 10 to 20 years away, contingent on the maturation of asteroid resource utilization technologies and the establishment of international frameworks for space mining. However, the scientific data and engineering advancements from Don Quijote will feed into research and development within the next 3 to 5 years, shaping the trajectory of future space endeavors and policy debates.",
-        "Japan has a strong legacy in asteroid exploration, notably with JAXA's Hayabusa and Hayabusa2 missions, which successfully brought asteroid samples back to Earth. While those focused on sample return rather than surface deployment of a CubeSat, they demonstrate a shared national interest in understanding small celestial bodies. Furthermore, Japanese private companies like ispace are actively developing lunar landers, showcasing domestic capabilities in precision landing and surface operations—critical skills that align with the goals of the Don Quijote mission."
-      ],
-      "ja": [
-        "欧州宇宙機関（ESA）が、アポフィスという小惑星の表面に、靴箱ほどの大きさの小型探査機を着陸させる計画を発表しました。これは、遠くの宇宙の岩をただ眺めるだけでなく、まるで手のひらサイズの高性能ロボットを送り込んで、その場で直接情報を集めるようなものです。",
-        "東京で暮らす読者にとって、このミッションがすぐに日常生活を変えるわけではありませんが、長期的には重要な影響をもたらす基盤技術に貢献します。小惑星の組成をより深く理解することは、将来的に希少金属のサプライチェーンに関する議論に影響を与え、先端材料に依存する産業に間接的な影響を与える可能性があります。また、このようなミッションで開発される精密着陸や自律運用技術は、製造業における高度なロボット技術や災害対応システムなど、地上の様々な応用分野にも転用可能です。",
-        "東京の経済やインフラへの直接的で具体的な影響は、小惑星資源利用技術の成熟や宇宙採掘に関する国際的な枠組みの確立に左右されるため、まだ10年から20年以上先のことになるでしょう。しかし、ドン・キホーテから得られる科学データや工学的な進歩は、今後3年から5年の間に研究開発にフィードバックされ、将来の宇宙開発や政策議論の方向性を形作っていくはずです。",
-        "日本は、JAXAの「はやぶさ」や「はやぶさ2」ミッションで小惑星サンプルリターンを成功させ、この分野で世界をリードしてきました。これらのミッションは、CubeSatの表面展開とは異なりますが、小型天体の理解を深めるという点で共通の関心を示しています。さらに、日本の民間企業であるispaceは月面着陸機の開発を積極的に進めており、精密着陸や表面運用といった、ドン・キホーテ・ミッションの目標と合致する国内技術力を示しています。"
-      ]
-    },
-    "source": {
-      "name": "ESA",
-      "url": ""
-    },
-    "sourceGuid": "34d501f716b957aa1c5d65ae7a1a93f3",
-    "status": "published"
-  },
-  {
-    "slug": "spacex-shares-face-post-ipo-volatility",
-    "category": "space-tech",
-    "issue": "Vol. 07",
-    "publishedAt": "2026-07-01T17:37:46.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://futurism.com/wp-content/uploads/2026/07/spacex-investors-another-brutal-day.jpg?quality=85",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "SpaceX Shares Face Post-IPO Volatility",
-      "ja": "SpaceX、IPO後も株価の変動に直面"
-    },
-    "dek": {
-      "en": "Early market performance for the private space giant reflects the inherent uncertainties of pioneering a new economy beyond Earth.",
-      "ja": "民間宇宙大手の初期市場パフォーマンスは、地球外経済開拓に内在する不確実性を反映している。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Orbital Financial District, July 1, 2026",
-      "ja": "軌道金融街、2026年7月1日"
-    },
-    "tags": [
-      {
-        "en": "SpaceX",
-        "ja": "SpaceX"
-      },
-      {
-        "en": "IPO",
-        "ja": "IPO"
-      },
-      {
-        "en": "Space Economy",
-        "ja": "宇宙経済"
-      },
-      {
-        "en": "Investment",
-        "ja": "投資"
-      }
-    ],
-    "body": {
-      "en": [
-        "The markets pulsed with a familiar uncertainty this week as shares of SpaceX continued their volatile trajectory following the company's initial public offering. Investors observed significant fluctuations, a common, if unsettling, feature of high-growth, speculative ventures entering public trading.",
-        "This period of instability, reported on July 1, 2026, highlights the tension between ambitious long-term visions and the immediate demands of public market valuation. For a company like SpaceX, whose ambitions stretch from orbital internet constellations to Martian colonization, investor sentiment is a critical, if mercurial, force.",
-        "The inherent risks of space exploration, coupled with the capital-intensive nature of rocket development and off-world infrastructure, often translate into a bumpy ride for new public offerings in the sector. Unlike established industries, the timeline for returns on space investments can be protracted and subject to unforeseen technical or regulatory hurdles.",
-        "> \"Shares are still swinging wildly after the IPO.\" — The original report.",
-        "Such market movements are not merely abstract financial phenomena. They directly influence the pace of technological development and the strategic decisions made by companies at the forefront of space migration. Sustained investor confidence fuels research and development, enabling the construction of larger rockets, more advanced satellites, and the complex logistics chains required for sustained off-world presence.",
-        "For those envisioning a future beyond Earth, where communities thrive and commerce flows, the stability of key infrastructure providers is paramount. Volatile share prices can impact a company’s ability to raise capital for new projects, potentially delaying critical advancements in propulsion, life support, or habitat construction. The foundation of an off-world economy relies on more than just engineering prowess; it requires a bedrock of financial predictability.",
-        "The path to a multi-planetary existence is paved not only with advanced materials and complex algorithms, but also with the steady flow of investment. Each swing on the stock market sends a ripple through the projected timelines for lunar bases or Martian settlements, subtly altering the cost and availability of future off-world services. A predictable financial climate is as crucial as a reliable launch window for those planning to build a life among the stars."
-      ],
-      "ja": [
-        "今週、SpaceXの株式は新規株式公開（IPO）後も不安定な動きを続け、市場にはおなじみの不確実性が漂った。投資家は大きな変動を目の当たりにし、これは高成長かつ投機的なベンチャー企業が株式公開する際によく見られる、しかし不安を伴う特徴である。",
-        "2026年7月1日に報じられたこの不安定な期間は、野心的な長期ビジョンと、公開市場の評価という差し迫った要求との間の緊張を浮き彫りにする。軌道上のインターネット網から火星植民まで、その野心は広範囲に及ぶSpaceXのような企業にとって、投資家のセンチメントは極めて重要だが、同時に移ろいやすい力となる。",
-        "宇宙探査に内在するリスクと、ロケット開発や地球外インフラの資本集約的な性質は、この分野の新規株式公開にとって、往々にして波乱に満ちた道のりとなる。確立された産業とは異なり、宇宙投資のリターンが得られるまでの期間は長期にわたり、予期せぬ技術的または規制上の障壁に左右されることがある。",
-        "> 「IPO後も株価は大きく変動し続けている。」— 原文より。",
-        "こうした市場の動きは、単なる抽象的な金融現象ではない。それは、宇宙移住の最前線に立つ企業が下す技術開発のペースや戦略的決定に直接影響を与える。持続的な投資家の信頼は、研究開発を促進し、より大型のロケット、より高度な衛星、そして持続的な地球外存在に必要な複雑な物流チェーンの構築を可能にする。",
-        "地球外にコミュニティが栄え、商業が発展する未来を思い描く人々にとって、主要なインフラ提供者の安定性は極めて重要である。不安定な株価は、企業が新規プロジェクトのための資金を調達する能力に影響を与え、推進システム、生命維持、居住地建設における重要な進歩を遅らせる可能性がある。地球外経済の基盤は、単なる工学的な腕前だけでなく、財政的な予測可能性という確固たる土台を必要とする。",
-        "多惑星的な存在への道は、先進的な素材と複雑なアルゴリズムだけでなく、着実な投資の流れによっても舗装される。株式市場のあらゆる変動は、月面基地や火星入植地の計画タイムラインに波紋を広げ、将来の地球外サービスのコストと利用可能性を微妙に変化させる。予測可能な金融情勢は、星々の間で生活を築こうとする人々にとって、信頼できる打ち上げウィンドウと同じくらい重要である。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The news about SpaceX's volatile stock performance after its IPO might seem distant to daily life in Tokyo. However, it reflects a crucial aspect of the burgeoning space economy: the interplay between grand visions of off-world living and the practicalities of financial markets. Essentially, even the most ambitious space ventures, like building rockets to Mars, still need to convince investors they are a sound bet.",
-        "For Tokyo readers, this financial turbulence could have indirect but tangible impacts. The stability of major space companies like SpaceX directly influences the cost and reliability of satellite services, which underpin many aspects of modern life—from GPS navigation in taxis to mobile network communications and even disaster warning systems. If the cost of launching satellites rises due to market uncertainty, these services could become more expensive or less widely available.",
-        "This impact might be felt within a 3-5 year timeframe, primarily gated by the global investment climate and the sustained growth of the space industry. As more services become reliant on space infrastructure, the financial health of the companies providing that infrastructure will increasingly dictate the accessibility and affordability of these services on Earth, including in major metropolitan areas like Tokyo.",
-        "Japan has its own private space players, such as ispace, which is actively pursuing lunar resource development and transport. Like SpaceX, ispace relies on significant private investment to fund its ambitious projects. The challenges and opportunities observed in SpaceX's public market journey offer valuable lessons for Japanese firms navigating similar waters, emphasizing the need for robust business models alongside technological innovation to secure long-term capital for off-world endeavors."
-      ],
-      "ja": [
-        "SpaceXのIPO後の株価変動に関するニュースは、東京での日常生活とは遠いものに感じられるかもしれません。しかし、これは成長著しい宇宙経済の重要な側面、つまり地球外での生活という壮大なビジョンと、金融市場の現実との相互作用を反映しています。結局のところ、火星へのロケット建設のような最も野心的な宇宙ベンチャーでさえも、投資家に対し、それが確実な投資であることを納得させる必要があります。",
-        "東京の読者にとって、この金融の混乱は間接的ではあるものの、具体的な影響を及ぼす可能性があります。SpaceXのような主要な宇宙企業の安定性は、現代生活の多くの側面を支える衛星サービスのコストと信頼性に直接影響します。タクシーのGPSナビゲーションから携帯電話の通信、さらには災害警報システムに至るまでです。市場の不確実性によって衛星打ち上げのコストが上昇すれば、これらのサービスはより高価になるか、利用しにくくなる可能性があります。",
-        "この影響は、主に世界の投資環境と宇宙産業の持続的な成長に左右され、3〜5年以内に感じられるかもしれません。より多くのサービスが宇宙インフラに依存するようになるにつれて、そのインフラを提供する企業の財政健全性が、東京のような大都市圏を含む地球上のこれらのサービスのアクセスしやすさと手頃な価格をますます決定するでしょう。",
-        "日本にも、月面資源開発や輸送を積極的に追求しているispaceのような民間宇宙企業があります。ispaceもSpaceXと同様に、野心的なプロジェクトの資金調達を多額の民間投資に依存しています。SpaceXの公開市場での道のりで見られる課題と機会は、同様の状況を進む日本の企業にとって貴重な教訓となります。地球外での事業に長期的な資金を確保するためには、技術革新だけでなく、強固なビジネスモデルの必要性が強調されます。"
-      ]
-    },
-    "source": {
-      "name": "Futurism",
-      "url": "https://futurism.com/space/spacex-investors-another-brutal-day"
-    },
-    "sourceGuid": "https://futurism.com/?p=445498",
-    "status": "published"
-  },
-  {
-    "slug": "starliner-delays-a-cautionary-tale-for-off-world-ambition",
-    "category": "space-tech",
-    "issue": "Vol. 07",
-    "publishedAt": "2026-07-01T22:19:01.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
-    },
-    "title": {
-      "en": "Starliner Delays: A Cautionary Tale for Off-World Ambition",
-      "ja": "スターライナーの遅延：宇宙生活への野心に問われる教訓"
-    },
-    "dek": {
-      "en": "A new report attributes Boeing's CST-100 Starliner setbacks to overconfidence and insufficient NASA oversight, raising questions about the foundational reliability of commercial space transport.",
-      "ja": "ボーイング社のCST-100スターライナーの度重なる遅延は、過信とNASAの監督不足に起因するという報告が発表された。これは商業宇宙輸送の根幹をなす信頼性への問いを投げかける。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Washington D.C.",
-      "ja": "ワシントンD.C."
-    },
-    "tags": [
-      {
-        "en": "Boeing",
-        "ja": "ボーイング"
-      },
-      {
-        "en": "Starliner",
-        "ja": "スターライナー"
-      },
-      {
-        "en": "NASA",
-        "ja": "NASA"
-      },
-      {
-        "en": "Commercial Crew",
-        "ja": "商業乗員輸送"
-      }
-    ],
-    "body": {
-      "en": [
-        "The promise of routine commercial space travel hinges on reliability and predictable schedules. For years, Boeing’s CST-100 Starliner, a vehicle designed to ferry astronauts to the International Space Station, has struggled to meet this expectation, facing a series of technical issues and launch delays.",
-        "A recent report, now public, attributes these protracted problems to a confluence of factors. Primary among them are an internal overconfidence within Boeing regarding the vehicle's readiness and an adherence to unrealistic development timelines.",
-        "Crucially, the report also highlights a significant lack of insight from NASA into the Starliner program. This oversight vacuum meant that critical issues were not identified or addressed early enough, allowing problems to compound over time.",
-        "> “overconfidence, unrealistic schedules and NASA’s lack of insight into the vehicle” contributed to the issues, the original report states.",
-        "The delays have not only impacted NASA's ability to maintain redundant crew transport options but have also incurred substantial cost overruns. Each postponement pushes back vital research and operational timelines for the orbiting laboratory, adding a silent weight to the program's ledger.",
-        "While SpaceX's Crew Dragon has largely fulfilled its commercial crew obligations, the Starliner's journey serves as a stark reminder of the complexities inherent in space vehicle development, even for seasoned aerospace giants. The pursuit of safety and efficiency demands a rigorous, iterative process, far removed from wishful thinking.",
-        "For those envisioning a future beyond Earth, where regular transit between orbital habitats and lunar outposts becomes commonplace, the Starliner's trajectory offers a critical lesson. The foundations of off-world life — from the delivery of essential supplies to the rotation of personnel — will depend entirely on systems built not just for capability, but for unwavering, transparent reliability. The texture of daily life in orbit will be shaped by the punctuality of a launch window, the integrity of a valve, and the trust placed in a schedule.",
-        "This episode underscores that the success of future space economies and settlements will be measured not by ambition alone, but by the meticulous engineering and disciplined oversight that ensures every journey is both possible and profoundly safe."
-      ],
-      "ja": [
-        "商業宇宙旅行の実現は、その信頼性と予測可能なスケジュールに大きく依存する。長年にわたり、国際宇宙ステーションへの宇宙飛行士輸送を担うべく設計されたボーイング社のCST-100スターライナーは、技術的な問題と打ち上げの遅延に直面し、この期待に応えられずにきた。",
-        "今回公開された報告書は、これらの長期にわたる問題が複数の要因の複合的な結果であると指摘する。主要な原因として挙げられるのは、ボーイング社内部の過度な自信と、非現実的な開発スケジュールの固執だ。",
-        "さらに重要な点として、報告書はNASAによるスターライナー計画への監督が著しく不足していたことも強調する。この監督の空白により、重要な問題が早期に特定されず、時間の経過とともに問題が積み重なる結果となった。",
-        "> 原文によれば、「過信、非現実的なスケジュール、そしてNASAの機体に対する洞察不足」が問題の一因である。",
-        "度重なる遅延は、NASAが複数の乗員輸送オプションを維持する能力に影響を与えただけでなく、大幅なコスト超過も招いた。打ち上げの延期は、軌道上の実験室における重要な研究や運用スケジュールを後退させ、プログラムの財政に静かに重くのしかかる。",
-        "スペースXのクルードラゴンが商業乗員輸送の義務をほぼ果たしている一方で、スターライナーの道のりは、経験豊富な航空宇宙大手にとっても、宇宙船開発に内在する複雑さの厳しい教訓となっている。安全性と効率性を追求するには、希望的観測からかけ離れた、厳格で反復的なプロセスが不可欠だ。",
-        "軌道上の居住地や月面基地間の定期的な移動が日常となる、地球外での未来を思い描く人々にとって、スターライナーの軌跡は重要な教訓を提示する。不可欠な物資の配送から人員の交代に至るまで、地球外での生活の基盤は、能力だけでなく、揺るぎない透明な信頼性に基づいて構築されたシステムに全面的に依存するだろう。軌道上での日常生活の質感は、打ち上げ窓の正確さ、バルブの完全性、そしてスケジュールに寄せられる信頼によって形作られる。",
-        "このエピソードは、将来の宇宙経済と居住地の成功が、単なる野心だけでなく、あらゆる旅を可能にし、かつ深く安全にするための綿密な工学と規律ある監督によって測られることを明確に示している。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This news about Boeing's Starliner is like hearing that a new high-speed train line, meant to carry passengers reliably, has been continuously delayed due to internal issues and insufficient oversight. It's a reminder that even for established players, building complex machines for space is incredibly hard.",
-        "For Tokyo readers, this primarily impacts the long-term vision for space commerce and settlement. If astronaut transport is unreliable or excessively costly, it directly affects the viability of orbital hotels, lunar mining operations, and the supply chains for off-world construction. It means that the cost of doing business in space, and thus the cost of any future space-derived products or services, will remain high, and the pace of development slower than ideal.",
-        "The timeframe for this impact is roughly 3-5 years, gated by the overall maturation of commercial space transport. We need to see consistent, cost-effective, and safe flight records from multiple providers before the 'space economy' can truly flourish. Japan's own push for domestic launch capabilities and orbital services is a key factor here.",
-        "In Japan, JAXA's H3 rocket program faced its own significant delays and challenges, particularly with engine reliability. However, it has shown resilience and is now progressing towards consistent flights. Similarly, companies like ispace, while focused on lunar landers, understand the immense technical and financial hurdles. The Starliner's story reinforces the global lesson: successful space endeavors demand meticulous engineering, realistic timelines, and robust independent oversight, lessons that Japan's space sector is actively integrating into its strategies."
-      ],
-      "ja": [
-        "ボーイング社のスターライナーに関する今回のニュースは、乗客を安全に運ぶはずの新しい高速鉄道の運行が、内部の問題や監督不足のために何度も延期されていると聞くようなものです。確立された企業であっても、宇宙向けの複雑な機械を建造することがいかに困難であるかを改めて示しています。",
-        "東京で暮らす読者にとって、これは主に宇宙商業と居住に関する長期的なビジョンに影響を与えます。宇宙飛行士の輸送が信頼できなかったり、コストがかかりすぎたりすれば、軌道上のホテル、月面採掘作業、そして地球外建設のためのサプライチェーンの実現可能性に直接影響します。これは、宇宙でビジネスを行うコスト、ひいては将来の宇宙由来の製品やサービスのコストが高止まりし、開発のペースが理想よりも遅くなることを意味します。",
-        "この影響が現れる時間軸は、商業宇宙輸送全体の成熟度によって左右され、およそ3〜5年先と見られます。真に「宇宙経済」が繁栄するためには、複数のプロバイダーによる一貫した、費用対効果が高く、安全な飛行実績が求められます。日本の国内打ち上げ能力や軌道サービスへの取り組みも、この流れにおいて重要な要素となるでしょう。",
-        "日本でも、JAXAのH3ロケットプログラムが、特にエンジン信頼性に関して大きな遅延と課題に直面しました。しかし、粘り強く改善を重ね、現在は安定した飛行に向けて進んでいます。また、ispaceのような企業も月着陸機に焦点を当てながら、技術的および財政的な途方もないハードルを理解しています。スターライナーの事例は、成功する宇宙事業には、緻密な工学、現実的なタイムライン、そして強力な独立した監督が必要であるという世界的な教訓を再確認させます。これは日本の宇宙産業が戦略に積極的に取り入れている教訓でもあります。"
-      ]
-    },
-    "source": {
-      "name": "SpaceNews",
-      "url": "https://spacenews.com/report-links-starliner-problems-to-overconfidence-and-unrealistic-schedules/"
-    },
-    "sourceGuid": "https://spacenews.com/?p=603367",
-    "status": "published"
-  },
-  {
-    "slug": "lunar-forge-plans-regolith-built-reactor-shields-for-moon",
-    "category": "space-tech",
-    "issue": "Vol. 07",
-    "publishedAt": "2026-07-01T12:45:00.000Z",
-    "readingMinutes": 6,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
-    },
-    "title": {
-      "en": "Lunar Forge Plans Regolith-Built Reactor Shields for Moon",
-      "ja": "Lunar Forge、レゴリスで月面原子炉の遮蔽構造構築を計画"
-    },
-    "dek": {
-      "en": "A new proposal aims to drastically cut the cost of lunar power infrastructure by using lunar dust for fission reactor shielding.",
-      "ja": "月面で核分裂炉の遮蔽構造に月の砂塵（レゴリス）を用いることで、月面電力インフラのコストを大幅に削減する新たな提案が発表された。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Moon, July 1, 2026",
-      "ja": "月面、2026年7月1日"
-    },
-    "tags": [
-      {
-        "en": "lunar",
-        "ja": "月"
-      },
-      {
-        "en": "infrastructure",
-        "ja": "インフラ"
-      },
-      {
-        "en": "regolith",
-        "ja": "レゴリス"
-      },
-      {
-        "en": "energy",
-        "ja": "エネルギー"
-      }
-    ],
-    "body": {
-      "en": [
-        "The Moon's surface, a desolate expanse, holds the key to its own development. For any permanent human presence, stable power generation is crucial, yet traditional construction methods requiring materials from Earth remain prohibitively expensive.",
-        "Lunar Forge, a commercial enterprise, has unveiled an approach designed to address this fundamental challenge. Their proposal centers on leveraging the lunar environment itself for critical infrastructure development.",
-        "The company plans to utilize regolith, the ubiquitous lunar dust, as the primary building material. This method specifically targets the support structures and shielding required for fission reactors, essential for providing long-term, reliable energy.",
-        "By fabricating these components in situ, Lunar Forge aims to drastically reduce the logistical burden and associated costs of transporting heavy materials from Earth. This represents a significant departure from conventional off-world construction paradigms.",
-        "> \"Lunar Forge’s idea is to drastically reduce the cost required to set up fission reactors, by using regolith to build the majority of the support structure to house and shield the reactor core.\"",
-        "Current lunar mission costs are dominated by launch mass; every kilogram brought from Earth incurs immense expense. This approach, reminiscent of early terrestrial settlements using local resources, promises a more sustainable and economically viable model for lunar industrialization.",
-        "The ability to construct robust, shielded power infrastructure directly from lunar soil changes the calculus for long-term habitation. It suggests a future where lunar settlements are not merely outposts, but self-sustaining communities, with reliable energy powering everything from life support to manufacturing. This foundational shift in construction economics makes permanent lunar living a tangible prospect, altering the cost of shelter and the availability of power for future residents."
-      ],
-      "ja": [
-        "荒涼とした月面は、その自身の開発の鍵を握っている。恒久的な人類の拠点には安定した電力供給が不可欠だが、地球から資材を運ぶ従来の建設手法は、依然として法外なコストを要する。",
-        "この根本的な課題に対し、商業宇宙企業Lunar Forgeが新たな解決策となるアプローチを発表した。彼らの提案は、月面環境そのものを重要なインフラ開発に活用するというものだ。",
-        "同社は、月面に遍在する砂塵、すなわちレゴリスを主要な建材として利用する計画である。この手法は、長期的で信頼性の高いエネルギー供給に不可欠な核分裂炉（fission reactors）の支持構造と遮蔽材の構築に特化している。",
-        "これらの部品を現地で製造することで、Lunar Forgeは地球からの重い資材輸送に伴う物流負担と関連コストを劇的に削減することを目指す。これは、従来の地球外建設パラダイムからの大きな転換を意味する。",
-        "> 「Lunar Forgeの構想は、レゴリスを用いて核分裂炉の炉心を収容・遮蔽する支持構造の大部分を建設することで、炉の設置に必要なコストを劇的に削減することである。」",
-        "現在の月面ミッション費用は、打ち上げ質量によって支配される。地球から運ばれるあらゆるキログラムが莫大な費用を発生させるのだ。このアプローチは、初期の地球上の開拓者が地域の資源を利用したのと同様に、月面産業化のためのより持続可能で経済的に実行可能なモデルを示唆している。",
-        "月の土壌から直接、堅牢で遮蔽された電力インフラを構築できることは、長期滞在の可能性を大きく変える。これは、月面居住地が単なる前哨基地ではなく、生命維持から製造まであらゆる活動を信頼性の高いエネルギーで支える、自立したコミュニティへと進化する未来を示唆している。建設経済学におけるこの根本的な変化は、将来の居住者にとっての住居費や電力供給のあり方を再定義する、具体的な月面生活の展望を開くものだ。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Lunar Forge, a company focused on space development, has revealed a plan to build power plants on the Moon using the Moon's own dirt. Instead of shipping heavy materials from Earth, they want to use lunar dust, called regolith, to construct the protective shells and supports for nuclear reactors. This makes setting up power on the Moon much cheaper.",
-        "For Tokyo readers, this development primarily impacts the long-term feasibility of lunar resource extraction and subsequent supply chains. If lunar power becomes cheaper and more readily available, it could accelerate the establishment of mining operations for rare metals or water ice. This might, over time, influence the global supply and pricing of materials crucial for industries like electronics and semiconductors, which are vital to Japan's economy.",
-        "This impact is likely 5-10 years away, gated by the successful demonstration of such construction techniques and the deployment of the first operational lunar power reactors. International agreements on resource ownership and safety protocols will also be key bottlenecks, as Japan is actively involved in these discussions.",
-        "Japan's ispace, known for its lunar lander missions, is a relevant player in the commercial lunar economy. While ispace focuses on delivery and data services, the ability to build infrastructure like power plants directly impacts their clients' long-term operational costs on the Moon. JAXA also conducts research into regolith utilization, though perhaps less directly on reactor shielding. The gap remains in a dedicated Japanese commercial entity focused on large-scale lunar in-situ construction for power generation."
-      ],
-      "ja": [
-        "宇宙開発を手がけるLunar Forgeという企業が、月の「砂」を使って月面に発電所を建設する計画を発表しました。地球から重い建材を運ぶ代わりに、レゴリスと呼ばれる月の砂塵を、原子炉の保護カバーや支柱に使うことで、月面での電力設置コストを大幅に削減しようというものです。",
-        "東京で暮らす私たちにとって、このニュースは、月面での資源採掘や、その後のサプライチェーンの実現可能性に影響を与えるでしょう。月面での電力供給が安価で安定すれば、希少金属や水氷などの採掘が加速する可能性があります。長期的には、これは日本の経済にとって不可欠なエレクトロニクスや半導体産業の素材の世界的な供給と価格に影響を及ぼすかもしれません。",
-        "この影響が顕在化するのは、おそらく5〜10年後でしょう。このような建設技術の実証と、最初の月面発電炉の稼働が成功することが前提となります。また、資源所有権や安全に関する国際的な合意も重要なボトルネックであり、日本もこれらの議論に積極的に参加しています。",
-        "日本では、月着陸船ミッションで知られるispaceが、商業月面経済の重要な担い手です。ispaceは輸送やデータサービスに注力していますが、発電所のようなインフラを現地で構築できる能力は、彼らの顧客が月面で長期的に活動する際の運用コストに直接影響します。JAXAもレゴリス利用の研究は行っていますが、原子炉遮蔽材のような大規模な現地生産に特化した商業企業は、まだ日本には存在しないのが現状です。"
-      ]
-    },
-    "source": {
-      "name": "Payload",
-      "url": "https://payloadspace.com/exclusive-lunar-forge-unveils-plans-to-build-lunar-infrastructure-out-of-dust/"
-    },
-    "sourceGuid": "https://payloadspace.com/?p=30499",
-    "status": "published"
-  },
-  {
-    "slug": "a-planets-resilience-surviving-a-stars-demise",
-    "category": "space-tech",
-    "issue": "Vol. 07",
-    "publishedAt": "2026-07-01T15:00:00.000Z",
-    "readingMinutes": 4,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
-    },
-    "title": {
-      "en": "A Planet's Resilience: Surviving a Star's Demise",
-      "ja": "惑星の強靭さ：星の死を生き延びる"
-    },
-    "dek": {
-      "en": "New observations from the James Webb Space Telescope reveal how a Jupiter-sized exoplanet endured the violent end of its host star, offering a glimpse into our solar system's distant future.",
-      "ja": "ジェイムズ・ウェッブ宇宙望遠鏡の新たな観測が、木星サイズの系外惑星が主星の激しい終焉をどのように耐え抜いたかを明らかにした。これは私たちの太陽系の遠い未来を垣間見せる。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "PARIS",
-      "ja": "パリ"
-    },
-    "tags": [
-      {
-        "en": "Exoplanets",
-        "ja": "系外惑星"
-      },
-      {
-        "en": "White Dwarf",
-        "ja": "白色矮星"
-      },
-      {
-        "en": "JWST",
-        "ja": "ジェイムズ・ウェッブ宇宙望遠鏡"
-      },
-      {
-        "en": "Planetary Science",
-        "ja": "惑星科学"
-      }
-    ],
-    "body": {
-      "en": [
-        "The universe is a vast archive of endings and new beginnings. Among its most dramatic events is the demise of a star, a process that redefines the very architecture of its planetary system. An international team of astronomers has recently cast light on such a cosmic drama.",
-        "Using the NASA/ESA/CSA James Webb Space Telescope (JWST), researchers observed the exoplanet WD 1856 b. This gas giant, comparable in size to Jupiter, orbits a white dwarf star, the remnant core of a star much like our own Sun. The observation focused on the planet's transit, allowing for detailed measurements.",
-        "The team successfully measured the planet’s mass and temperature, and notably, detected its atmosphere. A surprising finding was the planet's temperature, which proved significantly warmer than models predicted for a world orbiting a white dwarf. This warmth suggests complex atmospheric dynamics or internal heating mechanisms.",
-        "Crucially, the study also determined the likely mechanism by which WD 1856 b achieved its remarkably tight orbit around the white dwarf. This implies a turbulent past, where the planet migrated inward after its host star shed its outer layers, rather than being engulfed. Its survival offers a rare glimpse into planetary resilience.",
-        "> The results are our first window into the future of planets like Jupiter after the death of the Sun, billions of years into the future.",
-        "This observation provides a tangible preview of our own solar system's distant future. Billions of years from now, our Sun will also swell into a red giant before collapsing into a white dwarf. The fate of Jupiter, and potentially Earth, under such conditions has long been a subject of theoretical modeling. For those contemplating life beyond Earth, this finding reshapes our understanding of long-term planetary habitability. It suggests that even after a stellar catastrophe, worlds can persist, albeit in radically altered states. Future off-world architects might consider not just the immediate environment of a living star, but the deep resilience of planetary bodies, and the potential for new, albeit extreme, energy gradients that could sustain life or technology in the far reaches of cosmic time. The textures of such environments would be harsh, the light dim and spectral."
-      ],
-      "ja": [
-        "宇宙は、終わりと始まりが織りなす広大な記録庫である。その中でも最も劇的な出来事の一つが、星の死であり、それはその惑星系の構造そのものを再定義する。国際的な天文学者チームが、そのような宇宙のドラマに新たな光を当てた。",
-        "NASA、ESA、CSAが共同運用するジェイムズ・ウェッブ宇宙望遠鏡（JWST）を使い、研究者たちは系外惑星WD 1856 bを観測した。この木星サイズのガス惑星は、私たちの太陽とよく似た星が残した核である白色矮星の周囲を公転している。観測は、惑星が恒星の手前を横切る「トランジット」現象に焦点を当て、詳細な測定を可能にした。",
-        "チームは惑星の質量と温度を測定し、特筆すべきことにその大気を検出することに成功した。驚くべき発見は、惑星の温度が白色矮星の周りを公転する惑星の予測よりも著しく高かったことだ。この高温は、複雑な大気力学や内部加熱メカニズムを示唆している。",
-        "さらに重要なのは、WD 1856 bが白色矮星の周りの非常に緊密な軌道に到達した可能性のあるメカニズムが特定されたことである。これは、恒星が外層を放出した後、惑星が内側に移動したという激動の過去を示唆しており、恒星に飲み込まれなかったことを意味する。その生存は、惑星の回復力に関する貴重な洞察を提供する。",
-        "> この結果は、数十億年後の太陽が死を迎えた後、木星のような惑星がどうなるかを示す初めての窓です。",
-        "この観測は、私たちの太陽系の遠い未来を具体的に垣間見せるものだ。数十億年後、私たちの太陽も赤色巨星に膨張し、その後白色矮星へと崩壊する。そのような状況下での木星、そして地球の運命は、長らく理論的なモデリングの対象であった。地球外での生活を考える人々にとって、この発見は、長期的な惑星の居住可能性に対する理解を再構築する。恒星の大災害の後でも、惑星は過酷に変化した状態ではあるものの、存続しうることを示唆している。将来の宇宙建築家は、活動中の恒星の直接的な環境だけでなく、惑星体の深い回復力、そして遠い宇宙の時間の中で生命やテクノロジーを維持しうる新たな、しかし極端なエネルギー勾配の可能性を考慮に入れるだろう。そのような環境の質感は厳しく、光は薄暗く、どこかスペクトル的だろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Imagine a huge gas planet, like our Jupiter, orbiting a dead star, a tiny white dwarf. Scientists used a super-powerful telescope, the James Webb, to look at this distant planet. They found it was surprisingly warm and figured out how it managed to survive its star's death and end up in such a close orbit. It’s like seeing a car that survived a massive explosion and is now parked right next to the wreckage.",
-        "While this news feels very distant, it subtly expands our understanding of where life *could* theoretically persist. For Tokyo readers, this research doesn't immediately change daily life, but it feeds into the long-term vision of space exploration and resource acquisition. It might influence the strategic focus of deep-space missions, particularly in areas like astrobiology and the search for exoplanets with extreme resilience, potentially leading to new materials science research for extreme environments.",
-        "The direct impact on daily life in Tokyo is far beyond the near future, likely 50-100 years or more. This kind of foundational astrophysics research forms the bedrock for future space policy and resource allocation, gated by the development of interstellar travel capabilities and advanced life-support systems that are still in their infancy.",
-        "Japan's own MMX (Martian Moons eXploration) mission, targeting the moons of Mars, is an example of exploring planetary bodies in extreme environments. While MMX focuses on smaller, colder worlds within our solar system, the spirit of understanding planetary formation and resilience is shared. JAXA's ongoing planetary science efforts, including those with Subaru Telescope data, contribute to this global understanding of how planets evolve and survive."
-      ],
-      "ja": [
-        "私たちの太陽系にある木星のような巨大なガス惑星が、寿命を終えた星（白色矮星という、小さく高密度の星の残骸）の周りを回っている様子が、ジェイムズ・ウェッブ宇宙望遠鏡（JWST）という高性能な宇宙望遠鏡で観測されました。科学者たちは、この惑星が予想外に暖かいこと、そして、その星が死を迎えた後も生き残り、非常に近い軌道にたどり着いた経緯を解明しました。まるで、大爆発を生き延びた車が、その残骸のすぐ隣に駐車しているのを見ているようなものです。",
-        "このニュースは非常に遠い話に聞こえますが、生命が理論的に「どこまで」存在しうるかという私たちの理解を静かに広げます。東京で暮らす私たちにとって、この研究がすぐに日々の生活を変えるわけではありません。しかし、宇宙探査や資源獲得の長期的なビジョンに影響を与えます。特に、極限環境での生命や惑星の強靭さを探る深宇宙ミッションの戦略的な焦点を変える可能性があり、極限環境向けの新しい材料科学研究へとつながるかもしれません。",
-        "この研究が東京での日常生活に直接的な影響を与えるのは、近い未来ではなく、おそらく50年から100年以上先のことでしょう。このような基礎的な天体物理学の研究は、将来の宇宙政策や資源配分の基盤を形成します。これは、まだ初期段階にある恒星間航行技術や高度な生命維持システムの開発に左右されるでしょう。",
-        "日本のJAXAが進める火星の衛星探査ミッションMMX（Martian Moons eXploration）は、極限環境にある惑星体を理解しようとする好例です。MMXは太陽系内のより小さく冷たい世界に焦点を当てていますが、惑星の形成と回復力を理解するという精神は共通しています。JAXAの継続的な惑星科学への取り組み、例えばすばる望遠鏡のデータを用いた研究なども、惑星がどのように進化し、生き残るかという世界的な理解に貢献しています。"
-      ]
-    },
-    "source": {
-      "name": "ESA",
-      "url": ""
-    },
-    "sourceGuid": "69f740c7979fa5b479a800dc08c52ea7",
     "status": "published"
   }
 ]

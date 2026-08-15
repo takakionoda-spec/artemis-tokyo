@@ -1,5 +1,433 @@
 [
   {
+    "slug": "beyond-utility-designing-for-life-in-orbit",
+    "category": "space-tech",
+    "issue": "Vol. 08",
+    "publishedAt": "2026-08-15T14:00:00.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/w8sxt8LZzpav6jzWKp3Tp9-1280-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Beyond Utility: Designing for Life in Orbit",
+      "ja": "実用性から生活へ：軌道上居住空間のデザイン思想"
+    },
+    "dek": {
+      "en": "A new private orbital module prioritizes human comfort and psychological well-being, signaling a shift towards truly habitable space environments.",
+      "ja": "新たな民間軌道モジュールは、人間の快適性と心理的幸福を優先し、真に居住可能な宇宙環境への転換を示唆する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Low Earth Orbit",
+      "ja": "低軌道"
+    },
+    "tags": [
+      {
+        "en": "orbital habitats",
+        "ja": "軌道上居住地"
+      },
+      {
+        "en": "commercial space",
+        "ja": "商業宇宙"
+      },
+      {
+        "en": "space architecture",
+        "ja": "宇宙建築"
+      },
+      {
+        "en": "psychology",
+        "ja": "心理学"
+      }
+    ],
+    "body": {
+      "en": [
+        "The orbital landscape is slowly shifting from purely governmental endeavors to commercial ventures. On August 15, 2026, a significant step was taken toward a more human-centric future in low Earth orbit.",
+        "StarGazer Habitats, a nascent private space company, successfully completed the docking of its \"Oasis-1\" module. This event marks the foundational piece of their ambitious new private space station, positioned to serve long-duration missions for research and eventually, tourism. The module rendezvoused and connected seamlessly at an altitude of approximately 400 kilometers above Earth.",
+        "Measuring 10 meters in length and 4 meters in diameter, the Oasis-1 module offers an internal volume of 30 cubic meters, designed to comfortably house a crew of four. Unlike earlier, more utilitarian modules of the International Space Station (ISS), Oasis-1 prioritizes psychological well-being. Its design integrates large, dynamic virtual windows that project real-time Earth views and interiors that mimic natural daylight cycles, a deliberate departure from the standard gray and white panels.",
+        "This focus on habitability extends to modular furniture systems and adaptable living spaces, allowing crew members to reconfigure their environment. The intent is to mitigate the psychological stresses of prolonged confinement and isolation, a critical factor for future residents who may spend months or even years off-world.",
+        "> Our goal is to make space feel less like a temporary outpost and more like a true home.",
+        "The module's projected operational life is 15 years, signaling a commitment to sustained commercial presence. For those contemplating life beyond Earth, such design considerations transform the experience from mere survival to genuine living. It suggests a future where the aesthetics of an orbital habitat, the quality of its simulated light, and the flexibility of its interior architecture become as crucial as its life support systems. This shift implies new professions in orbital interior design and psychology, shaping not just how people work in space, but how they truly inhabit it."
+      ],
+      "ja": [
+        "軌道上の風景は、政府主導の事業から民間企業の挑戦へと緩やかに移行している。2026年8月15日、低軌道における人間中心の未来へ向けた重要な一歩が記された。",
+        "新興の民間宇宙企業スターゲイザー・ハビタッツは、その「オアシス-1」モジュールのドッキングを成功させた。この出来事は、研究や将来的な宇宙観光のための長期滞在ミッションを支える、新たな民間宇宙ステーションの基礎となる。モジュールは地球上空約400キロメートルの高度で、滞りなくランデブーと接続を完了した。",
+        "長さ10メートル、直径4メートル、内部容積30立方メートルのオアシス-1モジュールは、4名の乗員を快適に収容できるよう設計されている。国際宇宙ステーション（ISS）の初期モジュールのような実用性重視のデザインとは異なり、オアシス-1は心理的快適性を最優先している。地球のリアルタイム映像を映し出す大型の仮想窓や、自然な昼夜サイクルを模倣した動的な照明が組み込まれており、標準的な無機質なパネルとは一線を画す。",
+        "居住性へのこのこだわりは、モジュール式の家具システムや順応性のある居住空間にも及ぶ。これにより乗員は環境を自由に再構成できる。長期にわたる閉鎖環境と孤立による心理的ストレスを軽減することが意図されており、数ヶ月、あるいは数年を宇宙で過ごす将来の居住者にとって極めて重要な要素となるだろう。",
+        "「私たちの目標は、宇宙を一時的な前哨基地ではなく、真の家のように感じさせることです」と、原文は報じている。",
+        "モジュールの運用寿命は15年と見込まれており、持続的な商業的プレゼンスへのコミットメントを示唆している。地球外での生活を考える人々にとって、こうした設計思想は単なる生存から真の生活へと体験を変える。軌道上居住地の美学、シミュレートされた光の質、そして内部構造の柔軟性が、生命維持システムと同じくらい重要になる未来を示唆している。この変化は、軌道上でのインテリアデザインや心理学といった新たな専門職を生み出し、人々が宇宙でどのように働き、そしてどのように暮らすかという文化そのものを形作っていくだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "A private company has launched the first part of its own space station. Think of it like a new apartment building starting construction in orbit, but this first \"apartment\" is specifically designed to feel like a comfortable home, not just a laboratory. It has special windows that show Earth and lights that change like the sun and moon.",
+        "For Tokyo readers, this kind of development might first be felt in the quality of satellite-based services. As more private stations become available, there could be an increase in orbital data processing, potentially leading to faster mobile network speeds or more precise GPS services for navigation apps. It also opens up new avenues for Japanese companies interested in providing services or even luxury goods to future space residents, much like how high-end brands cater to cruise ship passengers today.",
+        "We could see these impacts within 5-10 years. The primary gating factor will be the rate at which private space stations expand and the cost per kilogram to orbit continues to fall. Japan's own space policy and investment in orbital infrastructure will also play a role in how quickly domestic companies can participate in this new economy.",
+        "While Japan does not currently have a private company building an entire commercial space station with this specific habitability focus, ispace is a notable player in lunar lander development, aiming for sustained lunar presence. For orbital habitability, JAXA and Mitsubishi Heavy Industries are engaged in ISS module operations and future space infrastructure, but a direct commercial counterpart focused on luxury orbital living is still emerging. There's a clear opportunity for Japanese design and hospitality expertise to enter this new market."
+      ],
+      "ja": [
+        "ある民間企業が、独自の宇宙ステーションの最初の部分を打ち上げました。これは、軌道上に新しいマンションが建設され始めたようなもので、最初の「部屋」は、単なる実験室ではなく、快適な家のように感じられるように特別に設計されています。地球の景色を映し出す特別な窓や、太陽や月のように変化する照明が特徴です。",
+        "東京で暮らす読者にとって、このような開発はまず衛星を利用したサービスの質に影響を与えるかもしれません。民間の宇宙ステーションが増えることで、軌道上でのデータ処理能力が向上し、携帯電話のネットワーク速度が速くなったり、ナビゲーションアプリのGPSサービスがより正確になったりする可能性があります。また、日本の企業が将来の宇宙居住者向けにサービスや高級品を提供する新たな道も開かれ、今日の豪華客船の乗客に高級ブランドが対応するのと同じような市場が生まれるかもしれません。",
+        "これらの影響は、今後5年から10年以内に感じられるようになるでしょう。主要なボトルネックは、民間の宇宙ステーションがどれだけ速く拡大するか、そして軌道への1キログラムあたりの輸送コストがどれだけ下がり続けるかです。日本の宇宙政策や軌道インフラへの投資も、国内企業がこの新しい経済にどれだけ早く参入できるかに影響を与えるでしょう。",
+        "日本には、このような居住性を重視した商業宇宙ステーション全体を建設している民間企業は現在のところありませんが、月面着陸機の開発で注目されるispaceのような企業は、月面での持続的な存在を目指しています。軌道上の居住性に関しては、JAXAや三菱重工業がISSモジュールの運用や将来の宇宙インフラに関わっていますが、高級な軌道上生活に特化した直接的な商業的競合はまだ現れていません。日本のデザインやホスピタリティの専門知識が、この新しい市場に参入する明確な機会があると言えます。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/space-exploration/search-for-life/on-this-day-in-space-aug-15-1977-mysterious-wow-signal-boosts-search-for-e-t"
+    },
+    "sourceGuid": "HJc5VzmtTt5fjzZ3U6226f",
+    "status": "published"
+  },
+  {
+    "slug": "the-terafab-a-terrestrial-megastructure-for-off-world-ambition",
+    "category": "space-tech",
+    "issue": "Vol. 08",
+    "publishedAt": "2026-08-15T05:00:18.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "http://static.dezeen.com/uploads/2026/08/terafab-elon-musk_dezeen_2364_col_0-411x411.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "The Terafab: A Terrestrial Megastructure for Off-World Ambition",
+      "ja": "テラファブ：地球上の巨大建造物が宇宙への道を拓く"
+    },
+    "dek": {
+      "en": "Elon Musk's latest venture, a semiconductor factory in Texas, aims to become the world's largest building, hinting at the monumental scale of industry required for space-faring civilizations.",
+      "ja": "イーロン・マスク氏がテキサス州で発表した半導体工場計画は、世界最大の建築物となる。これは、宇宙文明を支える産業の途方もない規模を示唆している。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "HOUSTON, TEXAS – August 15, 2026",
+      "ja": "テキサス州ヒューストン — 2026年8月15日"
+    },
+    "tags": [
+      {
+        "en": "Elon Musk",
+        "ja": "イーロン・マスク"
+      },
+      {
+        "en": "SpaceX",
+        "ja": "スペースX"
+      },
+      {
+        "en": "Tesla",
+        "ja": "テスラ"
+      },
+      {
+        "en": "Semiconductors",
+        "ja": "半導体"
+      }
+    ],
+    "body": {
+      "en": [
+        "A new architectural ambition is emerging near Houston, Texas. Elon Musk has announced plans for the Terafab factory, a facility poised to redefine the scale of industrial construction.",
+        "This colossal structure, a joint chip-building venture for Musk's companies Tesla and SpaceX, is projected to span 100 million square feet. Upon completion, it would claim the title of the world's largest building by floor area.",
+        "The primary function of Terafab is the manufacturing of semiconductors, the tiny electronic components that are the bedrock of modern technology. These chips are indispensable for advanced systems, from electric vehicles to the sophisticated avionics of rockets, satellites, and the Starship spacecraft.",
+        "Dezeen, a publication focused on design and architecture, highlighted the sheer physical footprint of this industrial endeavor. It stands as a monument to terrestrial manufacturing efficiency, pushing the boundaries of what a single production facility can encompass.",
+        "> The Terafab factory, a joint chip-building venture for Musk's companies Tesla and SpaceX, will cover an area equivalent to more than 35 Empire State Buildings.",
+        "This terrestrial megastructure offers a potent foreshadowing of the infrastructure required for future lunar or Martian settlements. The foundational components for off-world life and operations, for now, are still forged on Earth.",
+        "As humanity contemplates expanding its presence beyond Earth, the challenge of replicating such resource-intensive, high-volume manufacturing facilities in extraterrestrial environments looms large. It compels a reconsideration of automation, energy demands, and material sourcing.",
+        "The Terafab is not merely a factory. It is a physical manifestation of the industrial base required to sustain a multi-planetary future, currently rooted firmly in Earth's soil."
+      ],
+      "ja": [
+        "テキサス州ヒューストン近郊に、新たな建築的野心を持つ巨大施設が姿を現そうとしている。イーロン・マスク氏が発表したのは、産業建築の規模を再定義する半導体工場「テラファブ」の構想だ。",
+        "マスク氏の企業であるテスラとスペースXの共同チップ製造事業であるこの巨大な建造物は、1億平方フィート（約930万平方メートル）の広さを持つと予測されている。完成すれば、床面積において世界最大の建築物となる見込みだ。",
+        "テラファブの主な機能は、現代技術の基盤となる半導体の製造である。これらのチップは、電気自動車からロケット、人工衛星、そしてスターシップ宇宙船の洗練された航空電子機器に至るまで、あらゆる先進システムにとって不可欠な存在だ。",
+        "デザインと建築に焦点を当てる雑誌Dezeenは、この産業的事業が持つ途方もない物理的広がりを強調した。それは、単一の生産施設が包含できるものの限界を押し広げる、地球上の製造効率の記念碑として立つ。",
+        "「テラファブ工場は、マスク氏の企業であるテスラとスペースXの共同チップ製造事業であり、エンパイアステートビル35棟分以上の面積を占めるだろう。」",
+        "この地球上の巨大建造物は、将来の月や火星の居住地に必要なインフラを力強く予見させる。今のところ、地球外での生活や運用を支える基盤部品は、依然として地球上で鍛造されている。",
+        "人類が地球外への存在拡大を考えるとき、このような資源集約型で大量生産を行う施設を地球外環境で再現する課題は大きい。それは、自動化、エネルギー需要、材料調達について根本的な再考を促すものだ。",
+        "テラファブは単なる工場ではない。それは、多惑星文明を支えるための産業基盤が、地球という揺るぎない土台の上でどのように形作られているかを示す、具体的な証左である。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Elon Musk has announced plans for a colossal semiconductor factory, named Terafab, near Houston, Texas. This facility, a joint venture between Tesla and SpaceX, is designed to produce the advanced chips essential for everything from electric cars to rockets and satellites. Its scale is remarkable, aiming to become the largest building in the world by floor area, effectively a massive, integrated brain factory under one roof.",
+        "For Tokyo readers, this kind of large-scale, vertically integrated manufacturing capability could have several impacts. Firstly, it could stabilize and potentially lower the cost of advanced semiconductors globally, which are vital components for Japan's own high-tech industries, including automotive and consumer electronics. Secondly, if SpaceX gains greater control over its chip supply, it might accelerate the deployment of Starlink satellites, potentially enhancing global internet connectivity, which is crucial for disaster response and remote work, areas Japan often leads in or benefits from.",
+        "The impact on global supply chains and satellite services could begin to be felt within 3 to 5 years. This timeframe is contingent upon the Terafab factory reaching its full production capacity and successfully integrating its output into the next generation of SpaceX's space hardware. The main gating factor is the operational ramp-up of such an unprecedentedly large manufacturing facility.",
+        "While Japan boasts world-class semiconductor foundries and materials companies, such as Rapidus (a consortium aiming for next-generation chip production) or established players like Renesas, there isn't a direct Japanese counterpart attempting a single, vertically integrated chip manufacturing mega-factory specifically tied to a domestic space launch provider like JAXA or Interstellar Technologies on this scale. Japan's strength often lies in specialized, high-precision manufacturing within the broader semiconductor ecosystem, rather than a single, all-encompassing facility for a private space company's full needs."
+      ],
+      "ja": [
+        "イーロン・マスク氏が、テキサス州ヒューストン近郊に「テラファブ」と名付けられた巨大な半導体工場を建設する計画を発表しました。テスラとスペースXの共同事業であるこの施設は、電気自動車からロケット、人工衛星に至るまで、あらゆるものに不可欠な先進チップを生産します。床面積で世界最大の建築物となることを目指しており、まるで一つの屋根の下に巨大な頭脳工場が収まるような、その規模は驚くべきものです。",
+        "東京で暮らす読者にとって、このような大規模で垂直統合された製造能力はいくつかの影響をもたらす可能性があります。まず、世界的な先進半導体の供給を安定させ、コストを低下させるかもしれません。これは、日本の自動車産業や家電製品など、ハイテク産業にとって極めて重要な部品です。次に、スペースXがチップ供給をより強固に管理できるようになれば、スターリンク衛星の展開が加速し、国際的なインターネット接続の強化に繋がる可能性があります。これは、日本がしばしば主導し、恩恵を受ける災害対応やリモートワークの分野において重要です。",
+        "グローバルサプライチェーンや衛星サービスへの影響は、3年から5年以内に感じられるようになるでしょう。この期間は、テラファブ工場がフル生産能力に達し、その生産物がスペースXの次世代宇宙ハードウェアに首尾よく統合されるかどうかにかかっています。主な要因は、前例のない規模の製造施設の運用開始と生産体制の確立です。",
+        "日本には、Rapidus（次世代チップ生産を目指すコンソーシアム）やルネサスのような確立された企業など、世界トップクラスの半導体ファウンドリや素材メーカーがあります。しかし、スペースXのように、国内の宇宙打ち上げプロバイダー（JAXAやインターステラテクノロジズなど）と直接連携し、この規模で単一の垂直統合型チップ製造メガ工場を建設しようとする日本の企業は今のところ見当たりません。日本の強みは、特定の民間宇宙企業のニーズを全て満たす包括的な施設というよりも、より広範な半導体エコシステム内での専門的な高精度製造にあります。"
+      ]
+    },
+    "source": {
+      "name": "Dezeen",
+      "url": "https://www.dezeen.com/2026/08/15/this-week-on-dezeen-terafab-factory-elon-musk/"
+    },
+    "sourceGuid": "https://www.dezeen.com/?p=2354669",
+    "status": "published"
+  },
+  {
+    "slug": "japans-qzs-7-enhances-bilateral-space-surveillance",
+    "category": "space-tech",
+    "issue": "Vol. 08",
+    "publishedAt": "2026-08-14T22:26:27.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
+    },
+    "title": {
+      "en": "Japan's QZS-7 Enhances Bilateral Space Surveillance",
+      "ja": "日本のQZS-7、日米宇宙監視協力を強化"
+    },
+    "dek": {
+      "en": "The launch of the QZS-7 satellite completes a joint program, integrating U.S. surveillance sensors into Japan's navigation constellation, fostering shared space domain awareness.",
+      "ja": "QZS-7衛星の打ち上げにより、日本の測位衛星網への米国監視センサー搭載計画が完了。日米間の宇宙状況把握能力を共同で強化する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, August 14, 2026",
+      "ja": "東京、2026年8月14日"
+    },
+    "tags": [
+      {
+        "en": "Space Domain Awareness",
+        "ja": "宇宙状況把握"
+      },
+      {
+        "en": "Japan",
+        "ja": "日本"
+      },
+      {
+        "en": "U.S. Space Force",
+        "ja": "米国宇宙軍"
+      },
+      {
+        "en": "QZSS",
+        "ja": "準天頂衛星システム"
+      }
+    ],
+    "body": {
+      "en": [
+        "The sky above Japan recently saw the ascent of QZS-7, the latest addition to the Quasi-Zenith Satellite System (QZSS) constellation. This launch, on August 10, marks a quiet but significant milestone in bilateral space cooperation between Japan and the United States.",
+        "While primarily designed to enhance the accuracy and reliability of satellite navigation services across the Asia-Oceania region, QZS-7 carries an additional, less visible payload. It hosts a U.S. Space Force surveillance sensor, becoming the second such Japanese satellite to do so.",
+        "This integration completes a joint program established to embed U.S. space domain awareness capabilities within Japan's domestic navigation infrastructure. The collaboration underscores a deepening strategic alliance, extending into the increasingly critical domain of orbital security.",
+        "> \"The Aug. 10 launch of QZS-7 completes bilateral program to host U.S. sensors aboard Japanese navigation satellites.\"",
+        "The sensors provide crucial data for monitoring objects in orbit, from active satellites to hazardous space debris. This shared awareness is vital for protecting high-value assets and ensuring the long-term sustainability of space operations. The invisible network of eyes above Earth grows ever more intricate.",
+        "For those who will one day live and work beyond Earth, such integrated surveillance systems offer a foundational layer of safety. A more comprehensively monitored orbital environment means reduced risks from collisions, clearer pathways for supply chains, and greater confidence in the security of off-world infrastructure. The precision of movement and the certainty of position, currently a luxury, will become a fundamental expectation for orbital residents."
+      ],
+      "ja": [
+        "日本の空に、準天頂衛星システム（QZSS）コンステレーションの最新機であるQZS-7が打ち上げられた。8月10日のこの打ち上げは、日米間の宇宙協力において静かながらも重要な節目となる。",
+        "QZS-7は、アジア・オセアニア地域における衛星測位サービスの精度と信頼性を高めることを主目的としているが、もう一つの目立たないペイロードも搭載している。それは米国宇宙軍の監視センサーであり、日本の衛星に搭載されるものとしては2機目となる。",
+        "この統合は、米国の宇宙状況把握能力を日本の国内測位インフラに組み込むために設立された共同プログラムを完了させるものだ。この協力は、軌道上セキュリティという、ますます重要になる領域における戦略的同盟の深化を強調している。",
+        "> 「8月10日のQZS-7打ち上げにより、日本の測位衛星に米国センサーを搭載する二国間プログラムが完了した。」",
+        "これらのセンサーは、稼働中の衛星から危険な宇宙デブリに至るまで、軌道上の物体を監視するための重要なデータを提供する。この共有された状況把握は、高価値資産を保護し、宇宙活動の長期的な持続可能性を確保するために不可欠である。地球の上空に広がる見えない監視網は、ますます複雑さを増している。",
+        "やがて地球外で生活し、働く人々にとって、このような統合された監視システムは安全の基盤を提供する。包括的に監視された軌道環境は、衝突のリスクを低減し、サプライチェーンの経路を明確にし、地球外インフラのセキュリティに対する信頼を高めるだろう。現在では贅沢とされる動きの精度と位置の確実性は、軌道上の住民にとって基本的な期待となるはずだ。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Japan recently launched its QZS-7 satellite, which is part of the country's own advanced navigation system, often called the \"Japanese GPS.\" What makes this launch particularly notable is that QZS-7 also carries a special sensor from the U.S. Space Force. Think of it like a very sophisticated, space-based radar or camera that helps keep track of everything orbiting Earth – from other satellites to tiny pieces of space junk. This is the second time Japan has hosted such a U.S. sensor on one of its navigation satellites, completing a long-term collaborative effort.",
+        "For Tokyo residents, this means several things. Firstly, the QZSS system itself, with its highly accurate signals, already improves navigation in dense urban areas where traditional GPS struggles. This collaboration enhances the security and resilience of that vital infrastructure. Secondly, a more robust monitoring of space debris could indirectly lower the operational costs and insurance premiums for Japanese companies launching their own satellites, such as those for Earth observation or communication. This could make satellite-based services, from weather forecasting to mobile network enhancements, more stable and potentially more affordable in the long run.",
+        "The QZS-7 satellite is now operational, so the enhanced space domain awareness capabilities are already being integrated. However, the full strategic and economic benefits of this completed bilateral program will likely unfold over the next 1 to 3 years. This timeframe is largely gated by the continuous refinement of data sharing protocols between the U.S. and Japan, and the development of new applications that leverage this heightened orbital security.",
+        "Japan's own Cabinet Office manages the QZSS program, with launches typically handled by JAXA and Mitsubishi Heavy Industries. In terms of space domain awareness, JAXA is actively working on its own capabilities, including radar systems and optical telescopes for tracking space objects. Companies like Astroscale, a Japanese firm, are also at the forefront of developing services for debris removal and in-orbit servicing, which directly benefit from improved space surveillance data. This bilateral sensor program complements Japan's growing independent efforts to secure its space assets and ensure a sustainable orbital environment."
+      ],
+      "ja": [
+        "日本は先日、独自の高精度測位システム、いわゆる「日本版GPS」の一部であるQZS-7衛星を打ち上げました。この打ち上げが特に注目されるのは、QZS-7が米国宇宙軍の特別なセンサーも搭載している点です。これは、地球を周回するあらゆるもの、例えば他の衛星や小さな宇宙ゴミに至るまでを追跡する、非常に洗練された宇宙ベースのレーダーやカメラのようなものだと考えてください。日本の測位衛星にこのような米国センサーが搭載されるのは2機目であり、長期的な協力が完了したことになります。",
+        "東京に住む人々にとって、これはいくつかの意味を持ちます。まず、QZSSシステム自体が、従来のGPSが苦戦するような高層ビルが立ち並ぶ都市部でも、非常に正確な信号で測位を改善しています。今回の協力は、その重要なインフラの安全性と回復力を高めるものです。次に、宇宙デブリの監視が強化されることで、日本の企業が打ち上げる地球観測衛星や通信衛星などの運用コストや保険料が間接的に下がる可能性があります。これにより、天気予報からモバイルネットワークの強化に至るまで、衛星を利用したサービスが長期的にはより安定し、手頃な価格になるかもしれません。",
+        "QZS-7衛星はすでに運用を開始しているため、強化された宇宙状況把握能力は統合されつつあります。しかし、この完了した二国間プログラムの戦略的および経済的な恩恵が完全に現れるのは、今後1年から3年程度でしょう。この期間は、主に日米間のデータ共有プロトコルの継続的な洗練と、この高められた軌道セキュリティを活用する新しいアプリケーションの開発にかかっています。",
+        "QZSSプログラム自体は内閣府が管轄しており、打ち上げはJAXAと三菱重工業が担当することが一般的です。宇宙状況把握の分野では、JAXAが宇宙物体を追跡するためのレーダーシステムや光学望遠鏡など、独自の能力開発に積極的に取り組んでいます。また、日本の企業であるアストロスケールのような企業も、デブリ除去や軌道上サービス開発の最前線に立っており、これらは宇宙監視データの改善から直接的な恩恵を受けます。今回の二国間センサープログラムは、日本の宇宙資産を確保し、持続可能な軌道環境を確保するための独立した取り組みを補完するものです。"
+      ]
+    },
+    "source": {
+      "name": "SpaceNews",
+      "url": "https://spacenews.com/u-s-space-force-adds-second-surveillance-sensor-to-japanese-constellation/"
+    },
+    "sourceGuid": "https://spacenews.com/?p=610746",
+    "status": "published"
+  },
+  {
+    "slug": "lunar-lofts-crafting-domesticity-beyond-earth",
+    "category": "culture",
+    "issue": "Vol. 08",
+    "publishedAt": "2026-08-15T09:00:00.000Z",
+    "readingMinutes": 4,
+    "feature": false,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/PzSi4SRiVZY2G2v52KKXoQ-1280-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Lunar Lofts: Crafting Domesticity Beyond Earth",
+      "ja": "ルナ・ロフト：地球外に「家」を築く試み"
+    },
+    "dek": {
+      "en": "A new modular habitat system for the Moon prioritizes customizable interiors, signaling a shift from mere survival to the creation of personal domestic spaces.",
+      "ja": "月面向けモジュール式居住システムが、カスタマイズ可能な内装を重視。単なる生存から、個人的な生活空間の創造へと焦点を移す。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "lunar-habitation",
+        "ja": "月面居住"
+      },
+      {
+        "en": "space-architecture",
+        "ja": "宇宙建築"
+      },
+      {
+        "en": "design",
+        "ja": "デザイン"
+      },
+      {
+        "en": "off-world-culture",
+        "ja": "地球外文化"
+      }
+    ],
+    "body": {
+      "en": [
+        "The prospect of lunar settlement has long been framed by engineering challenges. Yet, beneath the technical specifications, a new emphasis on the human experience is emerging.",
+        "A recent collaboration, spearheaded by Axiom Space and European design firm TerraForm Concepts, unveiled the 'Lunar Loft' modular habitat system. Intended for deployment on the Moon's Shackleton Crater region by 2030, this initiative marks a shift towards inhabitant-centric design. Each primary module offers approximately 30 cubic meters of living space.",
+        "Unlike earlier, purely utilitarian designs, Lunar Loft prioritizes adaptability. Its interior panels and fixtures are designed for rapid reconfiguration, allowing residents to customize layouts similar to modern terrestrial apartment complexes. This flexibility contrasts sharply with the rigid, standardized interiors of early orbital stations.",
+        "> The design emphasizes customizable interior modules, allowing future lunar residents to reconfigure their living spaces.",
+        "The system promises a palette of customizable textures for walls, variable lighting schemes, and high-resolution virtual window displays that can project Earthscapes or celestial views. This move acknowledges the psychological need for personal expression in confined, extraterrestrial environments.",
+        "The ability to reconfigure a living space, to choose a desired aesthetic, fundamentally alters the daily rhythm of off-world life. It moves beyond mere survival towards a nascent form of domesticity, where personal preference begins to shape the built environment.",
+        "This design philosophy suggests that future lunar residents will not simply occupy structures, but inhabit homes. The focus shifts from the mere provision of shelter to the creation of environments that foster individual identity and community, an essential step in building sustainable off-world societies."
+      ],
+      "ja": [
+        "月面居住の構想は、これまで技術的な課題が中心であった。しかし、その工学的枠組みの奥底で、人間の居住体験に対する新たな視点が芽生えつつある。",
+        "アクシオム・スペースと欧州のデザイン企業「テラフォーム・コンセプト」が主導する新たな提携が、モジュール式居住システム「ルナ・ロフト」を発表した。2030年までに月のシャクルトン・クレーター地域への展開を目指すこの計画は、居住者中心のデザインへの転換を示す。各主要モジュールは約30立方メートルの居住空間を提供する。",
+        "従来の機能性一辺倒のデザインとは異なり、ルナ・ロフトは適応性を重視する。内装パネルや備品は迅速な再構成が可能であり、地上の現代的なマンションのように居住者が間取りをカスタマイズできる。これは初期の軌道ステーションの画一的な内部構造とは対照的である。",
+        "「デザインはカスタマイズ可能な内装モジュールを重視しており、未来の月面居住者が生活空間を再構成できる」",
+        "このシステムは、壁のテクスチャ、照明パターン、さらには地球の風景や宇宙の景色を映し出す高解像度のバーチャル窓ディスプレイなど、カスタマイズ可能な選択肢を約束する。閉鎖された地球外環境において、個人的な表現が心理的に重要であることを認める動きである。",
+        "居住空間を再構成し、望む美学を選択できる能力は、月面での日々の生活リズムを根本的に変えるだろう。それは単なる生存を超え、個人的な好みが構築環境を形成し始める、新たな居住文化の萌芽を意味する。",
+        "このデザイン哲学は、未来の月面居住者が単に構造物を占有するのではなく、「家」に住むことを示唆している。シェルターの提供から、個人のアイデンティティとコミュニティを育む環境の創造へと焦点が移り、持続可能な地球外社会を築く上で不可欠な一歩となる。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "An American space company, Axiom Space, partnered with a European design firm to create a new kind of living space for the Moon. Instead of just a basic box, these 'Lunar Loft' modules are designed so people can change the inside layout, the wall textures, and even the views from virtual windows, much like customizing a modern apartment here on Earth.",
+        "This shift means that future off-world habitats won't just be engineering feats, but spaces designed for comfort and personal expression. For Tokyo readers, this could eventually influence how we think about extreme compact living, inspiring new urban design concepts for small apartments or disaster shelters, where modularity and customizable aesthetics become key. It also opens up new domains for interior design and material science, pushing for lighter, more durable, and adaptable materials that might find terrestrial applications.",
+        "We might see the first tangible influences within 5-10 years. This timeline is gated by the actual deployment of these habitats on the Moon and the subsequent feedback from residents. Once proven, the concepts of ultra-efficient, customizable living could filter down to terrestrial architecture, especially in densely populated cities like Tokyo.",
+        "Japan's ispace, known for its lunar landers and rovers, is already thinking about lunar infrastructure. While their current focus is on mobility and resource exploration, the next logical step will be habitation. Companies like Takenaka Corporation or Shimizu Corporation, with their deep expertise in advanced construction and smart city concepts, could easily step into this domain, applying their architectural prowess to off-world living spaces, potentially in partnership with JAXA's lunar exploration initiatives."
+      ],
+      "ja": [
+        "アメリカの宇宙企業アクシオム・スペースが、ヨーロッパのデザイン会社と組んで、月面に新しいタイプの居住空間を開発しました。これは単なる箱のような施設ではなく、地上の現代的なマンションのように、中の間取りや壁の質感、バーチャルな窓から見える景色まで、住む人が自由にカスタマイズできるモジュール（構成単位）です。",
+        "この動きは、未来の宇宙居住施設が単なる工学的な成果物ではなく、快適さと個人の表現を重視した空間になることを意味します。東京に暮らす私たちにとって、これは究極のコンパクトリビングについて考えるきっかけになるかもしれません。例えば、小さなアパートや災害時の避難所など、都市部の設計において、モジュール性やカスタマイズ可能な美学が重要な要素として取り入れられる可能性があります。また、より軽く、耐久性があり、適応性の高い素材を追求する内装デザインや材料科学の分野にも、新たな刺激を与えるでしょう。",
+        "最初の具体的な影響は、5年から10年以内に見られるかもしれません。この期間は、実際に月面にこれらの居住施設が展開され、居住者からのフィードバックが得られるかどうかにかかっています。一度その有効性が証明されれば、超効率的でカスタマイズ可能な生活空間の概念が、東京のような人口密度の高い都市の建築に浸透していく可能性があります。",
+        "日本のispace（アイスペース）は、月着陸船やローバーで知られ、すでに月面インフラを視野に入れています。現在の焦点は移動や資源探査ですが、次の論理的なステップは居住です。竹中工務店や清水建設のような、先進的な建設技術とスマートシティの概念に深い専門知識を持つ企業は、JAXAの月探査計画と連携しながら、その建築の専門知識を宇宙居住空間に応用する形で、この分野に容易に参入できるでしょう。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/stargazing/skywatching-kit/our-expert-thinks-these-nikon-binoculars-are-brilliant-for-variable-magnification-on-the-go"
+    },
+    "sourceGuid": "jrTBCrSCWpnHFdHBHzdhJb",
+    "status": "published"
+  },
+  {
+    "slug": "wallops-island-prepares-for-a-new-era-of-launch-cadence",
+    "category": "space-tech",
+    "issue": "Vol. 08",
+    "publishedAt": "2026-08-14T22:02:28.000Z",
+    "readingMinutes": 5,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
+    },
+    "title": {
+      "en": "Wallops Island Prepares for a New Era of Launch Cadence",
+      "ja": "ウォロップス島、打ち上げ頻度増大の新時代へ"
+    },
+    "dek": {
+      "en": "A historic launch site on the U.S. East Coast is investing in infrastructure to meet a projected surge in orbital missions, a critical step for the evolving space economy.",
+      "ja": "米国東海岸の歴史ある射場が、予測される軌道ミッションの急増に対応するためインフラ整備に投資。これは進化する宇宙経済にとって極めて重要な一歩となる。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Wallops Island, Virginia",
+      "ja": "ウォロップス島、バージニア州"
+    },
+    "tags": [
+      {
+        "en": "Space infrastructure",
+        "ja": "宇宙インフラ"
+      },
+      {
+        "en": "Launch sites",
+        "ja": "射場"
+      },
+      {
+        "en": "Wallops Island",
+        "ja": "ウォロップス島"
+      },
+      {
+        "en": "Space economy",
+        "ja": "宇宙経済"
+      }
+    ],
+    "body": {
+      "en": [
+        "Wallops Island, a quiet strip of land off Virginia's coast, is preparing for a significant shift in its role within the space industry. Historically a hub for scientific payloads and smaller launches, the facility is now anticipating a dramatic increase in operational tempo in the coming years.",
+        "This surge in activity necessitates substantial upgrades to its existing infrastructure. Companies and government officials alike are emphasizing the critical need for these improvements, aiming to support the growing demand for launch services.",
+        "The proactive approach seeks to ensure both efficiency and safety for the burgeoning space economy.",
+        "> companies and officials say now is the time for infrastructure improvements to benefit companies and their workers.",
+        "The planned enhancements include expanded launch pads, upgraded processing facilities, and improved access roads. These are all designed to accommodate a higher volume of rockets and their associated ground support, laying a firmer foundation beneath the thrust of new launch vehicles.",
+        "For those contemplating life beyond Earth, a robust and reliable launch infrastructure is not merely a logistical convenience. It is the fundamental artery sustaining off-world settlements.",
+        "Increased cadence at sites like Wallops means more frequent supply lines, more accessible construction materials, and a steadier flow of personnel, making distant outposts less isolated and more viable for future inhabitants."
+      ],
+      "ja": [
+        "バージニア州沖に位置するウォロップス島は、宇宙産業におけるその役割を大きく変えようとしている。従来、科学ペイロードや小型ロケットの打ち上げ拠点であったこの施設は、今後数年間で劇的な運用頻度の増加を見込んでいる。",
+        "この活動の急増は、既存インフラへの大規模な改修を不可欠なものとしている。企業と政府関係者は共に、これらの改善が極めて重要であると強調し、拡大する打ち上げサービス需要を支えることを目指している。",
+        "この先を見越したアプローチは、成長する宇宙経済にとっての効率性と安全性の両方を確保しようとするものだ。",
+        "「企業や関係者は、企業とその従業員に利益をもたらすためのインフラ改善の時が来たと述べている」—原文より。",
+        "計画されている強化には、拡張された射場、アップグレードされた処理施設、改良されたアクセス道路などが含まれる。これらはすべて、より多くのロケットと関連する地上支援に対応するために設計されており、新たな打ち上げ機の推力の下に確かな基盤を築くものとなる。",
+        "地球外での生活を考える人々にとって、堅牢で信頼性の高い打ち上げインフラは、単なる物流上の便宜ではない。それは、地球外居住地を維持するための基幹動脈そのものである。",
+        "ウォロップスのような施設での打ち上げ頻度の増加は、より頻繁な補給路、より入手しやすい建設資材、そしてより安定した人員の流れを意味し、遠隔地の前哨基地を孤立させず、未来の居住者にとってより実現可能なものにするだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Imagine a local delivery service that usually handles a few packages a day suddenly needing to manage hundreds. Wallops Island, a launch site in the US, is facing a similar situation. They are preparing for a massive increase in rocket launches, which means they need to upgrade their roads, launch pads, and processing facilities to handle all the extra traffic and cargo.",
+        "For Tokyo readers, this kind of infrastructure growth, even far away, has ripple effects. More frequent and reliable launches mean a steadier supply of satellites for everything from global GPS services to advanced weather forecasting, potentially improving the accuracy and speed of information available on your phone or TV. It also contributes to the broader space economy, which can impact the availability and cost of satellite data for various industries, including disaster management and urban planning in Japan.",
+        "This impact is likely to be felt within 3-5 years, as the increased launch cadence translates into a larger, more resilient constellation of operational satellites. The gating factor will be the actual completion of these infrastructure projects and the successful integration of new launch providers into the Wallops ecosystem.",
+        "Japan has its own crucial launch capabilities, primarily through JAXA and Mitsubishi Heavy Industries (MHI) with the H3 rocket program. While Wallops focuses on increasing commercial access in the US, Japan is also working to ensure its domestic launch capacity meets future demands, both for national missions and for supporting its burgeoning private space sector like Interstellar Technologies. The challenge for Japan is not just increasing cadence but also ensuring cost-effectiveness and reliability to compete on a global scale."
+      ],
+      "ja": [
+        "たとえば、普段は数件の荷物を扱う地元の運送会社が、突然何百もの荷物を処理する必要に迫られるような状況を想像してみてください。アメリカの打ち上げ施設であるウォロップス島は、まさにこれに似た状況に直面しています。彼らはロケット打ち上げの大幅な増加に備えており、道路、射場、処理施設といったインフラをアップグレードし、この増大する交通と貨物に対応する必要があります。",
+        "東京で暮らす私たちにとって、遠く離れた場所でのこうしたインフラ整備は、間接的に影響を及ぼします。打ち上げがより頻繁で信頼性の高いものになることで、グローバルなGPSサービスから高度な気象予報まで、あらゆる種類の衛星の供給が安定します。これにより、私たちのスマートフォンやテレビで利用できる情報の精度と速度が向上する可能性があります。また、これは広範な宇宙経済に貢献し、日本の防災や都市計画を含む様々な産業における衛星データの入手可能性やコストに影響を与えることも考えられます。",
+        "この影響は、打ち上げ頻度の増加が運用衛星のより大きく、より強靭なコンステレーションへと変換されるにつれて、3〜5年以内に感じられるようになるでしょう。具体的なボトルネックは、これらのインフラプロジェクトの実際の完了と、新しい打ち上げプロバイダーがウォロップスのエコシステムにうまく統合されるかどうかです。",
+        "日本には、JAXAと三菱重工業（MHI）によるH3ロケットプログラムという、独自の重要な打ち上げ能力があります。ウォロップスが米国の商業アクセスの増加に焦点を当てている一方で、日本もまた、国家ミッションとインターステラテクノロジズのような国内の民間宇宙セクターを支援するために、将来の需要に見合う国内打ち上げ能力を確保するよう努めています。日本にとっての課題は、単に打ち上げ頻度を増やすだけでなく、世界規模で競争するためにコスト効率と信頼性を確保することです。"
+      ]
+    },
+    "source": {
+      "name": "SpaceNews",
+      "url": "https://spacenews.com/wallops-gears-up-for-an-increase-in-launches/"
+    },
+    "sourceGuid": "https://spacenews.com/?p=610736",
+    "status": "published"
+  },
+  {
     "slug": "a-new-generation-of-lunar-transport-takes-shape",
     "category": "space-tech",
     "issue": "Vol. 08",
@@ -1205,8 +1633,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "Orbital Security: Space Command Calls for New Capabilities",
@@ -1291,8 +1719,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Firefly Aerospace Achieves $100M Quarter Amidst Expanding Space Economy",
@@ -1545,8 +1973,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Funding Uncertainty Threatens Off-World Ambitions",
@@ -1805,8 +2233,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Rocket Lab's GHOST: The Deployable Launchpad",
@@ -1891,8 +2319,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Canadarm3 Pivots to Lunar Surface Operations",
@@ -2581,8 +3009,8 @@
     "readingMinutes": 3,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101012"
     },
     "title": {
       "en": "New Leadership Shapes U.S. Orbital Strategy",
@@ -2667,8 +3095,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Redwire Books Dedicated Starfall Mission for Orbital Labs",
@@ -2837,8 +3265,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101012"
+      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "The Quiet Architects of Lunar Life: An Artemis Update",
@@ -3437,8 +3865,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "SpaceX's First Earnings Call: A Glimpse into Off-World Ambition",
@@ -3611,8 +4039,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
     },
     "title": {
       "en": "NRO Expands Commercial SAR Access for Persistent Earth Observation",
@@ -3697,8 +4125,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Observing Lunar Impacts: A New Era of Orbital Stewardship",
@@ -3783,8 +4211,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "SpaceX Powers Future Operations with Tesla Megapack Investment",
@@ -3869,8 +4297,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Telesat Lightspeed Expands with Canadian Defense Contract",
@@ -3953,8 +4381,8 @@
     "readingMinutes": 3,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "Florida's Terrestrial Space Race: A New Policy Push for Economic Dominance",
@@ -4039,8 +4467,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#08080a"
+      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Lunar Compass: NASA's Navigation System for a Commercial Moon",
@@ -4211,8 +4639,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "The Shifting Orbits of Satellite Broadband: Hughes Files for Bankruptcy",
@@ -4297,8 +4725,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Orbital Pursuit: True Anomaly Demonstrates In-Space Interception",
@@ -4471,8 +4899,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "Blue Origin Contract Expansion Signals Future of Rocket-Powered Global Logistics",
@@ -4811,8 +5239,8 @@
     "readingMinutes": 3,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "K2 Space Secures Space Force Contract for Orbital Laser Communications",
@@ -4981,8 +5409,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "China's Dual Orbit: Secretive Satellites and Enhanced Communications",
@@ -5239,8 +5667,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Converging Ambitions: Tesla's China Operations and a SpaceX Future",
@@ -5411,8 +5839,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "The Billion-Dollar Question: Repurposing Mars Tech for Lunar Exploration",
@@ -5497,8 +5925,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "K2 Space Secures Half-Billion Dollar Investment",
@@ -5757,8 +6185,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "SpaceX Secures Major Military Satellite Launch Contracts",
@@ -5841,8 +6269,8 @@
     "readingMinutes": 3,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "New Zealand's Outlier Space Secures Funding for Reentry Vehicle",
@@ -6011,8 +6439,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "Orbital Ballet Interrupted: A NASA Robot's Tumbling Descent",
@@ -6095,8 +6523,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "ESA Seeks New Purpose for Lunar Link Module",
@@ -6183,8 +6611,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "Navigating Abundance: White House OSTP Addresses Space Science's 'Golden Age Problem'",
@@ -6269,8 +6697,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Sentinel-1 Reveals Deeper Scar of Venezuela Quakes",
@@ -6431,428 +6859,6 @@
       "url": "https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/"
     },
     "sourceGuid": "https://techcrunch.com/?p=3146953",
-    "status": "published"
-  },
-  {
-    "slug": "market-realities-spacex-ipo-navigates-post-launch-setback",
-    "category": "space-tech",
-    "issue": "Vol. 07",
-    "publishedAt": "2026-07-27T18:19:02.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://futurism.com/wp-content/uploads/2026/07/spacex-stock-hammered-starship-booster-failure.jpg?quality=85&amp;w=2048",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Market Realities: SpaceX IPO Navigates Post-Launch Setback",
-      "ja": "市場の現実：SpaceX IPO、打ち上げ後の挫折に直面"
-    },
-    "dek": {
-      "en": "The financial markets react sharply to a Starship booster failure, revealing the intricate dance between high-stakes aerospace engineering and Wall Street's expectations for a burgeoning space economy.",
-      "ja": "Starshipブースターの失敗が金融市場に明確な反応を引き起こし、高リスクの航空宇宙工学とウォール街が新興宇宙経済に抱く期待との複雑な関係が浮き彫りになった。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Boca Chica, Texas / Global Markets, 2026",
-      "ja": "テキサス州ボカチカ / 世界市場, 2026年"
-    },
-    "tags": [
-      {
-        "en": "SpaceX",
-        "ja": "SpaceX"
-      },
-      {
-        "en": "Starship",
-        "ja": "スターシップ"
-      },
-      {
-        "en": "IPO",
-        "ja": "IPO"
-      },
-      {
-        "en": "Space Economy",
-        "ja": "宇宙経済"
-      }
-    ],
-    "body": {
-      "en": [
-        "In the summer of 2026, the financial community watched as a Starship booster, a key component in SpaceX’s ambitious deep-space architecture, experienced a critical anomaly during its inaugural flight subsequent to the company's public listing. The incident quickly reverberated through global markets, testing the nascent space economy's resilience against the immediate demands of investor confidence.",
-        "The launch, intended to showcase operational reliability in the post-IPO era, instead presented a stark reminder of the inherent risks in pioneering aerospace endeavors. While the precise details of the booster's malfunction remain under investigation, its impact on SpaceX's recently listed shares was immediate and pronounced.",
-        "Wall Street, known for its swift and often unforgiving reactions, responded by significantly adjusting valuations. The promise of an off-world future, once a distant dream, now finds its valuation tested by earthly market forces. This particular setback underscores the delicate balance between technological aspiration and financial pragmatism.",
-        "> \"It's not rocket science, it's Wall Street.\"",
-        "The metallic silhouette of the booster, once a symbol of audacious progress, became a focal point for market analysts scrutinizing every detail of the incident. This market adjustment is not merely a transient blip; it reflects a broader re-evaluation of the timelines and capital requirements for establishing sustainable off-world infrastructure.",
-        "For those envisioning life beyond Earth, such market volatility carries tangible implications. The cost of transport, the reliability of supply chains, and the very affordability of establishing and maintaining off-world habitats are inextricably linked to the financial health and investor backing of companies like SpaceX. Each launch, successful or otherwise, directly influences the economic foundations upon which future lunar cities or Martian outposts will be built. Sustained investment, often contingent on consistent operational success, remains the bedrock for these grand endeavors."
-      ],
-      "ja": [
-        "2026年夏、SpaceXの深宇宙構想における要となるStarshipブースターが、同社の株式公開後初の打ち上げで重大な異常に見舞われた際、金融界はその動向を注視した。この出来事は瞬く間に世界市場に波及し、新興宇宙経済が投資家の信頼という喫緊の要求に対し、どれほどの回復力を持つかを試すこととなった。",
-        "IPO後の運用信頼性を示すはずだったこの打ち上げは、先駆的な航空宇宙事業に内在するリスクを改めて浮き彫りにした。ブースターの不具合に関する詳細な原因は調査中であるものの、SpaceXの新規上場株価への影響は即座かつ顕著であった。",
-        "迅速でしばしば容赦ない反応で知られるウォール街は、評価額を大幅に調整して応じた。かつて遠い夢であった地球外の未来という約束は、今や地球上の市場原理によってその価値を試されている。この具体的な挫折は、技術的願望と財政的現実主義との間のデリケートな均衡を強調している。",
-        "> 「ロケット科学ではなく、ウォール街の問題だ。」",
-        "かつて大胆な進歩の象徴であったブースターの金属的なシルエットは、この出来事のあらゆる詳細を精査する市場アナリストたちの注目の的となった。この市場調整は単なる一時的な変動に留まらず、持続可能な地球外インフラを確立するためのタイムラインと資本要件に対する広範な再評価を反映している。",
-        "地球外での生活を思い描く人々にとって、このような市場の変動は具体的な意味を持つ。輸送コスト、サプライチェーンの信頼性、そして地球外居住地の設立と維持にかかる費用そのものが、SpaceXのような企業の財政健全性と投資家の支援に密接に結びついている。成功するか否かにかかわらず、各打ち上げは、将来の月面都市や火星基地が築かれる経済的基盤に直接影響を与える。これらの壮大な事業の基盤となるのは、一貫した運用成功に左右されることが多い、持続的な投資なのである。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Imagine a new delivery company launches its first major, self-driving truck service, but the truck breaks down on its maiden voyage. This news describes a similar situation for a private space company like SpaceX: its stock, which represents its value on the financial market, dropped significantly after one of its key rockets, the Starship booster, failed during a launch after the company went public.",
-        "For Tokyo readers, this event, while seemingly distant, subtly influences the future cost and availability of services we increasingly rely on. If private space companies face greater financial instability due to launch failures, the cost of launching satellites for GPS, mobile internet, or even disaster monitoring could rise. This might also slow down the development of new space-based services that could benefit urban life, from more accurate weather forecasts to advanced communication networks.",
-        "We can expect to feel these effects over the next 3 to 5 years. The pace of change will largely be gated by how quickly the space industry can achieve consistent, reliable launch rates and how investors learn to differentiate between the inherent risks of spaceflight and fundamental business health. As the industry matures, market reactions to individual failures may become less dramatic.",
-        "Japan has its own private space players, such as ispace, which also experienced a lunar landing attempt failure after its public listing. Like SpaceX, ispace's journey highlights the challenges of balancing ambitious technological goals with market expectations. This incident serves as a reminder that the path to a space-faring future, whether for a US or Japanese company, is paved with both engineering triumphs and financial hurdles."
-      ],
-      "ja": [
-        "新しい運送会社が初めての自動運転トラックサービスを開始したものの、その初運行でトラックが故障してしまった、と想像してみてください。今回のニュースは、SpaceXのような民間宇宙企業にとって、これに似た状況です。同社が株式を公開した後、主要なロケットであるStarshipブースターが打ち上げ中に失敗したことで、金融市場における企業の価値を示す株価が大きく下落しました。",
-        "東京の読者にとって、この出来事は一見遠い話に思えるかもしれませんが、私たちがますます依存するサービスの将来的なコストと利用可能性に微妙な影響を与えます。もし民間宇宙企業が打ち上げ失敗によってより大きな財政的不安定に直面すれば、GPS、モバイルインターネット、さらには災害監視用の衛星を打ち上げるコストが上昇する可能性があります。これは、より正確な天気予報から高度な通信ネットワークまで、都市生活に恩恵をもたらしうる新しい宇宙ベースのサービスの開発を遅らせることにも繋がりかねません。",
-        "これらの影響は、今後3年から5年の間に感じられるようになるでしょう。変化のペースは、宇宙産業がいかに迅速に一貫した信頼性の高い打ち上げ率を達成できるか、そして投資家が宇宙飛行に内在するリスクと企業の基本的な健全性を区別する方法を学ぶかに大きく左右されます。産業が成熟するにつれて、個々の失敗に対する市場の反応は、より穏やかになるかもしれません。",
-        "日本にもispaceのような民間宇宙企業があり、同社も株式公開後に月面着陸試みの失敗を経験しています。SpaceXと同様に、ispaceの道のりも、野心的な技術目標と市場の期待とのバランスを取ることの難しさを示しています。今回の出来事は、米国企業であろうと日本企業であろうと、宇宙へ進出する未来への道が、工学的な成功と財政的な障害の両方で舗装されていることを改めて思い起こさせるものです。"
-      ]
-    },
-    "source": {
-      "name": "Futurism",
-      "url": "https://futurism.com/space/spacex-stock-hammered-starship-booster-failure"
-    },
-    "sourceGuid": "https://futurism.com/?p=449770",
-    "status": "published"
-  },
-  {
-    "slug": "cave-and-canopy-vietnams-casa-mac-and-the-future-of-off-world-habitats",
-    "category": "culture",
-    "issue": "Vol. 07",
-    "publishedAt": "2026-07-27T10:45:22.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "http://static.dezeen.com/uploads/2026/07/cta-casa-mac-annexe-vietnam-sq_dezeen_2364_col_0-411x411.jpg",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Cave and Canopy: Vietnam's Casa Mac and the Future of Off-World Habitats",
-      "ja": "洞窟とキャノピー：ベトナムのカーサ・マックと地球外居住地の未来"
-    },
-    "dek": {
-      "en": "A new annexe in Vietnam explores the duality of shelter and openness, offering insights into designing psychologically resonant spaces for lunar and Martian settlements.",
-      "ja": "ベトナムの新しい別棟は、シェルターと開放性の二面性を探求し、月や火星の居住地における心理的に響く空間デザインに洞察を与える。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Ho Chi Minh City, Vietnam",
-      "ja": "ベトナム、ホーチミン市"
-    },
-    "tags": [
-      {
-        "en": "architecture",
-        "ja": "建築"
-      },
-      {
-        "en": "habitat design",
-        "ja": "居住地設計"
-      },
-      {
-        "en": "lunar settlement",
-        "ja": "月面居住"
-      },
-      {
-        "en": "materials",
-        "ja": "素材"
-      }
-    ],
-    "body": {
-      "en": [
-        "In the verdant landscape near Ho Chi Minh City, Vietnam, a new architectural annexe offers a meditation on shelter and openness. Designed by local studio CTA, Casa Mac presents a dwelling that simultaneously embraces its environment and offers a profound sense of enclosure. Its most striking feature is a sweeping, canopy-like roof, clad in thousands of scale-shaped shingles.",
-        "This annexe, intended as a singular living space adjacent to an existing home in Phu My, challenges conventional notions of interiority. The structure remains largely open to the elements, allowing breezes and natural light to permeate, yet its form suggests a primal refuge. The architects sought to create a specific atmospheric quality.",
-        "> \"evoke the sensation of being in a cave,\" the original report noted, highlighting the design's intent to marry protection with a connection to nature. This duality is central to the experience of Casa Mac, where the heavy, protective roof contrasts with the permeable walls and open plan. The shingled surface catches the light, giving the massive form a delicate, organic texture.",
-        "Such architectural responses to specific terrestrial climates offer insights into the future of off-world habitation. As humanity considers long-term settlements on the Moon or Mars, the challenge of creating psychologically nurturing environments within extreme external conditions becomes paramount. A \"cave-like\" dwelling, offering both security and a controlled interaction with the unfamiliar external world, resonates deeply.",
-        "The design of Casa Mac suggests that even in environments demanding robust shielding, the human need for sensory engagement and a feeling of connection to one's surroundings will persist. Future lunar habitats might not just be sterile modules but carefully sculpted spaces that blend protective enclosures with views, textures, and a sense of 'place' derived from their alien context, much as Casa Mac engages with its Vietnamese setting. This approach will define the quality of life beyond Earth."
-      ],
-      "ja": [
-        "ベトナム、ホーチミン市近郊の豊かな自然の中に、シェルターと開放性の対比を思索させる建築物がある。現地スタジオCTAが設計したカーサ・マックは、周囲の環境を受け入れつつも、深い包容感を提供する住居だ。その最も印象的な特徴は、何千もの鱗状の屋根板で覆われた、大きく湾曲したキャノピーのような屋根である。",
-        "フーミーの既存住宅に隣接する単一の生活空間として構想されたこの別館は、内部空間という従来の概念に問いを投げかける。構造体は大部分が外気に開かれており、風と自然光が内部に満ちるが、その形態は原始的な避難所を想起させる。設計者たちは、特定の雰囲気の創出を目指した。",
-        "「洞窟の中にいるような感覚を呼び起こす」と原文は記しており、保護と自然との繋がりを融合させる設計意図を強調する。この二面性がカーサ・マックの体験の中心であり、重厚で保護的な屋根が、透過性のある壁や開放的な間取りと対照をなす。鱗状の表面は光を捉え、巨大な形態に繊細で有機的な質感を与えている。",
-        "このような地球上の特定の気候への建築的応答は、地球外居住の未来に示唆を与える。人類が月や火星での長期居住地を検討する際、極限的な外部環境（放射線、真空、塵）の中で心理的に育成的な環境を創出する課題は極めて重要になるだろう。安全と、見慣れない外部世界との制御された相互作用の両方を提供する「洞窟のような」住居は、深く共鳴する。",
-        "カーサ・マックの設計は、堅牢な遮蔽が求められる環境においても、感覚的な関与と周囲との繋がりを求める人間の欲求が残り続けることを示唆している。未来の月面居住地は、単なる無菌のモジュールではなく、保護的な囲いと、景色、質感、そしてその異質な文脈から生まれる「場所」の感覚を融合させた、注意深く彫刻された空間になるかもしれない。このアプローチが、地球外での生活の質を決定するだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Imagine a house annexe in Vietnam with a huge, curved roof, like a giant shell or a modern cave. It’s covered in small, scale-like tiles and, surprisingly, it's quite open to the outside, letting in air and light. The idea was to make you feel protected, like you're in a cave, but still connected to nature. It's a blend of shelter and openness, designed for a warm climate.",
-        "This kind of architectural thinking is directly relevant to how people will live off-world. When you're building on the Moon or Mars, you need strong protection from radiation and vacuum. But people also need to feel comfortable and connected to their environment, even if it's an alien one. Designs like Casa Mac show how to create a sense of domesticity and psychological comfort in extreme settings. This could influence the design of future lunar hotels, research stations, or even permanent settlements, making them feel less like sterile labs and more like homes. It points to a new luxury: carefully designed sensory environments in space.",
-        "We might see the principles of \"cave-like\" or \"sheltered-open\" design applied to initial lunar habitats within 10-15 years. This timeline is gated by advancements in in-situ resource utilization (ISRU) – meaning using local lunar soil (regolith) to 3D-print structures. Once we can reliably build large-scale habitats from local materials, architects can then focus on human-centric interior design, moving beyond purely functional modules.",
-        "Japan's JAXA, in collaboration with industry partners like Kajima Corporation and Shimizu Corporation, has been actively researching concepts for lunar and Martian habitats, often exploring designs that use local regolith for shielding and structure. While these are currently more focused on engineering challenges, the next phase will inevitably involve design that addresses human psychology and comfort. ispace, with its lunar landers, is also paving the way for the infrastructure needed for such architectural endeavors, making future lunar construction a tangible goal."
-      ],
-      "ja": [
-        "ベトナムに、巨大な曲面屋根を持つ別棟の家ができました。まるで大きな貝殻や現代の洞窟のような形をしていて、小さな鱗のようなタイルで覆われています。驚くことに、この建物は外にかなり開かれていて、空気や光が自由に入ってきます。設計の狙いは、洞窟の中にいるような守られた感覚を与えつつも、自然との繋がりを感じさせること。暖かい気候のために、シェルターと開放性を融合させたデザインです。",
-        "この種の建築思想は、人々が地球外でどう暮らすかに直接関係します。月や火星で建物を建てる際、放射線や真空から身を守るための堅牢な保護が必要です。しかし、人々は異質な環境であっても、快適で周囲と繋がっていると感じる必要があります。カーサ・マックのようなデザインは、極限環境下でいかに家庭的な感覚や心理的な快適さを作り出すかを示しています。これは将来の月面ホテル、研究基地、あるいは恒久的な居住地のデザインに影響を与え、無菌の実験室のような空間ではなく、より家らしい場所へと進化させるでしょう。宇宙における、丁寧にデザインされた感覚的な環境は、新たなラグジュアリーとなるかもしれません。",
-        "「洞窟のような」あるいは「守られつつ開かれた」デザインの原則が、最初の月面居住地に応用されるのは、今後10〜15年以内かもしれません。このタイムラインは、ISRU（現地資源利用）技術の進歩にかかっています。つまり、月の土（レゴリス）を使って構造物を3Dプリントする技術が確立されれば、建築家は純粋な機能性だけでなく、人間中心のインテリアデザインに焦点を当てられるようになるでしょう。",
-        "日本では、JAXAが鹿島建設や清水建設といった企業と協力し、月面・火星居住地のコンセプトを積極的に研究しています。これらの研究は、レゴリスを用いた遮蔽や構造に焦点を当てており、現在のところは工学的な課題が中心です。しかし、次の段階では、人間の心理や快適性に対応するデザインが不可欠となるでしょう。また、ispace社は月面着陸機を通じて、こうした建築プロジェクトに必要なインフラ整備を進めており、未来の月面建設を具体的な目標としています。"
-      ]
-    },
-    "source": {
-      "name": "Dezeen",
-      "url": "https://www.dezeen.com/2026/07/27/cta-casa-mac-annexe-vietnam/"
-    },
-    "sourceGuid": "https://www.dezeen.com/?p=2347729",
-    "status": "published"
-  },
-  {
-    "slug": "c-band-auction-signals-new-era-for-geostationary-satellites",
-    "category": "space-tech",
-    "issue": "Vol. 07",
-    "publishedAt": "2026-07-27T20:11:07.000Z",
-    "readingMinutes": 5,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
-    },
-    "title": {
-      "en": "C-Band Auction Signals New Era for Geostationary Satellites",
-      "ja": "Cバンドオークションが静止衛星の新たな時代を告げる"
-    },
-    "dek": {
-      "en": "A multi-billion dollar spectrum auction by the FCC promises a significant financial uplift for geostationary satellite operators, driving a crucial modernization wave for orbital infrastructure.",
-      "ja": "FCCによる数十億ドル規模の周波数帯オークションは、静止衛星事業者にとって大きな経済的恩恵をもたらし、軌道インフラの重要な近代化を推進する。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Washington D.C., July 27, 2026",
-      "ja": "ワシントンD.C.、2026年7月27日"
-    },
-    "tags": [
-      {
-        "en": "Space Economy",
-        "ja": "宇宙経済"
-      },
-      {
-        "en": "Geostationary Satellites",
-        "ja": "静止衛星"
-      },
-      {
-        "en": "FCC",
-        "ja": "FCC"
-      },
-      {
-        "en": "Spectrum",
-        "ja": "周波数帯"
-      }
-    ],
-    "body": {
-      "en": [
-        "The unseen architecture of Earth orbit is undergoing a significant reconfiguration. As terrestrial demand for wireless spectrum intensifies, the invisible highways of data transmission are being re-routed and upgraded, particularly in the highly valued C-band.",
-        "The U.S. Federal Communications Commission (FCC) is orchestrating an auction of upper C-band spectrum, a move set to reshape the economic landscape for geostationary (GEO) satellite operators. This initiative promises substantial payouts, with operators poised to receive over $6 billion for expediting the clearance of this critical frequency band.",
-        "These funds are not merely compensation; they represent a catalyst for reinvestment. Billions more are earmarked to cover the costs of new geostationary spacecraft and other transitional expenses. This incentivizes a necessary modernization of satellite fleets that have long served as the backbone for global telecommunications and broadcasting.",
-        "The C-band spectrum, historically crucial for television broadcasting, radio, and critical data backhaul in remote areas, is now coveted for its potential to enhance next-generation terrestrial 5G and future wireless networks. Its unique propagation characteristics make it ideal for high-bandwidth, reliable connections.",
-        "> \"Satellite operators have welcomed the prospect of reaping more than $6 billion for quickly clearing upper C-band spectrum the FCC aims to auction next year, with billions more set to cover new geostationary spacecraft and other transition costs,\" the original report noted.",
-        "This financial injection means that older GEO satellites will be replaced by more advanced, efficient models capable of higher throughput and more flexible service delivery. The entire orbital infrastructure stands to benefit from this mandated refresh, leading to a more robust and responsive network.",
-        "For those who will eventually live and work off-world, this terrestrial-driven orbital upgrade carries tangible implications. Reliable, high-bandwidth communication with Earth will be paramount for early lunar and Martian settlements, enabling everything from telemedicine and remote education to entertainment and real-time data exchange. A more efficient and financially stable GEO constellation ensures that the digital umbilical cord connecting off-world outposts to Earth remains strong and capable, supporting the nascent stages of multi-planetary human presence."
-      ],
-      "ja": [
-        "地球軌道の目に見えないインフラは、現在、大規模な再構成の途上にある。地上での無線周波数帯（スペクトラム）への需要が激化するにつれて、データの目に見えない高速道路は、特に価値の高いCバンドにおいて、再ルーティングされ、アップグレードされている。",
-        "米国連邦通信委員会（FCC）は、アッパーCバンド周波数帯のオークションを実施しており、これは静止軌道（GEO）衛星事業者にとって経済情勢を再構築する動きとなる。この取り組みは、数十億ドル規模の支払いをもたらすことが約束されており、事業者はこの重要な周波数帯域の迅速なクリアリングに対して60億ドル以上を受け取る見込みだ。",
-        "これらの資金は単なる補償ではなく、再投資の触媒となる。さらに数十億ドルが、新しい静止衛星やその他の移行費用に充てられる予定である。これにより、長らく世界の電気通信と放送の基盤となってきた衛星群の近代化が促進される。",
-        "Cバンド周波数帯は、歴史的にテレビ放送、ラジオ、および遠隔地での重要なデータバックホールにとって不可欠であったが、今では次世代の地上5Gおよび将来の無線ネットワークを強化する可能性から切望されている。その独自の伝播特性は、高帯域幅で信頼性の高い接続に理想的である。",
-        "> 「衛星事業者は、FCCが来年オークションにかけるアッパーCバンド周波数帯の迅速なクリアリングに対し、60億ドル以上を得る見込みを歓迎している。さらに数十億ドルが、新しい静止衛星やその他の移行費用に充てられる予定だ」と、元のレポートは記している。",
-        "この財政的注入は、古いGEO衛星が、より高度で効率的なモデルに置き換えられ、より高いスループットと柔軟なサービス提供が可能になることを意味する。軌道上のインフラ全体がこの義務付けられた刷新から恩恵を受け、より堅牢で応答性の高いネットワークへと繋がるだろう。",
-        "最終的に地球外で生活し、働く人々にとって、この地上主導の軌道アップグレードは具体的な意味を持つ。初期の月面や火星の入植地にとって、地球との信頼性の高い広帯域通信は極めて重要であり、遠隔医療や遠隔教育からエンターテイメント、リアルタイムデータ交換まで、あらゆるものを可能にする。より効率的で財政的に安定したGEOコンステレーションは、地球外の前哨基地と地球を結ぶデジタルなへその緒が強く、有能なままであることを保証し、多惑星人類存在の初期段階を支えることになるだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Imagine the invisible airwaves around Earth as a busy highway. This news describes how the US government, through the FCC, is essentially asking some of the long-haul trucks (geostationary satellites) to move to a slightly different lane, or even get new, faster trucks, to make way for new, faster cars (5G mobile networks) on the main lanes. They are paying the truck companies a lot of money to do this quickly.",
-        "For us in Tokyo, this means a more robust and efficient global communication backbone. While Japan has its own spectrum management, global satellite networks underpin many services we use daily. This modernization could lead to even more stable mobile network performance, faster data speeds, and improved reliability for satellite-dependent services like advanced weather forecasting or disaster early warning systems that rely on international data streams.",
-        "The tangible effects for Tokyo readers are likely to emerge within the next 3 to 5 years. This timeframe is primarily gated by the manufacturing and launch schedules of the new generation of geostationary satellites. Once these new satellites are in place and operational, the benefits of their enhanced capacity and efficiency will propagate through global telecommunication networks.",
-        "In Japan, companies like Mitsubishi Electric (MELCO) are major players in the global geostationary satellite market, designing and manufacturing advanced communication satellites. While this specific auction is US-centric, the global trend of optimizing spectrum use and upgrading orbital assets directly influences the demand for MELCO's products and expertise, ensuring Japan remains a key contributor to this evolving space infrastructure."
-      ],
-      "ja": [
-        "地球を取り巻く目に見えない電波を、交通量の多い高速道路に例えてみましょう。今回のニュースは、米国政府（FCC）が、長距離トラック（静止衛星）の一部に、より新しい、より速いトラックに乗り換えるか、少し異なる車線に移動してもらい、主要車線に新しい、より速い乗用車（5Gモバイルネットワーク）のためのスペースを作るよう求めている、という話です。そして、そのためにトラック会社に多額の費用を支払うことで、この移行を迅速に進めています。",
-        "東京に住む私たちにとって、これはより堅牢で効率的なグローバル通信の基盤を意味します。日本には独自の周波数帯管理がありますが、私たちが日常的に利用する多くのサービスは、グローバルな衛星ネットワークに支えられています。この近代化は、より安定したモバイルネットワーク性能、高速なデータ速度、そして国際的なデータストリームに依存する高度な気象予報や災害早期警報システムのような衛星依存型サービスの信頼性向上につながる可能性があります。",
-        "東京の読者にとって具体的な影響が実感できるのは、今後3年から5年以内でしょう。この期間は主に、新世代の静止衛星の製造および打ち上げスケジュールによって決まります。これらの新しい衛星が軌道に投入され、運用が開始されれば、その強化された容量と効率性の恩恵がグローバルな電気通信ネットワーク全体に波及するでしょう。",
-        "日本では、三菱電機（MELCO）が世界の静止衛星市場における主要なプレイヤーであり、先進的な通信衛星の設計と製造を行っています。今回のオークションは米国が中心ですが、周波数帯の利用を最適化し、軌道上の資産をアップグレードするという世界的なトレンドは、三菱電機の製品と専門知識への需要に直接影響を与え、日本がこの進化する宇宙インフラの主要な貢献者であり続けることを保証します。"
-      ]
-    },
-    "source": {
-      "name": "SpaceNews",
-      "url": "https://spacenews.com/upper-c-band-auction-offers-another-lift-for-geo-industry/"
-    },
-    "sourceGuid": "https://spacenews.com/?p=607938",
-    "status": "published"
-  },
-  {
-    "slug": "orbes-unveils-compact-orbital-inspector-exo-orb",
-    "category": "space-tech",
-    "issue": "Vol. 07",
-    "publishedAt": "2026-07-27T13:00:00.000Z",
-    "readingMinutes": 4,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
-    },
-    "title": {
-      "en": "ORBES Unveils Compact Orbital Inspector Exo-ORB",
-      "ja": "ORBES、小型軌道検査機Exo-ORBを発表"
-    },
-    "dek": {
-      "en": "A new spacecraft promises proactive maintenance for orbital assets, extending their lifespan and fostering a more sustainable space economy.",
-      "ja": "新しい宇宙機が軌道上資産の予防保全を可能にし、その寿命を延ばし、より持続可能な宇宙経済を育む。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO – July 27, 2026",
-      "ja": "東京 – 2026年7月27日"
-    },
-    "tags": [
-      {
-        "en": "orbital maintenance",
-        "ja": "軌道上メンテナンス"
-      },
-      {
-        "en": "satellite inspection",
-        "ja": "衛星検査"
-      },
-      {
-        "en": "space economy",
-        "ja": "宇宙経済"
-      },
-      {
-        "en": "ORBES",
-        "ja": "ORBES"
-      }
-    ],
-    "body": {
-      "en": [
-        "The orbital environment is relentlessly harsh, presenting a constant challenge to the longevity and operational integrity of satellites. Once launched, these complex machines typically operate within a finite lifespan, often succumbing to wear, micro-meteoroid impacts, or component failures.",
-        "Addressing this inherent fragility, ORBES has introduced a new approach to orbital asset management with its Exo-ORB maintenance spacecraft. This system aims to fundamentally extend the utility and reliability of critical infrastructure in space.",
-        "The Exo-ORB is a notably compact unit, approximately 12U in size and weighing under 26 kilograms. Its design allows it to launch alongside customer infrastructure, enabling on-demand, precise inspection capabilities once in orbit.",
-        "This capability marks a significant shift from purely reactive failure management to a proactive approach in asset health monitoring. It empowers operators to diagnose potential issues before they escalate, ensuring continuous performance of vital orbital systems.",
-        "> The original report states the Exo-ORB is \"designed to launch on-board customer infrastructure for ready-to-go inspection.\"",
-        "Such integrated inspection services suggest a future where maintenance is not an afterthought but a foundational element of satellite operational planning. It means a transition from a disposable mentality to one of sustained stewardship.",
-        "For those living and working off-world, reliable infrastructure is paramount. A system like Exo-ORB promises greater stability for communication networks, navigation aids, and other critical orbital services, translating to less downtime and more predictable operations for nascent off-world communities. It changes the calculus of orbital asset depreciation, fostering a culture of preservation over replacement."
-      ],
-      "ja": [
-        "軌道上の環境は極めて過酷であり、人工衛星の寿命と運用上の健全性にとって常に課題を提示しています。一度打ち上げられたこれらの複雑な機械は、通常、有限の寿命の中で稼働し、摩耗や微小隕石の衝突、部品の故障などによって機能停止に至ることが少なくありません。",
-        "この本質的な脆弱性に対処するため、ORBES社は軌道上資産管理への新しいアプローチとして、メンテナンス宇宙機「Exo-ORB」を発表しました。このシステムは、宇宙における重要なインフラの有用性と信頼性を根本的に延長することを目指しています。",
-        "Exo-ORBは、約12Uという小型サイズで、重量も26kg未満に抑えられた注目すべきユニットです。その設計は、顧客のインフラに搭載されて打ち上げられ、軌道上で必要に応じた精密な検査能力を発揮することを可能にします。",
-        "この能力は、故障発生後に対応する従来の運用から、資産の状態を事前に監視し、問題を未然に防ぐプロアクティブなアプローチへの大きな転換を示唆しています。これにより、運用者は問題が深刻化する前に診断を下し、重要な軌道システムが継続的に機能することを保証できます。",
-        "> 原文は、Exo-ORBが「顧客インフラに搭載され、即座に検査を行う設計」であると述べています。",
-        "このような統合された検査サービスは、メンテナンスが事後的なものではなく、衛星運用計画の基盤となる未来を示唆しています。それは、使い捨ての考え方から、持続的な管理へと移行することを意味します。",
-        "宇宙で生活し、働く人々にとって、信頼性の高いインフラは不可欠です。Exo-ORBのようなシステムは、通信網、航行支援、その他重要な軌道上サービスに、より高い安定性をもたらすでしょう。これは、初期の宇宙コミュニティにとって、ダウンタイムの削減、予測可能な運用、そして最終的にはより強靭な環境を意味します。軌道上資産の減価償却の考え方を変え、使い捨てではなく、保存と修理を重視する文化を育むことになるかもしれません。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Imagine a tiny, self-flying drone, about the size of a microwave oven, that can hitch a ride into space with a larger satellite. Once in orbit, it can detach and fly around that satellite, checking for any damage or malfunctions. This is what ORBES's new Exo-ORB spacecraft does. It's like having a dedicated inspection team for your valuable equipment in space, ensuring everything works as it should.",
-        "For Tokyo readers, this kind of technology could indirectly improve the reliability of many services we use daily. Think about the GPS in your phone or car, the weather forecasts that help plan your week, or even the satellite broadcasts you might watch. If the satellites providing these services can be inspected and maintained more easily, their performance becomes more stable and dependable. It also means potentially lower costs for satellite operators, which could translate into more affordable or advanced services down the line.",
-        "We might see the effects of such advancements within the next 3-5 years. The main gating factor will be the widespread adoption of such on-orbit servicing capabilities by major satellite operators and the development of standardized interfaces for these services. As the cost of launching small inspection craft decreases, their use will become more economically viable.",
-        "Japan is also actively pursuing on-orbit servicing. Astroscale, a company with strong ties to Japan, is a prominent player in this field, focusing on space debris removal and satellite life extension, including inspection. While Exo-ORB specializes in integrated inspection, Astroscale's work on end-of-life services and active debris removal addresses similar challenges of orbital sustainability and asset longevity, aiming to keep the space environment usable for future generations."
-      ],
-      "ja": [
-        "電子レンジほどの小さな自動飛行ドローンが、大きな人工衛星と一緒に宇宙へ運ばれると想像してみてください。軌道上で切り離されたそのドローンは、衛星の周りを飛び回り、損傷や故障がないかを確認します。ORBES社の新しいExo-ORB宇宙機は、まさにそのような役割を果たすものです。宇宙にある高価な設備のために、専用の検査チームが常に待機しているようなもので、すべてが正しく機能していることを確認します。",
-        "この種の技術は、東京に暮らす私たちが日々利用する多くのサービスの信頼性を間接的に向上させる可能性があります。スマートフォンのGPS、週の計画に役立つ天気予報、あるいは衛星放送などを考えてみてください。これらのサービスを提供する衛星がより簡単に検査・保守できるようになれば、その性能はより安定し、信頼性が高まります。また、衛星運用事業者にとってのコスト削減にも繋がり、将来的にはより手頃な価格で、あるいはより高度なサービスが提供される可能性もあります。",
-        "こうした技術の恩恵は、今後3〜5年以内に感じられるようになるかもしれません。主要な決め手は、大手衛星運用事業者による軌道上サービス能力の広範な採用と、これらのサービスのための標準化されたインターフェースの開発です。小型検査機の打ち上げコストがさらに下がれば、その利用は経済的にもより実現可能になるでしょう。",
-        "日本も軌道上サービスに積極的に取り組んでいます。アストロスケール社は、宇宙デブリ除去や衛星の寿命延長、そして検査を含む軌道上サービスにおいて、日本と強い繋がりを持つ主要な企業です。Exo-ORBが統合型検査に特化している一方で、アストロスケール社は衛星の寿命末期サービスや能動的デブリ除去に注力しており、軌道の持続可能性と資産の長寿命化という同様の課題に取り組んでいます。これは、将来の世代のために宇宙環境を利用可能な状態に保つことを目指しています。"
-      ]
-    },
-    "source": {
-      "name": "Payload",
-      "url": "https://payloadspace.com/orbes-unveils-exo-orb-maintenance-spacecraft/"
-    },
-    "sourceGuid": "https://payloadspace.com/?p=30766",
-    "status": "published"
-  },
-  {
-    "slug": "axioms-axh2-module-redefines-orbital-living-with-focus-on-privacy",
-    "category": "space-tech",
-    "issue": "Vol. 07",
-    "publishedAt": "2026-07-26T10:00:00.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://cdn.mos.cms.futurecdn.net/sr9yfPBJbbv9fRrYyRjMJ-1280-80.jpg",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Axiom's AxH2 Module Redefines Orbital Living with Focus on Privacy",
-      "ja": "アクシオムのAxH2モジュール、軌道上の生活を再定義 — プライバシー重視の設計"
-    },
-    "dek": {
-      "en": "New structural tests pave the way for a commercial space station module designed for extended comfort, shifting orbital habitats from utilitarian labs to adaptable homes.",
-      "ja": "新たな構造試験が商業宇宙ステーションモジュール開発を加速。軌道上の居住空間は、実用的な実験室から順応性のある「家」へと進化する。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "Axiom Space",
-        "ja": "アクシオム・スペース"
-      },
-      {
-        "en": "Space Station",
-        "ja": "宇宙ステーション"
-      },
-      {
-        "en": "Orbital Habitat",
-        "ja": "軌道居住施設"
-      },
-      {
-        "en": "Space Architecture",
-        "ja": "宇宙建築"
-      }
-    ],
-    "body": {
-      "en": [
-        "The vision of permanent human presence beyond Earth took another concrete step forward this week. Axiom Space announced the successful completion of critical structural integrity tests for its second commercial space station module, AxH2, poised to redefine orbital living. This milestone moves the concept of space habitats away from purely functional laboratories towards environments designed for long-term human comfort.",
-        "Scheduled for launch in late 2027, the AxH2 module is engineered to accommodate up to four astronauts for missions extending beyond six months. Its design philosophy marks a deliberate departure from the austere, often cramped conditions of earlier orbital outposts. The module aims to foster a sense of normalcy and well-being crucial for inhabitants enduring extended periods in microgravity.",
-        "A core innovation lies in its internal architecture, which prioritizes individual privacy and adaptable living spaces. Unlike the open-plan, shared quarters typical of modules like the International Space Station, AxH2 features configurable partitions and personal nooks. This allows crew members distinct areas for work, rest, and personal reflection, mitigating the psychological stresses of close confinement.",
-        "> The goal is to create spaces that feel less like a temporary outpost and more like a permanent residence, the original report noted.",
-        "Material choices also reflect this shift, with soft-touch acoustic panels and dynamic lighting systems replacing the harsher, industrial aesthetics of previous generations. These elements are chosen to reduce ambient noise and simulate natural light cycles, enhancing crew mood and circadian rhythms. The successful completion of these structural tests ensures the module's resilience against the vacuum of space and the stresses of launch. It confirms the integrity of its pressure vessel and docking mechanisms, essential for its integration into the growing Axiom Station. This engineering validation underpins the ambitious cultural shift the company is attempting to introduce.",
-        "For those who will eventually live and work off-world, modules like AxH2 represent a crucial evolution. The move from purely utilitarian design to one that considers psychological well-being and personal space suggests a maturing understanding of human needs beyond Earth. Future off-world settlements, whether in orbit or on lunar surfaces, will increasingly incorporate such human-centric design principles, making extended stays not just possible, but genuinely habitable."
-      ],
-      "ja": [
-        "地球外での恒久的な人類の存在というビジョンが、今週、また一歩具体化した。アクシオム・スペースは、軌道上の生活を再定義することを目指す同社2番目の商業宇宙ステーションモジュール「AxH2」の構造健全性試験の成功を発表した。この節目は、宇宙居住空間の概念を、単なる機能的な実験室から、長期的な人間の快適さを追求した環境へと移行させるものだ。",
-        "2027年後半の打ち上げが予定されているAxH2モジュールは、6ヶ月を超えるミッションで最大4名の宇宙飛行士を収容できるよう設計されている。その設計思想は、初期の軌道前哨基地に見られた質素でしばしば窮屈な環境からの意図的な脱却を示している。このモジュールは、微小重力下での長期間滞在に耐える居住者にとって不可欠な、正常性と幸福感を育むことを目指している。",
-        "その中核的な革新は、個人のプライバシーと順応性のある居住空間を優先する内部アーキテクチャにある。国際宇宙ステーションのような開放的で共有された区画とは異なり、AxH2は構成可能な間仕切りと個別の空間を備えている。これにより、乗組員は仕事、休息、個人的な思索のための明確な領域を持つことができ、密閉された環境での心理的ストレスを軽減する。",
-        "原文より：「目標は、一時的な前哨基地というよりも、恒久的な住居のように感じられる空間を創出することだ」。",
-        "素材の選択もこの変化を反映しており、以前の世代の厳しく工業的な美学に代わり、ソフトな触感の吸音パネルやダイナミックな照明システムが採用されている。これらの要素は、周囲の騒音を低減し、自然な光サイクルをシミュレートすることで、乗組員の気分と概日リズムを向上させるために選ばれている。これらの構造試験の成功は、モジュールが宇宙の真空と打ち上げ時のストレスに耐えうることを保証する。これは、拡大するアクシオム・ステーションへの統合に不可欠な、その圧力容器とドッキング機構の完全性を確認するものだ。この工学的検証は、同社が導入しようとしている野心的な文化的変革を裏付けている。",
-        "将来、地球外で生活し、働く人々にとって、AxH2のようなモジュールは決定的な進化を意味する。純粋に実用的な設計から、心理的幸福と個人的空間を考慮した設計への移行は、地球外での人間のニーズに対する理解が深まっていることを示唆している。軌道上であろうと月面であろうと、将来の地球外居住地は、このような人間中心のデザイン原則をますます取り入れ、長期滞在を可能にするだけでなく、真に居住可能なものにするだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This news from Axiom Space means that the private sector is getting serious about making space stations feel more like actual homes, not just workplaces. Imagine a floating apartment in orbit, where astronauts have their own private rooms and adaptable spaces, rather than living in a shared, noisy laboratory all the time. This module is designed with comfort and privacy in mind, aiming to make long stays in space much more bearable and pleasant.",
-        "For Tokyo readers, this shift in design philosophy could eventually influence how we think about compact living and even disaster shelters here on Earth. While immediate impact on daily life is minimal, the focus on maximizing comfort and privacy within confined, high-tech environments has implications for materials science and architectural design. Think of more durable, sound-absorbing, and light-adaptive materials that might find their way into urban housing or emergency facilities.",
-        "This kind of impact is likely 5-10 years away. It's gated by the maturity of the commercial space station market and the trickle-down effect of these advanced materials and design principles. We need to see these concepts proven over multiple long-duration missions and then adapted for terrestrial applications, likely driven by venture capital in smart city development or advanced construction.",
-        "Japan already has companies like Takenaka Corporation and Shimizu Corporation exploring concepts for lunar habitats and future space cities, often emphasizing modularity and efficient use of space. While their focus has been more on structural integrity and basic functionality, the emphasis on human-centric design, privacy, and psychological well-being seen in Axiom's module will likely become a key area of research and development for them as well, perhaps in collaboration with JAXA's future lunar base plans."
-      ],
-      "ja": [
-        "アクシオム・スペースからのこのニュースは、民間企業が宇宙ステーションを単なる職場ではなく、実際の「家」のように感じさせることに真剣に取り組んでいることを意味します。常に共有され、騒がしい実験室に住むのではなく、宇宙飛行士が個別のプライベートな部屋や順応性のある空間を持つ、軌道上の浮遊するアパートを想像してみてください。このモジュールは快適さとプライバシーを念頭に設計されており、宇宙での長期滞在をはるかに耐えやすく、快適なものにすることを目指しています。",
-        "東京で暮らす読者にとって、このデザイン哲学の変化は、将来的に地上のコンパクトな居住空間や災害シェルターの考え方に影響を与える可能性があります。日々の生活への直接的な影響はごくわずかですが、限られたハイテク環境内で快適さとプライバシーを最大化することに焦点を当てることは、材料科学や建築設計に影響を与えます。例えば、より耐久性があり、吸音性に優れ、光適応性のある素材が、都市部の住宅や緊急施設に応用されるかもしれません。",
-        "この種の影響は、おそらく5年から10年先に現れるでしょう。これは、商業宇宙ステーション市場の成熟と、これらの高度な素材や設計原則の地上への波及効果によって左右されます。これらのコンセプトが複数の長期ミッションで実証され、その後、スマートシティ開発や先進建設におけるベンチャーキャピタルによって地上応用される必要があります。",
-        "日本には、竹中工務店や清水建設のような企業が、モジュール性や効率的な空間利用を重視した月面居住施設や未来の宇宙都市のコンセプトをすでに探求しています。彼らの焦点は構造健全性や基本的な機能性にありましたが、アクシオムのモジュールに見られる人間中心のデザイン、プライバシー、心理的幸福への重点は、JAXAの将来の月面基地計画との連携も視野に入れつつ、彼らにとっても重要な研究開発分野となるでしょう。"
-      ]
-    },
-    "source": {
-      "name": "Space.com",
-      "url": "https://www.space.com/space-exploration/international-space-station/im-not-an-astronaut-but-i-went-to-the-international-space-station-sort-of"
-    },
-    "sourceGuid": "ibMW96mmSxEt3ahvWG4XU",
     "status": "published"
   }
 ]

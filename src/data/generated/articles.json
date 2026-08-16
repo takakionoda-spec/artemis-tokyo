@@ -1,5 +1,177 @@
 [
   {
+    "slug": "orbital-stewardship-us-defense-agencies-initiate-debris-removal-study",
+    "category": "space-tech",
+    "issue": "Vol. 08",
+    "publishedAt": "2026-08-16T10:50:00.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
+    },
+    "title": {
+      "en": "Orbital Stewardship: U.S. Defense Agencies Initiate Debris Removal Study",
+      "ja": "軌道の持続性：米国国防関連機関がデブリ除去研究に着手"
+    },
+    "dek": {
+      "en": "Three commercial entities have been tapped by U.S. defense agencies to explore scalable solutions for capturing and removing aging satellites, addressing the growing challenge of orbital debris.",
+      "ja": "米国国防関連機関が、老朽化した人工衛星の捕獲と除去に向けた商業的解決策を模索するため、3つの民間企業を選定した。これは増大する軌道デブリ問題への対応である。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Washington",
+      "ja": "ワシントン"
+    },
+    "tags": [
+      {
+        "en": "Space Debris",
+        "ja": "宇宙デブリ"
+      },
+      {
+        "en": "Orbital Safety",
+        "ja": "軌道安全"
+      },
+      {
+        "en": "Commercial Space",
+        "ja": "商業宇宙"
+      },
+      {
+        "en": "Defense Agencies",
+        "ja": "国防関連機関"
+      }
+    ],
+    "body": {
+      "en": [
+        "The silent accumulation of inactive satellites and rocket stages in Earth's orbit presents a mounting challenge to future space operations. This orbital detritus, traveling at immense velocities, poses a significant collision risk to active spacecraft and human-crewed missions.",
+        "Recognizing this critical issue, U.S. defense agencies have initiated a study to explore viable commercial pathways for active debris removal. The initiative seeks to leverage private sector innovation to maintain a sustainable and safe orbital environment.",
+        "Three companies—Firefly, D-Orbit USA, and Katalyst—have been selected to participate in this competitive study. Each will propose methods for how commercial operators might effectively capture and remove aging spacecraft from congested orbits.",
+        "> \"commercial operators could capture and remove aging spacecraft\"",
+        "This engagement with commercial entities signals a strategic shift, moving beyond governmental initiatives to foster an ecosystem where orbital stewardship becomes a shared responsibility. The goal is to develop scalable, cost-effective solutions that can address the sheer volume of debris.",
+        "The study focuses on the practicalities of on-orbit servicing and disposal, considering everything from capture mechanisms to deorbiting strategies. Success in this endeavor could pave the way for a more robust space economy, less burdened by the legacy of past launches.",
+        "For those envisioning a future beyond Earth, a clean orbital environment is not merely an aspiration but a fundamental necessity. Reliable transit routes, secure docking procedures, and the long-term safety of lunar habitats or Martian transit stations depend directly on a clear path through near-Earth space. This study lays groundwork for the essential infrastructure of orbital housekeeping, ensuring that the highways to off-world settlements remain open and safe."
+      ],
+      "ja": [
+        "地球軌道上には、運用を終えた人工衛星やロケットの残骸が静かに蓄積され、将来の宇宙活動にとって大きな課題となっている。これらの軌道デブリは、極めて高速で移動するため、稼働中の宇宙船や有人ミッションに深刻な衝突リスクをもたらす。",
+        "この重要な問題に対処するため、米国国防関連機関は、商業的なデブリ除去の実現可能性を探る研究に着手した。この取り組みは、持続可能で安全な軌道環境を維持するために、民間部門の革新的な技術を活用しようとするものだ。",
+        "今回の競争研究には、Firefly、D-Orbit USA、Katalystの3社が選定された。各社は、商業事業者が老朽化した人工衛星を混雑した軌道から効率的に捕獲し、除去する方法を提案する。",
+        "> 「商業事業者が老朽化した人工衛星を捕獲し除去できる」",
+        "民間企業との連携は、軌道の管理が政府機関だけの責任ではなく、共有された責務となるエコシステムを育成するという戦略的な転換を示す。目的は、膨大な量のデブリに対処できる、拡張性と費用対効果の高い解決策を開発することにある。",
+        "研究は、捕獲メカニズムから軌道離脱戦略まで、軌道上でのサービス提供と廃棄の実用面に焦点を当てている。この取り組みが成功すれば、過去の打ち上げの遺産に煩わされることのない、より堅牢な宇宙経済への道が開かれるだろう。",
+        "地球外での未来を思い描く人々にとって、清潔な軌道環境は単なる願望ではなく、根本的な必要性である。信頼できる輸送経路、安全なドッキング手順、そして月面基地や火星への通過ステーションの長期的な安全性は、地球近傍の宇宙空間が明確に保たれているかに直接依存する。この研究は、軌道上の「家事」に不可欠なインフラの基礎を築き、オフワールドの居住地への高速道路が常に開かれ、安全であることを保証するものである。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "U.S. defense agencies are commissioning private companies to study how to clean up the growing amount of space junk orbiting Earth. Think of it like a specialized trash collection service, but for satellites, ensuring our cosmic backyard remains usable.",
+        "For Tokyo readers, this development holds significant implications for the reliability and safety of essential satellite services. Less debris means reduced risk to the communication, GPS, and weather forecasting satellites that underpin daily life. Over time, this could lead to more stable and potentially more affordable satellite-dependent services.",
+        "We can expect to see tangible impacts from such initiatives within the next 5 to 10 years. The timeline is largely gated by the successful demonstration of these complex technologies and the establishment of clear international agreements on who is responsible for removing specific pieces of debris.",
+        "Japan is already a global leader in this field. Astroscale, a Japanese company, is actively developing and demonstrating technologies for orbital debris removal and on-orbit servicing. This U.S. initiative highlights the growing international recognition of the critical importance of technologies that companies like Astroscale are pioneering."
+      ],
+      "ja": [
+        "米国国防関連機関が、地球を周回する増え続ける宇宙ゴミをどのように除去するかについて、民間企業に研究を委託しました。これは、人工衛星版の専門的なゴミ収集サービスのようなもので、私たちの宇宙の庭が今後も利用可能であることを確実にするための取り組みです。",
+        "東京で暮らす読者にとって、この進展は、不可欠な衛星サービスの信頼性と安全性に重要な意味を持ちます。デブリが減れば、日々の生活を支える通信、GPS、気象予報などの衛星へのリスクが軽減されます。長期的には、これにより衛星に依存するサービスがより安定し、将来的には費用も抑えられる可能性があります。",
+        "このような取り組みによる具体的な影響は、今後5年から10年以内に現れると予想されます。この期間は、これらの複雑な技術の実証が成功することと、特定のデブリの除去責任を誰が負うかについての明確な国際合意が確立されるかどうかに大きく左右されます。",
+        "日本はすでにこの分野で世界をリードしています。日本の企業であるアストロスケール社は、軌道デブリ除去や軌道上サービスのための技術を積極的に開発し、実証を進めています。今回の米国の動きは、アストロスケールのような企業が先駆けている技術の国際的な重要性が高まっていることを示しています。"
+      ]
+    },
+    "source": {
+      "name": "SpaceNews",
+      "url": "https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study/"
+    },
+    "sourceGuid": "https://spacenews.com/?p=610865",
+    "status": "published"
+  },
+  {
+    "slug": "nasa-prepares-next-generation-lunar-orbiter-through-commercial-partnerships",
+    "category": "artemis",
+    "issue": "Vol. 08",
+    "publishedAt": "2026-08-15T23:49:58.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
+    },
+    "title": {
+      "en": "NASA Prepares Next Generation Lunar Orbiter Through Commercial Partnerships",
+      "ja": "NASA、商業パートナーシップで次世代月周回衛星を準備"
+    },
+    "dek": {
+      "en": "NASA's CLPS program advances with new task orders, including a critical orbiter to ensure continuous lunar data for future off-world operations.",
+      "ja": "NASAのCLPSプログラムが新たなタスクオーダーで前進。将来の月面活動に必要なデータを継続的に提供するため、重要な月周回衛星も含まれる。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Washington D.C., August 15, 2026",
+      "ja": "ワシントンD.C.、2026年8月15日"
+    },
+    "tags": [
+      {
+        "en": "Lunar exploration",
+        "ja": "月探査"
+      },
+      {
+        "en": "NASA",
+        "ja": "NASA"
+      },
+      {
+        "en": "CLPS",
+        "ja": "CLPS"
+      },
+      {
+        "en": "Commercial space",
+        "ja": "商業宇宙"
+      }
+    ],
+    "body": {
+      "en": [
+        "The Moon, long a distant object of aspiration, is steadily being woven into the fabric of human enterprise. As plans for sustained lunar presence solidify, the need for robust, continuous data from orbit becomes paramount. This infrastructure forms the silent foundation for future inhabitants.",
+        "NASA is advancing its Commercial Lunar Payload Services (CLPS) program with the announcement of three new lunar missions slated for award this year. These task orders underscore the agency’s strategy to leverage private industry for cost-effective and agile access to the lunar surface and its immediate surroundings.",
+        "Among these upcoming missions is a crucial lunar orbiter, designed to take over the vital role currently fulfilled by the long-serving Lunar Reconnaissance Orbiter (LRO). The LRO, launched in 2009, has provided invaluable data, mapping the lunar surface with unprecedented detail and identifying potential resources and safe landing sites.",
+        "> an orbiter that would replace the Lunar Reconnaissance Orbiter",
+        "The planned replacement ensures an uninterrupted flow of high-resolution imagery and scientific measurements. This continuity is essential for mission planning, navigation, and understanding the lunar environment in preparation for human habitats and resource utilization.",
+        "By outsourcing these missions to commercial providers, NASA aims to foster a burgeoning lunar economy while focusing its own resources on more complex scientific endeavors and human exploration. This model accelerates the pace of lunar development, moving beyond singular government-led missions.",
+        "For those who will eventually live and work on the Moon, a constant orbital sentinel offers more than just scientific data. It provides the environmental intelligence necessary for constructing durable habitats, planning efficient supply chains, and ensuring the safety of lunar operations. It is the unseen eye that guides every step on the dusty, alien terrain, making the Moon a more predictable and habitable destination."
+      ],
+      "ja": [
+        "かつて遠い憧れの対象であった月は、今や人類の活動の織物へと着実に組み込まれつつある。月への持続的な滞在計画が具体化するにつれて、軌道上からの堅牢で継続的なデータの必要性は極めて重要となる。このインフラこそが、将来の月面居住者にとっての静かな基盤を形成するのだ。",
+        "NASAは、商業月面輸送サービス（CLPS）プログラムを推進しており、今年中に3つの新たな月ミッションを発注すると発表した。これらのタスクオーダーは、月面およびその近傍への費用対効果が高く、機敏なアクセスを民間産業に委ねるという同機関の戦略を明確に示している。",
+        "これら今後のミッションの中には、長年にわたり重要な役割を果たしてきた月周回衛星探査機ルナー・リコネサンス・オービター（LRO）の後継となる、極めて重要な月周回衛星が含まれる。2009年に打ち上げられたLROは、月面をかつてない詳細さでマッピングし、潜在的な資源や安全な着陸地点を特定するなど、計り知れないデータを提供してきた。",
+        "> 月周回衛星探査機ルナー・リコネサンス・オービターの後継機となる軌道船",
+        "計画されている後継機は、高解像度画像と科学的測定の途切れない流れを保証する。この継続性は、人間の居住地や資源利用に備え、ミッション計画、航法、月面環境の理解にとって不可欠である。",
+        "これらのミッションを商業プロバイダーに委託することで、NASAは活況を呈する月経済を育成しつつ、自らの資源をより複雑な科学的探査や有人探査に集中させることを目指す。このモデルは、単一の政府主導ミッションを超え、月開発のペースを加速させるものだ。",
+        "やがて月で暮らし、働く人々にとって、常に監視し続ける軌道上の存在は、単なる科学データ以上のものを提供する。それは、耐久性のある居住地を建設し、効率的なサプライチェーンを計画し、月面活動の安全を確保するために必要な環境情報をもたらす。月面の埃っぽい異質な地形でのあらゆる一歩を導く見えない目となり、月をより予測可能で居住可能な目的地へと変えていくのである。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "NASA is moving forward with its plan to use private companies to send various equipment, including a new mapping satellite, to the Moon. Think of it like a public agency hiring private delivery services to ensure that vital supplies and information keep flowing to a remote outpost, even replacing an aging vehicle that has served faithfully for years. This new satellite will continue to map the Moon's surface in detail.",
+        "For Tokyo readers, this development primarily impacts the broader space economy and future resource availability. More accurate and continuous lunar data could eventually influence the supply chains for rare metals, should lunar mining become economically viable. It also contributes to the global space infrastructure that underpins services like GPS and weather forecasting, potentially enhancing their accuracy and resilience over time.",
+        "We can anticipate these impacts materializing within a 5-10 year timeframe. The key gating factor is the successful deployment and sustained operation of these commercial lunar assets, coupled with the ongoing development of lunar resource extraction technologies and the establishment of international agreements on space resource utilization.",
+        "Japan has its own significant players in this field. ispace, for example, is a pioneering private company that has already attempted a lunar landing with its HAKUTO-R mission, demonstrating a similar commercial-first approach to lunar access. JAXA's Martian Moons eXploration (MMX) mission also involves sophisticated orbital operations, showcasing Japan's capabilities in deep-space exploration and data collection, even if its primary target is Mars."
+      ],
+      "ja": [
+        "NASAは、新しい地図作成衛星を含む様々な機器を月に送るために、民間企業を活用する計画を進めています。これはまるで、公的機関が民間の配送サービスを雇い、長年忠実に働いてきた古い車両を交換しつつ、遠隔地の拠点に不可欠な物資や情報が途切れることなく届けられるようにするようなものです。この新しい衛星は、今後も月の表面を詳細にマッピングし続けます。",
+        "東京の読者にとって、この進展は主に広範な宇宙経済と将来の資源利用に影響を与えるでしょう。より正確で継続的な月面データは、月での鉱物採掘が経済的に実現可能になった場合、レアメタルなどのサプライチェーンに影響を及ぼす可能性があります。また、GPSや天気予報などのサービスを支えるグローバルな宇宙インフラにも貢献し、長期的にはその精度と回復力を向上させる可能性があります。",
+        "これらの影響が具体化するのは、5年から10年程度の期間を要すると考えられます。重要な要因となるのは、これらの商業月面資産の配備と持続的な運用が成功すること、そして月面資源採掘技術の継続的な開発と、宇宙資源利用に関する国際合意の確立です。",
+        "日本にもこの分野で重要なプレイヤーが存在します。例えば、ispaceはHAKUTO-Rミッションで月面着陸を試みた先駆的な民間企業であり、月へのアクセスにおいて同様の商業優先アプローチを示しています。JAXAの火星衛星探査計画（MMX）も、高度な軌道上運用を含んでおり、主なターゲットは火星ですが、深宇宙探査とデータ収集における日本の能力を示しています。"
+      ]
+    },
+    "source": {
+      "name": "SpaceNews",
+      "url": "https://spacenews.com/lunar-orbiter-among-upcoming-nasa-clps-task-orders/"
+    },
+    "sourceGuid": "https://spacenews.com/?p=610868",
+    "status": "published"
+  },
+  {
     "slug": "beyond-utility-designing-for-life-in-orbit",
     "category": "space-tech",
     "issue": "Vol. 08",
@@ -1463,8 +1635,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
     },
     "title": {
       "en": "Orbital Mechanics: The New Era of Satellite Longevity",
@@ -1719,8 +1891,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Firefly Aerospace Achieves $100M Quarter Amidst Expanding Space Economy",
@@ -1887,8 +2059,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "The Golden Dome Initiative Faces a Funding Precipice",
@@ -1973,8 +2145,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101012"
     },
     "title": {
       "en": "Funding Uncertainty Threatens Off-World Ambitions",
@@ -2233,8 +2405,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Rocket Lab's GHOST: The Deployable Launchpad",
@@ -2319,8 +2491,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "Canadarm3 Pivots to Lunar Surface Operations",
@@ -2577,8 +2749,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Gateway's Shifting Purpose: A Foundation for Lunar Life",
@@ -3009,8 +3181,8 @@
     "readingMinutes": 3,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101012"
+      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "New Leadership Shapes U.S. Orbital Strategy",
@@ -3095,8 +3267,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1532618793091-ec5fe9635fbd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Redwire Books Dedicated Starfall Mission for Orbital Labs",
@@ -3181,8 +3353,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Europe Prepares for 2026 Total Solar Eclipse",
@@ -3437,8 +3609,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Tesla and SpaceX Forge a New Frontier with Terafab Chip Factory",
@@ -3607,8 +3779,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532618793091-ec5fe9635fbd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Europe's Evolving Space Defense Posture",
@@ -3693,8 +3865,8 @@
     "readingMinutes": 3,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0b0b0d"
     },
     "title": {
       "en": "Artemis III: Orion Modules Join for Lunar Journey",
@@ -3865,8 +4037,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "SpaceX's First Earnings Call: A Glimpse into Off-World Ambition",
@@ -4039,8 +4211,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "NRO Expands Commercial SAR Access for Persistent Earth Observation",
@@ -4125,8 +4297,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0b0b0d"
     },
     "title": {
       "en": "Observing Lunar Impacts: A New Era of Orbital Stewardship",
@@ -4211,8 +4383,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "SpaceX Powers Future Operations with Tesla Megapack Investment",
@@ -4297,8 +4469,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
     },
     "title": {
       "en": "Telesat Lightspeed Expands with Canadian Defense Contract",
@@ -4381,8 +4553,8 @@
     "readingMinutes": 3,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Florida's Terrestrial Space Race: A New Policy Push for Economic Dominance",
@@ -4467,8 +4639,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#08080a"
     },
     "title": {
       "en": "Lunar Compass: NASA's Navigation System for a Commercial Moon",
@@ -4639,8 +4811,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "The Shifting Orbits of Satellite Broadband: Hughes Files for Bankruptcy",
@@ -4725,8 +4897,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "Orbital Pursuit: True Anomaly Demonstrates In-Space Interception",
@@ -4899,8 +5071,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Blue Origin Contract Expansion Signals Future of Rocket-Powered Global Logistics",
@@ -5239,8 +5411,8 @@
     "readingMinutes": 3,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "K2 Space Secures Space Force Contract for Orbital Laser Communications",
@@ -5409,8 +5581,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "China's Dual Orbit: Secretive Satellites and Enhanced Communications",
@@ -5667,8 +5839,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Converging Ambitions: Tesla's China Operations and a SpaceX Future",
@@ -5839,8 +6011,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "The Billion-Dollar Question: Repurposing Mars Tech for Lunar Exploration",
@@ -5925,8 +6097,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "K2 Space Secures Half-Billion Dollar Investment",
@@ -6185,8 +6357,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "SpaceX Secures Major Military Satellite Launch Contracts",
@@ -6269,8 +6441,8 @@
     "readingMinutes": 3,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "New Zealand's Outlier Space Secures Funding for Reentry Vehicle",
@@ -6439,8 +6611,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Orbital Ballet Interrupted: A NASA Robot's Tumbling Descent",
@@ -6523,8 +6695,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "ESA Seeks New Purpose for Lunar Link Module",
@@ -6687,178 +6859,6 @@
       "url": "https://payloadspace.com/space-sciences-golden-age-problem/"
     },
     "sourceGuid": "https://payloadspace.com/?p=30784",
-    "status": "published"
-  },
-  {
-    "slug": "sentinel-1-reveals-deeper-scar-of-venezuela-quakes",
-    "category": "space-tech",
-    "issue": "Vol. 07",
-    "publishedAt": "2026-07-28T12:04:00.000Z",
-    "readingMinutes": 5,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
-    },
-    "title": {
-      "en": "Sentinel-1 Reveals Deeper Scar of Venezuela Quakes",
-      "ja": "センチネル1、ベネズエラ地震のより深い爪痕を明かす"
-    },
-    "dek": {
-      "en": "Satellite data from ESA's Sentinel-1 mission has unveiled the true scale of ground displacement following the catastrophic twin earthquakes in northern Venezuela, exceeding initial estimates.",
-      "ja": "ESAのセンチネル1ミッションからの衛星データが、ベネズエラ北部で発生した壊滅的な双子地震後の地盤変位の真の規模を明らかにし、初期推定を上回る結果を示した。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "VENEZUELA",
-      "ja": "ベネズエラ"
-    },
-    "tags": [
-      {
-        "en": "Earth observation",
-        "ja": "地球観測"
-      },
-      {
-        "en": "satellite technology",
-        "ja": "衛星技術"
-      },
-      {
-        "en": "disaster response",
-        "ja": "災害対応"
-      },
-      {
-        "en": "seismic activity",
-        "ja": "地震活動"
-      }
-    ],
-    "body": {
-      "en": [
-        "On June 24, 2026, northern Venezuela experienced a pair of severe earthquakes, events that left a visible mark on the landscape and an invisible one beneath the surface. As the immediate aftermath settled, scientists turned to orbital assets to understand the full scope of the geological shift.",
-        "More than a month later, data from the European Space Agency's (ESA) Sentinel-1 satellite constellation has provided a clearer picture. These sophisticated radar instruments, orbiting Earth at an altitude of approximately 700 kilometers, are designed to monitor land and ocean surfaces with high precision.",
-        "Sentinel-1 utilizes Synthetic Aperture Radar (SAR) interferometry to detect minute changes in Earth's surface. By comparing radar images taken before and after the seismic events, researchers can map ground deformation with millimeter accuracy, revealing shifts imperceptible to the human eye.",
-        "The analysis of the Venezuelan quakes indicated that the ground displacement was more extensive than preliminary assessments suggested. This detailed mapping is critical for understanding the mechanics of such seismic events and for assessing long-term risks in affected regions.",
-        "> \"Satellite data show the ground displacement was greater than first estimated.\"",
-        "Such precise geodetic measurements offer invaluable insights for emergency response, urban planning in seismically active zones, and the design of resilient infrastructure. They transform post-disaster evaluation from conjecture to empirical fact.",
-        "For those contemplating life beyond Earth, the capabilities of missions like Sentinel-1 hold a particular resonance. Off-world habitats, whether on the Moon or Mars, will require constant, precise monitoring for structural integrity, potential regolith shifts, and any subtle geological activity that could compromise safety or operations. The ability to detect a millimetre of movement from orbit will transition from an Earth-bound asset to an essential tool for maintaining permanent human presence across the solar system."
-      ],
-      "ja": [
-        "2026年6月24日、ベネズエラ北部を襲った一対の激しい地震は、地表に目に見える痕跡を残すとともに、地下には目に見えない変化をもたらした。事態が沈静化した後、科学者たちはその地質学的変動の全容を把握するため、軌道上の資産に目を向けた。",
-        "それから一ヶ月以上が経過し、欧州宇宙機関（ESA）のセンチネル1衛星群からのデータが、より明確な全体像を提供した。地球上空約700キロメートルを周回するこれらの洗練されたレーダー機器は、陸地と海洋の表面を高精度で監視するように設計されている。",
-        "センチネル1は、合成開口レーダー（SAR）干渉法を用いて、地球表面の微細な変化を検出する。地震発生前後に撮影されたレーダー画像を比較することで、研究者たちは地盤の変形をミリメートル単位の精度でマッピングし、肉眼では捉えられないほどの変化を明らかにする。",
-        "ベネズエラ地震の分析結果は、地盤の変位が当初の予備評価よりも広範囲に及んでいたことを示した。この詳細なマッピングは、そのような地震のメカニズムを理解し、被災地域の長期的なリスクを評価する上で極めて重要となる。",
-        "> 「衛星データは、地盤変位が当初の推定よりも大きかったことを示している。」",
-        "このような精密な測地学的測定は、緊急対応、地震活動が活発な地域の都市計画、そして強靭なインフラ設計のために計り知れない洞察を提供する。これらは、災害後の評価を推測から経験的事実へと転換させる。",
-        "地球外での生活を考える人々にとって、センチネル1のようなミッションの能力は特別な意味を持つ。月や火星の居住地は、構造的完全性、レゴリス（表土）の潜在的な移動、そして安全性や運用を損なう可能性のある微細な地質活動について、絶えず正確な監視を必要とするだろう。軌道上からミリメートル単位の動きを検出する能力は、地球上の資産から、太陽系全体で永続的な人類の存在を維持するための不可欠なツールへと移行していく。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This news describes how a European satellite, Sentinel-1, used its advanced radar to precisely measure how much the ground moved after the recent earthquakes in Venezuela. It's like having an incredibly sensitive, space-based ruler that can detect tiny shifts in the Earth's surface that we can't see with our eyes.",
-        "For readers in Tokyo, this technology has direct implications for how we manage and prepare for natural disasters. More accurate and timely data on ground deformation can lead to better predictions of aftershocks, more precise damage assessments, and improved urban planning in our own seismically active region. It could also refine the models used for early warning systems for tsunamis.",
-        "We can expect to see these kinds of advanced satellite data integrated more deeply into Tokyo's disaster response frameworks within the next 3 to 5 years. The key gating factor will be the development of more sophisticated AI and data processing algorithms that can rapidly translate raw satellite data into actionable insights for municipal governments and emergency services.",
-        "Japan is already a leader in this field with JAXA's ALOS-2 (Daichi-2) satellite, which also uses Synthetic Aperture Radar (SAR) for Earth observation. ALOS-2 has been instrumental in monitoring crustal deformation from earthquakes and volcanic activity within Japan. While ALOS-2 provides valuable domestic coverage, the international collaboration and continuous global coverage offered by constellations like Sentinel-1 highlight the benefits of a broader, interconnected network for planetary monitoring."
-      ],
-      "ja": [
-        "このニュースは、ヨーロッパの衛星であるセンチネル1が、ベネズエラで発生した最近の地震後に、地盤がどれだけ動いたかを高度なレーダーを使って精密に測定したというものです。これは、私たちの目では見えない地球表面の微細な変化を検出できる、信じられないほど高感度な宇宙の定規を持っているようなものです。",
-        "東京に住む私たちにとって、この技術は自然災害への備えと管理のあり方に直接的な影響を与えます。地盤変形に関するより正確でタイムリーなデータは、余震のより良い予測、より精密な被害評価、そして地震活動が活発な私たちの地域における都市計画の改善につながる可能性があります。津波の早期警報システムに使われるモデルも、さらに洗練されるかもしれません。",
-        "このような高度な衛星データが東京の防災体制にさらに深く統合されるのは、今後3年から5年以内には期待できるでしょう。重要な要因は、生の衛星データを自治体や緊急サービスにとって実用的な情報へと迅速に変換できる、より洗練されたAIとデータ処理アルゴリズムの開発です。",
-        "日本はすでにこの分野で、JAXAの陸域観測技術衛星2号「だいち2号」（ALOS-2）を擁し、先行しています。だいち2号も合成開口レーダー（SAR）を地球観測に利用しており、日本国内の地震や火山活動による地殻変動の監視に重要な役割を果たしてきました。だいち2号が貴重な国内カバーを提供している一方で、センチネル1のようなコンステレーションが提供する国際的な協力と継続的な地球規模のカバーは、惑星監視のためのより広範で相互接続されたネットワークの利点を示しています。"
-      ]
-    },
-    "source": {
-      "name": "ESA",
-      "url": ""
-    },
-    "sourceGuid": "72fa36bd5514eb13d4aa776381a184ca",
-    "status": "published"
-  },
-  {
-    "slug": "amazons-kuiper-targets-direct-to-phone-satellite-connectivity",
-    "category": "space-tech",
-    "issue": "Vol. 07",
-    "publishedAt": "2026-07-27T18:08:29.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
-    },
-    "title": {
-      "en": "Amazon's Kuiper Targets Direct-to-Phone Satellite Connectivity",
-      "ja": "アマゾン・カイパー、携帯電話向け直接衛星接続を目指す"
-    },
-    "dek": {
-      "en": "Amazon's Project Kuiper prepares to enter the direct-to-mobile satellite communication market, intensifying competition and reshaping the future of global connectivity, both on and off-world.",
-      "ja": "アマゾン・カイパー計画が、携帯電話向け直接衛星通信市場への参入準備を進める。これは競争を激化させ、地球上および地球外におけるグローバル接続の未来を再構築する動きとなるだろう。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "ORBIT",
-      "ja": "軌道上"
-    },
-    "tags": [
-      {
-        "en": "Amazon",
-        "ja": "アマゾン"
-      },
-      {
-        "en": "Project Kuiper",
-        "ja": "カイパー計画"
-      },
-      {
-        "en": "Satellite Internet",
-        "ja": "衛星インターネット"
-      },
-      {
-        "en": "Direct-to-Cell",
-        "ja": "衛星直接通信"
-      }
-    ],
-    "body": {
-      "en": [
-        "The vast expanse of low Earth orbit continues to be a battleground for terrestrial connectivity, a space where the next generation of global communication is being forged. On July 27, 2026, Amazon announced its significant expansion into direct-to-mobile satellite services, positioning its Project Kuiper constellation as a direct competitor in the burgeoning market for ubiquitous cellular coverage.",
-        "This strategic move aims to leverage Kuiper's planned thousands of satellites to deliver internet access directly to standard mobile phones, bypassing the need for traditional ground-based cellular towers. The ambition is clear: to provide seamless connectivity even in the most remote or underserved regions of the planet, where conventional infrastructure remains impractical or impossible.",
-        "The underlying technology relies on advanced phased-array antennas aboard the LEO satellites, capable of precisely targeting and communicating with handheld devices below. This direct link promises not only emergency communication capabilities but also everyday internet access for users far from urban centers.",
-        "Amazon's entry into this segment signals a direct challenge to existing players, most notably SpaceX's Starlink, which has already forged partnerships with mobile carriers to offer similar direct-to-cell services. The competitive landscape is set to intensify, driving innovation and potentially lowering costs across the sector.",
-        "> The new network is set to intensify the competitive landscape for global satellite internet.",
-        "Beyond the immediate commercial implications, the deployment of such robust, interconnected LEO constellations holds profound significance for future off-world habitats. As humanity expands its presence beyond Earth, the need for reliable, high-bandwidth communication infrastructure becomes paramount, mirroring the demands of remote terrestrial locations.",
-        "For those living and working on the Moon, Mars, or in orbital stations, a mature, competitive LEO direct-to-phone ecosystem on Earth could accelerate the development of similar, dedicated off-world communication networks. It establishes a precedent for personal connectivity and remote operations, ensuring that lunar bases or Martian outposts are not isolated, but rather integral parts of an extended digital fabric, connecting residents with loved ones and enabling real-time data flow for science and commerce, all from a device in hand."
-      ],
-      "ja": [
-        "低軌道の広大な空間は、地上における接続性のための競争の場であり、次世代のグローバル通信がそこで形作られつつある。2026年7月27日、アマゾンは携帯電話向け直接衛星サービスへの大幅な拡大を発表した。これにより、同社のカイパー計画の衛星群が、普及しつつあるセルラーカバレッジ市場における直接的な競争相手として位置付けられることになった。",
-        "この戦略的な動きは、カイパーが計画する数千もの衛星を活用し、従来の地上基地局を介さずに、一般的な携帯電話に直接インターネットアクセスを提供することを目指している。その野心は明白だ。従来のインフラが非現実的あるいは不可能である、地球上の最も遠隔地やサービスが行き届いていない地域でも、シームレスな接続性を提供することである。",
-        "基盤となる技術は、低軌道衛星に搭載された高度なフェーズドアレイアンテナに依存しており、地上のハンドヘルドデバイスを正確に捉え、通信することが可能だ。この直接リンクは、緊急通信能力だけでなく、都市部から遠く離れたユーザーにも日常的なインターネットアクセスを約束する。",
-        "アマゾンのこの分野への参入は、既存のプレイヤー、特にスペースXのスターリンクへの直接的な挑戦を意味する。スターリンクはすでに携帯電話キャリアと提携し、同様の直接通信サービスを提供している。競争環境は激化し、業界全体のイノベーションを促進し、コスト削減につながる可能性もあるだろう。",
-        "> 新たなネットワークは、世界の衛星インターネット市場における競争を激化させるだろう。",
-        "直接的な商業的影響を超えて、このような堅牢で相互接続された低軌道コンステレーションの展開は、将来の地球外居住地にとって深い意義を持つ。人類が地球外へと活動範囲を広げるにつれて、信頼性の高い高帯域幅の通信インフラの必要性は、地上の遠隔地の需要を反映し、極めて重要となる。",
-        "月、火星、あるいは軌道上のステーションで生活し働く人々にとって、地球上で成熟した競争力のある低軌道直接通信エコシステムは、同様の専用地球外通信ネットワークの開発を加速させる可能性がある。これは、個人的な接続性と遠隔操作の先例を確立し、月面基地や火星前哨基地が孤立することなく、拡大されたデジタル基盤の不可欠な一部として、居住者が愛する人々とつながり、科学や商業のためのリアルタイムデータフローを可能にすることを、手元のデバイス一つで実現するだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Amazon recently announced a major step in its Project Kuiper, aiming to deliver internet directly to mobile phones from thousands of satellites in low Earth orbit. Imagine your smartphone connecting to a satellite instead of a local cell tower, no matter where you are. This technology promises to bridge communication gaps in areas where traditional infrastructure is scarce or damaged.",
-        "For Tokyo readers, this development holds several plausible near-future impacts. While urban Tokyo is well-served by ground networks, a satellite-to-phone service could offer crucial resilience during natural disasters, providing a robust backup when terrestrial systems fail. It could also enhance connectivity for activities in Japan's more remote regions, such as mountaineering, fishing, or operations on distant islands, potentially making these areas safer and more accessible for business and leisure.",
-        "This impact is likely to be felt within 3 to 5 years. The timeline depends on Amazon's full deployment of its Kuiper constellation and, critically, the Japanese government's regulatory approvals for such direct-to-device services. Securing spectrum licenses and integrating with existing telecommunication frameworks will be key gating factors.",
-        "While Japan does not currently have a direct commercial counterpart developing a global direct-to-phone LEO constellation on this scale, companies like SoftBank are actively exploring satellite-based communication technologies, including High Altitude Platform Stations (HAPS), to extend connectivity. JAXA also conducts research into lunar communication infrastructure, demonstrating Japan's commitment to advancing space-based communication. This global competition could spur further domestic innovation in resilient and widespread connectivity solutions."
-      ],
-      "ja": [
-        "アマゾンは先日、カイパー計画における重要な一歩を発表しました。これは、数千もの低軌道衛星から携帯電話へ直接インターネットを提供するというものです。まるで、どこにいてもスマートフォンが地元の携帯基地局ではなく、人工衛星とつながるようなものです。この技術は、従来のインフラが不足している地域や、災害で損傷した地域における通信の隔たりを埋めることを約束しています。",
-        "東京に暮らす読者にとって、この進展はいくつかの現実的な近い将来の影響をもたらすでしょう。都市部の東京は地上のネットワークが充実していますが、衛星から携帯電話へのサービスは、自然災害時に地上システムが機能しなくなった際の、極めて重要なレジリエンス（回復力）を提供できます。また、登山、漁業、離島での活動など、日本のより遠隔地での接続性を向上させ、ビジネスやレジャーにおいてこれらの地域をより安全でアクセスしやすくする可能性があります。",
-        "この影響が感じられるのは、3年から5年以内でしょう。これはアマゾンによるカイパー衛星群の完全な展開と、決定的に重要な日本政府による直接通信サービスに対する規制承認にかかっています。周波数帯の確保と既存の電気通信フレームワークへの統合が、主要な制約要因となるでしょう。",
-        "日本には現在、この規模でグローバルな携帯電話向け直接低軌道コンステレーションを開発している直接的な商業的競合はいませんが、ソフトバンクのような企業は、HAPS（高高度プラットフォームステーション）を含む衛星ベースの通信技術を積極的に探求し、接続範囲の拡大を目指しています。JAXAも月面通信インフラの研究を行っており、宇宙ベースの通信を進化させる日本のコミットメントを示しています。この国際的な競争は、国内におけるレジリエントで広範な接続ソリューションのさらなるイノベーションを促進するかもしれません。"
-      ]
-    },
-    "source": {
-      "name": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/"
-    },
-    "sourceGuid": "https://techcrunch.com/?p=3146953",
     "status": "published"
   }
 ]

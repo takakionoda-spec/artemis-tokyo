@@ -1,5 +1,345 @@
 [
   {
+    "slug": "the-arduous-return-starship-recovery-and-the-logistics-of-orbit",
+    "category": "space-tech",
+    "issue": "Vol. 08",
+    "publishedAt": "2026-08-18T19:01:09.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ship40_2-1152x648-1787078981.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "The Arduous Return: Starship Recovery and the Logistics of Orbit",
+      "ja": "困難な帰還：スターシップ回収と軌道輸送のロジスティクス"
+    },
+    "dek": {
+      "en": "SpaceX's colossal Starship, after an orbital test flight, endured a 24-day tow across the open sea, marking a critical milestone in the complex logistics of reusable super-heavy lift.",
+      "ja": "軌道試験飛行を終えたSpaceXの巨大なスターシップは、24日間にわたる海上曳航を経て港に到着した。これは、再利用可能な超大型ロケット輸送における複雑なロジスティクスの重要な節目となる。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "SpaceX",
+        "ja": "スペースX"
+      },
+      {
+        "en": "Starship",
+        "ja": "スターシップ"
+      },
+      {
+        "en": "Reusability",
+        "ja": "再利用性"
+      },
+      {
+        "en": "Logistics",
+        "ja": "ロジスティクス"
+      }
+    ],
+    "body": {
+      "en": [
+        "The sheer scale of SpaceX's Starship system presents unprecedented challenges, not only in launch and flight but also in the arduous process of recovery. Following its latest orbital test flight, the immense vehicle embarked on a prolonged journey across the Gulf of Mexico, towed by specialized vessels.",
+        "This particular recovery operation stretched over 24 days at sea, a testament to both the size of the Starship's booster or upper stage and the logistical complexities involved. The process of securing, stabilizing, and transporting such a massive structure across open waters is a formidable undertaking, pushing the boundaries of marine salvage and heavy transport.",
+        "The successful arrival of the Starship at port, after weeks adrift, underscores a critical aspect of SpaceX's long-term vision for reusability. While previous Starship test flights have focused on launch and atmospheric maneuvers, the ability to physically retrieve and return the vehicle for inspection and refurbishment is paramount to its operational future.",
+        "> The original report highlighted the vehicle's '24 days at sea'.",
+        "This extended recovery period, though challenging, provides invaluable data for future operational planning. It informs engineering decisions regarding future recovery methods, whether through direct catch mechanisms, more efficient tow procedures, or alternative landing sites. The goal remains rapid, cost-effective reusability.",
+        "The development of Starship is fundamentally about reducing the cost per kilogram to orbit. Achieving this hinges on the ability to turn around vehicles quickly and reliably. The lessons learned from this 24-day tow will directly influence the design of future recovery infrastructure and the operational cadence required for sustained lunar or Martian missions.",
+        "For those who will eventually live and work beyond Earth, the implications are profound. A system capable of reliably transporting vast quantities of cargo and personnel to orbit, and beyond, changes the very texture of off-world existence. It shifts the paradigm from austere, temporary outposts to more robust, permanent habitats, built with materials and components that are economically feasible to deliver in bulk. The difficulty of retrieving the vehicle from the sea today foreshadows the immense logistical efforts required to sustain a burgeoning off-world civilization, but also demonstrates the resolve to overcome them."
+      ],
+      "ja": [
+        "SpaceXのスターシップシステムが持つ途方もない規模は、打ち上げや飛行だけでなく、その回収という困難なプロセスにおいても前例のない課題を突きつける。最新の軌道試験飛行を終えたこの巨大な機体は、特殊な曳航船によってメキシコ湾を横断する長旅に出た。",
+        "今回の回収作業は海上を24日間にわたり航行し、スターシップのブースターまたは上段の巨大さと、それに伴うロジスティクスの複雑さを如実に示した。これほど巨大な構造物を公海上で固定し、安定させ、輸送する作業は、海上サルベージと重量物輸送の限界を押し広げる、実に手強い試みである。",
+        "数週間の漂流を経て、スターシップが無事に港に到着したことは、SpaceXが掲げる再利用という長期ビジョンの重要な側面を強調する。これまでのスターシップ試験飛行が打ち上げや大気圏内での操縦に焦点を当ててきた一方で、機体を物理的に回収し、検査と整備のために帰還させる能力は、その運用の未来にとって極めて重要だ。",
+        "原文より：「24日間の海上滞在」",
+        "この長期間にわたる回収作業は、困難ではあったものの、将来の運用計画にとって貴重なデータを提供する。これは、直接捕捉機構、より効率的な曳航手順、あるいは代替着陸地点といった将来の回収方法に関する技術的な決定に影響を与えるだろう。目標は、迅速で費用対効果の高い再利用性の実現である。",
+        "スターシップの開発は、根本的に軌道へのキログラムあたりのコストを削減することを目指している。これを達成するには、機体を迅速かつ確実に再利用できる能力が不可欠だ。今回の24日間の曳航から得られた教訓は、将来の回収インフラの設計や、月面や火星への持続的なミッションに必要な運用サイクルに直接的な影響を与えるだろう。",
+        "やがて地球外で暮らし、働く人々にとって、その意味は計り知れない。大量の貨物と人員を軌道、そしてその先へと確実に輸送できるシステムは、地球外での生活そのものの質を変える。それは、質素で一時的な前哨基地から、大量輸送が経済的に実現可能となる素材や部品で建設された、より堅牢で恒久的な居住地へとパラダイムを転換させる。今日の海からの機体回収の困難さは、成長する地球外文明を維持するために必要となる膨大なロジスティクス努力を予見させるが、同時にそれらを克服する決意も示している。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "SpaceX successfully brought its massive Starship rocket stage back to port after it spent 24 days being towed across the ocean. Think of it like a giant cargo ship that just completed a delivery to a distant port, but instead of goods, it delivered itself to the edge of space. The challenge wasn't just launching it, but safely bringing this colossal structure back to land for future use.",
+        "For Tokyo readers, this kind of achievement, while seemingly distant, has tangible implications. If rockets like Starship can be reliably reused, the cost of sending anything to orbit — from communication satellites to materials for space-based manufacturing — will plummet. This could mean cheaper and faster internet services for your smartphone, more resilient weather forecasting, and eventually, access to new materials processed in zero gravity that might find their way into advanced electronics or construction here on Earth.",
+        "This future isn't immediate, but it's not science fiction either. We're looking at a timeframe of 5 to 10 years, primarily gated by SpaceX's ability to achieve rapid, routine reusability and scale up its launch cadence. The technical hurdles are immense, but the economic drive is even stronger. Once the cost per kilogram to low Earth orbit falls significantly, the applications will expand dramatically.",
+        "While Japan's H3 rocket is also a powerful launch vehicle designed for cost-efficiency, it doesn't currently aim for the Starship's super-heavy lift capacity or its full, rapid reusability concept for its core stages. However, Japanese companies like Interstellar Technologies are actively developing reusable suborbital rockets, and JAXA continues to explore future reusable launch systems. The ambition for cheaper, more frequent access to space is shared, even if the specific approaches differ."
+      ],
+      "ja": [
+        "SpaceXは、巨大なスターシップロケットの機体を、24日間にわたる海上曳航の末、無事に港まで帰還させました。これはまるで、遠い港への配達を終えた巨大な貨物船が、貨物ではなく自分自身を宇宙の入り口まで届け、そして帰ってきたようなものです。打ち上げるだけでなく、この途方もない構造物を安全に陸に戻し、再利用できるようにすることが大きな課題でした。",
+        "東京に住む読者にとって、このような成果は一見遠い出来事に見えますが、具体的な影響をもたらします。もしスターシップのようなロケットが繰り返し確実に利用できるようになれば、通信衛星から宇宙空間での製造材料まで、あらゆるものを軌道に送るコストが劇的に下がります。これにより、スマートフォンのインターネットサービスがより安価で高速になったり、気象予報の精度が向上したり、将来的には無重力空間で加工された新しい素材が、地上の高度な電子機器や建築材料に使われるようになるかもしれません。",
+        "この未来はすぐに訪れるものではありませんが、SFの世界の話でもありません。SpaceXが迅速かつ日常的な再利用を実現し、打ち上げ頻度を大幅に増やせるかどうかにかかっており、5年から10年程度の期間を想定しています。技術的な障壁は大きいですが、経済的な推進力はさらに強力です。低軌道へのキログラムあたりの輸送コストが大幅に下がれば、その応用範囲は飛躍的に広がるでしょう。",
+        "日本のH3ロケットも費用対効果を重視した強力な打ち上げ機ですが、スターシップのような超大型輸送能力や、主要な機体の完全かつ迅速な再利用というコンセプトは現在のところ目指していません。しかし、インターステラテクノロジズのような日本の企業は、再利用可能なサブオービタルロケットの開発に積極的に取り組んでおり、JAXAも将来の再利用型打ち上げシステムの研究を続けています。より安価で頻繁な宇宙へのアクセスという目標は共通しており、アプローチが異なるだけと言えるでしょう。"
+      ]
+    },
+    "source": {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/"
+    },
+    "sourceGuid": "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/",
+    "status": "published"
+  },
+  {
+    "slug": "the-quiet-expansion-understanding-the-space-force-spending-surge",
+    "category": "space-tech",
+    "issue": "Vol. 08",
+    "publishedAt": "2026-08-18T12:00:00.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
+    },
+    "title": {
+      "en": "The Quiet Expansion: Understanding the Space Force Spending Surge",
+      "ja": "静かなる拡大：宇宙軍支出急増の背景"
+    },
+    "dek": {
+      "en": "A new report from Aerospace Corp. reveals a significant increase in U.S. Space Force spending, concentrated in classified programs and advanced orbital security, hinting at a militarized future for off-world environments.",
+      "ja": "アエロスペース・コーポレーションの新たな報告書は、米宇宙軍の支出が機密プログラムと高度な軌道安全保障に集中して大幅に増加していることを明らかにし、地球外環境の軍事化された未来を示唆する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "WASHINGTON D.C. / August 18, 2026",
+      "ja": "ワシントンD.C. / 2026年8月18日"
+    },
+    "tags": [
+      {
+        "en": "Space Force",
+        "ja": "宇宙軍"
+      },
+      {
+        "en": "US military",
+        "ja": "米軍"
+      },
+      {
+        "en": "defense spending",
+        "ja": "防衛費"
+      },
+      {
+        "en": "orbital security",
+        "ja": "軌道安全保障"
+      }
+    ],
+    "body": {
+      "en": [
+        "The quiet expansion of military capabilities in orbit often precedes broader human migration. A recent report from Aerospace Corp. casts light on a significant surge in U.S. Space Force spending, detailing where these considerable resources are being directed.",
+        "The analysis reveals that the majority of this financial growth is concentrated in highly sensitive areas: classified programs, advanced target tracking systems, enhanced missile warning capabilities, and command and control infrastructure. These are the sinews of a robust military presence in space.",
+        "While specific dollar figures are often veiled, the report underscores a deliberate and substantial increase, moving beyond mere maintenance to active expansion. This represents a strategic shift, prioritizing orbital defense and surveillance in an increasingly complex geopolitical landscape.",
+        "> Most growth concentrated in classified programs, target tracking, missile warning and command and control.",
+        "The emphasis on these domains reflects a perception of heightened threats and the strategic imperative to secure orbital assets. It signals a future where space is not merely a domain for scientific exploration or commercial enterprise, but a critical theatre for national security. For future inhabitants of lunar outposts or orbital habitats, this surge in military spending suggests a dual reality. While enhanced surveillance might offer a layer of security against unforeseen hazards, it also implies a more regulated, potentially militarized environment. The cost of living off-world might include the unseen premium of defense, shaping everything from architectural resilience to the very nature of governance in nascent extraterrestrial communities."
+      ],
+      "ja": [
+        "軌道上での軍事能力の静かなる拡大は、しばしば人類のさらなる宇宙移住に先行する。最近のアエロスペース・コーポレーションの報告書は、米宇宙軍の支出が大幅に増加している現状と、その膨大な資源がどこに向けられているのかを明らかにした。",
+        "この分析によると、財政的成長の大部分は、極めて機密性の高い分野、すなわち機密プログラム、高度な目標追跡システム、ミサイル警戒能力の強化、そして指揮統制インフラに集中している。これらは、軌道上における強固な軍事プレゼンスの要となる。",
+        "具体的な金額は多くの場合伏せられているものの、報告書は単なる維持管理を超え、積極的な拡大へと向かう意図的かつ実質的な増加を強調している。これは、複雑化する地政学的状況の中で、軌道上の防衛と監視を優先する戦略的な転換を示している。",
+        "「成長のほとんどは、機密プログラム、目標追跡、ミサイル警戒、および指揮統制に集中している。」",
+        "これらの領域への重点は、脅威認識の高まりと、軌道上の資産を確保するための戦略的要請を反映している。宇宙が単なる科学探査や商業活動の領域ではなく、国家安全保障にとって極めて重要な舞台となる未来を示唆している。月面基地や軌道上居住地の将来の住民にとって、この軍事支出の急増は二重の現実を示唆する。強化された監視は予期せぬ危険に対するセキュリティ層を提供するかもしれないが、同時に、より規制され、潜在的に軍事化された環境を意味する。地球外での生活コストには、目に見えない防衛のプレミアムが含まれる可能性があり、それは建築の弾力性から、初期の地球外コミュニティにおける統治そのものの性質に至るまで、あらゆるものを形成するだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The U.S. Space Force, which is America's military branch for space, has significantly increased its budget. A new report shows this money is mostly going into secret projects, systems to track objects in space, early warnings for missiles, and ways to control their space assets. Think of it like a country heavily upgrading its air force with advanced radar and command centers, but these are all positioned in orbit.",
+        "For those in Tokyo, this development has several plausible near-future impacts. Increased orbital security and surveillance could lead to more resilient satellite communications, which underpin everything from mobile networks to navigation apps. It might also influence the cost and availability of insurance for Japanese commercial satellites, as the overall orbital environment's security posture shifts.",
+        "These changes will likely manifest within 3-5 years. The primary gating factor will be the maturation of these U.S. capabilities and how they integrate into international space norms and commercial operations. As these systems become operational, they will inevitably influence the global space economy and security landscape.",
+        "Japan is also actively involved in space security. JAXA, in collaboration with the Cabinet Office, has been working on Space Situational Awareness (SSA) — tracking objects and potential threats in orbit. Companies like Astroscale, while focused on debris removal, contribute to orbital sustainability and security, reflecting Japan's commitment to a safe and stable space environment, even if its military space budget differs in scale and focus from the U.S."
+      ],
+      "ja": [
+        "アメリカの宇宙軍、つまり宇宙における軍事部門が、その予算を大幅に増やしています。新しい報告書によると、この資金のほとんどは、秘密のプロジェクト、宇宙空間の物体を追跡するシステム、ミサイルの早期警戒、そして宇宙資産を制御するための手段に投入されています。これは、ある国が高度なレーダーや指揮統制センターで空軍を大幅にアップグレードするのと似ていますが、それがすべて軌道上に配置されると想像してください。",
+        "東京に住む私たちにとって、この進展はいくつかの近い将来の影響をもたらす可能性があります。軌道上のセキュリティと監視が強化されることで、携帯電話ネットワークからナビゲーションアプリまで、あらゆるものを支える衛星通信のレジリエンス（回復力）が高まるかもしれません。また、軌道環境全体のセキュリティ態勢が変化するにつれて、日本の商業衛星保険の費用や利用可能性にも影響を与える可能性があります。",
+        "これらの変化は、おそらく3〜5年以内に具体化するでしょう。主な決定要因は、これらの米国の能力が成熟し、国際的な宇宙規範や商業運用にどのように統合されるかです。これらのシステムが運用されるにつれて、世界の宇宙経済と安全保障の状況に必然的に影響を与えるでしょう。",
+        "日本も宇宙安全保障に積極的に関与しています。JAXAは内閣府と協力し、宇宙状況把握（SSA）—軌道上の物体や潜在的な脅威を追跡する—に取り組んできました。アストロスケールのような企業は、デブリ除去に焦点を当てつつも、軌道の持続可能性と安全保障に貢献しており、これは米国の宇宙軍事予算とは規模や焦点が異なるものの、安全で安定した宇宙環境への日本のコミットメントを反映しています。"
+      ]
+    },
+    "source": {
+      "name": "SpaceNews",
+      "url": "https://spacenews.com/new-report-takes-closer-look-at-the-space-force-spending-surge/"
+    },
+    "sourceGuid": "https://spacenews.com/?p=611127",
+    "status": "published"
+  },
+  {
+    "slug": "the-ascendant-orbit-us-defense-spending-reshapes-space-economy",
+    "category": "space-tech",
+    "issue": "Vol. 08",
+    "publishedAt": "2026-08-18T17:45:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
+    },
+    "title": {
+      "en": "The Ascendant Orbit: US Defense Spending Reshapes Space Economy",
+      "ja": "軌道の隆盛：米国防衛費が宇宙経済を再構築する"
+    },
+    "dek": {
+      "en": "The US Space Force's record-breaking FY27 budget request signals a profound shift in the foundational economics of off-world operations, influencing everything from satellite design to orbital traffic management.",
+      "ja": "米宇宙軍による過去最高の2027会計年度予算要求は、衛星設計から軌道交通管理に至るまで、地球外活動の基盤となる経済に深い変化をもたらす兆候である。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "WASHINGTON, D.C. / TOKYO",
+      "ja": "ワシントンD.C. / 東京"
+    },
+    "tags": [
+      {
+        "en": "Space Policy",
+        "ja": "宇宙政策"
+      },
+      {
+        "en": "Space Economy",
+        "ja": "宇宙経済"
+      },
+      {
+        "en": "Defense Space",
+        "ja": "防衛宇宙"
+      },
+      {
+        "en": "US Space Force",
+        "ja": "米宇宙軍"
+      }
+    ],
+    "body": {
+      "en": [
+        "The silent, invisible infrastructure of orbit is undergoing a profound transformation. The United States Space Force has put forward a budget request for Fiscal Year 2027 that significantly elevates the financial commitment to space operations, signaling a new era of investment.",
+        "Earlier this year, the Space Force's FY27 budget request made headlines with a staggering $71.3 billion — a record-breaking figure. This allocation underscores an accelerating strategic focus on the orbital domain, moving beyond mere exploration to active defense and economic assertion.",
+        "This substantial increase is not simply about military might; it reflects a broader integration of space into national security and economic strategy. Such a large-scale injection of capital into aerospace development inevitably stimulates innovation across various sectors, from advanced propulsion systems to resilient communication networks.",
+        "The implications extend to the commercial space industry. Government contracts often serve as anchor tenants, providing a stable revenue stream that de-risks private ventures and accelerates the development of technologies with dual-use potential. This dynamic can foster a more robust supply chain and drive down costs for all users.",
+        "> The post Deep Dive: FY27 Defense Space Budget appeared first on Payload.",
+        "For those considering a future beyond Earth, this intensified focus on orbital infrastructure carries tangible consequences. More robust and secure satellite constellations, for instance, could mean more reliable communication channels and precise navigation systems for lunar bases or Martian outposts. The very fabric of off-world logistics, from supply routes to emergency response, depends on this foundational layer.",
+        "Yet, the increasing militarization of space also introduces new complexities. While fostering technological advancement, it also raises questions about orbital debris, spectrum allocation, and the long-term sustainability of a crowded celestial environment. Future residents of orbital habitats or planetary settlements will inherit a domain shaped by these contemporary decisions.",
+        "Ultimately, the sheer scale of this budget reshapes the economic calculus for off-world living. It implies a future where the cost of essential services—from bandwidth to navigation—might decrease due to economies of scale and advanced technology, but also one where the geopolitical landscape of space demands constant vigilance, influencing everything from trade routes to insurance premiums for lunar properties."
+      ],
+      "ja": [
+        "目に見えない、静かな軌道のインフラが今、深い変革の時を迎えている。米国宇宙軍は、宇宙作戦への財政的コミットメントを大幅に引き上げる2027会計年度予算案を提示し、新たな投資時代を告げた。",
+        "今年初め、宇宙軍の2027会計年度予算要求は、過去最高額となる713億ドルという驚異的な数字で報じられた。この予算配分は、単なる探査を超え、積極的な防衛と経済的優位性の確保へと向かう軌道領域への戦略的焦点が加速していることを強調する。",
+        "この大幅な増額は、単に軍事力強化に留まらない。宇宙を国家安全保障と経済戦略に広く統合しようとする動きの現れである。これほどの規模の資本が航空宇宙開発に投入されれば、先進的な推進システムから強靭な通信ネットワークに至るまで、様々な分野でイノベーションが刺激されるのは必然だ。",
+        "その影響は、民間の宇宙産業にも及ぶ。政府からの契約はしばしばアンカーテナント（主要顧客）となり、安定した収益源を提供することで民間ベンチャーのリスクを低減し、軍民両用技術の開発を加速させる。この力学は、より堅牢なサプライチェーンを育成し、すべてのユーザーにとってコスト削減を推進する可能性を秘めている。",
+        "> 原文より：「Deep Dive: FY27 Defense Space Budget」という記事がPayloadに最初に掲載されました。",
+        "地球外での生活を考える人々にとって、軌道インフラへのこの集中的な投資は、具体的な意味を持つ。例えば、より堅牢で安全な衛星コンステレーションは、月面基地や火星前哨基地にとって、より信頼性の高い通信チャネルと正確な航行システムをもたらすだろう。補給路から緊急対応まで、地球外のロジスティクスの根幹は、この基盤となる層に依存している。",
+        "しかし、宇宙の軍事化の進展は、新たな複雑さも生み出す。技術的進歩を促進する一方で、宇宙デブリ、周波数帯域の割り当て、そして混雑する宇宙環境の長期的な持続可能性に関する疑問も提起される。軌道上の居住施設や惑星居住地の未来の住民は、これらの現代の決定によって形成された領域を受け継ぐことになる。",
+        "結局のところ、この予算の規模自体が、地球外での生活のための経済計算を再構築する。それは、帯域幅から航行に至るまでの必須サービスのコストが、規模の経済と先進技術によって減少する可能性のある未来を示唆するが、同時に、宇宙の地政学的状況が常に警戒を要し、交易路から月面の不動産保険料に至るまで、あらゆるものに影響を与える未来も示している。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The news from the US Space Force about their record-breaking budget for the 2027 fiscal year means that the United States is putting an unprecedented amount of money into its space programs. Think of it like a country deciding to build a massive, advanced highway system, but instead of on land, it's building it in Earth's orbit. This orbital highway will be used for various purposes, including communication and navigation, with a strong emphasis on national security.",
+        "For Tokyo readers, this significant investment could lead to more precise satellite navigation systems. Services that rely on GPS in Tokyo, such as ride-sharing apps, food delivery, and logistics for businesses, might become even more accurate and reliable. It could also accelerate innovations in satellite internet, potentially offering faster and more stable connections in the future. Japan's vital semiconductor industry might also see indirect effects, such as increased demand for components.",
+        "We can expect to see these impacts within the next 3 to 5 years. This timeframe is largely dependent on the development and deployment of new satellite constellations (groups of satellites working together) and how quickly these advanced technologies are integrated into commercial systems. The pace at which defense-developed technologies transfer to civilian applications will also play a crucial role.",
+        "In Japan, organizations like JAXA and companies such as Synspective and Astroscale are actively developing advanced satellite technologies for Earth observation and orbital servicing. While Japan's space budget isn't driven by defense in the same way as the US, its focus on building resilient space infrastructure and promoting commercial utilization shares similar goals: enhancing societal services and stimulating economic activity in space."
+      ],
+      "ja": [
+        "米宇宙軍が発表した2027会計年度の過去最高額の予算要求は、米国が宇宙プログラムにこれまでにない規模の資金を投入していることを意味します。これは、まるで国が広大な先進的な高速道路システムを建設すると決めたものの、それが地上ではなく地球軌道上に構築されるようなものです。この「軌道の高速道路」は、国家安全保障を強く意識しつつ、通信や航行など様々な目的に利用されます。",
+        "東京で暮らす読者にとって、この巨額の投資は、衛星測位システムの精度向上につながる可能性があります。東京で日常的に利用されている配車アプリやフードデリバリー、企業の物流など、GPSに依存するサービスが、より正確で信頼性の高いものになるかもしれません。また、衛星インターネットの技術革新が加速し、将来的にはより高速で安定した通信サービスが提供される可能性も考えられます。日本の重要な産業である半導体分野にも、部品需要の増加を通じて間接的な影響があるかもしれません。",
+        "これらの影響は、今後3年から5年以内に現れると予想されます。この時期は、新しい衛星コンステレーション（多数の衛星を連携させて運用するシステム）の開発と展開、そしてこれらの先進技術が民間システムにどの程度迅速に統合されるかに大きく左右されます。防衛分野で開発された技術が民生転用されるまでの速度も重要な要素となるでしょう。",
+        "日本では、JAXAや、Synspective、Astroscaleといった企業が、地球観測や軌道上サービスのための先進的な衛星技術を活発に開発しています。日本の宇宙予算は、米国のように防衛主体ではありませんが、強靭な宇宙インフラの構築と商業利用の促進に注力しており、社会サービスの強化や宇宙経済活動の活性化という点で、米国と同様の目標を共有しています。"
+      ]
+    },
+    "source": {
+      "name": "Payload",
+      "url": "https://payloadspace.com/deep-dive-fy27-defense-space-budget/"
+    },
+    "sourceGuid": "https://payloadspace.com/?p=31406",
+    "status": "published"
+  },
+  {
+    "slug": "the-earth-from-above-a-changing-climate-in-focus",
+    "category": "space-tech",
+    "issue": "Vol. 08",
+    "publishedAt": "2026-08-18T13:00:00.000Z",
+    "readingMinutes": 4,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
+    },
+    "title": {
+      "en": "The Earth from Above: A Changing Climate in Focus",
+      "ja": "上空からの地球：変化する気候の焦点"
+    },
+    "dek": {
+      "en": "ESA's Earth observation satellites provide a stark, continuous record of our planet's environmental shifts, offering critical data for a future both on and off-world.",
+      "ja": "ESAの地球観測衛星は、地球の環境変化を鮮明かつ継続的に記録し、軌道上と地上、双方の未来に不可欠なデータを提供している。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "PARIS",
+      "ja": "パリ"
+    },
+    "tags": [
+      {
+        "en": "Earth observation",
+        "ja": "地球観測"
+      },
+      {
+        "en": "Climate Change",
+        "ja": "気候変動"
+      },
+      {
+        "en": "Satellites",
+        "ja": "人工衛星"
+      },
+      {
+        "en": "ESA",
+        "ja": "ESA"
+      }
+    ],
+    "body": {
+      "en": [
+        "From the silent expanse of orbit, Earth's fragile surface reveals its vulnerabilities. The European Space Agency (ESA) maintains a vigilant watch, its constellation of Earth observation satellites providing an uninterrupted stream of data on the planet's evolving environmental state.",
+        "These instruments track phenomena such as widespread wildfires, persistent droughts, and intensifying heatwaves across continents. Each image, each data point, contributes to a growing archive that charts the accelerating pace of climate change.",
+        "The objective extends beyond mere observation; it is to equip scientists and policymakers with the precise information needed to comprehend these shifts. This includes mapping affected areas, quantifying damage, and predicting future trends.",
+        "The raw data, often rendered in stark false-color imagery, paints a clear picture of receding ice caps and parched riverbeds. It is a constant reminder of the planet's delicate balance, viewed from a distance where borders disappear.",
+        "> Earth observation satellites help us monitor phenomena such as wildfires, drought and heatwaves from space.",
+        "For those contemplating life beyond Earth, the lessons gleaned from this orbital vigilance are profound. Future off-world habitats, whether on the Moon or Mars, will function as meticulously controlled closed systems, demanding an intimate understanding of environmental dynamics. The data models and predictive capabilities refined through Earth observation will become foundational for designing resilient, self-sustaining settlements in alien environments, where every resource must be accounted for and every environmental perturbation managed with precision."
+      ],
+      "ja": [
+        "静寂な軌道上から、地球の脆い表面はその脆弱性を露わにする。欧州宇宙機関（ESA）は常に警戒を怠らず、その地球観測衛星群は、地球の環境状態がどのように変化しているかを示す途切れないデータストリームを提供している。",
+        "これらの観測機器は、広範囲にわたる森林火災、持続的な干ばつ、そして激化する熱波といった現象を大陸規模で追跡する。一枚一枚の画像、一点一点のデータが、加速する気候変動のペースを記録する膨大なアーカイブに貢献している。",
+        "その目的は単なる観測に留まらない。これらの変化を理解するために必要な正確な情報を科学者や政策立案者に提供することにある。これには、影響を受けた地域のマッピング、被害の定量化、そして将来の傾向予測が含まれる。",
+        "生データは、しばしば鮮烈な偽色画像として表現され、後退する氷冠や干上がった川床の明確な全体像を描き出す。それは、国境が消える距離から見た、地球の繊細なバランスに対する絶え間ない警鐘である。",
+        "＞ 地球観測衛星は、森林火災、干ばつ、熱波といった現象を宇宙から監視するのに役立つ。",
+        "地球外での生活を検討する人々にとって、この軌道からの監視によって得られる教訓は深く、極めて重要である。月や火星の未来の居住地は、厳密に管理された閉鎖システムとして機能するだろう。そこでは、環境ダイナミクスに対する深い理解が求められる。地球観測を通じて洗練されたデータモデルと予測能力は、異星環境で回復力のある自給自足の居住地を設計するための基礎となる。そこでは、あらゆる資源が考慮され、あらゆる環境変動が精密に管理されなければならない。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The European Space Agency (ESA) is using its network of satellites to continuously observe Earth's climate. This means they are watching for major environmental events like widespread wildfires, long periods of drought, and intense heatwaves from space. It is like having a global camera that provides constant updates on the health of our planet.",
+        "For Tokyo readers, while direct threats like wildfires are less common, this data has significant indirect impacts. It influences global food security and the availability of natural resources, which directly affects import-dependent Japan. More accurate climate models, built on this data, also enhance Japan's long-range disaster preparedness for typhoons and other extreme weather events that frequently impact the archipelago. This could also refine insurance models for urban infrastructure.",
+        "This monitoring is happening now and the data is constantly evolving. The tangible impacts on global resource prices and the precision of disaster predictions will likely be felt within the next 1 to 3 years. This timeline is largely gated by advancements in international data sharing protocols and the integration of sophisticated AI for predictive modeling.",
+        "Japan has its own robust efforts in this field. JAXA (Japan Aerospace Exploration Agency) operates Earth observation satellites like the GOSAT series for greenhouse gas monitoring and the ALOS series for land observation. Additionally, private companies such as Synspective are developing their own SAR (Synthetic Aperture Radar) satellites for disaster monitoring and urban planning, contributing to the shared goal of understanding our changing Earth from space."
+      ],
+      "ja": [
+        "欧州宇宙機関（ESA）が、人工衛星のネットワークを使って地球の気候を継続的に観測しているというニュースです。これは、広範囲にわたる森林火災、長期にわたる干ばつ、激しい熱波といった主要な環境現象を宇宙から監視していることを意味します。まるで地球全体の健康状態を常に教えてくれる、巨大な監視カメラのようなものです。",
+        "東京で暮らす読者にとって、森林火災のような直接的な脅威は少ないかもしれませんが、このデータは間接的に大きな影響をもたらします。世界の食料安全保障や天然資源の供給に影響を与え、輸入に大きく依存する日本にとっては、食料品やエネルギーの価格に直結する可能性があります。また、このデータに基づいて構築される、より正確な気候モデルは、日本を頻繁に襲う台風や異常気象に対する長期的な災害対策の精度を高めることにも繋がります。都市インフラの保険モデルにも影響を与えるかもしれません。",
+        "この観測自体は現在進行形であり、データは日々更新されています。しかし、そのデータが東京の生活に具体的な影響を与えるのは、世界の気候モデルがさらに多くのデータを統合し、予測精度が高まる今後1〜3年以内でしょう。国際的なデータ共有のプロトコルの進展や、予測モデリングのための高度なAIの導入がその鍵となります。",
+        "日本もこの分野で強力な取り組みを進めています。JAXA（宇宙航空研究開発機構）は、温室効果ガス観測技術衛星「GOSAT」シリーズや陸域観測技術衛星「ALOS」シリーズのような地球観測衛星を運用しています。さらに、Synspective（シンクスペクティブ）のような民間企業も、災害監視や都市計画のためのSAR（合成開口レーダー）衛星を開発しており、宇宙から変化する地球を理解するという共通の目標に向かって貢献しています。"
+      ]
+    },
+    "source": {
+      "name": "ESA",
+      "url": ""
+    },
+    "sourceGuid": "0bd2244817bab2ee712bbfc5d0f4c52c",
+    "status": "published"
+  },
+  {
     "slug": "the-ephemeral-crown-witnessing-totality-from-spain",
     "category": "culture",
     "issue": "Vol. 08",
@@ -1214,8 +1554,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "The Bespoke Era: Crafting Custom Space Systems",
@@ -1386,8 +1726,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0f12"
+      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0b0b0d"
     },
     "title": {
       "en": "Artemis Program: A New Livery Signals a New Normal",
@@ -1726,8 +2066,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Orbital Agility: Space Kinetic Secures Funding for Maneuverability System",
@@ -1812,8 +2152,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "From Orbit: Europe's Eclipse, A Cosmic Ballet Captured",
@@ -1984,8 +2324,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0b0b0d"
+      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101012"
     },
     "title": {
       "en": "Orbital Mechanics: The New Era of Satellite Longevity",
@@ -2154,8 +2494,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Orbital Security: Space Command Calls for New Capabilities",
@@ -2240,8 +2580,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#08080a"
     },
     "title": {
       "en": "Firefly Aerospace Achieves $100M Quarter Amidst Expanding Space Economy",
@@ -2324,8 +2664,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Artemis Readies Human Hands for Lunar Science",
@@ -2408,8 +2748,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#08080a"
+      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "The Golden Dome Initiative Faces a Funding Precipice",
@@ -2494,8 +2834,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101012"
+      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Funding Uncertainty Threatens Off-World Ambitions",
@@ -2754,8 +3094,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1532618793091-ec5fe9635fbd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Rocket Lab's GHOST: The Deployable Launchpad",
@@ -2840,8 +3180,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Canadarm3 Pivots to Lunar Surface Operations",
@@ -3098,8 +3438,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532618793091-ec5fe9635fbd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Gateway's Shifting Purpose: A Foundation for Lunar Life",
@@ -3530,8 +3870,8 @@
     "readingMinutes": 3,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "New Leadership Shapes U.S. Orbital Strategy",
@@ -3616,8 +3956,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "Redwire Books Dedicated Starfall Mission for Orbital Labs",
@@ -3702,8 +4042,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "Europe Prepares for 2026 Total Solar Eclipse",
@@ -3786,8 +4126,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0f12"
     },
     "title": {
       "en": "The Quiet Architects of Lunar Life: An Artemis Update",
@@ -3958,8 +4298,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Tesla and SpaceX Forge a New Frontier with Terafab Chip Factory",
@@ -4214,8 +4554,8 @@
     "readingMinutes": 3,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101012"
+      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#08080a"
     },
     "title": {
       "en": "Artemis III: Orion Modules Join for Lunar Journey",
@@ -4560,8 +4900,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
     },
     "title": {
       "en": "NRO Expands Commercial SAR Access for Persistent Earth Observation",
@@ -4646,8 +4986,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101012"
+      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "Observing Lunar Impacts: A New Era of Orbital Stewardship",
@@ -4818,8 +5158,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Telesat Lightspeed Expands with Canadian Defense Contract",
@@ -4902,8 +5242,8 @@
     "readingMinutes": 3,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "Florida's Terrestrial Space Race: A New Policy Push for Economic Dominance",
@@ -4988,8 +5328,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#08080a"
+      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "Lunar Compass: NASA's Navigation System for a Commercial Moon",
@@ -5160,8 +5500,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "The Shifting Orbits of Satellite Broadband: Hughes Files for Bankruptcy",
@@ -5246,8 +5586,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Orbital Pursuit: True Anomaly Demonstrates In-Space Interception",
@@ -5420,8 +5760,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "Blue Origin Contract Expansion Signals Future of Rocket-Powered Global Logistics",
@@ -5760,8 +6100,8 @@
     "readingMinutes": 3,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "K2 Space Secures Space Force Contract for Orbital Laser Communications",
@@ -5930,8 +6270,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "China's Dual Orbit: Secretive Satellites and Enhanced Communications",
@@ -6188,8 +6528,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Converging Ambitions: Tesla's China Operations and a SpaceX Future",
@@ -6360,8 +6700,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "The Billion-Dollar Question: Repurposing Mars Tech for Lunar Exploration",
@@ -6446,8 +6786,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "K2 Space Secures Half-Billion Dollar Investment",
@@ -6524,348 +6864,6 @@
       "url": "https://payloadspace.com/k2-space-raises-500m-series-d-at-6-8b-valuation/"
     },
     "sourceGuid": "https://payloadspace.com/?p=31203",
-    "status": "published"
-  },
-  {
-    "slug": "the-soft-interior-of-tomorrows-off-world-home",
-    "category": "culture",
-    "issue": "Vol. 07",
-    "publishedAt": "2026-07-30T21:00:00.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://cdn.mos.cms.futurecdn.net/Yc3XKnB8Dd5LvopjtkNz7Y-1280-80.jpg",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "The Soft Interior of Tomorrow's Off-World Home",
-      "ja": "月面・火星に「住まい」を築く：テキスタイルが変える居住空間"
-    },
-    "dek": {
-      "en": "A new modular habitat prototype emphasizes psychological comfort and a domestic aesthetic, signaling a shift in how we envision life beyond Earth.",
-      "ja": "新型のモジュール式居住ユニットは、心理的快適性と家庭的な美学を重視する。これは、地球外での生活の捉え方に変化が訪れていることを示唆する。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Mojave Desert, July 2026",
-      "ja": "モハーベ砂漠、2026年7月"
-    },
-    "tags": [
-      {
-        "en": "Habitat",
-        "ja": "居住空間"
-      },
-      {
-        "en": "Lunar",
-        "ja": "月"
-      },
-      {
-        "en": "Mars",
-        "ja": "火星"
-      },
-      {
-        "en": "Architecture",
-        "ja": "建築"
-      }
-    ],
-    "body": {
-      "en": [
-        "In the arid expanse of the Mojave Desert, a new vision for off-world living recently unfolded. The Ares Habitation Unit 3 (AHU-3), a modular inflatable habitat prototype from Cosmic Dwellings Inc. (CDI), completed its initial deployment and pressurization tests, marking a quiet but significant step in space architecture.",
-        "Unlike the utilitarian, metallic modules of past space stations, AHU-3 prioritizes human experience. Its interior is lined with a novel, textile-based material, meticulously designed for acoustic dampening and a warmer, more inviting aesthetic. This departure from purely functional surfaces signals a deeper consideration for the psychological well-being of future inhabitants.",
-        "The habitat, measuring 10 meters in diameter when inflated and offering 30 cubic meters of habitable volume, is engineered for a crew of four on missions lasting up to 12 months. Its structural integrity relies on 3D-woven basalt fiber, a material chosen for its strength and adaptability to extreme environments, while also serving as the foundation for the tactile interior.",
-        "Designers focused on creating adaptable living spaces, incorporating private nooks and communal areas that can be reconfigured as needed. This flexibility aims to mitigate the isolation and monotony often associated with confined, long-duration missions, fostering a sense of personal space even in a shared environment.",
-        "The AHU-3 project consciously moves beyond mere engineering challenges. It addresses the subtle, yet profound, human need for comfort and familiarity, even millions of kilometers from home. The choice of soft textiles over hard surfaces is a deliberate attempt to infuse a sense of domesticity into an alien landscape.",
-        "> The habitat aims to move beyond mere survival, fostering a genuine sense of dwelling.",
-        "This shift suggests that future off-world settlements will not only be survivable but also livable. For those who will eventually reside on the Moon or Mars, this means habitats designed not just for function, but for well-being — spaces where the texture of a wall or the quiet of a private corner contributes to resilience, making the extraordinary feel a little more like home."
-      ],
-      "ja": [
-        "モハーベ砂漠の乾燥した大地で、地球外居住の新たなビジョンが静かに幕を開けた。Cosmic Dwellings Inc. (CDI) が開発したモジュール式インフレータブル居住ユニット「Ares Habitation Unit 3 (AHU-3)」が、初期展開と加圧試験を完了した。これは、宇宙建築における控えめながらも重要な一歩である。",
-        "過去の宇宙ステーションに見られた実用一点張りの金属製モジュールとは異なり、AHU-3は人間の体験を重視する。その内部は、音響を抑え、より暖かく魅力的な美学を追求した、新しいテキスタイルベースの素材で覆われている。機能性のみを追求した表面からのこの転換は、将来の居住者の心理的幸福に対する深い配慮を示唆する。",
-        "この居住空間は、膨張時に直径10メートル、居住容積30立方メートルを誇り、最大12ヶ月間のミッションで4名の乗組員に対応するよう設計されている。構造的な完全性は3D織りバサルト繊維に依存しており、この素材は極限環境への強度と適応性のために選ばれ、同時に触感的な内装の基盤ともなっている。",
-        "設計者たちは、必要に応じて再構成可能なプライベートな空間や共有エリアを組み込むことで、適応性のある生活空間の創出に注力した。この柔軟性は、閉鎖された長期間ミッションに伴う孤立感や単調さを軽減し、共有環境であっても個人の空間感覚を育むことを目指している。",
-        "AHU-3プロジェクトは、単なる工学的課題を超えたところに焦点を当てる。それは、故郷から何百万キロも離れた場所であっても、快適さと親しみやすさという、繊細だが根源的な人間のニーズに応えようとしている。硬い表面ではなく柔らかいテキスタイルを選ぶことは、異質な風景の中に家庭的な感覚を吹き込むための意図的な試みである。",
-        "「この居住空間は、単なる生存を超え、真の『住まい』の感覚を育むことを目指している。」",
-        "この変化は、将来の地球外居住地が、単に生存可能な場所であるだけでなく、実際に「生活できる」場所となることを示唆する。やがて月や火星に住むことになる人々にとって、これは機能性だけでなく、幸福のために設計された居住空間を意味する。壁の質感やプライベートな一角の静けさが、回復力に貢献し、非日常を少しだけ日常に近づける場所となるだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "A private space architecture firm recently tested a new kind of inflatable habitat in the Mojave Desert. What makes this notable is its focus on making the interior feel like a real home, using soft textiles instead of cold, hard metal. Imagine a space station that feels less like a lab and more like a cozy apartment.",
-        "For Tokyo readers, this shift in design philosophy could have a subtle but important impact. While we might not be moving to the Moon tomorrow, the materials science and architectural concepts developed for these habitats—especially those focused on psychological comfort in confined spaces—could influence terrestrial design. Think about how disaster relief shelters or compact urban living solutions might benefit from innovations in sound-dampening, adaptable interiors, or even stress-reducing material textures.",
-        "This kind of influence is likely 5-10 years away. It depends heavily on the pace of long-duration space mission development and the subsequent transfer of these specialized technologies to Earth-bound applications. The cost-effectiveness and scalability of these advanced textiles and modular designs will be a key gating factor.",
-        "In Japan, companies like ispace are actively pursuing lunar development, focusing on landers and rovers. While ispace's current focus is on infrastructure and resource exploration, the eventual need for human habitats on the Moon will undoubtedly bring this kind of human-centric design to the forefront. Japanese architectural firms, known for their innovative approaches to compact living and disaster resilience, could find fertile ground in contributing to these future off-world dwelling concepts."
-      ],
-      "ja": [
-        "先日、民間宇宙建築企業がモハーベ砂漠で新しいインフレータブル居住ユニットの試験を行いました。注目すべきは、その内部が冷たい金属ではなく、柔らかいテキスタイル素材を用いることで、まるで本当の家のように感じられるよう設計されている点です。宇宙ステーションが、実験室というよりは居心地の良いアパートのようになる、と想像してみてください。",
-        "東京で暮らす読者にとって、このようなデザイン哲学の変化は、ささやかながらも重要な影響をもたらす可能性があります。すぐに月へ移住するわけではないにしても、これらの居住空間のために開発された材料科学や建築コンセプト、特に閉鎖空間での心理的快適性を追求する技術は、地上のデザインにも影響を与えるかもしれません。例えば、災害時の避難シェルターやコンパクトな都市型住居が、防音性、適応性のある内装、あるいはストレスを軽減する素材の質感といったイノベーションから恩恵を受ける可能性が考えられます。",
-        "このような影響が顕在化するのは、おそらく5〜10年先になるでしょう。これは、長期宇宙ミッション開発の進捗と、それに続く専門技術の地上応用への転用速度に大きく依存します。これらの先進的なテキスタイルやモジュール設計の費用対効果と拡張性が、重要な決定要因となるはずです。",
-        "日本国内では、ispaceのような企業が月面開発に積極的に取り組んでおり、月着陸船やローバーに焦点を当てています。ispaceの現在の重点はインフラと資源探査ですが、将来的に月面での人間居住が必要になった際には、このような人間中心の設計が間違いなく前面に出てくるでしょう。コンパクトな居住空間や災害レジリエンスに対する革新的なアプローチで知られる日本の建築事務所は、これらの未来の地球外居住コンセプトに貢献する上で、豊かな可能性を見出すかもしれません。"
-      ]
-    },
-    "source": {
-      "name": "Space.com",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/the-us-government-wants-to-bypass-environmental-laws-for-commercial-launches-and-spacecraft-reentries"
-    },
-    "sourceGuid": "chvroBh5ZirbyHq9eaM9Lm",
-    "status": "published"
-  },
-  {
-    "slug": "simulated-crisis-underscores-off-world-rescue-complexities",
-    "category": "space-tech",
-    "issue": "Vol. 07",
-    "publishedAt": "2026-07-29T14:13:48.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://futurism.com/wp-content/uploads/2026/07/nasa-rescue-mission-link-crisis.jpg?quality=85&amp;w=2048",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Simulated Crisis Underscores Off-World Rescue Complexities",
-      "ja": "未来の救助活動：NASAシミュレーションが示す困難"
-    },
-    "dek": {
-      "en": "A hypothetical NASA rescue mission scenario reveals the profound challenges of managing unforeseen crises in the unforgiving environment beyond Earth.",
-      "ja": "NASAが想定した未来の救助ミッションのシナリオは、地球圏外の過酷な環境で予期せぬ危機を管理することの根深い課題を浮き彫りにする。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Orbital Operations",
-      "ja": "軌道運用"
-    },
-    "tags": [
-      {
-        "en": "Space Safety",
-        "ja": "宇宙安全"
-      },
-      {
-        "en": "Space Operations",
-        "ja": "宇宙運用"
-      },
-      {
-        "en": "Rescue Mission",
-        "ja": "救助ミッション"
-      },
-      {
-        "en": "Risk Management",
-        "ja": "リスク管理"
-      }
-    ],
-    "body": {
-      "en": [
-        "The increasing ambition for off-world habitation brings with it an unavoidable contemplation of risk. A recent speculative report from Futurism highlighted a hypothetical scenario: a NASA rescue mission spiraling into an unforeseen crisis.",
-        "Such a projection serves as a stark reminder that even with advanced planning, the unforgiving environment of space introduces complexities far beyond terrestrial emergencies. Distance, radiation, and the sheer vacuum remain formidable adversaries.",
-        "The report described a chain of events where the initial problem compounded, testing the limits of contingency protocols.",
-        "> \"That's not what was supposed to happen.\"",
-        "This observation from the original report underscores the inherent unpredictability that can derail even the most meticulously designed operations. It suggests that human ingenuity, while vast, operates within the constraints of an ultimately alien setting.",
-        "For those who envision a life beyond Earth, this hypothetical crisis illuminates the critical need for robust, redundant systems. It implies that future off-world habitats will not merely be places to live, but fortresses designed for self-sufficiency in the face of the unexpected. Every component, from life support to communication arrays, must anticipate failure.",
-        "The psychological resilience of crews will be as vital as their technical skills. Living off-world will demand an acceptance of profound isolation and the readiness to adapt when the meticulously planned unravels. This shifts the focus from mere survival to a culture of profound preparedness, where every material and every protocol is a silent promise of enduring the unforeseen."
-      ],
-      "ja": [
-        "地球圏外での居住への野心が高まるにつれ、避けられないリスクへの考察も深まる。未来の生活に関する投機的な報道を行うFuturismは、最近、NASAの救助ミッションが予期せぬ危機に陥るという仮想シナリオを提示した。",
-        "このような想定は、どれほど高度な計画があっても、宇宙の過酷な環境が地球上の緊急事態とは比較にならないほどの複雑さをもたらすことを厳しく示唆している。距離、放射線、そして純粋な真空は依然として手強い敵である。",
-        "報告書は、当初の問題が連鎖的に悪化し、緊急時のプロトコルの限界を試される一連の出来事を描写した。",
-        "> 「本来、そうなるはずではなかった。」",
-        "この原文の言葉は、どれほど綿密に設計された運用であっても、本質的な予測不可能性が計画を狂わせる可能性を浮き彫りにする。これは、人間の創意工夫がいかに広大であっても、究極的には異質な環境の制約の中で機能することを示唆している。",
-        "地球外での生活を夢見る人々にとって、この仮想的な危機は、堅牢で冗長なシステムが不可欠であることを明確に示している。未来の地球圏外居住施設は、単に住む場所であるだけでなく、予期せぬ事態に直面しても自給自足できる要塞として設計されるだろう。生命維持から通信アレイに至るまで、すべてのコンポーネントが故障を想定していなければならない。",
-        "乗員の精神的な回復力は、技術的なスキルと同じくらい重要になるだろう。地球外での生活は、深い孤立を受け入れ、綿密に計画されたものが崩壊したときに適応する準備を要求する。これは単なる生存から、あらゆる物質とプロトコルが予期せぬ事態に耐え抜くという静かな約束となる、徹底した準備の文化へと焦点を移す。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This news describes a hypothetical future scenario where a NASA rescue mission in space encounters its own unexpected crisis. Imagine a situation where a specialized space vehicle, designed to help another crew in distress, itself runs into a severe problem far from Earth. This thought experiment highlights the extreme challenges of responding to emergencies in the vastness of space.",
-        "For Tokyo readers, this kind of future scenario has implications for how we think about the safety and resilience of off-world infrastructure. It underscores the need for extremely robust life support systems, autonomous repair capabilities, and highly reliable communication networks in any future Japanese-developed space modules or vehicles. These technologies, developed for space, might eventually find applications in terrestrial disaster preparedness, enhancing urban resilience.",
-        "The full impact of such lessons will likely be felt over the next 5 to 10 years, as permanent lunar bases and increased orbital traffic become a reality. This timeframe is gated by the establishment of comprehensive international agreements on space rescue protocols and the maturation of autonomous systems for critical operations.",
-        "Japan's JAXA is actively pursuing advanced autonomous systems for missions like the Martian Moons eXploration (MMX), which will operate far from Earth with minimal human intervention. Companies like Astroscale, focused on orbital debris removal, are also contributing to a safer space environment, which indirectly reduces the risk of such crises. While direct rescue missions are not yet a primary focus for Japanese private entities, the underlying technologies for self-sufficiency and orbital safety are well within their development scope."
-      ],
-      "ja": [
-        "このニュースは、NASAの宇宙救助ミッションが予期せぬ危機に直面するという、仮想的な未来のシナリオについて述べています。困っている別の乗組員を助けるために設計された特殊な宇宙船が、地球から遠く離れた場所で深刻な問題に遭遇するような状況を想像してみてください。この思考実験は、広大な宇宙空間で緊急事態に対応することの極めて大きな課題を浮き彫りにしています。",
-        "東京で暮らす読者にとって、このような未来のシナリオは、地球圏外のインフラの安全性とレジリエンス（回復力）について考える上で示唆を与えます。将来、日本が開発する宇宙モジュールや宇宙船において、極めて堅牢な生命維持システム、自律的な修理能力、そして信頼性の高い通信ネットワークがいかに不可欠であるかを強調しています。宇宙のために開発されたこれらの技術は、やがて地球上の災害対策にも応用され、都市のレジリエンスを高める可能性も秘めています。",
-        "このような教訓が本格的に影響を及ぼすのは、月面基地が恒久化し、軌道上の交通量が増加するであろう今後5年から10年の間でしょう。この期間は、宇宙救助プロトコルに関する包括的な国際協定の確立と、重要な運用における自律システムの成熟によって左右されます。",
-        "日本のJAXAは、地球から遠く離れて最小限の人間介入で運用される火星衛星探査機MMXのようなミッションのために、高度な自律システムの開発を積極的に進めています。また、宇宙ごみ除去に特化したアストロスケールのような企業も、より安全な宇宙環境の構築に貢献しており、間接的にこのような危機のリスクを低減しています。直接的な救助ミッションはまだ日本の民間企業にとって主要な焦点ではありませんが、自給自足と軌道上の安全のための基盤技術は、彼らの開発範囲内にあります。"
-      ]
-    },
-    "source": {
-      "name": "Futurism",
-      "url": "https://futurism.com/space/nasa-rescue-link-mission-crisis"
-    },
-    "sourceGuid": "https://futurism.com/?p=450089",
-    "status": "published"
-  },
-  {
-    "slug": "spacex-secures-major-military-satellite-launch-contracts",
-    "category": "space-tech",
-    "issue": "Vol. 07",
-    "publishedAt": "2026-07-29T20:43:51.000Z",
-    "readingMinutes": 6,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
-    },
-    "title": {
-      "en": "SpaceX Secures Major Military Satellite Launch Contracts",
-      "ja": "スペースX、大規模な軍事衛星打ち上げ契約を獲得"
-    },
-    "dek": {
-      "en": "The commercial launch provider has been awarded $1.6 billion to deploy networks critical for national security, underscoring the deepening integration of private enterprise into global defense infrastructure.",
-      "ja": "民間打ち上げプロバイダーが国家安全保障に不可欠なネットワークを展開するため、16億ドルの契約を獲得。これにより、民間企業と世界の防衛インフラとの統合が深まる。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO, JAPAN – July 29, 2026",
-      "ja": "東京, 日本 – 2026年7月29日"
-    },
-    "tags": [
-      {
-        "en": "SpaceX",
-        "ja": "スペースX"
-      },
-      {
-        "en": "Falcon 9",
-        "ja": "ファルコン9"
-      },
-      {
-        "en": "Military Satellites",
-        "ja": "軍事衛星"
-      },
-      {
-        "en": "Space Economy",
-        "ja": "宇宙経済"
-      }
-    ],
-    "body": {
-      "en": [
-        "The intersection of commercial space capabilities and national security interests continues to expand, with significant implications for both industries. SpaceX, a prominent private launch provider, has recently secured contracts totaling $1.6 billion from the U.S. military to deploy a series of advanced satellite networks.",
-        "These contracts mandate the use of SpaceX's workhorse Falcon 9 rockets for the launches. The satellites are designed to support critical defense functions, including enhanced missile tracking, precise targeting capabilities, and secure military communications across various theaters of operation.",
-        "The substantial investment highlights a growing reliance by defense agencies on commercial space companies for infrastructure that was once exclusively the domain of government-led programs. This shift allows for faster deployment cycles and potentially more cost-effective access to orbit, leveraging the innovation driven by private competition.",
-        "> Falcon 9 will launch satellites supporting missile tracking, targeting and military communications.",
-        "The sheer volume of data these networks will handle, a continuous stream equivalent to hundreds of thousands of simultaneous high-definition video calls, underscores their operational weight. This robust digital backbone ensures that military assets can communicate reliably, even in contested environments, providing an unprecedented level of situational awareness.",
-        "For those contemplating a future beyond Earth, such developments in secure, ubiquitous satellite communication are foundational. The quiet hum of a launch vehicle, once a symbol of exploration, now increasingly echoes the strategic imperatives of nations. Reliable, high-bandwidth networks, initially developed for terrestrial defense, will become indispensable for establishing and maintaining any sustained human presence off-world. From navigating lunar surfaces to managing complex orbital logistics or communicating across Martian distances, the underlying technologies for secure, resilient data transfer will be paramount for the daily rhythms of off-world life and work."
-      ],
-      "ja": [
-        "商用宇宙技術と国家安全保障の利益が交差する領域は拡大を続け、両産業に大きな影響を与えています。主要な民間打ち上げプロバイダーであるスペースXは、最近、米国軍から総額16億ドルに上る契約を獲得し、一連の高度な衛星ネットワークを展開することになりました。",
-        "これらの契約では、スペースXの主力ロケットであるファルコン9が打ち上げに使用されます。衛星は、強化されたミサイル追跡、精密な標的設定能力、そして様々な作戦地域における安全な軍事通信を含む、重要な防衛機能を支援するために設計されています。",
-        "この多額の投資は、かつて政府主導のプログラムの専有領域であったインフラに対し、防衛機関が民間宇宙企業に依存する傾向が強まっていることを示しています。この変化は、民間競争によって推進される革新を活用し、より迅速な展開サイクルと、軌道へのより費用対効果の高いアクセスを可能にします。",
-        "「ファルコン9は、ミサイル追跡、標的設定、軍事通信を支援する衛星を打ち上げるだろう。」",
-        "これらのネットワークが処理するデータ量は膨大であり、それは何十万もの高精細ビデオ通話を同時に行うに等しい、途切れない情報流がその運用上の重要性を物語る。この堅牢なデジタル基盤は、紛争地域においても軍事資産が確実に通信できることを保証し、これまでにないレベルの状況認識を提供します。",
-        "地球外での未来を構想する人々にとって、このような安全で遍在する衛星通信の発展は基盤となります。かつて探査の象徴であったロケットの静かな轟音は、今や国家の戦略的要請を響かせる。地上防衛のために開発された信頼性の高い高帯域幅ネットワークは、月面を航行するため、複雑な軌道ロジスティクスを管理するため、あるいは火星の距離を越えて通信するために、地球外での持続的な人間の存在を確立し維持する上で不可欠となるでしょう。安全で回復力のあるデータ転送のための基盤技術は、オフワールドでの生活や仕事の日常にとって最も重要となるのです。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "SpaceX, a private rocket company, has secured a significant contract from the U.S. military. They will use their Falcon 9 rockets to launch numerous advanced satellites into orbit. These satellites are essentially highly sophisticated, secure communication and navigation devices, akin to a military-grade version of the GPS and mobile network systems your smartphone uses, but specifically designed for tasks like tracking missiles and guiding military operations.",
-        "For Tokyo readers, this news, while seemingly distant, underscores the increasing importance of robust and secure satellite infrastructure globally. It could indirectly affect everyday services by enhancing the overall accuracy of global positioning systems, which are crucial for everything from logistics to ride-sharing apps. Furthermore, if these military technologies eventually find civilian applications, they might improve the speed and resilience of international data transfer, impacting how we connect across continents.",
-        "We might begin to see indirect effects within 3 to 5 years. This timeframe is primarily dictated by the pace of satellite deployment and the subsequent development and potential dual-use application of these technologies. As more satellites crowd low Earth orbit, international discussions and agreements on space traffic management and orbital debris will become increasingly critical, potentially influencing all spacefaring nations, including Japan.",
-        "Japan's own H3 rocket program, developed by JAXA and Mitsubishi Heavy Industries, aims to provide reliable and cost-effective independent access to space. While not directly targeting military contracts of this scale, the H3's success is vital for Japan's ability to launch its own security and civilian satellites. Additionally, Japanese companies like Astroscale are at the forefront of orbital debris removal, a crucial service for maintaining a sustainable and operational space environment as global satellite deployments accelerate."
-      ],
-      "ja": [
-        "米国の民間ロケット会社であるスペースXが、自国の軍から大規模な契約を獲得しました。彼らはファルコン9ロケットを使用して、多数の高度な衛星を軌道に投入します。これらの衛星は、スマートフォンが利用するGPSやモバイルネットワークシステムを軍事用に高度化し、ミサイルの追跡や軍事作戦の誘導といった特定の任務のために設計された、非常に高度で安全な通信・測位装置と考えることができます。",
-        "東京の読者にとって、このニュースは一見遠い出来事かもしれませんが、世界的に堅牢で安全な衛星インフラの重要性が増していることを示しています。間接的には、物流から配車アプリまで、私たちの日常生活を支える多くのサービスが依存するグローバル測位システムの全体的な精度向上に影響を与える可能性があります。さらに、これらの軍事技術が最終的に民間転用されれば、国際的なデータ転送の速度と回復力が向上し、大陸を越えた私たちの接続方法にも影響を及ぼすかもしれません。",
-        "間接的な影響は3年から5年以内に現れ始める可能性があります。この時間軸は、主に衛星の配備速度と、これらの技術の開発および潜在的な軍民両用への転用にかかる時間によって決まります。低軌道にさらに多くの衛星が密集するにつれて、宇宙交通管理や軌道デブリに関する国際的な議論と合意がますます重要になり、これは日本を含むすべての宇宙利用国に影響を与える可能性があります。",
-        "日本では、JAXAと三菱重工業が開発するH3ロケットプログラムが、信頼性が高く費用対効果に優れた宇宙への自立的なアクセスを提供することを目指しています。米国のような規模の軍事契約を直接の目標とはしていませんが、H3の成功は、日本が独自の安全保障および民生衛星を打ち上げる能力にとって不可欠です。また、アストロスケールのような日本の企業は、軌道デブリ除去の最前線に立っており、世界の衛星配備が加速する中で、持続可能で運用可能な宇宙環境を維持するための重要なサービスを提供しています。"
-      ]
-    },
-    "source": {
-      "name": "SpaceNews",
-      "url": "https://spacenews.com/spacex-wins-1-6-billion-in-launch-orders-for-military-satellite-networks/"
-    },
-    "sourceGuid": "https://spacenews.com/?p=608236",
-    "status": "published"
-  },
-  {
-    "slug": "new-zealands-outlier-space-secures-funding-for-reentry-vehicle",
-    "category": "space-tech",
-    "issue": "Vol. 07",
-    "publishedAt": "2026-07-29T12:51:00.000Z",
-    "readingMinutes": 3,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
-    },
-    "title": {
-      "en": "New Zealand's Outlier Space Secures Funding for Reentry Vehicle",
-      "ja": "ニュージーランドのアウトライア・スペース、再突入機開発で資金調達"
-    },
-    "dek": {
-      "en": "Outlier Space raises $7.3 million to develop New Zealand’s first private reentry vehicle, aiming for a 2028 debut.",
-      "ja": "アウトライア・スペース社が730万ドルを調達し、ニュージーランド初の民間再突入機の開発に着手。2028年の初飛行を目指す。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "July 29, 2026",
-      "ja": "2026年7月29日"
-    },
-    "tags": [
-      {
-        "en": "microgravity",
-        "ja": "微小重力"
-      },
-      {
-        "en": "reentry vehicle",
-        "ja": "再突入機"
-      },
-      {
-        "en": "New Zealand",
-        "ja": "ニュージーランド"
-      },
-      {
-        "en": "space economy",
-        "ja": "宇宙経済"
-      }
-    ],
-    "body": {
-      "en": [
-        "The demand for microgravity research continues to expand, pushing the boundaries of what is possible in fields from pharmaceuticals to advanced materials. Yet, the logistical challenge of safely returning delicate experiments from orbit remains a critical bottleneck.",
-        "Outlier Space, a New Zealand-based aerospace company, has stepped into this evolving landscape. The company announced yesterday a successful $7.35 million funding round, earmarked for the development of the nation's first privately-built reentry vehicle.",
-        "This new vehicle is designed to address the growing need for dedicated microgravity research and return capabilities. It will allow scientists and commercial entities to conduct experiments in the unique environment of space and then retrieve their findings for terrestrial analysis.",
-        "> \"The microgravity research and return vehicle is scheduled to fly its debut mission in 2028,\" the original report noted.",
-        "The planned debut in 2028 positions New Zealand as an emerging player in the global space economy, adding a new dimension to its already active launch sector. While smaller in scale than traditional government-led programs, this private initiative underscores a global trend towards more accessible space services.",
-        "The ability to retrieve precise samples and data from orbit is not merely about reaching orbit, but about retrieving the unique insights that only space can offer. This capability is crucial for advancements across various scientific and industrial domains.",
-        "For those who will live, work, and build lives off-world, accessible and reliable reentry services offer a tangible benefit. It means more robust supply chains for specialized materials and scientific instruments. The unique properties of lunar or Martian regolith, for instance, could be processed in situ and then samples brought back for detailed analysis or even initial product validation, fostering a more integrated economic loop between Earth and off-world settlements."
-      ],
-      "ja": [
-        "微小重力下での研究需要は拡大の一途を辿り、医薬品から先端材料に至るまで、その可能性を広げている。しかし、軌道上からデリケートな実験試料を安全に回収する物流の課題は、依然として重要な障壁となっている。",
-        "この進化する状況に対し、ニュージーランドを拠点とする航空宇宙企業、アウトライア・スペース社が名乗りを上げた。同社は昨日、735万ドルの資金調達に成功したと発表。この資金は、同国初の民間再突入機の開発に充てられる。",
-        "この新しい再突入機は、微小重力研究と回収能力に対する高まるニーズに応えるために設計されている。これにより、科学者や企業は宇宙という特殊な環境で実験を行い、その成果を地球に持ち帰って分析することが可能となる。",
-        "> 「微小重力研究および回収機は、2028年に初飛行を予定している」と原文は伝えている。",
-        "2028年の初飛行計画は、ニュージーランドを世界の宇宙経済における新興プレーヤーとして位置づけ、既存の活発な打ち上げセクターに新たな側面を加える。従来の政府主導プログラムに比べ規模は小さいものの、この民間イニシアチブは、よりアクセスしやすい宇宙サービスへと向かう世界的な潮流を浮き彫りにする。",
-        "軌道上から精密なサンプルやデータを回収する能力は、単に宇宙へ到達するだけでなく、宇宙だけが提供できる独自の知見を持ち帰ることにその真価がある。この能力は、様々な科学・産業分野における進歩にとって不可欠である。",
-        "将来、地球外で暮らし、働き、生活を築く人々にとって、アクセスしやすく信頼性の高い再突入サービスは具体的な恩恵をもたらす。それは、特殊な材料や科学機器のためのサプライチェーンをより強固なものにするだろう。例えば、月や火星のレゴリス（表土）のユニークな特性は、現地で処理され、そのサンプルを詳細な分析や初期製品の検証のために地球に持ち帰ることが可能となり、地球と地球外居住地の間でより統合された経済循環を育むことになる。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Outlier Space, a New Zealand company, has just secured over seven million dollars to build a small, automated spacecraft. Think of it like a specialized delivery drone that flies up to space, carries out scientific experiments in weightlessness, and then safely brings the results back down to Earth. Its first flight is planned for 2028.",
-        "For Tokyo readers, this kind of capability means that access to microgravity research could become more widespread and potentially cheaper. This directly impacts fields like advanced materials science, where new alloys or pharmaceuticals benefit from being created in zero-g. It could also lead to new technologies for disaster warning systems or more efficient satellite components, as the fundamental research becomes more accessible to private companies, not just national agencies.",
-        "We might see the practical impacts within 5-7 years. The main gating factor will be the frequency and cost-effectiveness of these private reentry services. As more companies like Outlier Space enter the market, competition should drive down prices and increase launch opportunities, making space-based research a more routine part of industrial R&D.",
-        "In Japan, companies like Interstellar Technologies are developing their own small rockets, though their focus has primarily been on suborbital flights and orbital launches rather than dedicated reentry vehicles for microgravity research. While JAXA has experience with sample return (like Hayabusa), a private Japanese entity focused purely on commercial microgravity return is not yet prominent. This highlights a potential area for growth in Japan's private space sector, leveraging existing expertise in materials science and precision manufacturing."
-      ],
-      "ja": [
-        "ニュージーランドの企業であるアウトライア・スペース社が、700万ドル以上の資金を調達しました。これは、小さな自動宇宙船を開発するためです。この宇宙船は、無重力環境で科学実験を行い、その結果を安全に地球に持ち帰る、いわば「宇宙版の特殊な宅配ドローン」のようなものです。最初の飛行は2028年に予定されています。",
-        "東京で暮らす私たちにとって、このような技術の進展は、微小重力研究へのアクセスがより一般的になり、コストも下がる可能性を意味します。これは、無重力環境で新しい合金や医薬品が作られる先進材料科学などの分野に直接影響します。また、民間企業が宇宙ベースの研究をより利用しやすくなることで、災害警報システムやより効率的な衛星部品のための新技術が生まれる可能性もあります。",
-        "実際の恩恵を感じられるのは、今後5年から7年以内かもしれません。主な要因は、これらの民間再突入サービスの頻度と費用対効果です。アウトライア・スペースのような企業が市場に参入することで競争が促進され、価格が下がり、打ち上げ機会が増えれば、宇宙での研究は産業界の研究開発の日常的な一部となるでしょう。",
-        "日本では、インターステラテクノロジズ社のような企業が独自の小型ロケットを開発していますが、その主な焦点は準軌道飛行や軌道投入であり、微小重力研究専用の再突入機ではありません。JAXAは「はやぶさ」のようなサンプルリターンミッションで実績がありますが、商業的な微小重力リターンに特化した日本の民間企業はまだ目立っていません。これは、日本の民間宇宙セクターにおいて、既存の材料科学や精密製造の専門知識を活用しつつ、成長の余地がある分野を示しています。"
-      ]
-    },
-    "source": {
-      "name": "Payload",
-      "url": "https://payloadspace.com/outlier-space-raises-7-3m-to-build-new-zealands-first-reentry-vehicle/"
-    },
-    "sourceGuid": "https://payloadspace.com/?p=30801",
     "status": "published"
   }
 ]

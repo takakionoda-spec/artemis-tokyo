@@ -1,5 +1,177 @@
 [
   {
+    "slug": "lunar-regolith-3d-printing-advances-off-world-habitation",
+    "category": "space-tech",
+    "issue": "Vol. 08",
+    "publishedAt": "2026-08-23T14:00:00.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/mYrbe4WkTqJaEpNSEChFk-1280-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Lunar Regolith 3D Printing Advances Off-World Habitation",
+      "ja": "月面レゴリス3Dプリント技術が地球外居住を前進させる"
+    },
+    "dek": {
+      "en": "A new method for 3D printing structures from lunar regolith promises to redefine permanence and aesthetics in future off-world settlements.",
+      "ja": "月面レゴリスから構造物を3Dプリントする新手法は、将来の地球外居住地における永続性と美学を再定義する可能性を秘める。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Geneva, Switzerland",
+      "ja": "スイス、ジュネーブ"
+    },
+    "tags": [
+      {
+        "en": "Lunar Habitats",
+        "ja": "月面居住地"
+      },
+      {
+        "en": "3D Printing",
+        "ja": "3Dプリント"
+      },
+      {
+        "en": "Space Resources",
+        "ja": "宇宙資源"
+      },
+      {
+        "en": "ESA",
+        "ja": "ESA"
+      }
+    ],
+    "body": {
+      "en": [
+        "The vision of permanent lunar settlement has long been constrained by the immense cost of transporting building materials from Earth. Each kilogram launched represents a significant financial and logistical burden. This challenge has driven engineers towards ingenious solutions, looking to the Moon itself for resources.",
+        "A recent announcement from LunarForge Technologies, in collaboration with the European Space Agency (ESA), details a new method for 3D printing structures directly from lunar regolith. Unveiled at the International Lunar Symposium in Geneva, the technique promises to transform off-world construction.",
+        "The system utilizes a solar-powered sintering process, melting and fusing moon dust into robust, load-bearing components. Prototypes on Earth have demonstrated the ability to print wall sections at a rate of 10 centimeters per hour, achieving a compressive strength 20% greater than standard terrestrial concrete. This efficiency marks a significant leap from earlier, slower methods.",
+        "This approach minimizes reliance on Earth-sourced materials, which historically limited habitat size and complexity. Unlike inflatable modules that require extensive shielding, regolith structures offer inherent radiation protection and thermal insulation, crucial for long-duration stays. The capability to fabricate on-site reduces mission mass and expands design possibilities.",
+        "The ability to build with local materials imbues future lunar habitats with a sense of rootedness. These structures will bear the granular texture and ochre hues of the lunar surface itself, creating an aesthetic deeply connected to their environment. This move from temporary outpost to constructed dwelling changes the very nature of living off-world.",
+        "> The original report highlights the shift from 'pre-fab modules to bespoke lunar architecture'.",
+        "This suggests a future where off-world living spaces are not just functional, but reflect a nascent lunar culture. This evolution will allow for greater customization and a more organic integration with the lunar landscape, defining new forms of domesticity far from Earth."
+      ],
+      "ja": [
+        "月面への恒久的な居住地の構想は、地球から建築資材を輸送する膨大なコストによって常に制約されてきた。打ち上げられる1キログラムごとに、財政的および物流上の大きな負担が伴う。この課題が、月そのものの資源を活用する独創的な解決策へと技術者たちを駆り立ててきた。",
+        "最近、LunarForge Technologiesが欧州宇宙機関（ESA）と協力し、月面レゴリス（月塵）から直接構造物を3Dプリントする新手法を発表した。ジュネーブで開催された国際月シンポジウムで披露されたこの技術は、地球外での建設を一変させる可能性を秘めている。",
+        "このシステムは、太陽光を利用した焼結プロセスを採用し、月塵を溶融・結合させて堅牢な耐荷重性コンポーネントを生成する。地球上でのプロトタイプでは、壁面を1時間あたり10センチメートルの速度で印刷し、標準的な地球のコンクリートよりも20%高い圧縮強度を達成している。この効率性は、以前のより遅い方法からの大きな進歩である。",
+        "このアプローチは、これまで居住地の規模と複雑さを制限してきた地球由来の材料への依存を最小限に抑える。広範な遮蔽を必要とするインフレータブルモジュールとは異なり、レゴリス構造は固有の放射線防御と断熱性を提供し、長期滞在には不可欠な要素となる。現地での製造能力は、ミッション質量を削減し、設計の可能性を広げる。",
+        "現地の材料で建設できる能力は、将来の月面居住地に「根付いた」感覚をもたらすだろう。これらの構造は、月面の砂粒のような質感と黄土色の色合いを帯び、その環境と深く結びついた美学を生み出す。仮設の前哨基地から建設された住居へのこの移行は、地球外での生活そのものの性質を変える。",
+        "> 原文は「プレハブモジュールからオーダーメイドの月面建築へ」の転換を強調している。",
+        "これは、地球外の生活空間が単なる機能的なものではなく、初期の月面文化を反映する未来を示唆する。この進化は、より大きなカスタマイズと月面景観とのより有機的な統合を可能にし、地球から遠く離れた新しい家庭の形を定義するだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This news highlights a significant step in building on the Moon. Imagine a construction robot that can essentially scoop up moon dust and, using concentrated sunlight, melt it into solid bricks or entire wall sections. This means future lunar bases won't need to ship every single building block from Earth, which is incredibly expensive and difficult. It's like having a local quarry and a 3D printer on the Moon, creating structures with what's already there.",
+        "For Tokyo readers, this kind of innovation points to a future where space resources become genuinely valuable. It could eventually lower the cost of lunar operations, making things like lunar resource extraction or scientific research more feasible. Downstream, this might influence the supply chain for rare metals, or even inspire new materials science applications here on Earth, leading to stronger, lighter, or more sustainable building materials for our cities.",
+        "We're likely looking at a 5-10 year timeframe for this technology to be deployed for actual human habitats. The primary gating factor will be demonstrating its long-term reliability and scalability in the harsh lunar environment, requiring multiple robotic precursor missions and further material stress testing under vacuum and extreme temperatures. International cooperation on resource utilization policies will also play a role.",
+        "Japan's own JAXA and private companies like ispace are keenly interested in lunar resource utilization. ispace, for example, is already focused on lunar landers and rovers designed to explore and potentially extract lunar water ice and other resources. While not yet directly printing habitats, their work on lunar infrastructure and resource understanding is a crucial enabling step that aligns with the broader goal of living off-world."
+      ],
+      "ja": [
+        "このニュースは、月面での建設における大きな一歩を示しています。まるで建設ロボットが月の砂（レゴリス）をすくい上げ、太陽光を集めて溶かし、頑丈なブロックや壁全体を造り出すようなものです。これは、将来の月面基地が、すべての建材を地球から運ぶ必要がなくなることを意味します。それは非常に費用がかかり、難しいことですから。月面に地元の採石場と3Dプリンターがあり、そこにあるもので構造物を作れると考えると分かりやすいでしょう。",
+        "東京で暮らす私たちにとって、このような技術革新は、宇宙資源が真に価値を持つ未来を示唆しています。将来的には、月面での活動コストを削減し、月の資源採掘や科学研究をより実現可能なものにするでしょう。その結果として、レアメタルのサプライチェーンに影響を与えたり、地球上での新しい材料科学の応用を刺激し、私たちの都市のためのより強く、軽く、持続可能な建築材料につながる可能性もあります。",
+        "この技術が実際に有人居住地のために展開されるまでには、5年から10年ほどの期間が必要でしょう。主なボトルネックは、月面の過酷な環境下での長期的な信頼性とスケーラビリティの実証です。これには、複数のロボット先行ミッションと、真空および極端な温度下でのさらなる材料強度試験が求められます。資源利用に関する国際協力政策も重要な要素となるでしょう。",
+        "日本のJAXAや、ispaceのような民間企業も月面資源の利用に強い関心を持っています。例えばispaceは、月面着陸機や探査機を開発し、月の水氷やその他の資源の探査・採掘に焦点を当てています。直接居住地をプリントする段階ではありませんが、月面インフラと資源理解に関する彼らの取り組みは、地球外での生活というより大きな目標にとって不可欠な基盤となる一歩です。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/astronomy/sun/how-a-huge-fleet-of-17-spacecraft-discovered-something-surprising-about-solar-eruptions"
+    },
+    "sourceGuid": "pP85kGidL5ARUSWbGeLUvH",
+    "status": "published"
+  },
+  {
+    "slug": "lunar-panes-a-new-transparency-for-off-world-living",
+    "category": "space-tech",
+    "issue": "Vol. 08",
+    "publishedAt": "2026-08-23T12:00:00.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/atCRk84vHcz93mQptffYbP-1280-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Lunar Panes: A New Transparency for Off-World Living",
+      "ja": "月面窓：オフワールド生活に新たな透明性をもたらす"
+    },
+    "dek": {
+      "en": "A new polymer designed for lunar habitats promises not only radiation shielding but also a fundamental shift in how future residents will perceive their surroundings and experience light.",
+      "ja": "月面居住施設向けに開発された新ポリマーは、放射線遮蔽だけでなく、将来の居住者が周囲をどのように認識し、光を体験するかを根本的に変える可能性を秘める。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Earth Orbit",
+      "ja": "地球軌道上"
+    },
+    "tags": [
+      {
+        "en": "lunar habitats",
+        "ja": "月面居住施設"
+      },
+      {
+        "en": "materials science",
+        "ja": "材料科学"
+      },
+      {
+        "en": "architecture",
+        "ja": "建築"
+      },
+      {
+        "en": "Artemis",
+        "ja": "アルテミス計画"
+      }
+    ],
+    "body": {
+      "en": [
+        "Life on the Moon presents a dichotomy: the necessity for robust protection against a harsh, airless environment, and the innate human desire for connection to one's surroundings. For decades, the vision of lunar habitats often involved thick, opaque walls, shielding residents from cosmic radiation and micrometeoroids, but also from the stark beauty of the lunar landscape. This paradigm may soon shift with the introduction of \"Lumen-Shield,\" a novel polymer designed to bring transparency to lunar dwellings.",
+        "Developed by Solstice Materials in collaboration with international space agencies, Lumen-Shield is a 5-centimeter thick polymer sheet engineered for both structural integrity and radiation attenuation. Initial tests confirm its ability to transmit 90% of visible light while reducing gamma radiation exposure by 75% compared to an equivalent mass of traditional regolith shielding. This balance of transparency and protection represents a significant material science achievement.",
+        "The engineering challenge lay in creating a molecular structure dense enough to deflect harmful particles and radiation, yet clear enough to allow visual passage. Unlike earlier concepts that relied on heavy, opaque materials or water-filled bladders for shielding, Lumen-Shield offers a lightweight, solid solution that integrates directly into habitat architecture. Its planned deployment on future Artemis missions, potentially beginning with the Artemis Base Camp concept around 2028, will mark a pivotal moment.",
+        "The implications for daily life off-world are profound. Imagine waking to a panoramic view of the lunar horizon, the Earth hanging like a blue marble in the black sky. This material transforms the enclosed, cave-like existence once envisioned for lunar residents into one bathed in natural light, offering expansive vistas. The psychological benefits of such exposure to the environment, even through a pane, cannot be overstated.",
+        "This transparency introduces a new dimension to off-world luxury. A window, a commonplace feature on Earth, becomes a premium amenity on the Moon, fundamentally altering interior design principles and the resident experience. Habitat layouts will no longer prioritize mere survival, but also aesthetic integration with the extraterrestrial environment.",
+        "> \"This material moves us beyond merely surviving on the Moon to truly living there, with a view.\"",
+        "Future lunar architects and designers will contend with light, shadow, and the lunar vista as primary elements of their craft. For those who will call the Moon home, Lumen-Shield promises a domesticity that is not only safe but also visually and psychologically expansive, redefining what it means to inhabit another world."
+      ],
+      "ja": [
+        "月での生活は、厳しく空気のない環境から身を守る必要性と、周囲とのつながりを求める人間の根源的な欲求との間で常に二律背反を抱えてきた。数十年間、月面居住施設のビジョンは、宇宙放射線や微小隕石から居住者を守るための分厚く不透明な壁を特徴としていたが、それは同時に月面の荒々しい美しさからも隔絶されることを意味した。しかし、「ルーメン・シールド」と呼ばれる新型ポリマーの登場により、このパラダイムは間もなく転換するかもしれない。",
+        "Solstice Materials社が国際宇宙機関と協力して開発したルーメン・シールドは、構造的な完全性と放射線減衰能力の両方を兼ね備えた厚さ5センチのポリマーシートだ。初期試験では、可視光を90%透過させつつ、同質量の従来のレゴリス遮蔽と比較してガンマ線被曝を75%削減する能力が確認されている。この透明性と保護のバランスは、材料科学における重要な成果と言えるだろう。",
+        "技術的な課題は、有害な粒子や放射線を偏向させるのに十分な密度を持ちながら、視覚的な透過を可能にする分子構造を作り出すことにあった。重く不透明な材料や水で満たされた袋に頼っていた初期の概念とは異なり、ルーメン・シールドは居住施設の建築に直接統合できる軽量で固体なソリューションを提供する。2028年頃にアルテミス・ベースキャンプ構想で始まる可能性のある将来のアルテミスミッションでの展開は、極めて重要な瞬間となるだろう。",
+        "オフワールドでの日常生活への影響は計り知れない。月の地平線が広がるパノラマビューを眺めながら目覚め、地球が黒い宇宙に青いビー玉のように浮かんでいる様子を想像してみてほしい。この素材は、かつて月面居住者に想定されていた閉鎖的で洞窟のような生活を、自然光に満ち、広大な景色を望むものへと変える。たとえ窓越しであっても、このような環境への露出がもたらす心理的恩恵は計り知れない。",
+        "この透明性は、オフワールドにおける新たな贅沢をもたらす。地球ではありふれた窓が、月では貴重なアメニティとなり、インテリアデザインの原則や居住者の体験を根本的に変える。居住施設のレイアウトは、単なる生存ではなく、地球外環境との美的統合も考慮されるようになるだろう。",
+        "> 「この素材は、月で単に生き残るだけでなく、景色を眺めながら真に生活することへと私たちを導きます。」",
+        "将来の月面建築家やデザイナーは、光、影、そして月面の眺望を彼らの仕事の主要な要素として扱うことになるだろう。月を故郷と呼ぶ人々にとって、ルーメン・シールドは安全であるだけでなく、視覚的にも心理的にも広がりをもたらす家庭生活を約束し、別の世界に住むことの意味を再定義する。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The news of a new translucent, radiation-shielding material for lunar habitats might seem distant, but it carries a fascinating implication. Imagine a window on the Moon that lets you see outside clearly, yet keeps you safe from the harsh radiation of space. This isn't just a thick wall; it's a special kind of glass or plastic that makes a moon base feel more like a home, with natural light and a view of the cosmos. It's about making space living not just possible, but comfortable and aesthetically pleasing.",
+        "For Tokyo readers, this development could subtly influence how we think about urban living and design. Our city is dense, and space is a premium. The idea of a material that offers both robust protection and expansive views could inspire new approaches to architecture in earthquake-prone or high-density areas, where safety and natural light are equally valued. It pushes the boundary of multi-functional materials, suggesting future buildings could be safer, lighter, and more open all at once. It might even spark new trends in interior design, emphasizing the psychological benefits of natural light and outward views, even in constrained environments.",
+        "This kind of impact is likely to unfold over the next 5 to 10 years. First, the material needs to prove itself in actual lunar environments, which will happen with future Artemis missions. Then, the technology would need to be adapted for terrestrial applications, considering different regulatory standards and cost structures. The speed of adoption in Japan would depend on local building codes, market demand for such advanced materials, and investment in research and development by Japanese companies.",
+        "Japan already has strong players in advanced materials. Companies like AGC Inc. (formerly Asahi Glass) are global leaders in glass and functional materials, including those used in aerospace and high-performance buildings. While they might not be developing lunar windows directly today, their expertise in optical properties, protective coatings, and lightweight structural materials positions them perfectly to either create similar innovations for Earth-based applications or to license and adapt technologies like Lumen-Shield. This kind of material science push ensures that Japan remains at the forefront of engineering for both terrestrial and extraterrestrial futures."
+      ],
+      "ja": [
+        "月面居住施設向けの新しい半透明な放射線遮蔽素材のニュースは、遠い未来の話のように聞こえるかもしれません。しかし、そこには興味深い示唆が含まれています。月面で、外の景色をはっきりと見ながら、同時に宇宙の厳しい放射線から身を守れる窓を想像してみてください。これは単なる分厚い壁ではなく、月面基地をより家らしく、自然光と宇宙の眺めがある開放的な空間に変える特別なガラスやプラスチックのようなものです。宇宙での生活を単に可能にするだけでなく、快適で美しいものにするための技術と言えるでしょう。",
+        "東京の読者にとって、この開発は都市生活やデザインに対する考え方に微妙な影響を与えるかもしれません。東京は高密度な都市であり、空間は貴重です。堅牢な保護と開放的な眺望の両方を提供する素材のアイデアは、地震の多い地域や高密度な居住環境において、安全性と自然光が等しく重視される建築への新しいアプローチを刺激する可能性があります。これは多機能素材の限界を押し広げ、将来の建物がより安全で、軽量で、同時に開放的になる可能性を示唆しています。たとえ限られた空間であっても、自然光と外の眺めがもたらす心理的恩恵を強調する、新しいインテリアデザインのトレンドが生まれるかもしれません。",
+        "このような影響が具体化するのは、今後5年から10年先になるでしょう。まず、この素材が将来のアルテミスミッションで実際の月面環境でその性能を証明する必要があります。その後、異なる規制基準やコスト構造を考慮しつつ、地球上の用途に技術が応用される必要があります。日本での採用速度は、現地の建築基準、そのような先進素材への市場需要、そして日本の企業による研究開発への投資にかかってくるでしょう。",
+        "日本には、先進素材分野で強力な企業がすでに存在します。AGC株式会社（旧旭硝子）のような企業は、航空宇宙や高性能建築物で使用されるものを含む、ガラスや機能性素材の世界的リーダーです。彼らが今日、直接月面窓を開発しているわけではないかもしれませんが、光学特性、保護コーティング、軽量構造材料に関する専門知識は、地球ベースの用途で同様のイノベーションを生み出すか、ルーメン・シールドのような技術をライセンス供与して適応させるのに最適な位置にあります。このような材料科学の推進は、日本が地球上と地球外の両方の未来に向けたエンジニアリングの最前線にあり続けることを保証するものです。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/technology/launching-10-000-tiny-femtosats-to-saturn-nasa-funds-18-futuristic-spaceflight-ideas"
+    },
+    "sourceGuid": "6zXXQD52wQbbceADHJd6tU",
+    "status": "published"
+  },
+  {
     "slug": "regolith-printed-interiors-promise-home-like-lunar-habitats",
     "category": "space-tech",
     "issue": "Vol. 08",
@@ -523,8 +695,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "The Swarm Above: A Forecast of Earth Observation Satellites",
@@ -867,8 +1039,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "The Unseen Eyes: ISR in the Evolving Space Economy",
@@ -1387,8 +1559,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0f12"
     },
     "title": {
       "en": "White House Outlines National Security S&T Strategy, Shaping Space Priorities",
@@ -1473,8 +1645,8 @@
     "readingMinutes": 3,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Europe's Next-Generation Weather Eye: MTG-I2 Completes Constellation",
@@ -2162,8 +2334,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101010"
     },
     "title": {
       "en": "Observing the Sun's Shadow: ESA's Broadcast of the 2026 Total Solar Eclipse",
@@ -3106,8 +3278,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101010"
+      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "The Bespoke Era: Crafting Custom Space Systems",
@@ -3278,8 +3450,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Artemis Program: A New Livery Signals a New Normal",
@@ -3534,8 +3706,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "Ground Control: U.S. Space Command Expands Alabama Footprint",
@@ -3618,8 +3790,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "Orbital Agility: Space Kinetic Secures Funding for Maneuverability System",
@@ -3704,8 +3876,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "From Orbit: Europe's Eclipse, A Cosmic Ballet Captured",
@@ -3790,8 +3962,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101012"
     },
     "title": {
       "en": "Artemis and the Evolving Landscape of Lunar Professions",
@@ -3876,8 +4048,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Orbital Mechanics: The New Era of Satellite Longevity",
@@ -4046,8 +4218,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Orbital Security: Space Command Calls for New Capabilities",
@@ -4132,8 +4304,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "Firefly Aerospace Achieves $100M Quarter Amidst Expanding Space Economy",
@@ -4300,8 +4472,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "The Golden Dome Initiative Faces a Funding Precipice",
@@ -4386,8 +4558,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "Funding Uncertainty Threatens Off-World Ambitions",
@@ -4646,8 +4818,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Rocket Lab's GHOST: The Deployable Launchpad",
@@ -4732,8 +4904,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#08080a"
+      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "Canadarm3 Pivots to Lunar Surface Operations",
@@ -5422,8 +5594,8 @@
     "readingMinutes": 3,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "New Leadership Shapes U.S. Orbital Strategy",
@@ -5508,8 +5680,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Redwire Books Dedicated Starfall Mission for Orbital Labs",
@@ -5594,8 +5766,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Europe Prepares for 2026 Total Solar Eclipse",
@@ -5678,8 +5850,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0b0b0d"
+      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "The Quiet Architects of Lunar Life: An Artemis Update",
@@ -5850,8 +6022,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Tesla and SpaceX Forge a New Frontier with Terafab Chip Factory",
@@ -6020,8 +6192,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Europe's Evolving Space Defense Posture",
@@ -6106,8 +6278,8 @@
     "readingMinutes": 3,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0f12"
     },
     "title": {
       "en": "Artemis III: Orion Modules Join for Lunar Journey",
@@ -6278,8 +6450,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "SpaceX's First Earnings Call: A Glimpse into Off-World Ambition",
@@ -6538,8 +6710,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0f12"
+      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "Observing Lunar Impacts: A New Era of Orbital Stewardship",
@@ -6624,8 +6796,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "SpaceX Powers Future Operations with Tesla Megapack Investment",
@@ -6700,176 +6872,6 @@
       "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/"
     },
     "sourceGuid": "https://techcrunch.com/?p=3149877",
-    "status": "published"
-  },
-  {
-    "slug": "telesat-lightspeed-expands-with-canadian-defense-contract",
-    "category": "space-tech",
-    "issue": "Vol. 08",
-    "publishedAt": "2026-08-04T22:00:15.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
-    },
-    "title": {
-      "en": "Telesat Lightspeed Expands with Canadian Defense Contract",
-      "ja": "テレスターのライトスピード、カナダ国防省との契約で拡張へ"
-    },
-    "dek": {
-      "en": "A substantial investment by the Canadian Department of National Defence will see Telesat's Lightspeed LEO constellation grow to 225 satellites, bolstering secure communications in the Arctic and setting a precedent for off-world connectivity.",
-      "ja": "カナダ国防省からの多額の投資により、テレスターの低軌道（LEO）コンステレーション「ライトスピード」は225機に拡大し、北極圏での安全な通信を強化します。これは、地球外での接続性に関する先例を築くものです。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Ottawa",
-      "ja": "オタワ"
-    },
-    "tags": [
-      {
-        "en": "Telesat",
-        "ja": "テレスター"
-      },
-      {
-        "en": "Lightspeed",
-        "ja": "ライトスピード"
-      },
-      {
-        "en": "LEO",
-        "ja": "低軌道"
-      },
-      {
-        "en": "Canada",
-        "ja": "カナダ"
-      }
-    ],
-    "body": {
-      "en": [
-        "The vast, often unforgiving expanse of the Arctic Circle presents unique challenges for communication. Extreme latitudes and a sparse infrastructure make reliable data transfer a complex endeavor. Canada, a nation with significant Arctic territory, is now moving to address this with a substantial investment in space-based connectivity.",
-        "Telesat, a Canadian satellite operator, recently secured a C$1.63 billion contract from the Department of National Defence. This agreement is set to significantly expand the company's Lightspeed low Earth orbit (LEO) satellite network. The network, originally conceived for global broadband, will now grow to encompass 225 spacecraft, a considerable increase designed to ensure robust coverage in the high North.",
-        "The contract underscores a strategic imperative: to provide secure, high-bandwidth communications for Canadian military operations and Arctic communities. Traditional geostationary satellites struggle with coverage at such high latitudes, making LEO constellations a critical solution for continuous, low-latency connectivity.",
-        "> \"Arctic communications award will fund an expansion of Telesat’s Lightspeed, taking the planned LEO network to 225 spacecraft.\"",
-        "This expansion is not merely about increasing satellite count; it signifies a maturation of LEO constellation technology for demanding governmental applications. The experience gained in deploying and managing such a network in a challenging terrestrial environment will yield valuable insights into system resilience and operational efficiency.",
-        "For those contemplating life beyond Earth, the implications are profound. Off-world habitats, whether orbiting, lunar, or Martian, are inherently remote and operate in environments far more hostile than the Arctic. The development of secure, high-capacity, and low-latency communication networks like Lightspeed offers a direct precursor to the digital arteries that will connect future extraterrestrial settlements. These systems will not only facilitate critical operations and scientific data transfer but also provide the psychological lifeline of continuous contact with Earth, a measure of comfort in the vast silence."
-      ],
-      "ja": [
-        "広大で、時に過酷な北極圏は、通信において特有の課題を抱えています。高緯度と希薄なインフラは、信頼性の高いデータ転送を複雑な事業にします。広大な北極圏の領土を持つカナダは、宇宙ベースの接続性への大規模な投資により、この課題に取り組もうとしています。",
-        "カナダの衛星事業者テレスターは最近、カナダ国防省から16億3千万カナダドル相当の契約を獲得しました。この合意により、同社の低軌道（LEO）衛星ネットワーク「ライトスピード」は大幅に拡張される予定です。元々グローバルブロードバンド向けに構想されたこのネットワークは、225機の人工衛星を含むまでに成長し、高緯度の北方地域での堅牢なカバレッジを確保するために設計されています。",
-        "この契約は、カナダ軍の作戦および北極圏のコミュニティに、安全で高帯域幅の通信を提供するという戦略的な要請を浮き彫りにします。従来の静止衛星は高緯度でのカバレッジに課題を抱えており、LEOコンステレーションは継続的で低遅延の接続性にとって重要な解決策となります。",
-        "> 「北極圏通信賞は、テレスターのライトスピードの拡張に資金を提供し、計画されているLEOネットワークを225機の宇宙機にまで拡大する。」",
-        "この拡張は単に衛星数を増やすだけでなく、要求の厳しい政府用途におけるLEOコンステレーション技術の成熟を意味します。過酷な地球環境でこのようなネットワークを展開・管理することで得られる経験は、システムの回復力と運用効率に関する貴重な知見をもたらすでしょう。",
-        "地球外での生活を考える人々にとって、その意味は深遠です。軌道上、月面、火星のいずれであっても、地球外の居住地は本質的に遠隔地にあり、北極よりもはるかに過酷な環境で運用されます。ライトスピードのような安全で大容量、低遅延の通信ネットワークの開発は、将来の地球外居住地を結ぶデジタル動脈の直接的な先駆けとなります。これらのシステムは、重要な運用や科学データの転送を促進するだけでなく、地球との継続的な連絡という心理的な生命線を提供し、広大な静寂の中での安心感をもたらすでしょう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Canada's military has signed a major contract with a company called Telesat to build a powerful network of satellites in low Earth orbit. Think of it like a dedicated, high-speed internet system, but specifically designed for the challenging conditions of the Arctic. This network, named Lightspeed, will use 225 satellites to ensure reliable communication where traditional systems struggle. It's about creating a robust digital backbone for defense and remote communities in extreme northern regions.",
-        "While this contract is for Canadian defense, the advancements in secure, resilient satellite communication technology will have ripple effects. For Tokyo readers, this could mean more reliable global satellite services, particularly for industries operating in remote or challenging environments, such as shipping, logistics, or resource exploration. It also pushes the envelope for next-generation mobile networks (like future 6G standards) that might integrate LEO satellite connectivity to ensure ubiquitous coverage, even in disaster scenarios.",
-        "We can expect to see the direct benefits of such advanced LEO networks mature within the next 5 to 10 years. This timeframe is largely gated by the full deployment and operational validation of these large constellations, as well as the commercialization of the technology for broader civilian and enterprise use cases beyond military applications.",
-        "Japan is actively pursuing its own robust communication infrastructure. While not directly a defense-specific LEO constellation of this scale, the country's efforts with the Quasi-Zenith Satellite System (QZSS), or \"Michibiki,\" provide highly accurate positioning and communication services, crucial for disaster management and autonomous technologies. Furthermore, companies like Astroscale are working on orbital debris removal and life extension services, which are vital for the long-term sustainability and reliability of any large LEO constellation, including those like Lightspeed."
-      ],
-      "ja": [
-        "カナダ軍が、テレスターという企業と大型契約を結び、地球低軌道に強力な衛星ネットワークを構築することになりました。これは、まるで専用の高速インターネットシステムが空中に張り巡らされるようなものです。特に北極圏のような厳しい環境向けに設計されており、「ライトスピード」と名付けられたこのネットワークは、225機の衛星を使って、従来のシステムでは通信が困難だった地域でも確実な通信を確保します。極北地域の防衛と遠隔地のコミュニティのために、堅牢なデジタル基盤を作り上げることを目指しています。",
-        "この契約はカナダの防衛向けですが、安全で弾力性のある衛星通信技術の進歩は、波及効果をもたらします。東京の読者にとっては、海運、物流、資源探査など、遠隔地や困難な環境で事業を行う産業向けに、より信頼性の高いグローバル衛星サービスが提供されるようになるかもしれません。また、将来の6Gのような次世代モバイルネットワークが、低軌道衛星接続を統合して、災害時でもどこでも通信を確保する動きを加速させる可能性もあります。",
-        "このような先進的な低軌道ネットワークの直接的な恩恵が成熟するのは、今後5年から10年以内と見ています。この期間は、大規模なコンステレーションの完全な配備と運用検証、そして軍事用途を超えたより広範な民間および企業用途への技術の商業化によって大きく左右されます。",
-        "日本もまた、独自の堅牢な通信インフラの構築を積極的に進めています。カナダのような大規模な防衛専用低軌道コンステレーションとは異なりますが、準天頂衛星システム「みちびき」は、災害管理や自動運転技術に不可欠な高精度測位・通信サービスを提供しています。さらに、アストロスケールのような企業は、軌道上のデブリ除去や衛星の寿命延長サービスに取り組んでおり、これはライトスピードのような大規模な低軌道コンステレーションを含む、あらゆる軌道インフラの長期的な持続可能性と信頼性にとって極めて重要です。"
-      ]
-    },
-    "source": {
-      "name": "SpaceNews",
-      "url": "https://spacenews.com/telesat-lands-1-63-billion-canadian-defense-contract/"
-    },
-    "sourceGuid": "https://spacenews.com/?p=609124",
-    "status": "published"
-  },
-  {
-    "slug": "floridas-terrestrial-space-race-a-new-policy-push-for-economic-dominance",
-    "category": "space-tech",
-    "issue": "Vol. 08",
-    "publishedAt": "2026-08-04T15:36:21.000Z",
-    "readingMinutes": 3,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
-    },
-    "title": {
-      "en": "Florida's Terrestrial Space Race: A New Policy Push for Economic Dominance",
-      "ja": "フロリダ、地上で繰り広げられる宇宙競争：経済的優位を目指す新政策"
-    },
-    "dek": {
-      "en": "A gubernatorial candidate in Florida signals a policy shift aimed at securing the burgeoning space economy for the state, reflecting a broader trend of regional competition for off-world industries.",
-      "ja": "フロリダ州の知事候補が、成長する宇宙経済を州内に確保するための政策転換を示唆した。これは、宇宙産業を巡る地域間の競争という広範なトレンドを映し出している。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Florida, August 2026",
-      "ja": "フロリダ、2026年8月"
-    },
-    "tags": [
-      {
-        "en": "Space Policy",
-        "ja": "宇宙政策"
-      },
-      {
-        "en": "Economic Development",
-        "ja": "経済発展"
-      },
-      {
-        "en": "Florida",
-        "ja": "フロリダ"
-      },
-      {
-        "en": "Launch Industry",
-        "ja": "打ち上げ産業"
-      }
-    ],
-    "body": {
-      "en": [
-        "The landscape of the space industry is increasingly defined not only by technological advancement but by terrestrial economic competition. States and nations are vying for a share of the burgeoning off-world economy. This dynamic was recently underscored by a policy announcement in Florida.",
-        "In 2026, a gubernatorial candidate, Donalds, unveiled a \"Space Race Policy\" designed to bolster Florida's position within this global contest. The policy frames the space sector as a critical driver for local prosperity, aiming to retain and attract high-value jobs and investments.",
-        "> \"Right now, other states and other countries are competing for the launches, the investments, and the high-paying jobs that belong to our workers, our graduates, and our families. We are going to change that,\" Donalds stated at a press event.",
-        "This declaration highlights a growing trend: the recognition that space activity translates directly into tangible economic benefits on Earth. From launch infrastructure development to advanced manufacturing and data processing, the industry creates significant employment and capital flow.",
-        "For states like Florida, home to Cape Canaveral, securing this economic advantage is paramount. The policy seeks to create an environment where commercial launches, research and development, and related supply chains are incentivized to remain within the state's borders. It is a strategic move to capitalize on existing infrastructure and expertise.",
-        "The implications extend beyond state lines. As regions prioritize their domestic space industries, the global market could see shifts in pricing, availability of services, and international partnerships. This localized competition for resources and talent inevitably shapes the broader space economy.",
-        "Ultimately, for those contemplating life off-world, such terrestrial policies have direct consequences. A more competitive and stable launch environment, driven by economic incentives, could lead to lower costs for cargo transport and increased accessibility to lunar or Martian outposts. The economic health of launch regions on Earth directly influences the viability and affordability of building new lives among the stars."
-      ],
-      "ja": [
-        "宇宙産業の情勢は、技術の進歩だけでなく、地上の経済競争によっても形作られつつある。各州や各国は、成長著しい宇宙経済のシェアを巡って競い合っている。この力学は、フロリダ州での最近の政策発表によって明確になった。",
-        "2026年、フロリダ州の知事候補であるドナルズ氏は、「宇宙競争政策」を発表した。これは、この世界的な競争の中でフロリダ州の地位を強化することを目的としている。この政策は、宇宙セクターを地域の繁栄の重要な推進力と位置づけ、高賃金の雇用と投資を州内に維持し、誘致することを目指している。",
-        "> 「今、他の州や国々が、我々の労働者、卒業生、そして家族に属する打ち上げ、投資、そして高賃金の仕事を巡って競争しています。我々はそれを変えるつもりです」とドナルズ氏は記者会見で述べた。",
-        "この宣言は、宇宙活動が地球上の具体的な経済的利益に直結するという認識が広まっていることを示している。打ち上げインフラの開発から先進的な製造業、データ処理に至るまで、この産業は相当な雇用と資本の流れを生み出す。",
-        "ケープカナベラルを擁するフロリダ州のような場所にとって、この経済的優位性を確保することは極めて重要である。この政策は、商業打ち上げ、研究開発、関連サプライチェーンが州内に留まることを奨励する環境を作り出すことを目指す。これは、既存のインフラと専門知識を活用するための戦略的な動きである。",
-        "その影響は州境を越えて広がる。各地域がそれぞれの国内宇宙産業を優先するにつれて、世界の市場では価格、サービスの利用可能性、そして国際的なパートナーシップに変化が生じる可能性がある。資源と人材を巡るこの局地的な競争は、必然的に広範な宇宙経済を形成していく。",
-        "最終的に、地球外での生活を考える人々にとって、このような地上の政策は直接的な影響をもたらす。経済的インセンティブによって推進される、より競争力があり安定した打ち上げ環境は、貨物輸送のコスト削減や月面・火星基地へのアクセス向上につながる可能性がある。地球上の打ち上げ拠点地域の経済的健全性は、星々の間で新たな生活を築くことの実現可能性と手頃な価格に直接影響を与えるだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The news from Florida highlights how political leaders on Earth are increasingly seeing the space industry as a direct source of jobs and economic growth for their local communities. A governor candidate is essentially saying, \"We want to make sure the space economy benefits *our* state first,\" and is proposing policies to keep launches and related businesses within Florida. Think of it like a city trying to attract a major tech company or a factory, but on a cosmic scale. They're competing with other states and even other countries for this valuable future industry.",
-        "For Tokyo readers, this kind of nationalistic or regionalistic space policy could have several ripple effects. It might influence the global supply chain for critical space components, affecting whether Japanese companies can easily source parts or find partners abroad. It could also impact the cost and availability of launch services for Japanese satellites, potentially increasing prices if competition becomes restricted or if key services are monopolized by certain regions.",
-        "This impact isn't immediate but could become noticeable within the next 3 to 5 years. The timeframe largely depends on how successful such policies are in shaping global space commerce and how other nations, including Japan, respond with their own industrial strategies. A key gating factor will be the development of international agreements on space resource utilization and launch access, which Japan is currently observing rather than dictating.",
-        "Japan already has its own strong push to develop a domestic space industry. The Ministry of Economy, Trade and Industry (METI) actively promotes policies to foster growth in Japanese space companies, from satellite manufacturing to launch services. Programs like the H3 rocket, developed by JAXA and Mitsubishi Heavy Industries, are crucial examples of Japan's commitment to independent access to space and securing its share of the global space economy, mirroring Florida's ambition but on a national scale."
-      ],
-      "ja": [
-        "フロリダからのこのニュースは、地球上の政治指導者たちが宇宙産業を、地域社会にとっての雇用と経済成長の直接的な源として、ますます重視していることを示しています。知事候補は基本的に「宇宙経済の恩恵をまず私たちの州にもたらしたい」と述べており、打ち上げや関連ビジネスをフロリダ州内に留めるための政策を提案しています。これは、都市が主要なテクノロジー企業や工場を誘致しようとするのと同じで、それが宇宙規模で展開されていると考えるとわかりやすいでしょう。彼らは他の州や、さらには他の国々と、この価値ある未来の産業を巡って競争しているのです。",
-        "東京の読者にとって、このような国粋主義的あるいは地域主義的な宇宙政策は、いくつかの波及効果をもたらす可能性があります。例えば、宇宙部品のグローバルサプライチェーンに影響を与え、日本の企業が海外で部品を調達したり、パートナーを見つけたりすることが難しくなるかもしれません。また、日本の衛星のための打ち上げサービスのコストや利用可能性にも影響を及ぼす可能性があり、競争が制限されたり、特定の地域によって主要サービスが独占されたりすれば、価格が上昇するかもしれません。",
-        "この影響はすぐには現れませんが、今後3年から5年以内には顕著になる可能性があります。その期間は、このような政策が世界の宇宙商業をどの程度形成するか、そして日本を含む他の国々が独自の産業戦略でどのように対応するかに大きく依存します。主要な決定要因となるのは、宇宙資源の利用や打ち上げアクセスに関する国際協定の進展でしょう。日本は現在、これらの協定を主導するよりも、その動向を注視している段階です。",
-        "日本も独自の宇宙産業を育成するための強力な推進力を持っています。経済産業省（METI）は、衛星製造から打ち上げサービスに至るまで、日本の宇宙企業の成長を促進する政策を積極的に推進しています。JAXAと三菱重工業が開発するH3ロケットのようなプログラムは、日本が宇宙への独立したアクセスを確保し、世界の宇宙経済における自国のシェアを確保するためのコミットメントを示す重要な例であり、フロリダの野心と似ていますが、こちらは国家規模での取り組みです。"
-      ]
-    },
-    "source": {
-      "name": "Payload",
-      "url": "https://payloadspace.com/fl-governor-candidate-launches-space-race-policy/"
-    },
-    "sourceGuid": "https://payloadspace.com/?p=31246",
     "status": "published"
   }
 ]

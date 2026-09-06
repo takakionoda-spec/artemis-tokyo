@@ -1,5 +1,263 @@
 [
   {
+    "slug": "regolith-refined-the-lunar-habitats-emerging-aesthetic",
+    "category": "space-tech",
+    "issue": "Vol. 09",
+    "publishedAt": "2026-09-06T16:23:04.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/pHgfCXA7kVaSm38x6g34UZ-1280-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Regolith Refined: The Lunar Habitat's Emerging Aesthetic",
+      "ja": "月面レゴリス、居住空間の美学を再定義する"
+    },
+    "dek": {
+      "en": "New 3D printing techniques promise smoother interiors for off-world dwellings, shifting focus from pure utility to the lived experience of space.",
+      "ja": "新しい3Dプリント技術が月面住居の内部に滑らかな質感をもたらし、機能性から生活体験へと焦点を移す。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Noordwijk, Netherlands",
+      "ja": "オランダ、ノールトウェイク"
+    },
+    "tags": [
+      {
+        "en": "lunar habitats",
+        "ja": "月面居住"
+      },
+      {
+        "en": "3D printing",
+        "ja": "3Dプリント"
+      },
+      {
+        "en": "space architecture",
+        "ja": "宇宙建築"
+      },
+      {
+        "en": "materials science",
+        "ja": "材料科学"
+      }
+    ],
+    "body": {
+      "en": [
+        "The European Space Agency (ESA), in collaboration with a private architectural studio, has unveiled a significant advancement in lunar habitat construction. This development moves beyond the purely functional, addressing the tactile and aesthetic dimensions of off-world living. The core innovation lies in a novel 3D printing process that utilizes lunar regolith to create interior surfaces with an unprecedented smoothness.",
+        "Traditional approaches to regolith-based construction have often resulted in rough, unrefined textures, prioritizing structural integrity over occupant comfort. This new technique, demonstrated at ESA's European Space Research and Technology Centre (ESTEC) in Noordwijk, Netherlands, integrates a specialized binder with local lunar soil simulants. The result is a finish that mimics polished concrete or plaster, a departure from the raw, granular surfaces previously envisioned.",
+        "A prototype 6-meter diameter dome, printed over 120 hours, showcases the potential for more inviting and psychologically supportive living spaces. This shift acknowledges that extended stays off-world will demand environments that cater to human well-being beyond basic survival. The ability to craft diverse interior textures could profoundly influence the design language of lunar settlements.",
+        "> \"The goal is to make future lunar homes feel less like a bunker and more like a dwelling,\" the original report noted.",
+        "Such advancements suggest a future where off-world architecture is not solely defined by engineering constraints but also by human preference and cultural expression. The interior of a lunar habitat might one day reflect personal taste, offering a sense of permanence and belonging. This contrasts sharply with the spartan, functional aesthetic of early space stations.",
+        "ESA aims for small-scale test structures on the Moon by 2028, with full-scale habitat deployment targeted for 2030. These initial deployments will serve as crucial proving grounds for both the structural integrity and the habitability of such refined regolith structures. The cost efficiencies of using local materials remain paramount, but now, so does the quality of the lived experience.",
+        "For those who will eventually reside on the Moon, these developments signal a subtle but profound change. The texture of a wall, the feel of a floor underfoot, or the way light interacts with a finished surface will cease to be an afterthought. Instead, they will become integral elements in defining the domesticity and identity of a lunar home, shaping the very fabric of off-world culture."
+      ],
+      "ja": [
+        "欧州宇宙機関（ESA）は、ある民間建築事務所との協業により、月面居住施設の建設において重要な進展を発表した。この開発は、純粋な機能性を超え、地球外での生活における触覚や美的な側面に取り組むものだ。核となる革新は、月面レゴリス（月の砂）を用いて、かつてないほど滑らかな内部表面を作り出す新しい3Dプリントプロセスにある。",
+        "これまでのレゴリスを用いた建設アプローチでは、構造的完全性が優先され、粗く未加工の質感が一般的だった。オランダ・ノールトウェイクにあるESAの欧州宇宙研究技術センター（ESTEC）で実演されたこの新技術は、特殊な結合剤を月の土壌模擬材料と統合する。その結果、以前に想定されていた生々しい粒状の表面とは異なり、磨かれたコンクリートや漆喰のような仕上がりを実現した。",
+        "120時間かけてプリントされた直径6メートルのドーム型プロトタイプは、より居心地が良く、心理的に支えとなる居住空間の可能性を示している。この転換は、地球外での長期滞在が、基本的な生存を超えて人間の幸福に対応する環境を必要とすることを認識したものだ。多様な内部の質感を作り出す能力は、月面居住地のデザイン言語に深く影響を与えるだろう。",
+        "> 「目標は、将来の月面住宅をバンカーというよりは、住まいのように感じさせることだ」と、原文は記している。",
+        "このような進歩は、地球外建築が工学的制約だけでなく、人間の好みや文化的表現によっても定義される未来を示唆している。月面居住施設の内部は、いつか個人の嗜好を反映し、永続性と帰属意識をもたらすかもしれない。これは、初期の宇宙ステーションの簡素で機能的な美学とは対照的である。",
+        "ESAは、2028年までに月面に小規模な試験構造物を展開し、2030年までに本格的な居住施設の展開を目指している。これらの初期展開は、改良されたレゴリス構造の構造的完全性と居住性の両方にとって重要な実証の場となるだろう。現地材料の使用によるコスト効率は引き続き最重要課題だが、今や生活体験の質も同様に重要視されている。",
+        "いずれ月に住む人々にとって、これらの進展は、ささやかだが奥深い変化を告げている。壁の質感、足元の床の感触、あるいは光が仕上げられた表面と相互作用する方法は、もはや後回しにされることはない。それらは、月面住宅の家庭的な雰囲気とアイデンティティを定義する不可欠な要素となり、地球外文化そのものの基盤を形作っていくだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Imagine building a house on the Moon not just with Moon dirt, but in a way that makes the inside walls smooth and pleasant to touch, almost like a beautifully finished concrete wall here on Earth. That's essentially what the European Space Agency and an architecture firm are working on. They've found a new way to 3D print structures using lunar soil, making the interior surfaces much nicer than before. It’s about making future lunar homes feel more like actual homes, not just sterile bunkers.",
+        "This development has implications for materials science and architectural design. For Tokyo readers, it might influence the types of advanced construction materials and design principles that emerge from space applications back on Earth. We could see new composite materials or sustainable building techniques inspired by regolith printing, leading to more resilient or aesthetically refined urban structures. It also opens up new avenues for Japanese architectural firms to contribute to off-world design.",
+        "The direct impact on daily life in Tokyo is still some years away, likely 5-10 years. This timeframe is gated by the successful deployment and scaling of these techniques on the Moon itself, followed by the transfer of derived material science and architectural insights back to terrestrial applications. Commercial licensing and adaptation for Earth-based construction would then follow.",
+        "Japan's ispace, known for its lunar landers and rovers, is a key player in lunar resource utilization and could integrate such advanced construction methods into its future lunar base concepts. While ispace's current focus is on infrastructure and resource extraction, the eventual need for habitability and refined living spaces will align with this kind of material science. Additionally, Japanese construction companies, known for their precision and innovative materials, could find terrestrial applications for these advanced 3D printing techniques."
+      ],
+      "ja": [
+        "月で家を建てる際、単に月の砂（レゴリス）を使うだけでなく、その家の内壁を、まるで地球の美しいコンクリート壁のように滑らかで触り心地の良いものにできる技術が開発されている、と考えてみてください。欧州宇宙機関（ESA）とある建築会社が取り組んでいるのは、まさにそれです。彼らは月面土壌を使って3Dプリントする新しい方法を見つけ、内部の表面を以前よりもずっと快適なものにしています。これは、将来の月面住宅を、ただの無機質なシェルターではなく、本当の「家」のように感じさせるための取り組みなのです。",
+        "この技術は、材料科学と建築デザインの分野に影響を与えるでしょう。東京の読者にとって、宇宙応用から地球に戻ってくる先進的な建築材料やデザイン原則の種類に影響を与える可能性があります。レゴリスプリントからインスピレーションを得た新しい複合材料や持続可能な建築技術が生まれ、より強靭で美しい都市構造につながるかもしれません。また、日本の建築事務所が地球外のデザインに貢献する新たな道も開かれるでしょう。",
+        "このニュースが東京での日常生活に直接的な影響を与えるまでには、まだ数年かかります。おそらく5年から10年が目安となるでしょう。この期間は、月面でのこれらの技術の展開と規模拡大が成功し、その後に得られた材料科学や建築の知見が地球の応用へと転用されることで決まります。その後、商業ライセンス供与や地球ベースの建設への適応が進むことになります。",
+        "日本のispaceは、月着陸船やローバーで知られ、月面資源利用の主要なプレーヤーです。将来の月面基地構想に、このような先進的な建設方法を組み込む可能性があります。ispaceの現在の焦点はインフラと資源採掘ですが、最終的には居住性と洗練された生活空間の必要性が、この種の材料科学と合致するでしょう。さらに、精密な技術と革新的な材料で知られる日本の建設会社も、これらの先進的な3Dプリント技術の地球上での応用を見出すかもしれません。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-6-2026"
+    },
+    "sourceGuid": "6ZreQ3N2EzRMkLGwuQrgmL",
+    "status": "published"
+  },
+  {
+    "slug": "europes-commercial-ascent-a-new-orbital-player-emerges",
+    "category": "space-tech",
+    "issue": "Vol. 09",
+    "publishedAt": "2026-09-06T11:55:26.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Spectrum_mission_Onwards_and_upwards_liftoff_pillars-1152x648.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Europe's Commercial Ascent: A New Orbital Player Emerges",
+      "ja": "欧州商業宇宙の台頭：新たな軌道プレーヤーの出現"
+    },
+    "dek": {
+      "en": "A German company's successful orbital launch marks a significant milestone, cementing the private sector's expanding role in space access and setting a new precedent for European commercial spaceflight.",
+      "ja": "ドイツ企業による商業軌道打ち上げの成功は、民間部門の宇宙アクセスにおける役割拡大を確固たるものとし、欧州の商業宇宙飛行に新たな前例を築く重要な節目となる。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "September 6, 2026, Europe",
+      "ja": "2026年9月6日、欧州"
+    },
+    "tags": [
+      {
+        "en": "Commercial Space",
+        "ja": "商業宇宙"
+      },
+      {
+        "en": "European Space",
+        "ja": "欧州宇宙"
+      },
+      {
+        "en": "Orbital Launch",
+        "ja": "軌道打ち上げ"
+      },
+      {
+        "en": "Private Sector",
+        "ja": "民間企業"
+      }
+    ],
+    "body": {
+      "en": [
+        "The quiet ascent of a new player in the orbital launch market has arrived. A German company has achieved a significant milestone, becoming the first in Europe to successfully launch a fully commercial orbital rocket. This event, projected for September 6, 2026, marks a deepening of the private sector's role in space access.",
+        "For decades, orbital launches were largely the domain of national space agencies and large state-backed contractors. The shift towards private enterprise, spearheaded by companies like SpaceX, has now firmly taken root within Europe, signaling a maturation of the continent's commercial space capabilities.",
+        "The launch, while specific in its European context, contributes to a global trend of democratizing access to low Earth orbit. It underscores a future where payload delivery is not solely dependent on government mandates but driven by market demand for satellite deployment and in-orbit services.",
+        "> German company becomes first in Europe to launch fully commercial orbital rocket.",
+        "This particular mission represents a culmination of years of private investment and engineering effort. It bypasses traditional institutional procurement processes, offering a direct commercial pathway for clients seeking dedicated launch opportunities without the complexities often associated with state-led programs.",
+        "The implications for off-world inhabitants are subtle but profound. As the cost of placing mass into orbit continues to decrease, and launch cadences increase, the economic viability of establishing permanent off-world infrastructure improves. This includes everything from the delivery of construction materials to the deployment of communication relays essential for lunar or Martian settlements.",
+        "What changes is not merely the technology, but the supply chain. The ability for private entities to independently field orbital launch vehicles means a broader, more competitive market. This will eventually translate into lower prices for transporting goods and personnel to orbital habitats and lunar bases, making daily life and commerce beyond Earth more accessible and sustainable. The texture of off-world life will be shaped by the efficiency and affordability of its terrestrial umbilical."
+      ],
+      "ja": [
+        "軌道打ち上げ市場に新たなプレーヤーが静かに登場した。2026年9月6日、あるドイツ企業が欧州で初めて、完全に商業目的の軌道ロケット打ち上げに成功した。これは、宇宙へのアクセスが民間部門によって主導される時代の到来を告げる、重要な節目となる出来事である。",
+        "長らく国家宇宙機関や政府系の大手企業が担ってきた軌道打ち上げは、近年、SpaceXのような民間企業の台頭によりその様相を大きく変えている。今回の欧州企業による成功は、この世界的潮流が欧州大陸にも深く根ざしたことを示唆し、同地域の商業宇宙能力の成熟を浮き彫りにする。",
+        "この打ち上げは、欧州固有の文脈を持つものの、地球低軌道へのアクセスを民主化するという世界的な動向に寄与する。ペイロード（積荷）の輸送が、政府の指令だけでなく、衛星配備や軌道上サービスに対する市場の需要によって推進される未来を強調している。",
+        "「ドイツ企業が欧州で初めて、完全に商業目的の軌道ロケット打ち上げに成功した。」",
+        "このミッションは、長年にわたる民間投資と技術開発の集大成である。従来の機関を通じた調達プロセスを迂回し、専用の打ち上げ機会を求める顧客に、国家主導のプログラムに伴う複雑さなしに直接的な商業ルートを提供するものだ。",
+        "地球外で生活する人々にとって、その影響は繊細でありながらも深遠である。軌道への質量投入コストが継続的に低下し、打ち上げ頻度が増加するにつれて、恒久的な地球外インフラを確立する経済的実現可能性は向上する。これには、建設資材の輸送から、月面や火星の居住地にとって不可欠な通信中継器の配備まで、あらゆるものが含まれる。",
+        "変わるのは単なる技術ではなく、サプライチェーンそのものだ。民間企業が独立して軌道打ち上げ機を運用できることは、より広範で競争力のある市場を意味する。これは最終的に、軌道上の居住施設や月面基地への物資や人員の輸送コストを削減し、地球外での日常生活や商業活動をよりアクセスしやすく、持続可能なものにするだろう。地球外の生活の質感は、その地上との「へその緒」の効率性と手頃さによって形作られることになる。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "A German company successfully launched its own commercial rocket into orbit, a first for Europe. Think of it like a new, privately-owned delivery service that can send packages (satellites) all the way to space, rather than relying solely on government-run postal services. This makes it easier and potentially cheaper for businesses to get their technology off-world.",
+        "For Tokyo readers, this points to a future with more robust and diverse satellite services. We might see improvements in the accuracy and availability of GPS-reliant services, better mobile network coverage in remote areas, and more precise weather forecasting, as more satellites are deployed more frequently by a wider range of private operators. It also diversifies the global supply chain for critical satellite components.",
+        "This impact could begin to be felt within 3-5 years, once these new European launch providers scale up their operations and attract more commercial clients. The key gating factor will be the sustained reliability and competitive pricing of these new launch options against established players like SpaceX and ULA.",
+        "Japan's own Interstellar Technologies, based in Hokkaido, is a private company developing small orbital rockets, aiming for similar commercial access to space. While their MOMO series are suborbital, their ZERO rocket is designed for orbit. Similarly, ispace is focused on lunar landers, demonstrating Japan's private sector ambition in space, but a direct orbital launch competitor at this scale is still emerging."
+      ],
+      "ja": [
+        "ドイツの民間企業が、欧州で初めて自社開発の商業用ロケットを軌道に打ち上げました。これは、まるで新しい民間宅配業者が、政府の郵便サービスだけに頼らず、独自のトラック（ロケット）で荷物（人工衛星）を宇宙まで届けられるようになったようなものです。これにより、企業が宇宙に技術を送ることがより簡単になり、費用も安くなる可能性があります。",
+        "東京で暮らす私たちにとって、これはより多様で強靭な衛星サービスが利用できるようになる未来を示唆しています。より多くの民間事業者が頻繁に衛星を打ち上げることで、GPSを利用するサービスの精度や利用可能性が向上したり、地方での携帯電話ネットワークのカバー範囲が改善されたり、気象予報がより正確になったりするかもしれません。また、重要な衛星部品のグローバルサプライチェーンも多様化するでしょう。",
+        "この影響は、これらの新しい欧州の打ち上げプロバイダーが事業を拡大し、より多くの商業顧客を獲得すれば、3年から5年以内に感じられるようになるでしょう。主要なボトルネックは、SpaceXやULAのような既存のプレーヤーに対して、これらの新しい打ち上げオプションがどれだけ持続的な信頼性と競争力のある価格を提供できるかにかかっています。",
+        "日本にも、北海道を拠点とするインターステラテクノロジズ（Interstellar Technologies）のような民間企業が、小型の軌道ロケット開発を進めており、同様の商業宇宙アクセスを目指しています。彼らのMOMOシリーズは弾道飛行ですが、ZEROロケットは軌道投入を目指しています。また、ispaceは月着陸機に注力しており、日本の民間宇宙部門の意欲を示していますが、この規模で直接的な軌道打ち上げの競合企業はまだこれからです。"
+      ]
+    },
+    "source": {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/"
+    },
+    "sourceGuid": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
+    "status": "published"
+  },
+  {
+    "slug": "lunar-gateways-new-habitat-prioritizes-well-being",
+    "category": "space-tech",
+    "issue": "Vol. 09",
+    "publishedAt": "2026-09-06T10:00:00.000Z",
+    "readingMinutes": 3,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/WDGAhPnN8z3RyRwnfyMKFZ-1280-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Lunar Gateway's New Habitat Prioritizes Well-being",
+      "ja": "月周回軌道に新たな居住空間：ウェルビーイングを重視"
+    },
+    "dek": {
+      "en": "A new module for the Moon-orbiting station integrates biophilic design and reconfigurable spaces, signaling a shift towards domesticity in off-world living.",
+      "ja": "月周回ステーションの新モジュールは、バイオフィリックデザインと可変空間を統合し、宇宙生活における居住性への転換を示す。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "ORBITAL OPERATIONS, September 6, 2026",
+      "ja": "軌道上運用、2026年9月6日"
+    },
+    "tags": [
+      {
+        "en": "Habitat",
+        "ja": "居住モジュール"
+      },
+      {
+        "en": "Lunar Gateway",
+        "ja": "月周回ゲートウェイ"
+      },
+      {
+        "en": "Space Architecture",
+        "ja": "宇宙建築"
+      },
+      {
+        "en": "Well-being",
+        "ja": "ウェルビーイング"
+      }
+    ],
+    "body": {
+      "en": [
+        "The silent expanse beyond Earth has long challenged human ingenuity, demanding structures that prioritize survival above all else. Yet, as our aspirations extend to long-duration stays and eventual settlements, the definition of a habitable space is evolving. A new chapter in orbital architecture is set to unfold with the deployment of the AURA Habitat Module.",
+        "Developed by Orion Dynamics, in collaboration with international partners, the AURA module is slated for integration with the Lunar Gateway station in late 2026. This inflatable structure represents a significant advancement in off-world living, offering a more expansive and psychologically supportive environment than its predecessors.",
+        "Measuring approximately eight meters in diameter when fully deployed, the AURA module will provide around 300 cubic meters of internal volume, designed to comfortably accommodate a crew of four for extended periods. Its advanced life support systems and multi-layered radiation shielding are engineered to ensure safety and sustainability in the deep space environment. This scale marks a notable departure from the more confined spaces of early orbital outposts like Skylab or the initial International Space Station modules.",
+        "Beyond its technical specifications, AURA’s interior design is a quiet revolution. It integrates biophilic elements, such as panels mimicking natural textures and simulated plant life, alongside dynamic lighting systems that replicate Earth’s diurnal cycles. The living and working areas are reconfigurable, allowing residents a degree of personalization and privacy previously uncommon in space habitats.",
+        "> \"The goal is to create not just a shelter, but a sanctuary.\"",
+        "This design philosophy reflects a growing understanding that psychological well-being is as crucial as physical safety for long-term space residents. The module aims to mitigate the isolation and sensory deprivation inherent in off-world living, fostering a sense of domesticity and connection to nature. For those who will live, work, and sleep beyond Earth, this evolution means more than just extra room. It promises a future where the subtle hum of life support systems is accompanied by the comfort of familiar textures and the psychological anchor of a simulated sunset.",
+        "The shift from purely functional engineering to a holistic consideration of human experience signals a maturation in space architecture. It is a quiet acknowledgment that the next frontier is not merely to survive, but to thrive."
+      ],
+      "ja": [
+        "地球の彼方に広がる静寂な空間は、長らく人間の創意工夫を試み、何よりも生存を優先する構造を要求してきた。しかし、長期滞在や将来の定住地への願望が高まるにつれて、居住可能な空間の定義は進化している。AURA居住モジュールの展開により、軌道上の建築に新たな章が幕を開けようとしている。",
+        "Orion Dynamics社が国際的なパートナーと協力して開発したAURAモジュールは、2026年後半に月周回ゲートウェイ・ステーションへの統合が予定されている。この膨張式の構造は、宇宙居住における大きな進歩を意味し、これまでのモジュールよりも広大で、心理的にサポートされる環境を提供する。",
+        "完全に展開された際の直径は約8メートルで、AURAモジュールは約300立方メートルの内部容積を提供し、4名の乗員が長期間にわたって快適に過ごせるよう設計されている。その高度な生命維持システムと多層の放射線遮蔽は、深宇宙環境における安全性と持続可能性を確保するために考案された。この規模は、スカイラブや初期の国際宇宙ステーションモジュールのような、より限られた空間からの顕著な脱却を示している。",
+        "技術仕様を超えて、AURAの内部デザインは静かな革命である。自然な質感やシミュレートされた植物を模したパネルなど、バイオフィリック要素が統合されており、地球の昼夜サイクルを再現するダイナミックな照明システムも備わる。居住空間と作業空間は再構成可能で、居住者にこれまで宇宙居住施設では珍しかった程度のパーソナライゼーションとプライバシーを提供する。",
+        "> 「目指すのは、単なるシェルターではなく、聖域の創造である。」",
+        "このデザイン哲学は、長期的な宇宙居住者にとって、心理的ウェルビーイングが身体的な安全性と同じくらい重要であるという認識の高まりを反映している。このモジュールは、宇宙生活に内在する孤立感や感覚遮断を軽減し、家庭的な感覚と自然とのつながりを育むことを目的としている。地球を離れて生活し、働き、眠る人々にとって、この進化は単なる空間の増加以上の意味を持つ。それは、生命維持システムの静かな稼働音とともに、馴染みのある質感や、シミュレートされた夕焼けという心理的な拠り所が共存する未来を約束する。",
+        "純粋な機能的工学から、人間体験の全体的な考慮へと移行する宇宙建築の成熟を示している。それは、次のフロンティアが単に生き残るだけでなく、繁栄することであるという静かな認識である。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This news describes the AURA module, an inflatable habitat designed for the Lunar Gateway, which will orbit the Moon. Unlike earlier, purely functional spacecraft interiors, AURA focuses on making the environment feel more like a home. It includes features like simulated natural light and plant-like textures to help astronauts feel more comfortable during long missions. Imagine a small apartment in orbit that tries its best to replicate a peaceful Tokyo living space, even if just through light and texture.",
+        "For Tokyo residents, this evolution in space habitat design points to several plausible near-future impacts. Firstly, it highlights the growing importance of mental health and comfort in extreme environments, which could influence architectural design for remote or confined spaces even on Earth. Secondly, it could spur demand for specialized interior designers and material scientists who can create such environments, potentially opening new avenues for Japanese design firms known for their aesthetic sensibilities and efficiency in small spaces.",
+        "This shift is likely to become more tangible within 5 to 10 years. Its realization is gated by the sustained commercial presence in lunar orbit and the Moon's surface, which will drive demand for more sophisticated and livable habitats. As the cost of sending mass to space decreases, the economic viability of such specialized interior design will increase.",
+        "Japan is already a key player in lunar exploration, with JAXA actively pursuing lunar missions and companies like ispace developing lunar landers. While a direct Japanese counterpart for an inflatable orbital habitat module with such specific interior design focus might not be immediately apparent, Japanese firms are well-positioned to contribute to the *components* of such a habitat. For example, Mitsubishi Heavy Industries (MHI) or IHI Aerospace could develop advanced life support systems, while Japanese material science companies could innovate in lightweight, radiation-resistant, and aesthetically pleasing interior finishes. The expertise in creating compact, yet comfortable living spaces, inherent in Tokyo's urban design, could find new applications off-world."
+      ],
+      "ja": [
+        "このニュースは、月を周回するゲートウェイ・ステーションのために設計された、膨張式の居住モジュール「AURA」についてです。これまでの宇宙船の内部が純粋に機能性を重視していたのに対し、AURAは居住空間をより「家」のように感じさせることに焦点を当てています。自然光を模した照明や植物のような質感を取り入れることで、宇宙飛行士が長期ミッション中に快適に過ごせるよう工夫されています。例えるなら、光や質感を通じて、東京の穏やかな住空間を可能な限り再現しようとする、軌道上の小さなアパートのようなものです。",
+        "東京に暮らす私たちにとって、このような宇宙居住施設デザインの進化は、いくつかの近い将来の影響を示唆しています。まず、極限環境における精神的健康と快適性の重要性が高まっていることは、地球上での遠隔地や閉鎖空間における建築デザインにも影響を与える可能性があります。次に、このような環境を創造できる専門のインテリアデザイナーや材料科学者への需要が高まるかもしれません。これは、美的感覚と効率的な小空間デザインで知られる日本のデザイン会社にとって、新たなビジネスチャンスとなる可能性を秘めています。",
+        "この変化がより具体的に感じられるようになるのは、今後5年から10年以内でしょう。月周回軌道や月面での商業活動が継続的に拡大し、より洗練された、居住性の高い施設への需要が高まることが、その実現を左右する要因となります。宇宙への物資輸送コストがさらに下がれば、このような専門的な内装デザインの経済的実現可能性も向上するはずです。",
+        "日本は月探査においてすでに重要な役割を担っており、JAXAは月ミッションを積極的に推進し、ispaceのような企業は月着陸船を開発しています。AURAのような膨張式の軌道居住モジュールで、特に内装デザインに焦点を当てた直接的な日本版はまだ明確ではありませんが、日本の企業は、このような居住モジュールの「構成要素」に大きく貢献できる立場にあります。例えば、三菱重工業（MHI）やIHIエアロスペースは高度な生命維持システムを開発できますし、日本の材料科学企業は軽量で放射線に強く、かつ美的に優れた内装材を革新できるでしょう。東京の都市デザインに内在する、コンパクトでありながら快適な居住空間を創出する専門知識は、宇宙という新たな領域で応用される可能性を秘めています。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/astronomy/nasa-expands-deep-space-network-with-giant-new-dish-in-california-desert"
+    },
+    "sourceGuid": "C8mtCgpVDMAedTYcmgVsHC",
+    "status": "published"
+  },
+  {
     "slug": "aether-flex-reimagines-lunar-dwellings",
     "category": "space-tech",
     "issue": "Vol. 09",
@@ -1129,8 +1387,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Agile Space Industries Expands Production Footprint in Colorado",
@@ -1467,8 +1725,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#08080a"
     },
     "title": {
       "en": "Orbital Data Centers: A Stepping Stone to the Stars?",
@@ -3271,8 +3529,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#08080a"
+      "src": "https://images.unsplash.com/photo-1532618793091-ec5fe9635fbd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "The Coming Launch Bottleneck for Small Satellites",
@@ -3533,8 +3791,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "The Unseen Architecture of Space Networking",
@@ -3707,8 +3965,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532618793091-ec5fe9635fbd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Europe's Latest Weather Trio Completes Orbital Watch",
@@ -3793,8 +4051,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#08080a"
     },
     "title": {
       "en": "Managing the Lunar Plume: NASA Tests Critical for Future Habitation",
@@ -4221,8 +4479,8 @@
     "readingMinutes": 3,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Orbital Eyes: Europe’s MTG-I2 Satellite Enhances Weather Vigilance",
@@ -4393,8 +4651,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
     },
     "title": {
       "en": "SpaceX's Louisiana Ambition: A Second Starbase at $100 Billion",
@@ -4479,8 +4737,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
     },
     "title": {
       "en": "Propulsion's Ascendance: The Quiet Engine of Orbital Progress",
@@ -4563,8 +4821,8 @@
     "readingMinutes": 3,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "The New Orbital Cadence: Washington's Ambition for 1,000 Annual Launches",
@@ -4649,8 +4907,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Western Australia Backs New Spaceport Development",
@@ -4735,8 +4993,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "The Gravity of Capital: Trump's SpaceX Investment Signals a New Era",
@@ -4821,8 +5079,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "DiskSats: A New Form Factor for Orbital Resilience",
@@ -4905,8 +5163,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "Beyond Reach Labs Unveils Flarewing: Powering Orbital Ambition",
@@ -4991,8 +5249,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "Europe's New Eye on the Sky: MTG-I2 Redefines Weather Observation",
@@ -5337,8 +5595,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Letara Secures $16M, Expands In-Space Mobility Vision",
@@ -5597,8 +5855,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0f12"
     },
     "title": {
       "en": "Artemis II: The Congressional Space Medal and a New Normal",
@@ -5683,8 +5941,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Orbital Data Centers Secure Funding Amidst Launch Constraints",
@@ -5767,8 +6025,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "The Swarm Above: A Forecast of Earth Observation Satellites",
@@ -5851,8 +6109,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Letara Secures ¥2.6B for Hybrid Propulsion Development",
@@ -6111,8 +6369,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "The Unseen Eyes: ISR in the Evolving Space Economy",
@@ -6197,8 +6455,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Muon Space Secures $250M to Scale Earth Observation Constellations",
@@ -6621,264 +6879,6 @@
       "url": "https://spacenews.com/katalyst-space-and-nasa-abandon-plans-for-swift-reboost/"
     },
     "sourceGuid": "https://spacenews.com/?p=611520",
-    "status": "published"
-  },
-  {
-    "slug": "white-house-outlines-national-security-st-strategy-shaping-space-priorities",
-    "category": "space-tech",
-    "issue": "Vol. 08",
-    "publishedAt": "2026-08-19T12:40:00.000Z",
-    "readingMinutes": 5,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
-    },
-    "title": {
-      "en": "White House Outlines National Security S&T Strategy, Shaping Space Priorities",
-      "ja": "ホワイトハウス、国家安全保障科学技術戦略を公表：宇宙開発の優先順位を形成"
-    },
-    "dek": {
-      "en": "The US Office of Science and Technology Policy has released a new strategy document, directing federal focus and funding towards technologies deemed critical for national security, with significant implications for the evolving space economy.",
-      "ja": "米国科学技術政策局は、国家安全保障に不可欠な技術に連邦政府の焦点と資金を向ける新たな戦略文書を発表した。これは、進化する宇宙経済に大きな影響を与える。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "WASHINGTON D.C.",
-      "ja": "ワシントンD.C."
-    },
-    "tags": [
-      {
-        "en": "National Security",
-        "ja": "国家安全保障"
-      },
-      {
-        "en": "Space Policy",
-        "ja": "宇宙政策"
-      },
-      {
-        "en": "US Government",
-        "ja": "米国政府"
-      },
-      {
-        "en": "Technology Strategy",
-        "ja": "技術戦略"
-      }
-    ],
-    "body": {
-      "en": [
-        "The White House, through its Office of Science and Technology Policy (OSTP), has released its National Security Science & Technology Strategy. This pivotal document outlines the United States' priorities for scientific and technological development, specifically focusing on safeguarding national interests in a rapidly changing global landscape.",
-        "Such strategies typically identify critical technology areas that transcend traditional boundaries, from advanced computing and artificial intelligence to biotechnology and foundational space systems. Their primary aim is to direct federal funding, research initiatives, and strategic partnerships towards bolstering both defense capabilities and long-term economic competitiveness.",
-        "For the burgeoning space economy, this strategy signals a clear intent to prioritize technologies that enhance space domain awareness, secure satellite communications, and enable resilient off-world infrastructure. It underscores the dual-use nature of many advancements in orbit, where commercial innovation often converges with strategic imperatives.",
-        "Private space companies, increasingly vital to national space capabilities, will likely see their development efforts guided by these strategic imperatives. Government contracts and research grants are expected to flow towards innovations aligning with these security goals, fostering a symbiotic relationship between public policy and private enterprise.",
-        "This policy framework is set against a backdrop of increasing international competition and evolving geopolitical dynamics in space. It seeks to ensure American leadership in key scientific and technological fields that have direct bearing on orbital operations, lunar ambitions, and beyond.",
-        "> \"The Office of Science and Technology Policy released its National Security Science & Technology Strategy,\" the original report noted, highlighting the formal articulation of these priorities.",
-        "For those contemplating life beyond Earth, such a strategy suggests that the foundational technologies for future settlements—be they lunar bases or orbital stations—will first be designed with robustness and security in mind. This could mean more self-sufficient systems, hardened materials, and secure data networks, influencing everything from architectural design to daily operational protocols in off-world habitats. The cost of advanced security features might become a new line item in the budget of early off-world ventures, reflecting a future where resilience is paramount."
-      ],
-      "ja": [
-        "米国ホワイトハウスの科学技術政策局（OSTP）は、国家安全保障科学技術戦略を公表した。この重要な文書は、急速に変化する世界情勢の中で、米国の国益保護に焦点を当てた科学技術開発の優先順位を明確にするものだ。",
-        "このような戦略は通常、先端コンピューティング、人工知能、バイオテクノロジー、そして基盤となる宇宙システムに至るまで、従来の境界を超えた重要技術分野を特定する。その主目的は、国防能力と長期的な経済競争力の両方を強化するため、連邦政府の資金提供、研究イニシアチブ、戦略的パートナーシップの方向性を定めることにある。",
-        "成長する宇宙経済にとって、この戦略は、宇宙領域認識、安全な衛星通信、そして強靭な宇宙インフラを強化する技術への明確な優先順位付けを示唆している。軌道上での多くの技術進歩が持つ軍民両用性（デュアルユース）の性質、すなわち商業的イノベーションが戦略的要件と合致する側面を強調する。",
-        "国家の宇宙能力にとってますます不可欠となる民間宇宙企業は、この戦略的要件に沿った開発努力を求められるだろう。政府契約や研究助成金は、これらの安全保障目標に合致するイノベーションへと流れることが予想され、公共政策と民間企業との共生関係を育むことになる。",
-        "この政策枠組みは、宇宙における国際競争の激化と地政学的力学の進化を背景に策定された。軌道上運用、月面探査の野心、そしてその先の領域に直接影響を与える主要な科学技術分野における米国のリーダーシップを確保することを目指している。",
-        "「科学技術政策局は、国家安全保障科学技術戦略を公表した」と原文は記しており、これらの優先事項が正式に表明されたことを強調している。",
-        "地球外での生活を考える人々にとって、このような戦略は、将来の居住地—月面基地であれ、軌道上のステーションであれ—の基盤となる技術が、まず堅牢性と安全性を念頭に置いて設計されることを示唆している。これは、より自律性の高いシステム、強化された素材、安全なデータネットワークを意味する可能性があり、宇宙居住地における建築デザインから日常の運用プロトコルに至るまで、あらゆる側面に影響を与えるだろう。高度なセキュリティ機能のコストは、初期の宇宙ベンチャーの予算における新たな項目となり、レジリエンスが最重要視される未来を反映することになるかもしれない。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The White House recently laid out its plan for how the US government will focus its science and technology efforts to protect its national interests. This isn't just about military defense; it also includes economic security and maintaining a competitive edge in advanced technologies, many of which are crucial for space activities. Think of it as a roadmap for where federal funding and research will go.",
-        "For Tokyo readers, this strategy could have several ripple effects. It might influence the availability and cost of certain cutting-edge components or data services that Japanese companies rely on for their own space ventures or high-tech products. It could also shape international standards for space operations and data security, requiring Japanese firms to adapt. Furthermore, it might intensify global competition in key areas like satellite communications or advanced materials, potentially affecting Japan's own industrial strategy.",
-        "These effects are unlikely to be immediate but will unfold over the next 3 to 5 years. The pace will depend on how quickly the US implements specific policies and funding programs, and how international partners, including Japan, adjust their own strategies in response. Agreements on technology transfer and data sharing will be key gating factors.",
-        "Japan's own Cabinet Office and METI (Ministry of Economy, Trade and Industry) are actively working on similar strategic outlines, such as the Space Basic Plan and various economic security initiatives. Companies like Mitsubishi Heavy Industries and IHI Aerospace, along with startups like Synspective, are developing technologies that align with both national security and commercial space goals, often with an emphasis on resilience and data integrity. While the US strategy focuses on its own national interests, Japan is also keenly aware of the need to foster a robust domestic space industry for its security and economic future."
-      ],
-      "ja": [
-        "米国ホワイトハウスは最近、国の安全保障を守るために、どのような科学技術に力を入れていくかという計画を発表しました。これは単に軍事的な防衛だけでなく、経済的な安全保障や、宇宙活動に不可欠な先端技術での競争力を維持することも含んでいます。連邦政府の資金がどこに投入され、どのような研究が進められるかを示すロードマップのようなものです。",
-        "この戦略は、東京で暮らす私たちにいくつかの影響をもたらす可能性があります。例えば、日本の企業が宇宙事業やハイテク製品開発で頼りにしている最先端の部品やデータサービスへのアクセス、あるいはそのコストに影響が出るかもしれません。また、宇宙運用やデータセキュリティに関する国際的な基準形成にも影響を与え、日本の企業がそれに対応する必要が出てくる可能性もあります。さらに、衛星通信や先端素材といった主要分野での国際競争が激化し、日本の産業戦略にも影響を及ぼすかもしれません。",
-        "これらの影響はすぐに現れるものではなく、今後3年から5年かけて徐々に明らかになるでしょう。その速度は、米国が具体的な政策や資金プログラムをどれだけ早く実施するか、そして日本を含む国際的なパートナーがそれに対しどのように自国の戦略を調整するかにかかっています。技術移転やデータ共有に関する国際合意が、重要な決定要因となるでしょう。",
-        "日本でも、内閣府や経済産業省（METI）が、宇宙基本計画や経済安全保障に関する様々なイニシアティブを通じて、同様の戦略的な方向性を打ち出しています。三菱重工業やIHIエアロスペースといった大企業から、シンクスペクティブのようなスタートアップまで、多くの企業が、国の安全保障と商業宇宙の両方の目標に合致する技術開発を進めており、堅牢性やデータ完全性が重視される傾向にあります。米国の戦略が自国の国益に焦点を当てる一方で、日本もまた、安全保障と経済的未来のために、強靭な国内宇宙産業を育成する必要性を強く認識しています。"
-      ]
-    },
-    "source": {
-      "name": "Payload",
-      "url": "https://payloadspace.com/white-house-publishes-st-strategy-for-national-security/"
-    },
-    "sourceGuid": "https://payloadspace.com/?p=31417",
-    "status": "published"
-  },
-  {
-    "slug": "europes-next-generation-weather-eye-mtg-i2-completes-constellation",
-    "category": "space-tech",
-    "issue": "Vol. 08",
-    "publishedAt": "2026-08-19T15:00:00.000Z",
-    "readingMinutes": 3,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
-    },
-    "title": {
-      "en": "Europe's Next-Generation Weather Eye: MTG-I2 Completes Constellation",
-      "ja": "欧州の次世代気象衛星：MTG-I2がコンステレーションを完成"
-    },
-    "dek": {
-      "en": "The Meteosat Third Generation Imager-2 (MTG-I2) satellite, launching from French Guiana, promises unprecedented detail in European weather forecasting, with implications for future off-world habitations.",
-      "ja": "仏領ギアナから打ち上げられる気象衛星MTG-I2は、欧州の気象予報に前例のない詳細さをもたらし、未来の宇宙居住地にもその影響が及ぶ。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Kourou, French Guiana – August 27, 2026",
-      "ja": "仏領ギアナ、クールー – 2026年8月27日"
-    },
-    "tags": [
-      {
-        "en": "weather",
-        "ja": "気象"
-      },
-      {
-        "en": "satellites",
-        "ja": "衛星"
-      },
-      {
-        "en": "europe",
-        "ja": "ヨーロッパ"
-      },
-      {
-        "en": "forecasting",
-        "ja": "予報"
-      }
-    ],
-    "body": {
-      "en": [
-        "A new era in European weather observation is poised to begin with the launch of the Meteosat Third Generation Imager-2 (MTG-I2) satellite. Set to depart from Europe’s Spaceport in French Guiana on August 27, this mission marks the completion of the MTG constellation, promising a significant leap in atmospheric monitoring capabilities across the continent.",
-        "The MTG-I2 is the third satellite in the Meteosat Third Generation series. Its integration into the network will allow for the production of weather images with unprecedented detail, enhancing the precision of forecasts for European weather services. This advancement is particularly critical for the nowcasting of severe weather events, offering more timely warnings and improved public safety.",
-        "Central to MTG-I2's capabilities are its two sophisticated instruments: a Lightning Imager and a Flexible Combined Imager. The Lightning Imager introduces a completely new dimension to European meteorological satellites, providing continuous monitoring of lightning activity across the region. This real-time data is vital for understanding and predicting the development of dangerous storms.",
-        "The Flexible Combined Imager complements this by rapidly building comprehensive pictures of fast-evolving weather systems. It can scan the entire surface of Earth from its geostationary position 36,000 kilometers above the equator in just ten minutes, and focus on Europe and northern Africa every 2.5 minutes. This rapid refresh rate enables meteorologists to track phenomena with greater agility.",
-        "> The Flexible Combined Imager builds a picture of fast-evolving weather systems and can be used to issue timely weather warnings.",
-        "The deployment of MTG-I2 underscores a global trend towards more granular and immediate environmental data. On Earth, this translates to better preparedness for storms and improved agricultural planning. For those contemplating life beyond Earth, such as on the Moon or Mars, the lessons from MTG-I2’s precision become foundational.",
-        "In off-world habitats, where atmospheric conditions can be extreme and resources finite, the ability to monitor local weather patterns with this level of detail will be paramount. Whether tracking dust storms on Mars that could threaten surface operations or monitoring micro-meteoroid showers near lunar bases, real-time, high-fidelity environmental data will be a non-negotiable aspect of safety, resource management, and the very architecture of extraterrestrial living."
-      ],
-      "ja": [
-        "欧州の気象観測に新たな時代が到来しようとしている。仏領ギアナの欧州宇宙港から8月27日に打ち上げ予定の気象衛星MTG-I2は、MTGコンステレーションの完成を告げ、大陸全域の気象監視能力に飛躍的な進歩をもたらす。",
-        "MTG-I2は、第三世代気象衛星（Meteosat Third Generation）シリーズの3機目にあたる。この衛星がネットワークに加わることで、気象画像の詳細度は前例のないレベルに達し、欧州の気象サービスにおける予報精度が向上する。特に、悪天候イベントのナウキャスティング（即時予報）において極めて重要であり、よりタイムリーな警報と公共の安全向上に寄与する。",
-        "MTG-I2の能力の中核をなすのは、落雷イメージャーとフレキシブル複合イメージャーという二つの洗練された機器である。落雷イメージャーは、欧州の気象衛星に全く新しい次元をもたらし、地域全体の落雷活動を継続的に監視する。このリアルタイムデータは、危険な嵐の発生と発達を理解し、予測するために不可欠だ。",
-        "フレキシブル複合イメージャーは、急速に変化する気象システムの包括的な画像を迅速に構築することで、これを補完する。赤道上空36,000キロメートルの静止軌道から地球表面全体をわずか10分でスキャンでき、欧州と北アフリカに焦点を当てれば2.5分ごとに観測が可能だ。この高速更新レートにより、気象学者は現象をより機敏に追跡できる。",
-        "> フレキシブル複合イメージャーは、急速に変化する気象システムの画像を構築し、タイムリーな気象警報を発するために使用できる。",
-        "MTG-I2の展開は、より詳細で即時性の高い環境データへの世界的な傾向を強調している。地球上では、これが嵐への備えの向上や農業計画の改善につながる。しかし、月や火星など、地球外での生活を考える人々にとって、MTG-I2が示す精密さから得られる教訓は、極めて基礎的なものとなる。",
-        "大気条件が極端で資源が限られている地球外の居住地では、このレベルの詳細さで局地的な気象パターンを監視する能力が最重要となるだろう。火星の地表活動を脅かす可能性のある砂嵐を追跡するにせよ、月面基地付近の微小隕石シャワーを監視するにせよ、リアルタイムで高精度の環境データは、安全性、資源管理、そして地球外居住地の建築そのものにおいて不可欠な要素となる。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The European Space Agency (ESA) is launching a new advanced weather satellite, MTG-I2, which will complete a network designed to provide incredibly detailed, real-time weather information across Europe. Imagine a super-advanced camera constantly watching from 36,000 kilometers above the equator, capturing lightning strikes and rapidly evolving storm systems with unprecedented speed and clarity.",
-        "For Tokyo readers, this development highlights the global push towards hyper-local and immediate environmental insights. While Europe is its direct beneficiary, the underlying technology points to a future where more precise typhoon tracking, earlier disaster warnings, and optimized urban logistics become commonplace in Japan. Think of how this could refine your daily commute, construction project timelines, or even the management of the city's power grid.",
-        "This level of precision weather forecasting could become more widely available in Japan within 5 to 7 years. The timeframe is largely contingent on JAXA's ongoing development of next-generation Earth observation satellites and the Japan Meteorological Agency's integration of advanced AI-driven analysis into its forecasting models. Significant investment in domestic satellite infrastructure or expanded international data-sharing agreements will be key accelerators.",
-        "Japan already operates the highly capable Himawari satellite series, which provides crucial weather data for the Asia-Pacific region. While Himawari is excellent, the MTG-I2's specific advancements in continuous lightning detection and ultra-rapid scanning represent areas that JAXA and the Japan Meteorological Agency continue to explore, potentially through future Himawari missions or collaborative efforts with private sector entities like Synspective for enhanced, localized observations."
-      ],
-      "ja": [
-        "欧州宇宙機関（ESA）は、新しい高性能気象衛星MTG-I2を打ち上げます。これは、欧州全域に信じられないほど詳細でリアルタイムな気象情報を提供するよう設計されたネットワークを完成させるものです。赤道上空36,000キロメートルから常に監視し、雷の発生や急速に変化する嵐のシステムを、これまでにない速度と鮮明さで捉える、超高性能カメラを想像してみてください。",
-        "東京で暮らす読者にとって、この進展は、局地的で即時性の高い環境情報への世界的な動きを浮き彫りにします。直接の恩恵を受けるのは欧州ですが、その基盤となる技術は、日本においてもより正確な台風追跡、早期の災害警報、そして最適化された都市物流が当たり前になる未来を示唆しています。これが日々の通勤、建設プロジェクトのスケジュール、あるいは都市の電力網の管理をどのように洗練させるかを考えてみてください。",
-        "このような精密な気象予報が日本でより広く利用可能になるには、5年から7年程度かかるかもしれません。この期間は、JAXAが次世代の地球観測衛星をどれだけ開発できるか、そして気象庁が高度なAI駆動型解析を予報モデルにどれだけ迅速に統合できるかに大きく左右されます。国内の衛星インフラへの大規模な投資や、国際的なデータ共有協定の拡大が重要な加速要因となるでしょう。",
-        "日本には、アジア太平洋地域に不可欠な気象データを提供する高性能な「ひまわり」衛星シリーズがあります。ひまわりは非常に優れていますが、MTG-I2が持つ連続的な落雷検出や超高速スキャンといった具体的な進歩は、JAXAや気象庁が今後も探求し続ける分野です。これは将来のひまわりミッションや、Synspectiveのような民間企業との連携を通じて、より強化された局地観測へと繋がる可能性があります。"
-      ]
-    },
-    "source": {
-      "name": "ESA",
-      "url": ""
-    },
-    "sourceGuid": "9a2c26be59a853a50a5623286e3c1269",
-    "status": "published"
-  },
-  {
-    "slug": "the-arduous-return-starship-recovery-and-the-logistics-of-orbit",
-    "category": "space-tech",
-    "issue": "Vol. 08",
-    "publishedAt": "2026-08-18T19:01:09.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ship40_2-1152x648-1787078981.jpg",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "The Arduous Return: Starship Recovery and the Logistics of Orbit",
-      "ja": "困難な帰還：スターシップ回収と軌道輸送のロジスティクス"
-    },
-    "dek": {
-      "en": "SpaceX's colossal Starship, after an orbital test flight, endured a 24-day tow across the open sea, marking a critical milestone in the complex logistics of reusable super-heavy lift.",
-      "ja": "軌道試験飛行を終えたSpaceXの巨大なスターシップは、24日間にわたる海上曳航を経て港に到着した。これは、再利用可能な超大型ロケット輸送における複雑なロジスティクスの重要な節目となる。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "SpaceX",
-        "ja": "スペースX"
-      },
-      {
-        "en": "Starship",
-        "ja": "スターシップ"
-      },
-      {
-        "en": "Reusability",
-        "ja": "再利用性"
-      },
-      {
-        "en": "Logistics",
-        "ja": "ロジスティクス"
-      }
-    ],
-    "body": {
-      "en": [
-        "The sheer scale of SpaceX's Starship system presents unprecedented challenges, not only in launch and flight but also in the arduous process of recovery. Following its latest orbital test flight, the immense vehicle embarked on a prolonged journey across the Gulf of Mexico, towed by specialized vessels.",
-        "This particular recovery operation stretched over 24 days at sea, a testament to both the size of the Starship's booster or upper stage and the logistical complexities involved. The process of securing, stabilizing, and transporting such a massive structure across open waters is a formidable undertaking, pushing the boundaries of marine salvage and heavy transport.",
-        "The successful arrival of the Starship at port, after weeks adrift, underscores a critical aspect of SpaceX's long-term vision for reusability. While previous Starship test flights have focused on launch and atmospheric maneuvers, the ability to physically retrieve and return the vehicle for inspection and refurbishment is paramount to its operational future.",
-        "> The original report highlighted the vehicle's '24 days at sea'.",
-        "This extended recovery period, though challenging, provides invaluable data for future operational planning. It informs engineering decisions regarding future recovery methods, whether through direct catch mechanisms, more efficient tow procedures, or alternative landing sites. The goal remains rapid, cost-effective reusability.",
-        "The development of Starship is fundamentally about reducing the cost per kilogram to orbit. Achieving this hinges on the ability to turn around vehicles quickly and reliably. The lessons learned from this 24-day tow will directly influence the design of future recovery infrastructure and the operational cadence required for sustained lunar or Martian missions.",
-        "For those who will eventually live and work beyond Earth, the implications are profound. A system capable of reliably transporting vast quantities of cargo and personnel to orbit, and beyond, changes the very texture of off-world existence. It shifts the paradigm from austere, temporary outposts to more robust, permanent habitats, built with materials and components that are economically feasible to deliver in bulk. The difficulty of retrieving the vehicle from the sea today foreshadows the immense logistical efforts required to sustain a burgeoning off-world civilization, but also demonstrates the resolve to overcome them."
-      ],
-      "ja": [
-        "SpaceXのスターシップシステムが持つ途方もない規模は、打ち上げや飛行だけでなく、その回収という困難なプロセスにおいても前例のない課題を突きつける。最新の軌道試験飛行を終えたこの巨大な機体は、特殊な曳航船によってメキシコ湾を横断する長旅に出た。",
-        "今回の回収作業は海上を24日間にわたり航行し、スターシップのブースターまたは上段の巨大さと、それに伴うロジスティクスの複雑さを如実に示した。これほど巨大な構造物を公海上で固定し、安定させ、輸送する作業は、海上サルベージと重量物輸送の限界を押し広げる、実に手強い試みである。",
-        "数週間の漂流を経て、スターシップが無事に港に到着したことは、SpaceXが掲げる再利用という長期ビジョンの重要な側面を強調する。これまでのスターシップ試験飛行が打ち上げや大気圏内での操縦に焦点を当ててきた一方で、機体を物理的に回収し、検査と整備のために帰還させる能力は、その運用の未来にとって極めて重要だ。",
-        "原文より：「24日間の海上滞在」",
-        "この長期間にわたる回収作業は、困難ではあったものの、将来の運用計画にとって貴重なデータを提供する。これは、直接捕捉機構、より効率的な曳航手順、あるいは代替着陸地点といった将来の回収方法に関する技術的な決定に影響を与えるだろう。目標は、迅速で費用対効果の高い再利用性の実現である。",
-        "スターシップの開発は、根本的に軌道へのキログラムあたりのコストを削減することを目指している。これを達成するには、機体を迅速かつ確実に再利用できる能力が不可欠だ。今回の24日間の曳航から得られた教訓は、将来の回収インフラの設計や、月面や火星への持続的なミッションに必要な運用サイクルに直接的な影響を与えるだろう。",
-        "やがて地球外で暮らし、働く人々にとって、その意味は計り知れない。大量の貨物と人員を軌道、そしてその先へと確実に輸送できるシステムは、地球外での生活そのものの質を変える。それは、質素で一時的な前哨基地から、大量輸送が経済的に実現可能となる素材や部品で建設された、より堅牢で恒久的な居住地へとパラダイムを転換させる。今日の海からの機体回収の困難さは、成長する地球外文明を維持するために必要となる膨大なロジスティクス努力を予見させるが、同時にそれらを克服する決意も示している。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "SpaceX successfully brought its massive Starship rocket stage back to port after it spent 24 days being towed across the ocean. Think of it like a giant cargo ship that just completed a delivery to a distant port, but instead of goods, it delivered itself to the edge of space. The challenge wasn't just launching it, but safely bringing this colossal structure back to land for future use.",
-        "For Tokyo readers, this kind of achievement, while seemingly distant, has tangible implications. If rockets like Starship can be reliably reused, the cost of sending anything to orbit — from communication satellites to materials for space-based manufacturing — will plummet. This could mean cheaper and faster internet services for your smartphone, more resilient weather forecasting, and eventually, access to new materials processed in zero gravity that might find their way into advanced electronics or construction here on Earth.",
-        "This future isn't immediate, but it's not science fiction either. We're looking at a timeframe of 5 to 10 years, primarily gated by SpaceX's ability to achieve rapid, routine reusability and scale up its launch cadence. The technical hurdles are immense, but the economic drive is even stronger. Once the cost per kilogram to low Earth orbit falls significantly, the applications will expand dramatically.",
-        "While Japan's H3 rocket is also a powerful launch vehicle designed for cost-efficiency, it doesn't currently aim for the Starship's super-heavy lift capacity or its full, rapid reusability concept for its core stages. However, Japanese companies like Interstellar Technologies are actively developing reusable suborbital rockets, and JAXA continues to explore future reusable launch systems. The ambition for cheaper, more frequent access to space is shared, even if the specific approaches differ."
-      ],
-      "ja": [
-        "SpaceXは、巨大なスターシップロケットの機体を、24日間にわたる海上曳航の末、無事に港まで帰還させました。これはまるで、遠い港への配達を終えた巨大な貨物船が、貨物ではなく自分自身を宇宙の入り口まで届け、そして帰ってきたようなものです。打ち上げるだけでなく、この途方もない構造物を安全に陸に戻し、再利用できるようにすることが大きな課題でした。",
-        "東京に住む読者にとって、このような成果は一見遠い出来事に見えますが、具体的な影響をもたらします。もしスターシップのようなロケットが繰り返し確実に利用できるようになれば、通信衛星から宇宙空間での製造材料まで、あらゆるものを軌道に送るコストが劇的に下がります。これにより、スマートフォンのインターネットサービスがより安価で高速になったり、気象予報の精度が向上したり、将来的には無重力空間で加工された新しい素材が、地上の高度な電子機器や建築材料に使われるようになるかもしれません。",
-        "この未来はすぐに訪れるものではありませんが、SFの世界の話でもありません。SpaceXが迅速かつ日常的な再利用を実現し、打ち上げ頻度を大幅に増やせるかどうかにかかっており、5年から10年程度の期間を想定しています。技術的な障壁は大きいですが、経済的な推進力はさらに強力です。低軌道へのキログラムあたりの輸送コストが大幅に下がれば、その応用範囲は飛躍的に広がるでしょう。",
-        "日本のH3ロケットも費用対効果を重視した強力な打ち上げ機ですが、スターシップのような超大型輸送能力や、主要な機体の完全かつ迅速な再利用というコンセプトは現在のところ目指していません。しかし、インターステラテクノロジズのような日本の企業は、再利用可能なサブオービタルロケットの開発に積極的に取り組んでおり、JAXAも将来の再利用型打ち上げシステムの研究を続けています。より安価で頻繁な宇宙へのアクセスという目標は共通しており、アプローチが異なるだけと言えるでしょう。"
-      ]
-    },
-    "source": {
-      "name": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/"
-    },
-    "sourceGuid": "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/",
     "status": "published"
   }
 ]

@@ -1,5 +1,263 @@
 [
   {
+    "slug": "nasas-orbital-access-and-the-starliner-imperative",
+    "category": "space-tech",
+    "issue": "Vol. 10",
+    "publishedAt": "2026-10-02T15:53:07.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://futurism.com/wp-content/uploads/2026/09/nasa-screwed-boeing-starliner-access-space.jpg?quality=85&amp;w=2048",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "NASA's Orbital Access and the Starliner Imperative",
+      "ja": "NASAの軌道アクセスとスターライナーの課題"
+    },
+    "dek": {
+      "en": "The ongoing challenges with Boeing's Starliner program raise questions about NASA's future strategy for reliable crew transport to low Earth orbit, shaping the foundation for sustained off-world presence.",
+      "ja": "ボーイングのスターライナー計画が抱える課題は、NASAの低軌道への確実な有人輸送戦略に疑問を投げかけ、将来の地球外居住の基盤形成にも影響を与える。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "WASHINGTON D.C.",
+      "ja": "ワシントンD.C."
+    },
+    "tags": [
+      {
+        "en": "NASA",
+        "ja": "NASA"
+      },
+      {
+        "en": "Boeing",
+        "ja": "ボーイング"
+      },
+      {
+        "en": "Starliner",
+        "ja": "スターライナー"
+      },
+      {
+        "en": "SpaceX",
+        "ja": "スペースX"
+      }
+    ],
+    "body": {
+      "en": [
+        "For decades, NASA has relied on a robust, often diverse, infrastructure to transport its astronauts to orbit. The Commercial Crew Program, initiated to foster private industry solutions, aimed to diversify this access, with Boeing's Starliner and SpaceX's Dragon vehicles as its cornerstones.",
+        "However, the Starliner program has encountered significant and persistent delays. Technical setbacks, software issues, and extensive testing have pushed its operational readiness years beyond initial projections, incurring substantial cost overruns for the agency.",
+        "This protracted development has placed NASA in an increasingly precarious position. Its ability to consistently rotate crews to the International Space Station (ISS) and maintain a routine presence in low Earth orbit becomes strained when one of its primary commercial partners faces such prolonged difficulties.",
+        "In stark contrast, SpaceX's Dragon capsule has demonstrated consistent operational reliability, having regularly ferried astronauts to the ISS since 2020. This divergence highlights a growing imbalance in NASA's commercial crew portfolio.",
+        "The situation compels a re-evaluation of redundancy and resilience in critical space infrastructure. A singular, highly reliable provider mitigates immediate risk but introduces a different kind of dependency, potentially impacting future negotiation power and market competition.",
+        "> \"The challenges faced by the Starliner program are casting doubt on the agency's consistent access to space.\"",
+        "For those envisioning life beyond Earth, dependable and affordable transportation is not merely a logistical detail; it is the very bedrock of existence. Sustained off-world habitats, whether lunar bases or orbital stations, depend on a predictable flow of personnel and supplies. The reliability of such fundamental services dictates the pace and viability of any permanent extraterrestrial settlement. Without it, the vision of off-world living remains tethered to Earth's launchpads, hostage to every delay and cost increase."
+      ],
+      "ja": [
+        "数十年にわたり、NASAは宇宙飛行士を軌道へ輸送するため、堅牢で多様なインフラに依存してきた。商業乗員輸送プログラムは、民間企業のソリューションを育成し、アクセスを多様化することを目指し、ボーイングのスターライナーとスペースXのドラゴンをその要としていた。",
+        "しかし、スターライナー計画は、深刻かつ継続的な遅延に直面している。技術的な問題、ソフトウェアの不具合、広範な試験により、その運用準備は当初の予測を数年上回り、NASAには多額の費用超過が発生している。",
+        "この長期にわたる開発は、NASAをますます不安定な状況に追い込んでいる。主要な商業パートナーの一つがこれほど長期間の困難に直面すると、国際宇宙ステーション（ISS）への乗員交代を継続的に行い、低軌道での定常的なプレゼンスを維持する能力が逼迫する。",
+        "対照的に、スペースXのドラゴンカプセルは2020年以来、宇宙飛行士を定期的にISSへ輸送し、一貫した運用信頼性を示してきた。この相違は、NASAの商業乗員輸送ポートフォリオにおける不均衡の拡大を浮き彫りにしている。",
+        "この状況は、重要な宇宙インフラにおける冗長性と回復力の再評価を迫る。単一の、非常に信頼性の高いプロバイダーは当面のリスクを軽減するが、別の種類の依存関係を生み出し、将来の交渉力や市場競争に影響を与える可能性がある。",
+        "> 「スターライナー計画が直面する課題は、NASAの安定した宇宙アクセスに疑問を投げかけている。」",
+        "地球外での生活を構想する人々にとって、信頼性が高く手頃な輸送手段は、単なる物流上の詳細ではない。それはまさに存在の基盤である。月面基地であれ軌道ステーションであれ、持続可能な地球外居住地は、予測可能な人員と物資の流れに依存する。このような基本的なサービスの信頼性が、あらゆる恒久的な地球外居住地のペースと実現可能性を決定する。それがなければ、地球外生活のビジョンは地球の射場に縛られ、あらゆる遅延とコスト増加の人質となるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This news highlights a significant challenge for NASA: ensuring reliable rides for its astronauts to space. Think of it like a major airline that has invested in two different aircraft manufacturers for its fleet, but one of them consistently delivers planes years late and over budget. While the other manufacturer is performing well, relying too heavily on one supplier can create vulnerabilities for the entire operation.",
+        "For Tokyo readers, this situation underscores the critical importance of a robust and diverse space transportation ecosystem. While not directly impacting daily life, the stability of international space operations affects everything from satellite infrastructure (which underpins GPS and communication) to the confidence in global partnerships for future lunar and Martian endeavors. If a lead agency struggles with basic access, it can ripple through the entire space economy, potentially affecting the cost and availability of services that rely on orbital assets.",
+        "This kind of strategic re-evaluation by NASA could take 3 to 5 years to fully manifest. The timeframe is gated by the successful, consistent operation of Starliner, or by NASA's decision to solicit new commercial crew providers or re-allocate resources. Until then, the reliance on a single primary provider for crew transport will likely continue.",
+        "Japan's own space program, particularly the H3 rocket program, aims to provide independent and reliable access to space for its payloads and potentially, in the future, its astronauts. Companies like Mitsubishi Heavy Industries, involved in the H3, are working towards establishing Japan's own resilient launch capabilities. While not directly comparable in terms of commercial crew transport yet, the underlying goal of ensuring domestic, dependable access to orbit mirrors NASA's challenge and highlights the strategic importance of such capabilities for any spacefaring nation."
+      ],
+      "ja": [
+        "このニュースは、NASAにとって宇宙飛行士を確実に宇宙へ送り出すという重要な課題を浮き彫りにしています。例えるなら、主要な航空会社が機材のために2つの異なる航空機メーカーに投資したものの、そのうちの1社が常に数年遅れ、予算超過でしか飛行機を納入できないような状況です。もう一方のメーカーは順調ですが、単一のサプライヤーに過度に依存することは、運用全体に脆弱性をもたらす可能性があります。",
+        "東京で暮らす読者にとって、この状況は、堅牢で多様な宇宙輸送エコシステムの極めて重要な意味を強調します。直接的な日常生活への影響は小さいかもしれませんが、国際的な宇宙運用の安定性は、GPSや通信の基盤となる衛星インフラから、将来の月や火星への取り組みにおける国際協力への信頼に至るまで、あらゆるものに影響を及ぼします。主要な機関が基本的なアクセスで苦戦すれば、それが宇宙経済全体に波及し、軌道上の資産に依存するサービスのコストや利用可能性に影響を与える可能性も考えられます。",
+        "NASAによるこのような戦略的再評価が完全に顕在化するには、3年から5年かかる可能性があります。この期間は、スターライナーの成功した一貫した運用、あるいはNASAが新たな商業乗員輸送プロバイダーを募集するか、リソースを再配分するかという決定によって左右されます。それまでは、乗員輸送における単一の主要プロバイダーへの依存が続く可能性が高いでしょう。",
+        "日本独自の宇宙プログラム、特にH3ロケット計画は、日本独自のペイロード、そして将来的には宇宙飛行士のための独立した信頼性の高い宇宙アクセスを提供することを目指しています。H3に関わる三菱重工業のような企業は、日本独自の強靭な打ち上げ能力の確立に向けて取り組んでいます。商業乗員輸送という点ではまだ直接的な比較対象ではありませんが、国内で信頼性の高い軌道アクセスを確保するという根本的な目標は、NASAの課題と共通しており、いかなる宇宙開発国にとってもそのような能力が戦略的に重要であることを示しています。"
+      ]
+    },
+    "source": {
+      "name": "Futurism",
+      "url": "https://futurism.com/space/nasa-screwed-boeing-starliner-access-space"
+    },
+    "sourceGuid": "https://futurism.com/?p=466548",
+    "status": "published"
+  },
+  {
+    "slug": "the-cadence-of-orbit-spacex-and-rocket-lab-chart-new-trajectories",
+    "category": "space-tech",
+    "issue": "Vol. 10",
+    "publishedAt": "2026-10-02T13:54:34.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon9_falconheavy-1152x648-1790915768.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "The Cadence of Orbit: SpaceX and Rocket Lab Chart New Trajectories",
+      "ja": "軌道の律動：SpaceXとロケットラボ、新たな軌跡を描く"
+    },
+    "dek": {
+      "en": "Recent activities from SpaceX and Rocket Lab underscore a rapidly maturing commercial space sector, where high-frequency launches and substantial contracts reshape access to orbit.",
+      "ja": "SpaceXとロケットラボの最近の動向は、高頻度打ち上げと大型契約が軌道へのアクセスを再構築する、成熟しつつある商業宇宙セクターを鮮明に示している。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "SpaceX",
+        "ja": "SpaceX"
+      },
+      {
+        "en": "Rocket Lab",
+        "ja": "ロケットラボ"
+      },
+      {
+        "en": "Commercial Space",
+        "ja": "商業宇宙"
+      },
+      {
+        "en": "Launch Cadence",
+        "ja": "打ち上げ頻度"
+      }
+    ],
+    "body": {
+      "en": [
+        "SpaceX's recent \"triple-header\" of launches, executing three missions in rapid succession, serves as a stark illustration of the evolving commercial space landscape. This operational tempo, once the exclusive domain of state-funded programs, is now a benchmark for private enterprise.",
+        "The ability to launch, land, and re-launch Falcon boosters within days, or even hours, has fundamentally altered the economics of orbital access. This rapid turnaround allows for a consistent deployment of satellites, from Starlink constellations to diverse payloads for various clients, transforming Low Earth Orbit into an increasingly busy thoroughfare. The sheer scale of these operations speaks to a future where launch capacity is less a bottleneck and more a utility.",
+        "Concurrently, Rocket Lab, a key player in the small-satellite launch sector, announced a significant new contract. This development confirms the sustained demand for dedicated launch services, particularly for smaller payloads that benefit from tailored orbital insertions. It highlights a bifurcation in the market: large constellations on heavy-lift vehicles and specialized missions on more agile rockets.",
+        "> The ongoing shift towards frequent, commercially driven launches signals a maturation of the space industry.",
+        "These twin developments — SpaceX's high cadence and Rocket Lab's contract — point to a robust and diversifying space economy. Competition is driving down costs and increasing reliability, making space more accessible than ever before. This commercial vitality extends beyond mere launch services, impacting satellite manufacturing, data processing, and orbital infrastructure.",
+        "For those who will eventually live and work off-world, this accelerated pace of launches means a fundamental shift in logistics. The cost and availability of materials, components, and even personnel transport to lunar bases or orbital stations will decrease. What was once a rare, expensive journey will become a more routine, albeit still complex, supply chain, perhaps even offering a wider choice of cargo textures and materials for off-world architecture and daily living."
+      ],
+      "ja": [
+        "最近のSpaceXによる「トリプルヘッダー」打ち上げは、3つのミッションを短期間で連続して実行し、商業宇宙の進化する状況を如実に示している。かつて国家主導プログラムの専有領域であったこの運用ペースは、今や民間企業の新たな基準となっている。",
+        "ファルコンブースターを数日、あるいは数時間で打ち上げ、着陸させ、再利用する能力は、軌道へのアクセス経済を根本的に変えた。この迅速なターンアラウンドにより、スターリンク衛星群から多様な顧客のペイロードまで、衛星の一貫した展開が可能となり、地球低軌道はますます活発な交通路へと変貌している。この運用規模自体が、打ち上げ能力がボトルネックではなく、むしろ公共サービスのようなものになる未来を示唆している。",
+        "同時に、小型衛星打ち上げ分野の主要プレーヤーであるロケットラボは、重要な新規契約を発表した。この進展は、特に特注の軌道投入を必要とする小型ペイロードに対する、専用打ち上げサービスの持続的な需要を裏付けている。これは市場の二極化を浮き彫りにする。すなわち、大型ロケットによる大規模コンステレーションと、より機敏なロケットによる専門ミッションである。",
+        "「> 頻繁な商業主導型打ち上げへの継続的な移行は、宇宙産業の成熟を示唆している。」",
+        "SpaceXの高頻度打ち上げとロケットラボの契約という二つの動向は、堅牢で多様化する宇宙経済を示している。競争はコストを押し下げ、信頼性を高め、これまで以上に宇宙を身近なものにしている。この商業的活力は、単なる打ち上げサービスを超え、衛星製造、データ処理、そして軌道インフラにまで影響を及ぼしている。",
+        "将来、地球外で生活し、働く人々にとって、この打ち上げペースの加速は物流に根本的な変化をもたらすだろう。月面基地や軌道ステーションへの資材、部品、さらには人員輸送のコストと利用可能性は低下する。かつては稀で高価な旅であったものが、より日常的で、しかし依然として複雑なサプライチェーンとなり、オフワールドの建築や日々の生活のための貨物の質感や素材の選択肢も広がるかもしれない。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Imagine a delivery service that used to send out one truck a month, but now they're sending out three or more in just a few days. That's essentially what SpaceX is doing with its rockets. They're making space launches as frequent and reliable as a regular shipping service. At the same time, another company, Rocket Lab, just landed a big contract, showing there's plenty of demand for smaller, specialized deliveries too.",
+        "For Tokyo readers, this increasing cadence and reliability in space launches will primarily impact services that rely on satellite infrastructure. Think about your smartphone's GPS, weather forecasts, and even global communication networks. With more satellites being launched more often, these services can become more precise, more resilient to outages, and potentially even cheaper. It also means quicker deployment of disaster monitoring satellites, offering faster warnings for events like earthquakes or tsunamis.",
+        "We can expect to see these benefits within the next 3-5 years, largely gated by the continuous expansion of satellite constellations and the refinement of ground infrastructure to utilize them. As the cost per kilogram to Low Earth Orbit continues its downward trend, more diverse applications will become economically viable.",
+        "While Japan's H3 rocket program aims for high reliability and a steady launch cadence, it still operates on a different scale and frequency compared to SpaceX. However, Japanese companies like Synspective are actively developing small SAR (Synthetic Aperture Radar) satellite constellations, which will greatly benefit from the kind of frequent, dedicated small-satellite launches that Rocket Lab provides. This ensures Japan can build out its own independent eyes in orbit for Earth observation and disaster response."
+      ],
+      "ja": [
+        "かつて月に一度しかトラックを送り出さなかった配送サービスが、今や数日で三台以上のトラックを次々と出すようになったと想像してみてください。SpaceXがロケットでやっていることは、まさにこれに近いものです。宇宙への打ち上げが、まるで通常の配送サービスのように頻繁で信頼性の高いものになっています。同時に、もう一つの企業であるロケットラボも大型契約を獲得し、小規模で専門的な配送に対する需要も十分にあることを示しています。",
+        "東京で暮らす私たちにとって、宇宙打ち上げの頻度と信頼性の向上は、主に衛星インフラに依存するサービスに影響を与えるでしょう。スマートフォンのGPS、天気予報、そしてグローバルな通信ネットワークを考えてみてください。より多くの衛星が頻繁に打ち上げられることで、これらのサービスはより正確になり、障害に対する回復力も高まり、将来的にはコストも下がる可能性があります。また、災害監視衛星の迅速な展開が可能になり、地震や津波のような事象に対する警報がより速く提供されるようになります。",
+        "これらの恩恵は、今後3〜5年以内に実感できるようになるでしょう。これは、衛星コンステレーションの継続的な拡大と、それらを活用するための地上インフラの洗練にかかっています。地球低軌道への1キログラムあたりの打ち上げコストが下がり続けるにつれて、より多様なアプリケーションが経済的に実現可能になります。",
+        "日本のH3ロケットプログラムは高い信頼性と安定した打ち上げ頻度を目指していますが、SpaceXと比較すると規模や頻度においてはまだ異なります。しかし、Synspectiveのような日本の企業は、小型SAR（合成開口レーダー）衛星コンステレーションを積極的に開発しており、ロケットラボが提供するような頻繁で専用の小型衛星打ち上げから大きな恩恵を受けるでしょう。これにより、日本は地球観測や災害対応のために、独自の「宇宙の目」を軌道上に構築できるようになります。"
+      ]
+    },
+    "source": {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/"
+    },
+    "sourceGuid": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/",
+    "status": "published"
+  },
+  {
+    "slug": "frontier-energy-research-fueling-future-off-world-habitats",
+    "category": "space-tech",
+    "issue": "Vol. 10",
+    "publishedAt": "2026-10-02T12:29:00.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
+    },
+    "title": {
+      "en": "Frontier Energy Research: Fueling Future Off-world Habitats",
+      "ja": "最先端エネルギー研究：地球外居住地の未来を駆動する"
+    },
+    "dek": {
+      "en": "The U.S. Department of Energy commits $400 million to fundamental science, laying groundwork for power systems vital to sustainable off-world life.",
+      "ja": "米国エネルギー省が基礎科学に4億ドルを投入。持続可能な地球外生活に不可欠な動力システムの基盤を築く。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "WASHINGTON D.C., October 2, 2026",
+      "ja": "ワシントンD.C.、2026年10月2日"
+    },
+    "tags": [
+      {
+        "en": "Energy",
+        "ja": "エネルギー"
+      },
+      {
+        "en": "Research",
+        "ja": "研究"
+      },
+      {
+        "en": "Department of Energy",
+        "ja": "エネルギー省"
+      },
+      {
+        "en": "Off-world Habitats",
+        "ja": "地球外居住地"
+      }
+    ],
+    "body": {
+      "en": [
+        "The quiet hum of research labs often precedes the roar of rockets. A significant investment in foundational science is now underway, promising to reshape the very infrastructure that will support humanity's reach beyond Earth.",
+        "The U.S. Department of Energy (DOE) has announced a commitment of $400 million towards what it terms “frontier science research.” This substantial funding targets investigations into bleeding-edge energy technologies, pushing the boundaries of what is currently understood and achievable.",
+        "This initiative is not aimed at immediate commercial products but at fostering breakthroughs in fundamental understanding. It supports projects with the potential for long-term, transformative impact across various scientific disciplines, from materials science to advanced power generation.",
+        "For the nascent communities forming beyond Earth, reliable, efficient, and sustainable energy sources are not merely conveniences but necessities for survival. Advances stemming from this research could lead to compact, high-output power systems essential for lunar bases, Martian settlements, or orbital habitats.",
+        "> The Department of Energy is super-charging research into bleeding edge energy tech.",
+        "Imagine a future off-world habitat where a power source no larger than a cargo container provides all the energy needed for atmospheric processing, water recycling, and food production. This research lays the groundwork for such self-sufficient systems.",
+        "The implications extend to the very architecture and design of these extraterrestrial environments. Lighter, more resilient materials and more compact energy solutions will reduce the cost and complexity of construction, making permanent off-world residency more feasible.",
+        "Ultimately, this investment in terrestrial frontier science will directly influence the quality of life for those who choose to live and work off-world. It promises more robust infrastructure, greater self-sufficiency, and perhaps, the luxury of energy abundance in environments where every watt counts."
+      ],
+      "ja": [
+        "静かな研究室の活動が、未来の技術を形作る基盤となる。今、基礎科学への大規模な投資が進行しており、人類が地球外へと進出するためのインフラそのものを再構築する可能性を秘めている。",
+        "米国エネルギー省（DOE）は、「フロンティア科学研究」と称する分野に4億ドルの資金を投入すると発表した。この多額の資金は、現在の理解と達成可能な範囲を超えた最先端のエネルギー技術に関する調査に向けられている。",
+        "この取り組みは、即座に商業製品を生み出すことを目的とするものではなく、基礎的な理解における画期的な進歩を育むことを目指している。材料科学から先進的な発電に至るまで、様々な科学分野で長期的かつ変革的な影響をもたらす可能性のあるプロジェクトを支援する。",
+        "地球外に形成されつつある初期のコミュニティにとって、信頼性が高く、効率的で持続可能なエネルギー源は、単なる利便性ではなく、生存に不可欠な要素である。この研究から生まれる進歩は、月面基地、火星の居住地、あるいは軌道上の居住空間に不可欠な、小型で高出力の動力システムにつながる可能性がある。",
+        "> 米国エネルギー省は最先端のエネルギー技術研究を強力に推進している。",
+        "貨物コンテナほどの大きさの動力源が、大気処理、水の再利用、食料生産に必要なすべてのエネルギーを供給する、未来の地球外居住地を想像してみる。この研究は、そのような自給自足システムの基盤を築くものだ。",
+        "その影響は、これら地球外環境の建築様式と設計そのものにも及ぶだろう。より軽量で回復力のある材料と、よりコンパクトなエネルギーソリューションは、建設のコストと複雑さを軽減し、恒久的な地球外居住をより実現可能なものにする。",
+        "最終的に、この地球上のフロンティア科学への投資は、地球外で生活し働くことを選ぶ人々の生活の質に直接影響を与える。それは、より堅牢なインフラ、より高い自給自足性、そしてあらゆるワットが重要となる環境において、エネルギーの豊かさという贅沢をもたらすだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The US government, through its Department of Energy, is putting $400 million into very early-stage science. Think of it like investing in the seeds of future trees, not just buying lumber. They are looking for new ways to generate power and create materials that we haven't even thought of yet.",
+        "For Tokyo readers, this kind of fundamental energy research could eventually lead to more stable and affordable energy sources globally. This could influence everything from the price of imported goods (due to lower manufacturing costs) to the stability of the power grid during peak demand. It might also accelerate the development of advanced materials for earthquake-resistant buildings or lighter, more efficient electric vehicles.",
+        "This is a long-term play, likely 10-20 years before widespread commercial application. The gating factor will be the transition from pure research to scalable engineering, requiring significant private sector investment after initial breakthroughs.",
+        "Japan has its own robust fundamental science programs through institutions like RIKEN (理化学研究所) and JAXA's advanced research divisions, as well as universities like the University of Tokyo. While not always branded with the same dollar figures as the DOE, these entities consistently push the boundaries in materials science, quantum computing, and advanced energy concepts, often with an eye towards both terrestrial and potential space applications."
+      ],
+      "ja": [
+        "米国政府のエネルギー省が、まだ具体的な製品になる前の、基礎的な科学研究に4億ドルもの資金を投入すると発表しました。これは、例えるなら、将来の大きな木のために種をまくようなものです。まだ誰も想像していないような、新しい発電方法や素材を見つけ出そうとしています。",
+        "東京で暮らす私たちにとって、このような基礎的なエネルギー研究は、将来的に世界中のエネルギー供給をより安定させ、コストを下げる可能性を秘めています。これは、製造コストの低下を通じて輸入品の価格に影響を与えたり、電力需要のピーク時における送電網の安定性向上につながるかもしれません。また、耐震性の高い建築材料や、より軽量で効率的な電気自動車の素材開発を加速させる可能性もあります。",
+        "これは非常に長期的な視点に立った投資であり、広範な商業応用が見られるまでには10年から20年かかるでしょう。初期の研究段階での画期的な発見の後、大規模なエンジニアリングと民間部門からの多額の投資が成功の鍵となります。",
+        "日本にも、理化学研究所やJAXAの先進研究部門、東京大学をはじめとする大学を通じて、独自の強力な基礎科学プログラムがあります。米国エネルギー省のような巨額の予算とは異なるかもしれませんが、これらの機関は、材料科学、量子コンピューティング、先進エネルギー概念において、常に最先端の研究を推進しており、その成果は地上だけでなく、将来的な宇宙応用にも期待されます。"
+      ]
+    },
+    "source": {
+      "name": "Payload",
+      "url": "https://payloadspace.com/doe-announces-400m-for-frontier-science-research/"
+    },
+    "sourceGuid": "https://payloadspace.com/?p=33043",
+    "status": "published"
+  },
+  {
     "slug": "the-unplanned-descent-of-a-nasa-telescope",
     "category": "space-tech",
     "issue": "Vol. 10",
@@ -697,8 +955,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Hop Aero Secures $11M for Suborbital Logistics",
@@ -781,8 +1039,8 @@
     "readingMinutes": 3,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
     },
     "title": {
       "en": "Smile Mission Begins Scientific Observations, Charting Earth's Solar Wind Response",
@@ -867,8 +1125,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "Autonomous Orbital Navigation Tested by Italian Firm",
@@ -1125,8 +1383,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Commercial Satcom: A New Frontier for Defense Spending",
@@ -1383,8 +1641,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0f12"
     },
     "title": {
       "en": "Starship Achieves First Orbital Flight, Reshaping Space Access",
@@ -1645,8 +1903,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101012"
     },
     "title": {
       "en": "Beyond Rockets: The Expanding Orbit of Earth's Economy",
@@ -2161,8 +2419,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101012"
+      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "ESA's Aeolus-2 Completes Critical Testing for Wind Mapping",
@@ -2509,8 +2767,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0f12"
+      "src": "https://images.unsplash.com/photo-1532618793091-ec5fe9635fbd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Orbital Sentinels: Starfish Space Prepares for In-Space Inspection Mission",
@@ -2595,7 +2853,7 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
+      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
       "tone": "#0e0e10"
     },
     "title": {
@@ -2855,8 +3113,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532618793091-ec5fe9635fbd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Ramses Mission Powers On: A Step Towards Planetary Defense",
@@ -3027,8 +3285,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "Hera's Journey to Dimorphos: A Glimpse of Asteroid Habitats",
@@ -3199,8 +3457,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "FCC to Streamline Environmental Review for Space Operations",
@@ -3285,8 +3543,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Europe Charts an Independent Course in Space Exploration",
@@ -3453,8 +3711,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "The Unblinking Gaze: Imaging Mars' Future Power",
@@ -3539,8 +3797,8 @@
     "readingMinutes": 3,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0b0b0d"
+      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101012"
     },
     "title": {
       "en": "Artemis Accords Expand: Albania Joins Lunar Governance Framework",
@@ -3713,8 +3971,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Commercial Space Federation Expands its Roster, Signaling Sector Maturity",
@@ -3799,8 +4057,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "Plant Signals: The Future of Off-World Agriculture",
@@ -4145,8 +4403,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Terran Orbital Strengthens European Satellite Operations with Key Promotion",
@@ -4231,8 +4489,8 @@
     "readingMinutes": 3,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "European Space Startups Secure Landmark Contracts",
@@ -4316,8 +4574,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
     },
     "title": {
       "en": "States Vie to Host US Space Academy, Shaping Future Orbital Workforce",
@@ -4400,8 +4658,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
     },
     "title": {
       "en": "SpaceX's Shifting Financial Orbit: Investors Gain Liquidity",
@@ -4486,8 +4744,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "South Korea's Hanwha Constellation Targets 10-Centimeter Resolution with Satrec Initiative",
@@ -4570,8 +4828,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Orbital Autonomy Takes Flight: Icarus Robotics Prepares ISS Assistant",
@@ -4914,8 +5172,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "Hydrosat Unveils Osiris: A New Lens on Earth's Agriculture",
@@ -4998,8 +5256,8 @@
     "readingMinutes": 3,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Martian Ice Cliffs Reveal Unexpected Hues",
@@ -5082,8 +5340,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#08080a"
     },
     "title": {
       "en": "Artemis III Crew Visits VAB: A Glimpse into Lunar Foundations",
@@ -5252,8 +5510,8 @@
     "readingMinutes": 3,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Starship's Orbital Ambition: A New Scale for Off-World Futures",
@@ -5424,8 +5682,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
     },
     "title": {
       "en": "The Algorithmic Eye: AI and the Deluge of Orbital Data",
@@ -5512,8 +5770,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0f12"
     },
     "title": {
       "en": "Djibouti Joins Artemis Accords, Expanding Lunar Governance Framework",
@@ -5684,8 +5942,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "The Coming Age of Orbital Maintenance",
@@ -5770,8 +6028,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Open Cosmos Secures €300M for European Satellite Infrastructure",
@@ -5856,8 +6114,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "ESA's Hera Mission Introduces AI Companion for Planetary Defence Engagement",
@@ -6459,7 +6717,7 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
+      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
       "tone": "#0c0c0e"
     },
     "title": {
@@ -6545,8 +6803,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "SWIRSAT and India: LatConnect 60 Forges New Earth Observation Alliances",
@@ -6623,260 +6881,6 @@
       "url": "https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/"
     },
     "sourceGuid": "https://spacenews.com/?p=615434",
-    "status": "published"
-  },
-  {
-    "slug": "antares-secures-landmark-funding-for-space-nuclear-power",
-    "category": "space-tech",
-    "issue": "Vol. 09",
-    "publishedAt": "2026-09-11T13:00:00.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
-    },
-    "title": {
-      "en": "Antares Secures Landmark Funding for Space Nuclear Power",
-      "ja": "アンタレス社、宇宙用原子力電源開発で大型契約を獲得"
-    },
-    "dek": {
-      "en": "A significant Department of Defense contract awarded to Antares underscores the strategic shift towards robust, long-duration power solutions for off-world operations.",
-      "ja": "アンタレス社が国防総省から獲得した大型契約は、宇宙空間での長期ミッションに向けた堅牢な電源ソリューションへの戦略的転換を示す。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "WASHINGTON D.C.",
-      "ja": "ワシントンD.C."
-    },
-    "tags": [
-      {
-        "en": "space-tech",
-        "ja": "宇宙技術"
-      },
-      {
-        "en": "nuclear power",
-        "ja": "原子力発電"
-      },
-      {
-        "en": "DoD",
-        "ja": "米国防総省"
-      },
-      {
-        "en": "Antares",
-        "ja": "アンタレス"
-      }
-    ],
-    "body": {
-      "en": [
-        "The sustained presence of humanity beyond Earth demands reliable and enduring power sources. Solar arrays, while proven, face limitations in deep space, shadowed lunar regions, or during prolonged Martian dust storms.",
-        "A recent announcement from Antares highlights a pivotal step in addressing this challenge. The company has secured a $161 million contract from the U.S. Department of Defense (DoD) to advance nuclear power technologies for space applications.",
-        "This award represents the largest DoD contract of its kind to date, signaling a clear governmental commitment to developing alternatives to traditional solar and chemical power systems. Such investment is critical for future missions requiring substantial and continuous energy.",
-        "> \"the largest DoD space nuclear award to date.\"",
-        "Nuclear power offers the potential for compact, high-density energy generation, crucial for sustaining human habitats, powering advanced scientific instruments, and enabling resource extraction on celestial bodies. Its independence from solar flux provides operational flexibility previously unattainable.",
-        "The implications extend beyond mere electricity. Stable, high-output power can enable closed-loop life support systems, industrial-scale manufacturing, and even advanced propulsion technologies for faster transit across the solar system. It is a foundational element for true off-world autonomy.",
-        "For those who will eventually live and work off-world, this investment promises a future where energy scarcity is less of a daily concern. It lays the groundwork for self-sufficient lunar outposts and Martian settlements, where the hum of a reactor might replace the anxious monitoring of solar panels. This shift could redefine the architectural and operational blueprints of extraterrestrial habitation, allowing for greater comfort and industrial capacity."
-      ],
-      "ja": [
-        "地球外での持続的な人類の存在には、信頼性が高く、耐久性のある電源が不可欠です。太陽電池アレイは実績があるものの、深宇宙や月の影、あるいは火星での長期にわたる砂嵐の中では限界に直面します。",
-        "アンタレス社からの最近の発表は、この課題への重要な一歩を示しています。同社は、宇宙用途の原子力電源技術を進化させるため、米国国防総省（DoD）から1億6100万ドルの契約を獲得しました。",
-        "この契約は、国防総省がこれまで締結した宇宙用原子力電源に関する契約の中で最大規模であり、従来の太陽光発電や化学燃料による電力システムに代わる選択肢の開発に対する政府の明確なコミットメントを示しています。このような投資は、大規模かつ継続的なエネルギーを必要とする将来のミッションにとって極めて重要です。",
-        "> 「国防総省がこれまでに授与した宇宙用原子力電源に関する最大の契約」",
-        "原子力電源は、コンパクトで高密度のエネルギー生成の可能性を提供します。これは、月や火星などの天体における人間の居住地を維持し、高度な科学機器に電力を供給し、資源採掘を可能にする上で不可欠です。太陽光に依存しないその特性は、これまで達成できなかった運用上の柔軟性をもたらします。",
-        "その影響は単なる電力供給にとどまりません。安定した高出力電源は、閉鎖型生命維持システム、工業規模の製造、さらには太陽系内をより速く移動するための高度な推進技術さえも可能にします。これは、真の地球外自律性を確立するための基礎的な要素です。",
-        "将来、地球外で生活し働く人々にとって、この投資はエネルギー不足が日々の懸念事項となることの少ない未来を約束します。それは、太陽電池の不安な監視に代わって原子炉の稼働音が響くような、自給自足の月面基地や火星入植地の基盤を築きます。この転換は、地球外居住地の建築様式と運用計画を再定義し、より高い快適性と産業能力を可能にするでしょう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This news describes a significant U.S. government investment in developing nuclear power for space. Think of it not as a weapon, but as a compact, incredibly long-lasting battery or a small, self-contained power plant, much like those used on submarines, but miniaturized for space. Its purpose is to provide continuous, high-output energy for deep-space probes or future lunar and Martian bases, where sunlight is often scarce or unreliable.",
-        "For Tokyo readers, this development could indirectly impact several domains. More robust and consistent power on lunar bases means more reliable data streams from scientific instruments and potential resource extraction operations. This could lead to advancements in materials science or even contribute to the global supply chain for rare metals, though the direct impact on daily life here would be subtle, perhaps influencing the performance of global navigation satellite systems (GNSS) or remote sensing data for disaster prediction.",
-        "The timeframe for this impact to be felt in a tangible way is likely 5 to 10 years. This depends heavily on the successful development and safe deployment of these advanced nuclear systems, as well as international agreements on their use and safety protocols. The cost-effectiveness and reliability must also be proven over multiple missions before widespread adoption.",
-        "While Japan's JAXA has a strong interest in power solutions for deep space missions, particularly for probes like MMX (Martian Moons eXploration), there isn't a direct commercial counterpart in Japan currently developing dedicated space nuclear reactors. However, Japanese companies like IHI Aerospace and Mitsubishi Heavy Industries are deeply involved in various aspects of space propulsion and power systems. There is a potential for future collaboration or for Japan to license such technologies, integrating them into its own ambitious space exploration plans, particularly as lunar activities expand."
-      ],
-      "ja": [
-        "今回のニュースは、米国政府が宇宙用原子力電源の開発に大規模な投資を行ったことを伝えています。これは兵器ではなく、潜水艦に使われるような小型の自己完結型発電所、あるいは非常に長持ちするコンパクトなバッテリーを想像してください。その目的は、太陽光が不足したり不安定だったりする深宇宙探査機や将来の月面・火星基地に、継続的で高出力のエネルギーを供給することです。",
-        "東京で暮らす読者にとって、この進展はいくつかの領域に間接的な影響を与える可能性があります。月面基地でより堅牢で安定した電力が供給されれば、科学観測機器からのデータや資源採掘活動の信頼性が高まります。これは材料科学の進歩につながったり、希少金属の世界的なサプライチェーンに貢献したりする可能性を秘めています。日常生活への直接的な影響は小さいかもしれませんが、グローバル測位衛星システム（GNSS）の性能向上や、災害予測のためのリモートセンシングデータに影響を与えるかもしれません。",
-        "この影響が具体的に感じられるようになるのは、おそらく5年から10年後になるでしょう。これは、これらの高度な原子力システムの開発と安全な配備の成功、そしてその使用と安全プロトコルに関する国際的な合意に大きく左右されます。広範な採用には、複数のミッションを通じて費用対効果と信頼性が証明される必要があります。",
-        "日本のJAXAも、MMX（火星衛星探査計画）のような深宇宙ミッション向けの電源ソリューションに強い関心を持っていますが、現在、日本国内で宇宙用原子力炉を専門に開発している民間企業は直接的な競合相手としては見られません。しかし、IHIや三菱重工業といった日本の企業は、宇宙機の推進システムや電力システムに関する様々な側面に深く関与しています。月面活動が拡大するにつれて、将来的にこのような技術のライセンス取得や共同開発を通じて、日本の野心的な宇宙探査計画に組み込まれる可能性は十分にあります。"
-      ]
-    },
-    "source": {
-      "name": "Payload",
-      "url": "https://payloadspace.com/antares-wins-161m-award-for-space-nuclear-power/"
-    },
-    "sourceGuid": "https://payloadspace.com/?p=31704",
-    "status": "published"
-  },
-  {
-    "slug": "lunarcrete-redefines-off-world-living-aesthetics",
-    "category": "space-tech",
-    "issue": "Vol. 09",
-    "publishedAt": "2026-09-10T20:00:00.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://cdn.mos.cms.futurecdn.net/7TiH3pXMeAKdntxdVW7BK-1280-80.jpg",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "LunarCrete Redefines Off-World Living Aesthetics",
-      "ja": "ルナクリート：月面生活の美学を再定義する"
-    },
-    "dek": {
-      "en": "AstroBuild Inc.'s new regolith-based concrete promises durable lunar habitats, shaping a unique architectural language rooted in the Moon's own landscape.",
-      "ja": "アストロビルド社が開発した月面レゴリス由来のコンクリートは、耐久性のある月面居住地を約束し、月の風景に根ざした独自の建築様式を形成する。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "lunar construction",
-        "ja": "月面建設"
-      },
-      {
-        "en": "materials science",
-        "ja": "材料科学"
-      },
-      {
-        "en": "habitats",
-        "ja": "居住地"
-      },
-      {
-        "en": "space architecture",
-        "ja": "宇宙建築"
-      }
-    ],
-    "body": {
-      "en": [
-        "The silent, dust-laden expanse of the Moon has long presented an austere challenge for human habitation. Building permanent structures capable of withstanding radiation, micrometeorites, and extreme temperatures has typically implied sterile, metallic enclosures.",
-        "This paradigm is now shifting with AstroBuild Inc.'s introduction of \"LunarCrete,\" a novel self-curing concrete derived directly from lunar regolith. Announced on September 10, 2026, the material leverages available lunar water ice for its setting process, eliminating the need to transport vast quantities of binders from Earth.",
-        "Laboratory simulations indicate LunarCrete achieves a compressive strength 30% greater than conventional Earth-based concrete, while its integrated shielding properties reduce radiation exposure by an estimated 20%. This allows for habitat walls that are 15 centimeters thinner than previously projected, offering greater interior volume and design flexibility.",
-        "Beyond its structural integrity, LunarCrete introduces a distinct aesthetic. Its natural, earthy tones and granular texture, inherent to the lunar soil from which it is formed, promise to define the visual and tactile experience of future lunar interiors. This marks a departure from the industrial uniformity often associated with space architecture.",
-        "> \"It allows us to build with the Moon, not just on it,\" stated a lead engineer during the announcement.",
-        "For those who will eventually live, work, and raise families off-world, this means more than just robust walls. It suggests homes that feel less like temporary outposts and more like an organic extension of their extraterrestrial surroundings. This material could lay the groundwork for a unique lunar vernacular architecture, where the very substance of the Moon informs the texture and atmosphere of daily life."
-      ],
-      "ja": [
-        "静かで塵に覆われた月面は、長年にわたり人類の居住にとって厳しい課題を提示してきた。放射線、微小隕石、極端な温度に耐えうる恒久的な構造物の建設は、これまで無菌的な金属製エンクロージャーを意味することが多かった。",
-        "このパラダイムは、アストロビルド社が月面レゴリスから直接生成される新しい自己硬化型コンクリート「ルナクリート」を発表したことで変化しつつある。2026年9月10日に発表されたこの素材は、月面で利用可能な水氷を硬化プロセスに活用するため、地球から大量の結合剤を輸送する必要がなくなる。",
-        "実験室でのシミュレーションによると、ルナクリートは従来の地球製コンクリートよりも圧縮強度が30%高く、統合された遮蔽特性により放射線被曝を推定20%削減する。これにより、居住地の壁は以前の予測よりも15センチ薄くすることができ、内部容積と設計の柔軟性が向上する。",
-        "構造的な堅牢性だけでなく、ルナクリートは独特の美学をもたらす。月面の土壌から生まれたその自然な土の色合いと粒状の質感は、将来の月面居住地の視覚的・触覚的体験を決定づけるだろう。これは、宇宙建築にしばしば関連付けられる工業的な均一性からの脱却を意味する。",
-        "> 「私たちは月の上に建てるだけでなく、月と共に建てることを可能にする」と、発表時に主任エンジニアは述べた。",
-        "将来、月で生活し、働き、家族を育てる人々にとって、これは単に頑丈な壁以上の意味を持つ。それは、一時的な前哨基地というよりも、その異星環境の有機的な延長のように感じられる家を示唆する。この素材は、月そのものの物質が日常生活の質感と雰囲気を形成する、独自の月面バーナキュラー建築の基礎を築く可能性がある。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Today's news describes a new kind of concrete, called LunarCrete, made from the Moon's own dust and ice. Think of it like a special cement mixer that flies to the Moon, uses local ingredients, and builds houses that are stronger and safer than anything we could ship from Earth. It's designed to be a permanent building material for future lunar cities.",
-        "For Tokyo readers, this isn't about building a house on the Moon tomorrow. However, materials science innovations like LunarCrete can have downstream effects. The principles of self-curing, radiation-shielding composites, or even using local resources for construction, might eventually influence advanced materials used in earthquake-resistant buildings or extreme environment infrastructure here on Earth. It could also open new avenues for Japanese companies in space resource utilization.",
-        "We might see some terrestrial applications or licensing agreements for similar material technologies within 5-10 years. The full realization of LunarCrete for lunar habitats, however, depends on the establishment of a robust lunar supply chain for water ice and sustained human presence, which is likely 15-20 years away, gated by Artemis program milestones and private investment.",
-        "Japan's own JAXA and private companies like ispace are actively exploring lunar resource utilization, particularly water ice. While no direct Japanese counterpart for \"LunarCrete\" has been announced, the underlying research in advanced composites and regolith utilization at institutions like the University of Tokyo is robust. ispace's Hakuto-R missions, for example, are foundational steps towards understanding and utilizing lunar resources for future construction."
-      ],
-      "ja": [
-        "今日のニュースは、「ルナクリート」という新しい種類のコンクリートについてです。これは月の砂（レゴリス）と水氷を使って作られるもので、例えるなら、月まで飛んでいって、現地の材料だけで家を建てられる特別なセメントミキサーのようなものです。地球から大量の建材を運ぶ必要がなく、より頑丈で安全な、未来の月面都市のための恒久的な建築材料となることが期待されています。",
-        "東京に暮らす私たちにとって、すぐに月面に家が建つという話ではありません。しかし、ルナクリートのような材料科学の革新は、やがて地上にも影響を与える可能性があります。自己硬化性や放射線遮蔽性を持つ複合材料、あるいは地域資源を活用する建設の原理は、将来的には地震に強い建築物や、地上の極限環境におけるインフラ技術に応用されるかもしれません。これはまた、日本の企業が宇宙資源利用の分野で新たな機会を見出すきっかけにもなり得ます。",
-        "こうした材料技術の地上応用やライセンス契約は、5年から10年以内に見られるかもしれません。しかし、ルナクリートが月面居住地で本格的に利用されるようになるには、水氷の安定した供給網と、人類の継続的な月面滞在が確立される必要があります。これは、アルテミス計画の進展や民間投資に左右されるため、おそらく15年から20年先の話になるでしょう。",
-        "日本では、JAXAやispaceのような民間企業が、特に水氷を含む月面資源の利用に積極的に取り組んでいます。ルナクリートに直接相当する日本製のコンクリートはまだ発表されていませんが、東京大学などの研究機関では、先進複合材料やレゴリス利用に関する基礎研究が活発に行われています。ispaceのHAKUTO-Rミッションなどは、将来の建設のための月面資源の理解と利用に向けた、まさにその基礎を築く一歩と言えます。"
-      ]
-    },
-    "source": {
-      "name": "Space.com",
-      "url": "https://www.space.com/stargazing/the-summer-triangle-3-stars-1-seasonal-mystery"
-    },
-    "sourceGuid": "HVzU8MJycgLgHEiEcAg2Ge",
-    "status": "published"
-  },
-  {
-    "slug": "deepsky-a-new-vision-for-atmospheric-monitoring",
-    "category": "space-tech",
-    "issue": "Vol. 09",
-    "publishedAt": "2026-09-10T21:27:56.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
-    },
-    "title": {
-      "en": "DeepSky: A New Vision for Atmospheric Monitoring",
-      "ja": "DeepSky：大気モニタリングの新たな展望"
-    },
-    "dek": {
-      "en": "Tomorrow.io's DeepSky constellation promises real-time global weather data, setting a new standard for planetary observation.",
-      "ja": "Tomorrow.ioのDeepSkyコンステレーションが、リアルタイムの地球規模気象データを提供し、惑星観測の新たな基準を打ち立てる。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO – September 10, 2026",
-      "ja": "東京 – 2026年9月10日"
-    },
-    "tags": [
-      {
-        "en": "Weather",
-        "ja": "気象"
-      },
-      {
-        "en": "Satellites",
-        "ja": "衛星"
-      },
-      {
-        "en": "Earth Observation",
-        "ja": "地球観測"
-      },
-      {
-        "en": "Commercial Space",
-        "ja": "商業宇宙"
-      }
-    ],
-    "body": {
-      "en": [
-        "The intricate dance of Earth's atmosphere has long presented a formidable challenge to precise prediction. Traditional weather models, while sophisticated, often struggle with the sheer scale and dynamic nature of global phenomena. A new initiative aims to refine this understanding, offering a glimpse into a future of unprecedented atmospheric insight.",
-        "Tomorrow.io, a company known for its focus on weather intelligence, has unveiled the core components of its upcoming DeepSky constellation. These five advanced instruments are designed to significantly enhance real-time global atmospheric monitoring, promising a new era for meteorology. The announcement marks a critical step in deploying a network specifically engineered for continuous, high-fidelity data collection from orbit.",
-        "Each instrument within the DeepSky array is tailored to capture specific atmospheric parameters, contributing to a holistic view of Earth's weather systems. This dedicated approach allows for the collection of data points with greater frequency and resolution than currently available from many existing satellite networks. The goal is to provide a comprehensive, minute-by-minute understanding of weather patterns across the planet.",
-        "> \"DeepSky—its next-gen constellation built for real-time global atmospheric monitoring.\"",
-        "The implications extend beyond mere forecast accuracy. Improved atmospheric data can inform critical decisions in aviation, maritime logistics, agriculture, and disaster preparedness. For industries reliant on predictable environmental conditions, the availability of real-time, granular information could translate into significant operational efficiencies and enhanced safety protocols.",
-        "For those contemplating life beyond Earth, the advancement in atmospheric monitoring holds a different kind of promise. The methodologies and sensor technologies developed for DeepSky, focused on understanding complex planetary atmospheres, could prove invaluable. Future lunar bases or Martian habitats will require sophisticated, real-time environmental control systems and predictive models for localized \"weather\" — whether it is dust storms on Mars or atmospheric pressure changes within an enclosed habitat. The precision gained from projects like DeepSky establishes a crucial precedent for sustaining human presence in alien environments, where every atmospheric variable could be critical to survival and daily operations."
-      ],
-      "ja": [
-        "地球の複雑な大気の動きは、長年にわたり正確な予測を困難にしてきた。従来の気象モデルは高度であるものの、地球規模の現象の膨大さとダイナミックな性質を捉えるのに苦慮することが少なくない。この度、この理解を深め、前例のない大気観測の未来を垣間見せる新たな取り組みが発表された。",
-        "気象インテリジェンスに注力する企業Tomorrow.ioは、次世代のDeepSkyコンステレーションの中核をなす5つの機器を発表した。これらの先進的な観測機器は、リアルタイムの地球規模の大気モニタリングを大幅に強化することを目的としており、気象学の新時代を切り開くものと期待される。この発表は、軌道上からの継続的かつ高精度なデータ収集のために特別に設計されたネットワークを展開する上で、重要な一歩となる。",
-        "DeepSkyアレイ内の各機器は、特定の大気パラメータを捉えるように調整されており、地球の気象システムを全体的に把握することに貢献する。この専用アプローチにより、既存の多くの衛星ネットワークよりも高い頻度と解像度でデータポイントを収集することが可能となる。その目的は、地球全体の気象パターンを分単位で包括的に理解することにある。",
-        "> 「リアルタイムの地球規模の大気モニタリングのために構築された次世代コンステレーション、DeepSky。」",
-        "その影響は、単なる予報精度の向上にとどまらない。大気データの改善は、航空、海上物流、農業、災害対策における重要な意思決定に役立つだろう。予測可能な環境条件に依存する産業にとって、リアルタイムで詳細な情報が利用可能になることは、運用効率の大幅な向上と安全プロトコルの強化につながる可能性がある。",
-        "地球外での生活を考える人々にとって、この大気モニタリングの進歩は別の種類の約束を秘めている。DeepSkyのために開発された、複雑な惑星大気を理解することに焦点を当てた手法やセンサー技術は、計り知れない価値を持つ可能性がある。将来の月面基地や火星の居住施設には、高度なリアルタイム環境制御システムと、火星の砂嵐や閉鎖された居住施設内の大気圧変化といった局所的な「気象」を予測するためのモデルが必要となる。DeepSkyのようなプロジェクトから得られる精度は、異星環境で人類の存在を維持するための重要な先例を確立する。そこでは、あらゆる大気変数が生存と日常業務にとって極めて重要となるからだ。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Imagine a new fleet of highly specialized weather stations, not on the ground, but orbiting Earth. Tomorrow.io has just announced the advanced instruments that will fly on these satellites, part of their DeepSky constellation. These are designed to constantly scan our atmosphere, collecting data with unprecedented detail and speed, much like upgrading from a basic weather report to a minute-by-minute, global atmospheric snapshot.",
-        "For those of us living in Tokyo, this means more accurate and timely weather information. You might see improvements in everything from daily commute planning to early warnings for typhoons or heavy rain events. Businesses, especially those involved in logistics or construction, could benefit from more reliable forecasts, reducing delays and improving safety. This enhanced data could also feed into more precise disaster mitigation strategies for a city like Tokyo, which is particularly vulnerable to extreme weather.",
-        "We can expect to see the effects of such advanced constellations within the next 3 to 5 years, as the satellites are fully deployed and their data integrated into global weather models and local forecasting systems. The gating factor will be the full operational readiness of the DeepSky constellation and the subsequent adoption of its data by meteorological agencies and private weather service providers worldwide, including those serving Japan.",
-        "Japan already operates the Himawari series of geostationary meteorological satellites through JAXA and the Japan Meteorological Agency, which provide vital weather data for the Asia-Pacific region. While Himawari offers broad coverage, Tomorrow.io's DeepSky aims for a different type of real-time, high-resolution data collection. A comparable private sector effort focusing on detailed, real-time atmospheric sensing could emerge from Japanese startups or research institutions looking to complement JAXA's larger-scale missions, perhaps focusing on specific regional phenomena or niche applications."
-      ],
-      "ja": [
-        "地球上ではなく、地球を周回する高度に専門化された新しい気象観測ステーションの群れを想像してみてください。Tomorrow.ioは、このDeepSkyコンステレーションの一部となる人工衛星に搭載される先進的な観測機器を発表しました。これらは、私たちの地球大気を絶えずスキャンし、これまでにない詳細さと速度でデータを収集するように設計されています。これは、基本的な天気予報が、分単位で更新される地球規模の大気のスナップショットへとアップグレードされるようなものです。",
-        "東京に住む私たちにとって、これはより正確でタイムリーな気象情報を意味します。日々の通勤計画から、台風や大雨に対する早期警報に至るまで、あらゆる面で改善が見られるかもしれません。物流や建設に関わる企業は、より信頼性の高い予報から恩恵を受け、遅延を減らし、安全性を向上させることができるでしょう。この強化されたデータは、極端な気象に特に脆弱な東京のような都市にとって、より精密な災害軽減戦略にも役立つ可能性があります。",
-        "このような先進的なコンステレーションの効果は、人工衛星が完全に配備され、そのデータが世界の気象モデルや地域の予報システムに統合されるにつれて、今後3年から5年以内に現れ始めると予想されます。決定要因となるのは、DeepSkyコンステレーションの完全な運用準備態勢と、それに続く日本の気象機関や民間の気象サービスプロバイダーを含む世界中の機関によるデータ採用です。",
-        "日本はすでに、JAXAと気象庁を通じて、アジア太平洋地域に不可欠な気象データを提供する静止気象衛星「ひまわり」シリーズを運用しています。ひまわりは広範囲をカバーしますが、Tomorrow.ioのDeepSkyは、異なる種類のリアルタイムで高解像度のデータ収集を目指しています。詳細なリアルタイム大気センシングに焦点を当てた、これに匹敵する民間セクターの取り組みは、JAXAの大規模ミッションを補完しようとする日本のスタートアップや研究機関から生まれるかもしれません。特定の地域現象やニッチなアプリケーションに特化する形で、今後の動きが注目されます。"
-      ]
-    },
-    "source": {
-      "name": "Payload",
-      "url": "https://payloadspace.com/tomorrow-io-unveils-next-gen-weather-forecasting-instruments/"
-    },
-    "sourceGuid": "https://payloadspace.com/?p=31695",
     "status": "published"
   }
 ]

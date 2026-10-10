@@ -1,5 +1,349 @@
 [
   {
+    "slug": "xonas-commercial-navigation-service-charting-new-orbits",
+    "category": "space-tech",
+    "issue": "Vol. 10",
+    "publishedAt": "2026-10-09T12:00:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
+    },
+    "title": {
+      "en": "Xona's Commercial Navigation Service: Charting New Orbits",
+      "ja": "Xonaの商業測位サービス：新たな軌道を描く"
+    },
+    "dek": {
+      "en": "A private entity prepares to launch a precision navigation service, challenging the long-held reliance on state-operated satellite constellations and reshaping how future off-world operations might secure their bearings.",
+      "ja": "民間企業が精密測位サービスの開始を準備している。これにより、国家主導の衛星測位システムへの長年の依存が変わり、将来の宇宙活動における位置特定の方法が再構築されるだろう。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "October 9, 2026",
+      "ja": "2026年10月9日"
+    },
+    "tags": [
+      {
+        "en": "Navigation",
+        "ja": "測位"
+      },
+      {
+        "en": "Satellites",
+        "ja": "衛星"
+      },
+      {
+        "en": "Commercial Space",
+        "ja": "商業宇宙"
+      },
+      {
+        "en": "Precision",
+        "ja": "精密"
+      }
+    ],
+    "body": {
+      "en": [
+        "Terrestrial life has long relied on global navigation satellite systems (GNSS) like GPS for everything from logistics to personal travel. These government-operated constellations provide foundational positioning, navigation, and timing data across the globe. However, as humanity looks beyond Earth, the limitations and specific requirements of off-world operations necessitate more resilient and precise solutions.",
+        "Into this emerging landscape steps Xona, a private venture poised to introduce its own commercial navigation service. The company aims to offer an alternative that could provide enhanced accuracy and reliability, particularly crucial for autonomous systems operating in demanding environments.",
+        "This new commercial offering represents a shift from the traditional model where space-based navigation was predominantly a state-funded and controlled utility. A private system can potentially offer tailored services, greater flexibility, and innovation driven by market demands rather than national strategic imperatives alone.",
+        "For missions beyond Earth, such precision navigation is indispensable. Autonomous lunar rovers, orbital construction platforms, and future Martian habitats will require highly accurate positioning to operate safely and efficiently. Current systems, while robust on Earth, may lack the precision, coverage, or resilience needed for these nascent off-world infrastructures.",
+        "> The original report highlights that Xona's commercial GPS alternative is 'about to go live,' marking a significant moment for independent navigation solutions.",
+        "The advent of a commercial navigation service means that future off-world settlers, workers, and designers will have access to an independent, high-fidelity positioning utility. This could democratize access to critical navigation data, fostering new commercial applications and reducing reliance on a single, potentially vulnerable, system.",
+        "Reliable and precise navigation becomes a fundamental utility, much like electricity or communication networks. For those living and working off-world, this translates into safer operations, more efficient resource management, and the ability to build and expand with unprecedented accuracy. It is the unseen lattice upon which future extraterrestrial cities will be constructed."
+      ],
+      "ja": [
+        "地球上での生活は、物流から個人の移動に至るまで、長らくGPSのような全地球測位衛星システム（GNSS）に依存してきました。これらの政府運営のコンステレーションは、地球全体にわたる基本的な位置、航法、時刻データを提供しています。しかし、人類が地球の彼方へと目を向けるにつれて、宇宙での活動における限界と特定の要件が、より堅牢で精密なソリューションを必要としています。",
+        "このような新たな状況に、民間企業であるXonaが独自の商業測位サービスを導入しようとしています。同社は、特に厳しい環境で運用される自律システムにとって不可欠な、強化された精度と信頼性を提供する代替手段を目指しています。",
+        "この新しい商業サービスは、宇宙ベースの航法が主に国家資金によって管理される公共事業であった従来のモデルからの転換を示しています。民間システムは、国家戦略的な必要性だけでなく、市場の需要によって推進されるカスタマイズされたサービス、より大きな柔軟性、そして革新を提供する可能性があります。",
+        "地球外ミッションにとって、このような精密測位は不可欠です。自律型月面ローバー、軌道上の建設プラットフォーム、そして将来の火星居住地は、安全かつ効率的に運用するために非常に正確な位置特定を必要とします。現在のシステムは地球上では堅牢であるものの、これらの初期段階の地球外インフラに必要な精度、カバレッジ、または堅牢性に欠ける場合があります。",
+        "原文より、Xonaの商業GPS代替システムが「まもなく稼働開始」すると報じられており、独立した測位ソリューションにとって重要な瞬間を示しています。",
+        "商業測位サービスの登場は、将来の宇宙居住者、労働者、デザイナーが独立した高精度測位ユーティリティにアクセスできることを意味します。これにより、重要な航法データへのアクセスが民主化され、新しい商業アプリケーションが促進され、単一の、潜在的に脆弱なシステムへの依存が軽減されるでしょう。",
+        "信頼性の高い精密な航法は、電力や通信ネットワークと同様に、基本的なユーティリティとなります。宇宙で生活し、働く人々にとって、これはより安全な運用、より効率的な資源管理、そして前例のない精度で建設し拡張する能力を意味します。それは、将来の地球外都市が構築される目に見えない格子なのです。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Imagine a delivery drone navigating through the dense skyscrapers of Shibuya, not just with typical GPS, but with a system offering pinpoint accuracy down to a few centimeters. This is akin to what Xona aims to provide, a commercial satellite navigation service designed to offer much higher precision and reliability than the standard GPS we use today.",
+        "For Tokyo readers, the immediate impact might seem distant, but consider the underlying infrastructure. More precise navigation means more efficient autonomous vehicles, whether they are self-driving cars or delivery robots. It also enhances the timing accuracy for critical financial transactions and improves the resilience of smart city applications, making urban life smoother and safer.",
+        "This kind of enhanced precision could become commonplace within the next 3 to 5 years. The widespread adoption depends on how quickly these commercial services can integrate with existing terrestrial systems and prove their cost-effectiveness compared to current solutions. Regulatory frameworks for autonomous operations will also play a significant gating role.",
+        "Japan is already a leader in this field with its Quasi-Zenith Satellite System (QZSS), known as Michibiki. Michibiki provides high-precision positioning, especially for the Asia-Oceania region, augmenting GPS signals. While Michibiki is a government-led initiative primarily for national and regional benefits, Xona represents a fully commercial approach. This contrast highlights a potential future where both public and private systems coexist, offering diverse navigation options and fostering competition for even greater accuracy and resilience."
+      ],
+      "ja": [
+        "渋谷の密集した高層ビル群を、通常のGPSだけでなく、数センチメートル単位の精度で航行する配達ドローンを想像してみてください。Xonaが提供しようとしているのは、まさにそのような商業衛星測位サービスであり、今日私たちが使用している標準的なGPSよりもはるかに高い精度と信頼性を提供することを目指しています。",
+        "東京の読者にとって、その直接的な影響は遠いものに感じられるかもしれません。しかし、その根底にあるインフラを考えてみてください。より精密な測位は、自動運転車であれ配達ロボットであれ、より効率的な自律型車両を意味します。また、重要な金融取引の時刻精度を高め、スマートシティアプリケーションの堅牢性を向上させ、都市生活をより円滑で安全なものにするでしょう。",
+        "このような強化された精度は、今後3年から5年以内に一般的になる可能性があります。その普及は、これらの商業サービスが既存の地上システムとどれだけ迅速に統合され、現在のソリューションと比較して費用対効果を証明できるかにかかっています。自律運用に関する規制枠組みも、重要な制約要因となるでしょう。",
+        "日本はこの分野で、みちびきとして知られる準天頂衛星システム（QZSS）で既に先行しています。みちびきは、特にアジア・オセアニア地域向けにGPS信号を補強し、高精度測位を提供しています。みちびきが主に国家および地域の利益を目的とした政府主導の取り組みであるのに対し、Xonaは完全に商業的なアプローチを示しています。この対比は、将来的に公共と民間の両システムが共存し、多様な測位オプションを提供し、さらなる精度と堅牢性の競争を促進する可能性を示唆しています。"
+      ]
+    },
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/"
+    },
+    "sourceGuid": "https://techcrunch.com/?p=3175941",
+    "status": "published"
+  },
+  {
+    "slug": "kapta-space-secures-24m-for-advanced-orbital-radar",
+    "category": "space-tech",
+    "issue": "Vol. 10",
+    "publishedAt": "2026-10-09T13:00:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
+    },
+    "title": {
+      "en": "Kapta Space Secures $24M for Advanced Orbital Radar",
+      "ja": "Kapta Space、高度軌道レーダー開発へ2400万ドル調達"
+    },
+    "dek": {
+      "en": "A new Series A funding round positions Kapta Space to deploy next-generation radar payloads, enhancing the precision of space traffic management for a crowded orbital environment.",
+      "ja": "Kapta SpaceはシリーズA資金調達により、次世代レーダーペイロードの開発を加速。混雑する軌道環境における宇宙交通管理の精度向上を目指す。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO – October 9, 2026",
+      "ja": "東京 – 2026年10月9日"
+    },
+    "tags": [
+      {
+        "en": "Space Traffic Management",
+        "ja": "宇宙交通管理"
+      },
+      {
+        "en": "Radar",
+        "ja": "レーダー"
+      },
+      {
+        "en": "Orbital Debris",
+        "ja": "宇宙デブリ"
+      },
+      {
+        "en": "Satellite Technology",
+        "ja": "衛星技術"
+      }
+    ],
+    "body": {
+      "en": [
+        "The silent, ceaseless movement of objects in Earth orbit demands an ever-sharper eye. As the orbital environment grows more congested, the ability to precisely track every satellite, every piece of debris, becomes paramount for safety and efficiency.",
+        "Seattle-based Kapta Space has announced a significant step in this direction, securing $24 million in Series A funding. This capital infusion is earmarked for the development of advanced radar payloads designed to monitor moving targets with unprecedented accuracy.",
+        "Unlike systems that primarily track static positions, Kapta's technology focuses on the dynamic — identifying and predicting the paths of active satellites and the myriad fragments of space junk. This capability is crucial for preventing collisions that could incapacitate vital infrastructure or create cascades of new debris.",
+        "The precision offered by these next-generation payloads promises to transform space situational awareness. Operators will gain a clearer, real-time understanding of the orbital landscape, allowing for more informed decisions regarding maneuvers and mission planning.",
+        "> \"Designed to track moving targets.\"",
+        "Such granular data will not only enhance the safety of existing assets but also enable the secure deployment of future constellations. For the burgeoning space economy, this translates into reduced risk, potentially lower insurance premiums for orbital assets, and more reliable operations across all sectors.",
+        "For those who will eventually live and work off-world, the ability to precisely map and monitor the immediate orbital environment is foundational. Whether for the safe transit of cargo, the siting of lunar gateways, or the long-term protection of orbital habitats, a robust, real-time digital web of trajectories ensures the logistics of extraterrestrial life can proceed with confidence. The silent dance of orbital mechanics becomes a precisely choreographed ballet, essential for a future beyond Earth.",
+        "This technological advancement underscores a critical shift: from merely observing space to actively managing it as a vital domain for human expansion."
+      ],
+      "ja": [
+        "地球軌道上を絶えず移動する物体は、常に鋭い監視を求めている。軌道環境が混雑を増すにつれて、すべての衛星、すべてのデブリを正確に追跡する能力は、安全性と効率性のために最も重要となる。",
+        "シアトルを拠点とするKapta Spaceは、この方向への重要な一歩を発表した。シリーズA資金として2400万ドルを調達したのである。この資金は、移動する目標を前例のない精度で監視するために設計された、高度なレーダーペイロードの開発に充てられる。",
+        "静的な位置を主に追跡するシステムとは異なり、Kaptaの技術は動的な側面に焦点を当てる。つまり、稼働中の衛星や無数の宇宙ゴミの破片を特定し、その経路を予測するのだ。この能力は、重要なインフラを不能にしたり、新たなデブリの連鎖を生み出したりする可能性のある衝突を防ぐ上で不可欠である。",
+        "これらの次世代ペイロードが提供する精度は、宇宙状況認識を劇的に変えるだろう。オペレーターは、軌道環境をより明確かつリアルタイムで理解できるようになり、操縦やミッション計画に関するより情報に基づいた決定を下せるようになる。",
+        "> 「移動する目標を追跡するために設計されている。」",
+        "このような詳細なデータは、既存の資産の安全性を高めるだけでなく、将来のコンステレーションの安全な展開も可能にする。急成長する宇宙経済にとって、これはリスクの低減、軌道上資産の保険料の潜在的な引き下げ、そしてすべてのセクターにおけるより信頼性の高い運用を意味する。",
+        "いずれ地球外で生活し、働く人々にとって、直接的な軌道環境を正確にマッピングし監視する能力は、基盤となる。貨物の安全な輸送、月面ゲートウェイの設置、あるいは軌道上居住地の長期的な保護のいずれにおいても、堅牢でリアルタイムな軌道のデジタル網は、地球外生命のロジスティクスが確実に行われることを保証する。軌道上で繰り広げられる静かな舞は、より緻密なバレエへと昇華し、地球を超えた未来に不可欠となるだろう。",
+        "この技術的進歩は、宇宙を単に観察するだけでなく、人類の拡大にとって不可欠な領域として積極的に管理するという、重要な変化を強調している。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Kapta Space, a company based in Seattle, has secured funding to develop a sophisticated radar system for satellites. Imagine a highly advanced air traffic control system, but instead of planes, it tracks every single object in Earth's orbit—from active satellites the size of a bus to tiny pieces of space debris no bigger than a smartphone. This system's goal is to see not just where things are, but precisely where they're going, helping to prevent dangerous collisions in space.",
+        "For Tokyo readers, this advancement means more reliable and efficient satellite-based services. Think about your daily life: GPS navigation for your car or phone, stable internet connections, and accurate weather forecasts all rely on satellites. If orbital traffic becomes safer and more predictable, the services you use every day will become more robust and potentially more affordable, as the risk of damage to these critical assets decreases.",
+        "We can expect to see the tangible benefits of such systems within the next 5 to 10 years. The main factors influencing this timeline will be the actual deployment of these new radar satellites and the establishment of international agreements for sharing this crucial orbital data among spacefaring nations and private operators. Global cooperation is key to making space traffic management truly effective.",
+        "In Japan, companies like Astroscale are already leading the way in orbital debris removal and on-orbit servicing, which critically depend on precise tracking. While Kapta Space focuses on the radar hardware itself, Astroscale's missions, such as ELSA-d, demonstrate the vital need for accurate space situational awareness. JAXA also contributes to space situational awareness, but private Japanese firms are increasingly driving commercial solutions in this domain."
+      ],
+      "ja": [
+        "シアトルを拠点とするKapta Spaceという会社が、衛星に搭載する高度なレーダーシステムを開発するための資金を調達しました。これは、宇宙空間にあるすべての物体、バスほどの大きさの稼働中の衛星から、スマートフォンのような小さな宇宙デブリまで、一つ残らず追跡する、非常に高度な航空管制システムを想像すると分かりやすいでしょう。このシステムの目的は、物体がどこにあるかだけでなく、正確にどこへ向かっているかを把握し、宇宙での危険な衝突を防ぐことです。",
+        "東京で暮らす読者の皆さんにとって、この進歩は、衛星を利用したサービスがより信頼性が高く、効率的になることを意味します。皆さんの日常生活を考えてみてください。車のカーナビやスマートフォンのGPS、安定したインターネット接続、正確な天気予報はすべて衛星に依存しています。もし軌道上の交通がより安全で予測可能になれば、これらの重要な資産への損傷リスクが減り、皆さんが日々利用するサービスはより堅牢になり、将来的には費用も抑えられる可能性があります。",
+        "このようなシステムの具体的な恩恵が実感できるようになるのは、今後5年から10年以内と予想されます。この期間に影響を与える主な要因は、新しいレーダー衛星が実際に打ち上げられること、そして宇宙を航行する国々や民間事業者間でこの重要な軌道データを共有するための国際的な合意が確立されることです。宇宙交通管理を真に効果的なものにするためには、グローバルな協力が不可欠です。",
+        "日本では、アストロスケール社が軌道デブリ除去や衛星の寿命延長サービスにおいて世界をリードしており、これらのサービスは精密な追跡技術に大きく依存しています。Kapta Spaceがレーダーハードウェアそのものに焦点を当てているのに対し、アストロスケール社のELSA-dのようなミッションは、正確な宇宙状況認識がいかに不可欠であるかを示しています。JAXAも宇宙状況把握（SSA）に取り組んでいますが、この分野では日本の民間企業が商業的な解決策を推進する動きが活発になっています。"
+      ]
+    },
+    "source": {
+      "name": "Payload",
+      "url": "https://payloadspace.com/exclusive-kapta-space-raises-24m-series-a-to-build-moving-target-radar-payload/"
+    },
+    "sourceGuid": "https://payloadspace.com/?p=33215",
+    "status": "published"
+  },
+  {
+    "slug": "accelerated-lunar-base-bolstered-by-space-nuclear-pact",
+    "category": "artemis",
+    "issue": "Vol. 10",
+    "publishedAt": "2026-10-09T12:18:10.000Z",
+    "readingMinutes": 3,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
+    },
+    "title": {
+      "en": "Accelerated Lunar Base Bolstered by Space Nuclear Pact",
+      "ja": "宇宙原子力協定が加速する月面基地計画を後押し"
+    },
+    "dek": {
+      "en": "NASA announces an ahead-of-schedule timeline for its lunar outpost, underpinned by a new agreement for space-based nuclear power, signaling a firmer commitment to sustained off-world presence.",
+      "ja": "NASAは、宇宙原子力に関する新たな協定に基づき、月面基地の建設が予定より前倒しで進んでいると発表した。これは、地球外での持続的な存在への確固たる意思を示すものだ。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "October 9, 2026",
+      "ja": "2026年10月9日"
+    },
+    "tags": [
+      {
+        "en": "Moon",
+        "ja": "月"
+      },
+      {
+        "en": "Lunar Base",
+        "ja": "月面基地"
+      },
+      {
+        "en": "Nuclear Power",
+        "ja": "原子力"
+      },
+      {
+        "en": "Artemis Program",
+        "ja": "アルテミス計画"
+      }
+    ],
+    "body": {
+      "en": [
+        "The lunar horizon, once a distant promise, now appears closer and more tangible. NASA's recent announcements signal a tangible acceleration in its plans for a permanent human presence on the Moon, shifting the narrative from aspiration to concrete action.",
+        "At the White House's 'Science: A New Golden Age Summit,' updates confirmed a significant step forward. NASA has signed a new pact focused on space nuclear power, a critical technology for robust lunar operations. This development coincides with the revelation that the agency's Moon base project is now ahead of its initial schedule.",
+        "Reliable and abundant energy is the bedrock of any sustained off-world habitat. Nuclear power offers a solution to the challenges of solar intermittency and the limitations of battery storage, providing continuous electricity for life support systems, scientific instruments, and future resource extraction.",
+        "The involvement of figures like Jared Isaacman, a prominent private astronaut and entrepreneur, underscores the growing convergence of public and private sector ambitions in space. His presence at such a high-level summit highlights the commercial ecosystem now forming around lunar development.",
+        "> \"Moon Base Is Ahead of Schedule.\"",
+        "This acceleration means more than just a faster construction timeline. It implies an earlier deployment of crewed missions, a quicker establishment of research facilities, and a more rapid progression towards a self-sufficient lunar outpost. The very pace of lunar settlement is quickening.",
+        "For those who will one day live and work on the Moon, this means a more secure and robust environment. Stable power underpins everything from manufacturing and communication to daily comfort and the ability to conduct long-duration scientific experiments, changing the definition of what constitutes a habitable space beyond Earth. The hum of a reactor, a new sound of civilization, promises to make the Moon a more permanent home."
+      ],
+      "ja": [
+        "かつて遠い約束であった月面への道筋が、今やより近く、具体的なものとして現れている。NASAの最近の発表は、月への恒久的な有人滞在計画において目覚ましい加速を示しており、その物語は願望から具体的な行動へと移行しつつある。",
+        "ホワイトハウスで開催された「科学：新黄金時代サミット」で、重要な進展が確認された。NASAは宇宙原子力に関する新たな協定を締結したのだ。これは、堅牢な月面運用にとって不可欠な技術である。この進展は、同機関の月面基地プロジェクトが当初の予定よりも前倒しで進んでいるという発表と同時に行われた。",
+        "信頼性が高く豊富なエネルギーは、地球外における持続的な居住地の基盤となる。原子力は、太陽光発電の間欠性やバッテリー貯蔵の限界といった課題に対し、生命維持システム、科学機器、そして将来的な資源採掘のための連続的な電力供給という解決策を提供する。",
+        "著名な民間宇宙飛行士であり起業家でもあるジャレッド・アイザックマン氏のような人物の関与は、宇宙における官民双方の野心の収斂を浮き彫りにする。高レベルなサミットにおける彼の存在は、月面開発を取り巻く商業エコシステムが形成されつつあることを示唆している。",
+        "> 「月面基地は予定より前倒しで進んでいる。」",
+        "この加速は、単に建設期間が短縮される以上の意味を持つ。有人ミッションの早期展開、研究施設の迅速な設立、そして自給自足可能な月面前哨基地へのより速い進展を意味する。月面居住のペースそのものが速まっているのだ。",
+        "将来、月で生活し、働く人々にとって、これはより安全で堅牢な環境を意味する。安定した電力は、製造や通信から日々の快適さ、そして長期間にわたる科学実験の実施能力に至るまで、あらゆる活動を支え、地球外の居住空間の定義そのものを変えるだろう。原子炉の微かな稼働音、それは新たな文明の音として、月をより恒久的な故郷にすることを約束する。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "NASA is pushing forward with its Moon base plans faster than expected, partly by securing deals for space-based nuclear power systems. This means they'll have strong, consistent energy on the Moon, which is essential for everything from keeping astronauts alive to extracting valuable materials from the lunar surface.",
+        "For Tokyo readers, this acceleration could open new avenues for Japanese companies. Imagine firms like ispace or Mitsubishi Heavy Industries playing a larger role in developing lunar infrastructure or power systems. It could also indirectly influence the global supply chain for rare metals, as lunar resource extraction becomes more viable, potentially affecting industries reliant on them.",
+        "We could see tangible progress within 5-10 years. This timeline depends heavily on the successful deployment of these nuclear systems and the establishment of international agreements for lunar resource utilization, which Japan is actively engaging in through diplomatic and scientific channels.",
+        "Japan is already a key player in lunar exploration through JAXA and private ventures like ispace, which aims to establish a lunar economy. Mitsubishi Heavy Industries also possesses advanced nuclear technology, which could be adapted for space applications, mirroring NASA's push for reliable off-world power, ensuring Japan's continued relevance in this unfolding future."
+      ],
+      "ja": [
+        "NASAは、宇宙原子力発電システムに関する協定を締結することで、月面基地計画を予想よりも早く進めています。これは、月面で安定した強力なエネルギー源を確保することを意味します。宇宙飛行士の生命維持から、月面の貴重な資源の採掘まで、あらゆる活動の基盤となるでしょう。",
+        "東京に暮らす私たちにとって、この加速は日本の企業に新たな機会をもたらす可能性があります。例えば、ispaceのような企業や三菱重工業が、月面インフラや電力システムの開発において、より大きな役割を担うかもしれません。また、月面での資源採掘が現実的になれば、希少金属のグローバルなサプライチェーンにも影響を与え、関連産業に波及効果をもたらす可能性も考えられます。",
+        "具体的な影響が目に見えるようになるのは、今後5年から10年以内でしょう。この実現には、原子力システムの月面への展開と、月面資源利用に関する国際的な合意形成が不可欠です。日本もこの分野で外交的、科学的なルートを通じて積極的に議論に参加しています。",
+        "日本も月面探査において重要な役割を担っており、JAXAやispaceのような民間企業が月面経済の構築を目指しています。ispaceは月面着陸機やローバーの開発を進め、月面インフラへの貢献が期待されます。また、三菱重工業のような企業は、NASAが推進する信頼性の高い地球外電力供給と同様に、宇宙応用可能な原子力技術を保有しており、この発展する未来における日本の存在感を確かなものにするでしょう。"
+      ]
+    },
+    "source": {
+      "name": "Payload",
+      "url": "https://payloadspace.com/nasa-signs-space-nuclear-pact-says-moon-base-is-ahead-of-schedule/"
+    },
+    "sourceGuid": "https://payloadspace.com/?p=33212",
+    "status": "published"
+  },
+  {
+    "slug": "etoshas-salt-pan-a-blueprint-for-off-world-resource-mapping",
+    "category": "space-tech",
+    "issue": "Vol. 10",
+    "publishedAt": "2026-10-09T08:00:00.000Z",
+    "readingMinutes": 3,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
+    },
+    "title": {
+      "en": "Etosha's Salt Pan: A Blueprint for Off-world Resource Mapping",
+      "ja": "エトーシャ塩湖：宇宙資源探査の青写真"
+    },
+    "dek": {
+      "en": "A satellite's view of Earth's extreme landscapes provides crucial insights for future off-world resource identification and settlement planning.",
+      "ja": "地球の極限的な景観を捉えた衛星画像は、将来の宇宙資源特定と居住地計画に不可欠な知見を提供する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "NAMIBIA, 5 April 2026",
+      "ja": "ナミビア、2026年4月5日"
+    },
+    "tags": [
+      {
+        "en": "Earth Observation",
+        "ja": "地球観測"
+      },
+      {
+        "en": "Remote Sensing",
+        "ja": "リモートセンシング"
+      },
+      {
+        "en": "Satellites",
+        "ja": "衛星"
+      },
+      {
+        "en": "Environmental Monitoring",
+        "ja": "環境モニタリング"
+      }
+    ],
+    "body": {
+      "en": [
+        "A vast expanse of white, etched with the faint traces of ancient waterways, unfolds across northern Namibia. This is the Etosha Pan, Africa's largest salt pan, captured with remarkable clarity by the European Space Agency's Copernicus Sentinel-2 satellite. The image, acquired on 5 April 2026, reveals a landscape shaped by evaporation and mineral deposition, a stark beauty visible from low Earth orbit.",
+        "Sentinel-2 is part of the Copernicus programme, a fleet of Earth observation satellites designed to monitor our planet's land, oceans, and atmosphere. Its multispectral imager collects data across various wavelengths, allowing scientists to discern subtle differences in surface composition, vegetation health, and water presence. Such detailed environmental intelligence is crucial for terrestrial resource management and climate studies.",
+        "The Etosha Pan, while unique in its terrestrial context, offers a compelling analog for the challenges and opportunities awaiting off-world explorers. Its extreme aridity and mineral-rich surface require precise mapping and understanding. The very techniques employed by Sentinel-2 to survey Earth's geological features and hydrological cycles will be indispensable for future lunar and Martian missions.",
+        "> \"Namibia’s biggest salt pan\" appears as a striking, almost alien landscape from above.",
+        "Future lunar habitats will depend on identifying and extracting local resources, such as water ice in shadowed craters or specific minerals within the regolith. The ability to conduct wide-area surveys from orbit, pinpointing promising sites for exploration or construction, mirrors the work Sentinel-2 performs on Earth. This orbital perspective allows for strategic planning, reducing the risks and costs associated with ground-based reconnaissance.",
+        "For those who will one day live and work beyond Earth, such remote sensing capabilities are not merely scientific tools; they are foundational to survival. Understanding the composition of a distant moon's surface, identifying safe landing zones, or locating potential sources of building materials and propellants will directly influence settlement design, economic viability, and the daily rhythm of off-world life. The detailed mapping of Earth's varied terrains now provides a critical blueprint for how we will approach the unknown landscapes of other worlds."
+      ],
+      "ja": [
+        "ナミビア北部に広がる広大な白い平原には、古代の水路の痕跡がかすかに刻まれている。これはアフリカ最大の塩湖であるエトーシャ塩湖であり、欧州宇宙機関のコペルニクス・センチネル2衛星によって驚くほど鮮明に捉えられた。2026年4月5日に取得されたこの画像は、蒸発と鉱物の堆積によって形成された風景、低地球軌道から見えるその厳然たる美しさを映し出す。",
+        "センチネル2は、地球の陸、海、大気を監視するために設計された地球観測衛星群、コペルニクス計画の一部である。その多波長イメージャーは、様々な波長でデータを収集し、科学者が地表の組成、植生の健康状態、水の存在の微妙な違いを識別することを可能にする。このような詳細な環境情報は、地球の資源管理や気候研究にとって極めて重要である。",
+        "エトーシャ塩湖は、地球上の文脈では特異な存在だが、地球外の探査者たちを待ち受ける課題と機会に対する魅力的な類似物を提供する。その極度の乾燥と鉱物豊富な地表は、精密なマッピングと理解を必要とする。センチネル2が地球の地質学的特徴や水循環を調査するために用いる手法そのものが、将来の月や火星のミッションにとって不可欠となるだろう。",
+        "> 「ナミビア最大の塩湖」は、上空から見ると、まるで異星の風景のように印象的である。",
+        "将来の月面居住地は、日陰のクレーター内の水氷やレゴリス内の特定の鉱物など、現地の資源を特定し抽出することに依存する。広範囲の軌道上調査を実施し、探査や建設に適した有望な地点を特定する能力は、センチネル2が地球上で行う作業に酷似している。この軌道からの視点は戦略的な計画を可能にし、地上偵察に伴うリスクとコストを削減する。",
+        "いずれ地球外で生活し、働く人々にとって、このようなリモートセンシング能力は単なる科学ツールではない。それは生存の基盤となる。遠い月の表面の組成を理解し、安全な着陸地点を特定し、あるいは建設資材や推進剤の潜在的な供給源を見つけることは、居住地の設計、経済的実現可能性、そして地球外での日々の生活のリズムに直接影響を与えるだろう。地球の多様な地形の詳細なマッピングは、私たちが他の世界の未知の景観にどのようにアプローチするかの重要な青写真を提供する。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The European Space Agency's Copernicus Sentinel-2 satellite recently captured a detailed image of Namibia's vast Etosha salt pan. Think of Sentinel-2 as a high-tech eye in the sky, constantly observing Earth's surface. It uses different light frequencies to see things we can't with our naked eye, like the specific types of minerals or the health of plants. This kind of data helps us understand our planet's environment, from water levels to land use.",
+        "For Tokyo readers, Earth observation satellites already play a quiet but vital role in daily life. This technology directly contributes to more accurate weather forecasts, earlier disaster warnings for typhoons and earthquakes, and even the precision of GPS services used by delivery apps or autonomous vehicles. Understanding global environmental changes, like desertification or water scarcity, also indirectly affects resource supply chains for a city like Tokyo.",
+        "This impact is already felt today, with continuous improvements. Within the next 3 to 5 years, as satellite technology advances and data processing becomes faster, we can expect even finer-grained environmental monitoring and more responsive disaster management systems. The key gating factor will be the integration of these vast data streams into actionable public and private services, and Japan's own investment in next-generation Earth observation platforms.",
+        "Japan's JAXA (Japan Aerospace Exploration Agency) operates its own series of Earth observation satellites, notably the ALOS (Advanced Land Observing Satellite) series, also known as \"Daichi.\" While ALOS has different specific capabilities, it shares the fundamental mission of detailed land mapping and environmental monitoring. Private companies like Synspective are also developing constellations of SAR (Synthetic Aperture Radar) satellites, aiming to provide frequent, high-resolution imagery for commercial applications, mirroring the global trend towards enhanced orbital observation."
+      ],
+      "ja": [
+        "欧州宇宙機関（ESA）のコペルニクス・センチネル2衛星が、ナミビアの広大なエトーシャ塩湖の鮮明な画像を捉えました。センチネル2は、まるで空から地球を常に見つめるハイテクな目のようです。肉眼では見えない、特定の種類の鉱物や植物の状態など、さまざまな光の周波数を使って情報を集めます。この種のデータは、水位から土地利用まで、地球の環境を理解するのに役立っています。",
+        "東京に住む私たちにとって、地球観測衛星はすでに日常生活に不可欠な、しかし目に見えない役割を果たしています。この技術は、より正確な天気予報や、台風や地震に対する早期警戒システム、さらには宅配アプリや自動運転車が利用するGPSサービスの精度向上に直接貢献しています。砂漠化や水不足といった地球規模の環境変化の理解も、東京のような都市の資源供給網に間接的に影響を与えます。",
+        "この影響はすでに今日感じられており、日々改善が進んでいます。今後3年から5年以内には、衛星技術のさらなる進化とデータ処理の高速化により、より詳細な環境モニタリングや、より迅速に対応できる災害管理システムが期待できます。主要なボトルネックは、これらの膨大なデータストリームを、実用的な公共および民間サービスへと統合すること、そして日本自身の次世代地球観測プラットフォームへの投資でしょう。",
+        "日本のJAXA（宇宙航空研究開発開発機構）も、独自の地球観測衛星シリーズ、特に「だいち」の愛称で知られるALOS（陸域観測技術衛星）シリーズを運用しています。ALOSは特定の機能は異なりますが、詳細な地形マッピングと環境監視という根本的なミッションを共有しています。また、Synspectiveのような民間企業も、商業用途向けに高頻度で高解像度の画像を提供するSAR（合成開口レーダー）衛星群を開発しており、軌道上からの観測強化という世界的なトレンドに呼応しています。"
+      ]
+    },
+    "source": {
+      "name": "ESA",
+      "url": ""
+    },
+    "sourceGuid": "0e851a950a87fcbe8a92ec1840eafeb2",
+    "status": "published"
+  },
+  {
     "slug": "beyond-the-snow-line-microlensing-reveals-distant-worlds",
     "category": "research",
     "issue": "Vol. 10",
@@ -954,8 +1298,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "A Golden Dome for US Space: Huntsville and Colorado Springs Forge New Alliance",
@@ -1292,8 +1636,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "Mexico's Space Ecosystem Secures $700M Investment",
@@ -1378,8 +1722,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "ESA Advocates for Stronger European Space Role at IAC",
@@ -1548,8 +1892,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Agile Space Industries Bolsters Leadership for Future In-Space Operations",
@@ -2410,8 +2754,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0b0b0d"
     },
     "title": {
       "en": "Expanding the Lunar Horizon: NASA's New Science Mandate for Artemis",
@@ -2496,8 +2840,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#08080a"
+      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Insuring the Void: Financial Foundations for Off-World Ventures",
@@ -2838,8 +3182,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0b0b0d"
+      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Autonomous Orbital Navigation Tested by Italian Firm",
@@ -2924,8 +3268,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Lunar Communications: Building a Network for the Moon's Future Residents",
@@ -3096,8 +3440,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Commercial Satcom: A New Frontier for Defense Spending",
@@ -3180,8 +3524,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101012"
     },
     "title": {
       "en": "Artemis Accords Convene on Lunar Sustainability and Inclusivity",
@@ -3354,8 +3698,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "Starship Achieves First Orbital Flight, Reshaping Space Access",
@@ -3616,8 +3960,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Beyond Rockets: The Expanding Orbit of Earth's Economy",
@@ -3702,8 +4046,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Boeing Starliner Resets Course After 2024 Incident, Crewed Flight Pushed to 2028",
@@ -4048,8 +4392,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "Consolidation in Orbit: Rocket Lab's Strategic Expansion",
@@ -4132,8 +4476,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "ESA's Aeolus-2 Completes Critical Testing for Wind Mapping",
@@ -4392,8 +4736,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Forecasting the Orbital Economy: A 'True or False' on Space Industry Trends",
@@ -4480,8 +4824,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Orbital Sentinels: Starfish Space Prepares for In-Space Inspection Mission",
@@ -4566,8 +4910,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "BepiColombo Nears Mercury, Inviting Creative Homage",
@@ -4652,8 +4996,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Ethereal Space Secures NOAA Contract for Environmental Monitoring",
@@ -4826,8 +5170,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
     },
     "title": {
       "en": "Ramses Mission Powers On: A Step Towards Planetary Defense",
@@ -4912,8 +5256,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "Vast Expands Lunar Ambitions with Dedicated Programs Division",
@@ -4998,8 +5342,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "Hera's Journey to Dimorphos: A Glimpse of Asteroid Habitats",
@@ -5084,8 +5428,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Autonomous Ascent: AstroForge Embraces AI for Off-World Operations",
@@ -5170,8 +5514,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "FCC to Streamline Environmental Review for Space Operations",
@@ -5256,8 +5600,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Europe Charts an Independent Course in Space Exploration",
@@ -5340,8 +5684,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "HEO Secures Funding to Expand GEO Surveillance",
@@ -5424,8 +5768,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "The Unblinking Gaze: Imaging Mars' Future Power",
@@ -5510,8 +5854,8 @@
     "readingMinutes": 3,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Artemis Accords Expand: Albania Joins Lunar Governance Framework",
@@ -5684,8 +6028,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "Commercial Space Federation Expands its Roster, Signaling Sector Maturity",
@@ -5770,8 +6114,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Plant Signals: The Future of Off-World Agriculture",
@@ -5858,8 +6202,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "Juice Mission Prepares for Third Earth Gravity Assist on Route to Jupiter",
@@ -6116,8 +6460,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "Terran Orbital Strengthens European Satellite Operations with Key Promotion",
@@ -6287,8 +6631,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "States Vie to Host US Space Academy, Shaping Future Orbital Workforce",
@@ -6371,8 +6715,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "SpaceX's Shifting Financial Orbit: Investors Gain Liquidity",
@@ -6457,8 +6801,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "South Korea's Hanwha Constellation Targets 10-Centimeter Resolution with Satrec Initiative",
@@ -6531,350 +6875,6 @@
       "url": "https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/"
     },
     "sourceGuid": "https://spacenews.com/?p=616607",
-    "status": "published"
-  },
-  {
-    "slug": "orbital-autonomy-takes-flight-icarus-robotics-prepares-iss-assistant",
-    "category": "space-tech",
-    "issue": "Vol. 09",
-    "publishedAt": "2026-09-17T13:00:00.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
-    },
-    "title": {
-      "en": "Orbital Autonomy Takes Flight: Icarus Robotics Prepares ISS Assistant",
-      "ja": "軌道上の自律性、飛翔へ：Icarus Robotics、ISS補助ロボットを準備"
-    },
-    "dek": {
-      "en": "A new free-flying robot, Joy, completes crucial parabolic flight tests, signaling a shift towards enhanced automation in orbital habitats and redefining daily tasks for future space residents.",
-      "ja": "新たな自律飛行ロボット「Joy」が放物線飛行試験を完了。軌道上居住空間における自動化の進展と、未来の宇宙居住者の日常業務の再定義を示唆する。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "NEW YORK",
-      "ja": "ニューヨーク"
-    },
-    "tags": [
-      {
-        "en": "robotics",
-        "ja": "ロボティクス"
-      },
-      {
-        "en": "ISS",
-        "ja": "ISS"
-      },
-      {
-        "en": "autonomy",
-        "ja": "自律性"
-      },
-      {
-        "en": "orbital operations",
-        "ja": "軌道上運用"
-      }
-    ],
-    "body": {
-      "en": [
-        "The confined spaces of orbital habitats demand a new calculus of efficiency and safety. Within this demanding environment, the role of autonomous robotics is steadily expanding, promising to redefine the daily lives of those who will reside off-world.",
-        "Icarus Robotics recently completed a significant four-flight parabolic test campaign for its free-flying robot, named Joy. These tests, conducted in a microgravity-like environment, are a critical precursor to the robot's inaugural mission to the International Space Station (ISS), scheduled for 2027.",
-        "The parabolic flights simulated the zero-gravity conditions Joy will encounter in orbit, allowing engineers to validate its navigation, control, and operational protocols. Such rigorous testing ensures the robot’s readiness for intricate tasks within the ISS’s complex internal architecture.",
-        "Once deployed, Joy is expected to assist astronauts with routine inspections, equipment monitoring, and potentially even minor maintenance tasks. Its ability to autonomously navigate and perform detailed checks can free up valuable crew time, allowing human occupants to focus on scientific research and more complex operational challenges.",
-        "> The free-flying robot, named Joy, prepares for its first ISS mission in 2027.",
-        "This development marks a tangible step toward a future where robotic companions are integral to orbital living. The quiet hum of automated systems promises a subtle yet profound reshaping of orbital routines.",
-        "For those envisioning a future beyond Earth, the increasing autonomy of systems like Joy means a future habitat that is more consistently monitored, safer, and less reliant on constant human intervention for basic upkeep. It suggests a future where the definition of 'crewmate' expands to include intelligent machines, enhancing both productivity and the overall quality of life in space."
-      ],
-      "ja": [
-        "軌道上の居住空間という閉鎖された環境は、効率性と安全性の新たな計算式を要求する。この厳しい環境において、自律型ロボットの役割は着実に拡大しており、地球外に居住する人々の日常生活を再定義する可能性を秘めている。",
-        "Icarus Robotics社は最近、自律飛行ロボット「Joy」の重要な放物線飛行試験を4回にわたり完了した。微小重力下をシミュレートして行われたこれらの試験は、2027年に予定されている国際宇宙ステーション（ISS）への初ミッションに向けた、極めて重要な前段階となる。",
-        "放物線飛行は、Joyが軌道上で遭遇する無重力状態を再現し、エンジニアがその航法、制御、および運用プロトコルを検証することを可能にした。このような厳格な試験は、ISSの複雑な内部構造内で精密なタスクを実行するためのロボットの準備状況を確かなものにする。",
-        "配備されれば、Joyは宇宙飛行士の日常的な点検、機器の監視、さらには軽微なメンテナンス作業を支援すると期待されている。自律的に航法を行い、詳細なチェックを実行する能力は、貴重な乗組員の時間を解放し、人間は科学研究やより複雑な運用上の課題に集中できるようになるだろう。",
-        "「> 自律飛行ロボット『Joy』は、2027年のISS初ミッションに向けて準備を進める。」",
-        "この進展は、ロボットの仲間が軌道上での生活に不可欠となる未来に向けた具体的な一歩を示す。自動化されたシステムの静かな稼働音は、軌道上の日常を微細ながらも深遠に再構築するだろう。",
-        "地球外での未来を思い描く人々にとって、Joyのようなシステムの自律性の向上は、より一貫して監視され、より安全で、基本的な維持管理のために絶え間ない人間の介入に依存しない未来の居住空間を意味する。それは、「乗組員」の定義が知的な機械を含むまでに広がり、宇宙での生産性と生活の質の両方を高める未来を示唆している。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This news is about a private company, Icarus Robotics, testing a small, free-flying robot named Joy. Think of Joy as a smart, autonomous drone designed to fly inside the International Space Station (ISS). Its recent parabolic flight tests simulated the weightless conditions it will experience in space, ensuring it can navigate and operate effectively before its 2027 mission.",
-        "For Tokyo readers, the most plausible near-future impact lies in the advancement of autonomous systems for complex environments. While Joy is designed for space, the underlying technologies for self-navigation, inspection, and remote maintenance could eventually find applications closer to home. Imagine robots performing detailed infrastructure checks in hard-to-reach urban areas or assisting with disaster response, making cities like Tokyo safer and more resilient.",
-        "This kind of widespread application in urban settings is likely 5-10 years away. The gating factors include the development of more robust AI for real-world unpredictability, the establishment of clear safety regulations for autonomous robots operating alongside humans, and the cost-effectiveness of deploying such systems compared to traditional methods.",
-        "Japan is already a leader in robotics, and companies like Astroscale are developing similar autonomous systems for orbital debris removal and satellite servicing. While Joy focuses on internal ISS operations, the core challenge of autonomous movement and interaction in a confined, sensitive environment is directly comparable to the advanced robotics research conducted by JAXA and various Japanese universities for future lunar missions and terrestrial applications."
-      ],
-      "ja": [
-        "このニュースは、Icarus Roboticsという民間企業が「Joy」という名前の小型自律飛行ロボットの試験を行ったというものです。Joyは、国際宇宙ステーション（ISS）内を飛び回り、宇宙飛行士を助けるために設計された、賢いドローンのようなものだと考えてください。最近行われた放物線飛行試験は、2027年のミッションに先立ち、宇宙で経験する無重力状態をシミュレートし、ロボットが効果的に航法・運用できることを確認しました。",
-        "東京で暮らす読者にとって、最も現実的な近未来への影響は、複雑な環境向け自律システムの進歩にあるでしょう。Joyは宇宙向けに設計されていますが、自律航法、点検、遠隔メンテナンスといった基盤技術は、いずれはより身近な場所に応用される可能性があります。例えば、東京のような都市で、人が立ち入りにくいインフラの精密点検を行ったり、災害対応を支援したりするロボットが、都市をより安全で強靭なものにする未来が考えられます。",
-        "このような都市環境での広範な応用は、おそらく5年から10年先になるでしょう。その進展を左右する要因としては、現実世界の予測不可能性に対応するための、より堅牢なAIの開発、人間と共存する自律ロボットの明確な安全規制の確立、そして従来の方式と比較した際のシステム導入の費用対効果などが挙げられます。",
-        "日本はすでにロボット技術の先進国であり、アストロスケールのような企業は、軌道上のデブリ除去や衛星サービスのための同様の自律システムを開発しています。JoyがISS内部の運用に焦点を当てている一方で、閉鎖された精密な環境における自律的な移動と相互作用という核となる課題は、JAXAや日本の大学が将来の月ミッションや地球上での応用に向けて行っている先進的なロボティクス研究と直接的に比較できるものです。"
-      ]
-    },
-    "source": {
-      "name": "Payload",
-      "url": "https://payloadspace.com/icarus-robotics-completes-parabolic-flight-test-ahead-of-iss-mission/"
-    },
-    "sourceGuid": "https://payloadspace.com/?p=31770",
-    "status": "published"
-  },
-  {
-    "slug": "europe-forges-secure-orbital-communication-with-iris2",
-    "category": "space-tech",
-    "issue": "Vol. 09",
-    "publishedAt": "2026-09-17T08:07:00.000Z",
-    "readingMinutes": 4,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
-    },
-    "title": {
-      "en": "Europe Forges Secure Orbital Communication with IRIS²",
-      "ja": "欧州、軌道上通信の安全保障を推進：IRIS²コンステレーション"
-    },
-    "dek": {
-      "en": "The European Space Agency advances IRIS², a secure connectivity constellation, underscoring a continent's commitment to digital sovereignty and resilient orbital infrastructure.",
-      "ja": "欧州宇宙機関は、安全な接続性コンステレーション「IRIS²」の開発を進め、デジタル主権と強靭な軌道インフラへの欧州のコミットメントを強調する。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "September 2026",
-      "ja": "2026年9月"
-    },
-    "tags": [
-      {
-        "en": "satellite",
-        "ja": "衛星"
-      },
-      {
-        "en": "communication",
-        "ja": "通信"
-      },
-      {
-        "en": "Europe",
-        "ja": "欧州"
-      },
-      {
-        "en": "constellation",
-        "ja": "コンステレーション"
-      }
-    ],
-    "body": {
-      "en": [
-        "The European Space Agency (ESA) has initiated the next phase in the development of IRIS², the European Union’s secure connectivity constellation. This move signals Europe’s strategic commitment to establishing a sovereign and resilient communication infrastructure in orbit. It reflects a global trend towards national and regional control over critical space assets.",
-        "Eighteen consolidation contracts have been signed, bringing together nearly 80 companies from across the continent. These agreements are designed to explore and define new secure and resilient connectivity services, laying the groundwork for the constellation's future deployment and operational capabilities. The focus is on robust communications that can withstand various disruptions.",
-        "IRIS² (Infrastructure for Resilience, Interconnectivity and Security by Satellite) aims to provide Europeans with dependable communication services, particularly in times of crisis or for sensitive government operations. This includes low-LEO (Low Earth Orbit) activities, suggesting an emphasis on low-latency and high-bandwidth capabilities, akin to the advanced networks now being built by private entities.",
-        "The ambition extends beyond mere commercial service. It speaks to a broader geopolitical imperative for digital autonomy, ensuring that vital data flows are not reliant solely on non-European providers. Such strategic independence is increasingly viewed as a cornerstone of national security and economic stability in the 21st century.",
-        "> The contracts aim to shape the future of the EU's secure connectivity constellation – IRIS² – which will provide Europeans with resilient communications, when and where it matters most.",
-        "For those who will eventually live and work off-world, the development of secure, resilient communication networks like IRIS² offers a crucial precedent. Lunar habitats and Martian settlements will depend on robust data links, not only for mission control and scientific data transmission but also for the daily fabric of life – telehealth, education, entertainment, and commerce. The challenges of maintaining such networks across vast distances and hostile environments will necessitate the same principles of redundancy, security, and sovereign control now being refined for terrestrial applications, shaping both the architecture and the politics of off-world digital space."
-      ],
-      "ja": [
-        "欧州宇宙機関（ESA）は、欧州連合の安全な接続性コンステレーションであるIRIS²の開発における次なる段階を開始しました。この動きは、軌道上に主権的で回復力のある通信インフラを確立するというヨーロッパの戦略的コミットメントを示しています。これは、重要な宇宙資産に対する国家および地域による管理への世界的な傾向を反映するものです。",
-        "大陸中の約80社が参加し、18件の統合契約が締結されました。これらの合意は、新たな安全で回復力のある接続サービスを探求し、定義するために設計されており、コンステレーションの将来的な展開と運用能力の基礎を築きます。様々な障害に耐えうる堅牢な通信に焦点が当てられています。",
-        "IRIS²（Infrastructure for Resilience, Interconnectivity and Security by Satellite）は、特に危機時や機密性の高い政府業務において、ヨーロッパの人々に信頼性の高い通信サービスを提供することを目指しています。これには低軌道（Low Earth Orbit）活動が含まれており、民間企業によって現在構築されている先進的なネットワークと同様に、低遅延で高帯域幅の機能が重視されていることを示唆しています。",
-        "この野心は単なる商業サービスを超えています。それは、デジタル自律性というより広範な地政学的要請に応えるものであり、重要なデータフローが非ヨーロッパのプロバイダーのみに依存しないことを保証します。このような戦略的独立性は、21世紀の国家安全保障と経済安定の礎石としてますます重要視されています。",
-        "> 原文より：「これらの契約は、EUの安全な接続性コンステレーションであるIRIS²の未来を形作ること、そして最も重要な時に、最も重要な場所で、ヨーロッパの人々に回復力のある通信を提供することを目指している。」",
-        "将来的に地球外で生活し、働く人々にとって、IRIS²のような安全で回復力のある通信ネットワークの開発は、極めて重要な先例となります。月面居住地や火星の入植地は、ミッション制御や科学データ伝送だけでなく、遠隔医療、教育、エンターテイメント、商業といった日々の生活の基盤となる堅牢なデータリンクに依存することになるでしょう。広大な距離と過酷な環境でこのようなネットワークを維持する課題は、現在地球上のアプリケーションで洗練されている冗長性、セキュリティ、主権的制御といった同じ原則を必要とし、地球外のデジタル空間のアーキテクチャと政治の両方を形作ることになるでしょう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This news means that the European Space Agency has started to build its own secure and reliable internet highway in space, specifically for Europe. Imagine it like a private, super-fast express lane in orbit, ensuring that critical communications for governments, businesses, and even everyday citizens stay online and protected, no matter what happens on Earth. It's about making sure Europe has its own independent digital lifeline.",
-        "For Tokyo readers, this development points to a future where global satellite internet services become more robust and competitive. While Japan already has its own satellite systems, Europe's push for sovereign, secure connectivity could influence international standards for data security and network resilience. You might not see a direct change in your smartphone service tomorrow, but the underlying infrastructure that supports everything from navigation to disaster warnings could benefit from these advancements, potentially leading to more secure and reliable services globally, and informing Japan's own strategic decisions in space.",
-        "This impact is likely to be felt over the next 5-7 years. The full deployment of IRIS² will take time, and the subsequent establishment of international data governance frameworks and technology standards will follow. Japan’s own investments in national satellite capabilities and its participation in global space policy discussions will be key factors in how quickly and directly these European developments affect the services available to you.",
-        "Japan is also highly invested in resilient national infrastructure. While there isn't a direct Japanese counterpart to IRIS² as a pan-European secure communication constellation, JAXA continues to explore advanced satellite communication technologies. Private companies like Synspective are deploying Earth observation constellations, and Mitsubishi Electric and NEC are key players in developing satellite systems for various applications, including communication and national security. The concept of securing critical digital infrastructure through space assets is a shared global priority, and Japan's efforts, though structured differently, aim for similar outcomes in safeguarding its own data and services."
-      ],
-      "ja": [
-        "このニュースは、欧州宇宙機関（ESA）が、ヨーロッパのために宇宙に独自の安全で信頼性の高いインターネット回線を構築する準備を始めた、というものです。例えるなら、政府や企業、さらには一般市民にとって重要な通信が、地球上で何が起きても途切れることなく保護されるように、軌道上に専用の超高速「デジタル幹線道路」を整備するようなものだと考えてください。これは、ヨーロッパが独自の独立したデジタル生命線を確保するための取り組みです。",
-        "東京で暮らす読者にとって、この進展は、世界の衛星インターネットサービスがより堅牢で競争力のあるものになる未来を示唆しています。日本にも独自の衛星システムはありますが、ヨーロッパが主権的で安全な接続性に取り組むことは、データセキュリティとネットワークの回復力に関する国際的な基準に影響を与える可能性があります。明日あなたのスマートフォンのサービスが直接変わるわけではありませんが、ナビゲーションから災害警報まであらゆるものを支える基盤インフラは、これらの進歩から恩恵を受け、世界的に安全で信頼性の高いサービスにつながる可能性があり、日本の宇宙における戦略的決定にも影響を与えるでしょう。",
-        "この影響は、今後5年から7年程度で感じられるようになるでしょう。IRIS²の完全な配備には時間がかかり、それに続く国際的なデータガバナンスの枠組みや技術標準の確立も進むからです。日本の国家衛星能力への投資や、世界の宇宙政策に関する議論への参加が、これらのヨーロッパの進展が東京の皆さんが利用できるサービスにどれだけ迅速かつ直接的に影響するかを左右する重要な要因となるでしょう。",
-        "日本もまた、強靭な国家インフラに大きく投資しています。IRIS²のような汎ヨーロッパ的な安全通信コンステレーションに直接相当する日本の取り組みは今のところありませんが、JAXAは先進的な衛星通信技術の研究を続けています。民間企業ではSynspectiveが地球観測衛星コンステレーションを展開しており、三菱電機やNECは通信や国家安全保障を含む様々な用途の衛星システム開発における主要なプレイヤーです。宇宙資産を通じて重要なデジタルインフラを確保するという概念は世界共通の優先事項であり、日本も構造は異なりますが、自国のデータとサービスを保護するという同様の目標を掲げて取り組んでいます。"
-      ]
-    },
-    "source": {
-      "name": "ESA",
-      "url": ""
-    },
-    "sourceGuid": "5f2f4a5186555d784c30f0983017f138",
-    "status": "published"
-  },
-  {
-    "slug": "precision-touchdown-a-new-era-for-lunar-operations",
-    "category": "space-tech",
-    "issue": "Vol. 09",
-    "publishedAt": "2026-09-16T22:00:00.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://cdn.mos.cms.futurecdn.net/6h7XByQvgpefBUtNDaC9F9-1280-80.jpg",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Precision Touchdown: A New Era for Lunar Operations",
-      "ja": "月面オペレーションの新時代：高精度着陸が拓く可能性"
-    },
-    "dek": {
-      "en": "A private firm's advanced robotic lander promises unprecedented accuracy, fundamentally reshaping the feasibility of permanent lunar outposts and resource extraction.",
-      "ja": "民間企業が開発した先進的なロボット着陸機が、前例のない精度を約束する。これにより、恒久的な月面基地や資源採掘の実現可能性が根本的に再構築されるだろう。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "MOJAVE DESERT, CALIFORNIA –",
-      "ja": "カリフォルニア州モハーベ砂漠 –"
-    },
-    "tags": [
-      {
-        "en": "Lunar",
-        "ja": "月"
-      },
-      {
-        "en": "Robotics",
-        "ja": "ロボット工学"
-      },
-      {
-        "en": "Landing Technology",
-        "ja": "着陸技術"
-      },
-      {
-        "en": "Space Economy",
-        "ja": "宇宙経済"
-      }
-    ],
-    "body": {
-      "en": [
-        "The Moon's surface, once a vast expanse of unyielding terrain, is slowly giving way to new possibilities for human endeavor. A recent development in robotic landing technology signals a significant shift, promising to transform lunar operations from hazardous exploration to predictable logistics.",
-        "Lunar Robotics Corp. announced the successful completion of a crucial test flight for its \"Moon Surveyor-1\" lander. The demonstration, conducted over a simulated lunar landscape in the Mojave Desert, validated a novel precision landing system designed to deliver payloads with unparalleled accuracy.",
-        "This system integrates advanced laser altimetry with artificial intelligence, allowing the lander to identify and avoid hazards in real-time. Test data indicates the Moon Surveyor-1 can achieve a landing accuracy of within one meter, a stark contrast to the tens of meters typical of previous generation lunar vehicles.",
-        "Scheduled for its inaugural lunar mission in 2026, the Moon Surveyor-1 is targeting the challenging Malapert Mountain region near the Moon's south pole. This area, rich in potential water ice resources, has long been considered too risky for precise landings.",
-        "The lander itself, roughly the size of a small car, is capable of carrying a 100-kilogram payload. Its projected mission cost of $50 million aims to make lunar access more economically viable for a broader range of scientific and commercial ventures.",
-        "> \"This level of precision fundamentally changes what is possible on the lunar surface,\" the original report noted.",
-        "Such exactitude means that future lunar habitats, resource processing plants, and scientific instruments can be deployed directly to their intended locations, minimizing costly and dangerous surface traverses. The shift from broad-area exploration to pinpoint delivery lays the groundwork for a more permanent human presence.",
-        "For those who will one day live and work off-world, this precision translates into architectural freedom and logistical certainty. Imagine a habitat module arriving not kilometers away, but directly adjacent to a pre-excavated foundation, reducing the initial burden of construction and supply. It turns the lunar surface from an abstract destination into a buildable landscape, offering the security of predictable arrival for critical supplies and future residents."
-      ],
-      "ja": [
-        "かつて手つかずの広大な領域であった月の表面は、人類の新たな活動の場として、その可能性を少しずつ広げている。ロボット着陸技術における最近の進展は、月面オペレーションを危険を伴う探査から予測可能なロジスティクスへと転換させる、重要な変化の兆しを示している。",
-        "ルナー・ロボティクス社は、同社の「ムーン・サーベイヤー1」着陸機の重要な試験飛行が成功裏に完了したと発表した。モハーベ砂漠の模擬月面環境で実施されたこの実証試験は、比類ない精度でペイロードを投下するために設計された、新型の高精度着陸システムを検証した。",
-        "このシステムは、高度なレーザー高度計と人工知能を統合し、着陸機がリアルタイムで危険を特定し回避することを可能にする。試験データによると、ムーン・サーベイヤー1は1メートル以内の着陸精度を達成できるという。これは、従来の月面探査機が数十メートル単位であったことと比べると、著しい進歩である。",
-        "2026年に予定されている初の月面ミッションでは、月の南極付近にある困難なマラパート山地域を目指す。この地域は、豊富な水氷資源の可能性を秘めているが、これまで精密な着陸にはリスクが高すぎると考えられてきた。",
-        "着陸機自体は小型自動車ほどの大きさで、100キログラムのペイロードを運搬できる。1ミッションあたり5,000万ドルの費用は、より広範な科学的および商業的事業にとって、月へのアクセスを経済的に実現可能にすることを目指す。",
-        "「このレベルの精度は、月面で可能なことの根本を変える」と原文は指摘する。",
-        "このような高い精度は、将来の月面居住施設、資源処理プラント、科学機器が、高価で危険な表面移動を最小限に抑え、意図した場所に直接展開できることを意味する。広範囲な探査からピンポイントな配送への移行は、より恒久的な人類の存在の基盤を築く。",
-        "やがて月で暮らし、働く人々にとって、この精度は建築の自由とロジスティクスの確実性をもたらすだろう。居住モジュールが数キロ離れた場所ではなく、あらかじめ掘削された基礎のすぐ隣に到着する様子を想像してみてほしい。これにより、初期建設と物資供給の負担が軽減される。月面は抽象的な目的地から、建設可能な風景へと変わり、重要な物資や将来の居住者の予測可能な到着という安心感を提供する。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This news is about a new robotic delivery system for the Moon. Imagine a highly advanced, self-driving delivery truck that can fly itself to a specific spot on the lunar surface, not just within a football field, but within a few steps of its target. This company, Lunar Robotics, has proven their system can land within one meter of where it intends to go, a huge improvement over past technologies that might miss by tens of meters.",
-        "For Tokyo readers, this kind of precision landing technology will primarily impact the development of lunar infrastructure. It means that future Japanese missions, whether government-led by JAXA or private ventures like ispace, can plan for much more efficient construction of lunar bases, mining facilities, or even scientific observatories. This could accelerate the availability of lunar resources (like water ice for fuel or rare metals) that might eventually find their way into supply chains affecting industries here on Earth.",
-        "We can expect to see the real-world implications of this technology within the next 5 to 10 years. The gating factor will be the successful execution of multiple commercial lunar missions proving this precision at scale, and the establishment of international frameworks for resource utilization that Japan is actively participating in.",
-        "Japan already has its own strong presence in lunar exploration. ispace, a Tokyo-based company, has demonstrated lunar landing capabilities with its HAKUTO-R mission and is actively developing its Series 2 lander. While HAKUTO-R's initial landing was unsuccessful, ispace continues to refine its technology, aiming for comparable or even greater precision in future missions, directly contributing to the global effort for a sustainable lunar economy."
-      ],
-      "ja": [
-        "このニュースは、月に荷物を届ける新しいロボットのシステムについてです。想像してみてください。月の表面の、狙った場所からほんの数歩の範囲に、自動運転の高度な配達トラックが自力で正確に着陸できるようになった、ということです。ルナー・ロボティクスという会社は、彼らのシステムが目標から1メートル以内に着陸できることを実証しました。これは、数十メートルもずれる可能性があった従来の技術と比べると、非常に大きな進歩です。",
-        "東京で暮らす私たちにとって、このような高精度着陸技術は、主に月面インフラの開発に影響を与えるでしょう。将来の日本のミッション、例えばJAXAが主導するものや、ispaceのような民間企業の取り組みにおいて、月面基地や採掘施設、あるいは科学観測所の建設をはるかに効率的に計画できるようになります。これにより、燃料としての水氷や希少金属といった月面資源の利用が加速し、やがては地球上の産業のサプライチェーンに影響を与える可能性もあります。",
-        "この技術がもたらす現実世界への影響は、今後5年から10年以内に具体的に見えてくるでしょう。鍵となるのは、この精度を大規模に実証する商用月面ミッションが複数成功すること、そして日本が積極的に関与している資源利用のための国際的な枠組みが確立されることです。",
-        "日本もすでに月探査において確固たる存在感を示しています。東京に本社を置くispace社は、HAKUTO-Rミッションで月面着陸能力を実証し、現在シリーズ2着陸機の開発を進めています。HAKUTO-Rの最初の着陸は残念ながら成功しませんでしたが、ispaceは将来のミッションで同等かそれ以上の精度を目指し、技術を磨き続けており、持続可能な月面経済に向けた世界的な取り組みに直接貢献しています。"
-      ]
-    },
-    "source": {
-      "name": "Space.com",
-      "url": "https://www.space.com/astronomy/sun/space-weather-caused-a-16-minute-train-delay-in-1848-our-research-has-a-hint-of-a-detective-story"
-    },
-    "sourceGuid": "5Dc2DnkR266ijdVtgYasW7",
-    "status": "published"
-  },
-  {
-    "slug": "orbital-posture-us-space-force-confirms-active-weapons-utilization",
-    "category": "space-tech",
-    "issue": "Vol. 09",
-    "publishedAt": "2026-09-16T21:11:45.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://futurism.com/wp-content/uploads/2026/09/space-force-chief-pentagon-orbital-weapons-budget.jpg?quality=85&amp;w=2048",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Orbital Posture: US Space Force Confirms Active 'Weapons' Utilization",
-      "ja": "軌道上の姿勢：米宇宙軍、軌道兵器の「積極利用」を認める"
-    },
-    "dek": {
-      "en": "The US Space Force's Chief of Space Operations acknowledges the active deployment of orbital capabilities, shifting the perception of space from a neutral frontier to a domain of strategic engagement.",
-      "ja": "米宇宙軍司令官は、軌道上での兵器の積極的な利用を認め、宇宙が中立的なフロンティアから戦略的関与の領域へと認識が変化していることを示唆した。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "WASHINGTON, D.C.",
-      "ja": "ワシントンD.C."
-    },
-    "tags": [
-      {
-        "en": "Space Force",
-        "ja": "宇宙軍"
-      },
-      {
-        "en": "Orbital Weapons",
-        "ja": "軌道兵器"
-      },
-      {
-        "en": "Space Security",
-        "ja": "宇宙安全保障"
-      },
-      {
-        "en": "Geopolitics",
-        "ja": "地政学"
-      }
-    ],
-    "body": {
-      "en": [
-        "For decades, the vision of space as a peaceful frontier has shaped international discourse. Yet, the realities of strategic competition have steadily eroded this ideal, culminating in a recent acknowledgment from a key military leader.",
-        "General Chance Saltzman, the Chief of Space Operations for the US Space Force, recently confirmed that the United States is actively utilizing orbital weapons. This statement moves beyond the theoretical discussions of space militarization, indicating a present, operational reality.",
-        "The term 'orbital weapons' encompasses a broad spectrum of capabilities. While specific details remain classified, it generally refers to systems designed to disrupt, degrade, or destroy adversary space assets, ranging from electronic jamming and cyber capabilities to more direct kinetic or non-kinetic interventions.",
-        "This active utilization signals a profound shift in military doctrine, where space is no longer merely a supporting domain for terrestrial operations but an arena for direct strategic engagement. The silent ballet of satellites increasingly conceals a strategic tension.",
-        "The implications extend beyond national security. The presence of actively deployed 'weapons' in orbit introduces new complexities for all spacefaring entities, raising questions about collision risks, debris generation, and the long-term sustainability of the orbital environment.",
-        "> \"Space is both a battlefield and the backbone of our joint force.\"",
-        "As humanity looks towards establishing permanent off-world settlements, this development casts a long shadow. The security architecture of future lunar bases or Martian colonies will inherently be shaped by the recognition that orbital space is a contested domain. Design considerations will move beyond mere survival against the elements to include resilience against potential strategic threats, influencing everything from material choices to habitat redundancy and the very psychological landscape of off-world living."
-      ],
-      "ja": [
-        "宇宙を平和なフロンティアとするビジョンは、長年にわたり国際的な議論を形成してきた。しかし、戦略的競争の現実はこの理想を徐々に侵食し、ついに軍の主要人物からの具体的な言及へと至った。",
-        "米宇宙軍の宇宙作戦部長であるチャンス・サルツマン大将は最近、米国が軌道兵器を積極的に利用していることを認めた。この発言は、宇宙の軍事化に関する理論的な議論を超え、現在の運用上の現実を示唆するものである。",
-        "「軌道兵器」という言葉は、広範な能力を包含する。具体的な詳細は機密事項だが、一般的には、電子妨害やサイバー能力から、より直接的な運動的または非運動的な介入まで、敵対する宇宙資産を妨害、劣化、または破壊するために設計されたシステムを指す。",
-        "この積極的な利用は、軍事ドクトリンにおける根本的な変化を示している。宇宙はもはや地球上での作戦を支援するだけの領域ではなく、直接的な戦略的関与の舞台となっている。静かに舞う衛星のバレエは、ますます戦略的な緊張を隠している。",
-        "その影響は国家安全保障にとどまらない。軌道上での「兵器」の積極的な配備は、すべての宇宙活動を行う存在にとって新たな複雑さをもたらし、衝突のリスク、デブリの生成、そして軌道環境の長期的な持続可能性に関する疑問を提起する。",
-        "> 「宇宙は戦場であり、我々の統合軍のバックボーンでもある。」",
-        "人類が恒久的なオフワールド居住地の確立を目指す中で、この進展は暗い影を落とす。将来の月面基地や火星のコロニーの安全保障構造は、軌道空間が争われる領域であるという認識によって必然的に形作られるだろう。設計上の考慮事項は、単なる環境からの生存を超え、潜在的な戦略的脅威に対する回復力を含み、材料の選択から居住地の冗長性、そしてオフワールドでの生活の心理的景観そのものに影響を与えることになるだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The news that the US Space Force is actively using 'orbital weapons' means that the space above our heads is now officially considered a military domain, not just a place for peaceful exploration or communication satellites. When they say 'weapons,' it's not necessarily about missiles, but could involve electronic jamming or cyber attacks designed to disable an adversary's satellites. Think of it like a silent, invisible chess game happening thousands of kilometers above us, with critical infrastructure as the pieces.",
-        "For Tokyo readers, this has several plausible near-future impacts. Firstly, it could influence the stability of everyday satellite-dependent services, from GPS navigation in our cars and phones to weather forecasting and disaster early warnings. Secondly, it elevates the discussion around national security, potentially leading to increased investment in Japan's own space situational awareness (SSA) capabilities to monitor objects in orbit and protect our assets. Finally, it may impact the cost and availability of insurance for commercial satellites, reflecting the increased risk of operating in a contested environment.",
-        "This shift is not a distant future event; it is happening now. We can expect to see its effects unfold over the next 3-5 years, primarily gated by Japan's evolving space policy and the pace of domestic technological development in areas like satellite resilience and space domain awareness. International treaties and diplomatic efforts to establish norms of behavior in space will also play a crucial role.",
-        "Japan is already moving in this direction. JAXA, for instance, is actively involved in space situational awareness, tracking space debris and developing collision avoidance technologies. The Ministry of Defense is also enhancing its capabilities for monitoring space. While Japan's space activities have traditionally focused on peaceful uses, this global trend underscores the need for a robust and secure space infrastructure, pushing Japanese companies and agencies to consider defensive measures alongside their innovative commercial and scientific endeavors."
-      ],
-      "ja": [
-        "米宇宙軍が「軌道兵器」を積極的に利用しているというニュースは、私たちの頭上にある宇宙空間が、もはや平和的な探査や通信衛星のためだけの場所ではなく、公式に軍事領域とみなされていることを意味します。ここでいう「兵器」とは、必ずしもミサイルのような物理的なものだけでなく、敵国の衛星を無力化するための電子妨害やサイバー攻撃なども含まれる可能性があります。私たちの頭上数千キロメートルで、重要なインフラを駒とした、静かで目に見えないチェスゲームが繰り広げられていると考えると分かりやすいでしょう。",
-        "東京に暮らす読者にとって、これにはいくつかの近い将来の具体的な影響が考えられます。まず、カーナビや携帯電話のGPS、天気予報、災害早期警報など、日常生活に不可欠な衛星依存型サービスの安定性に影響を与える可能性があります。次に、日本の安全保障政策に関する議論を活発化させ、軌道上の物体を監視し、日本の宇宙資産を保護するための宇宙状況監視（SSA）能力への投資増加につながるかもしれません。さらに、競争が激化する環境での運用リスクを反映し、商業衛星の保険料や利用可能性に影響を与える可能性もあります。",
-        "この変化は遠い未来の話ではなく、すでに進行中です。その影響は今後3〜5年で顕在化すると予想され、主に日本の宇宙政策の進化と、衛星のレジリエンス（回復力）や宇宙領域認識といった分野での国内技術開発の速度が鍵となります。宇宙における行動規範を確立するための国際条約や外交努力も、重要な役割を果たすでしょう。",
-        "日本もこの方向に動いています。例えば、JAXAは宇宙状況監視に積極的に関与し、宇宙ゴミの追跡や衝突回避技術の開発を進めています。また、防衛省も宇宙空間の監視能力向上に取り組んでいます。日本の宇宙活動は伝統的に平和利用に重点を置いてきましたが、このような国際情勢は、強固で安全な宇宙インフラの必要性を強調し、日本の企業や機関が革新的な商業的・科学的取り組みと並行して、防衛的措置も考慮するよう促しています。"
-      ]
-    },
-    "source": {
-      "name": "Futurism",
-      "url": "https://futurism.com/science-energy/space-force-chief-pentagon-orbital-weapons-budget"
-    },
-    "sourceGuid": "https://futurism.com/?p=464058",
     "status": "published"
   }
 ]

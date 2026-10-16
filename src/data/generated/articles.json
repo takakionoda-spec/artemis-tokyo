@@ -1,5 +1,349 @@
 [
   {
+    "slug": "artemis-ii-the-silent-guardians-return",
+    "category": "artemis",
+    "issue": "Vol. 10",
+    "publishedAt": "2026-10-16T16:28:01.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
+    },
+    "title": {
+      "en": "Artemis II: The Silent Guardian's Return",
+      "ja": "アルテミスII：静かなる守護者の帰還"
+    },
+    "dek": {
+      "en": "As Artemis II prepares for its lunar orbit, the post-splashdown analysis of its heat shield will offer critical insights into the future of deep-space human transit.",
+      "ja": "アルテミスIIが月周回飛行に備える中、その熱シールドの着水後分析は、深宇宙有人飛行の未来にとって極めて重要な知見をもたらすだろう。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Cape Canaveral",
+      "ja": "ケープカナベラル"
+    },
+    "tags": [
+      {
+        "en": "artemis",
+        "ja": "アルテミス"
+      },
+      {
+        "en": "moon",
+        "ja": "月"
+      },
+      {
+        "en": "orion",
+        "ja": "オリオン"
+      },
+      {
+        "en": "heat shield",
+        "ja": "熱シールド"
+      }
+    ],
+    "body": {
+      "en": [
+        "The Orion capsule, after its long journey around the Moon, will descend through Earth's atmosphere. This fiery return, a test of engineering and materials, culminates in a splashdown, bringing the crew home. The moment the capsule settles on the ocean surface, attention will turn to its most critical component: the heat shield.",
+        "Artemis II marks the first crewed mission to orbit the Moon since the Apollo era. Its primary goal is to validate the Orion spacecraft's systems with astronauts aboard, preparing the way for subsequent lunar landings. The heat shield, a vast ablative disc, must endure temperatures reaching nearly 2,760 degrees Celsius (5,000 degrees Fahrenheit) during re-entry, protecting the crew from the searing plasma.",
+        "The meticulous post-flight inspection of the heat shield is not merely a procedural step; it is a vital data-gathering exercise. Engineers will examine every segment of the material, comparing its performance against the detailed telemetry recorded during the descent. Lessons learned from Artemis I's uncrewed mission, which saw a successful though intensely scrutinized re-entry, will guide this analysis.",
+        "> \"The heat shield's integrity is paramount for crew safety and future deep-space endeavors.\"",
+        "Every millimeter of erosion, every subtle discoloration, offers clues about the extreme conditions of lunar return. This forensic engineering will inform design adjustments and material refinements for Artemis III, the mission slated to return humans to the lunar surface, and the subsequent establishment of the Gateway lunar orbital outpost.",
+        "This detailed post-mission analysis underscores a fundamental shift: space exploration is maturing into a sustained presence. The focus moves beyond mere heroic launches to the diligent, almost industrial-scale process of validating and refining the infrastructure that will enable permanent off-world habitation.",
+        "For those who will eventually live and work beyond Earth, this relentless pursuit of material integrity translates directly into safety and reliability. It means the mundane act of returning home from a lunar outpost will be underpinned by decades of precise engineering and exhaustive testing, making such journeys a predictable, if still extraordinary, part of life."
+      ],
+      "ja": [
+        "月を周回する長旅を終えたオリオン宇宙船は、地球の大気圏に突入する。この炎に包まれた帰還は、工学と素材の限界を試すものであり、最終的に着水して乗組員を故郷へと連れ戻す。カプセルが海面に落ち着いた瞬間、最も重要な部品である熱シールドに注目が集まるだろう。",
+        "アルテミスIIは、アポロ時代以来初めて有人で月周回軌道に入るミッションとなる。その主目的は、宇宙飛行士を乗せたオリオン宇宙船のシステムを検証し、その後の月面着陸への道を開くことにある。巨大なアブレーション式（自己消耗型）の熱シールドは、再突入時に摂氏2,760度（華氏5,000度）近くに達する高温に耐え、乗組員を灼熱のプラズマから守らなければならない。",
+        "熱シールドの飛行後における綿密な検査は、単なる手続きではない。それは極めて重要なデータ収集活動である。技術者たちは素材のあらゆる部分を精査し、降下中に記録された詳細なテレメトリーデータと照合する。無人ミッションであったアルテミスIの成功裡に、しかし徹底的に検証された再突入から得られた教訓が、この分析を導くだろう。",
+        "> 「熱シールドの完全性は、乗組員の安全と将来の深宇宙探査にとって最も重要である。」",
+        "わずかな侵食、微妙な変色の一つ一つが、月からの帰還における極限状態の手がかりとなる。この法医学的な工学分析は、人類を再び月面へと送り込むアルテミスIIIミッション、そしてその後の月周回宇宙ステーション「ゲートウェイ」の確立に向けた設計調整と素材改良に貢献する。",
+        "このような詳細なミッション後分析は、根本的な変化を強調している。すなわち、宇宙探査が持続的なプレゼンスへと成熟しつつあることだ。焦点は、単なる英雄的な打ち上げから、地球外での恒久的な居住を可能にするインフラを検証し、改良する勤勉で、ほとんど産業規模のプロセスへと移行している。",
+        "いずれ地球外で生活し、働くことになる人々にとって、この素材の完全性への絶え間ない追求は、安全性と信頼性に直結する。月面基地から故郷に戻るという日常的な行為が、何十年にもわたる精密な工学と徹底的な試験によって支えられ、そのような旅が、たとえ依然として並外れたものであっても、生活の一部として予測可能なものとなることを意味する。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The news focuses on the meticulous inspection of the Artemis II spacecraft's heat shield after its return from the Moon. Imagine a delivery truck that has just completed a long, high-speed journey through a storm. The engineers are checking every inch of its protective coating to ensure it's ready for the next trip, and more importantly, that its precious cargo—the astronauts—are safe. This shield is the last line of defense against the extreme heat of re-entry, making its performance review critical.",
+        "For Tokyo readers, the direct impact might not be immediately visible, but it underpins the safety and reliability of future lunar missions. This translates into more robust satellite infrastructure for services we use daily, like precise GPS navigation for self-driving cars or advanced weather forecasting. Furthermore, Japan's role in the Artemis program means that the lessons learned from heat shield performance will directly feed into the design of components for lunar surface operations, potentially influencing materials used in future off-world construction.",
+        "This impact is likely to be felt within the next 5-10 years. The gating factor here is the cadence of crewed lunar missions and the subsequent acceleration of lunar infrastructure development. As the cost per kilogram to the Moon decreases and the frequency of missions increases, the demand for highly reliable, tested materials will grow significantly, driving innovation in related industries.",
+        "Japan is already a key player in this field. JAXA, through its contributions to the Gateway program and its plans for a lunar rover, is directly involved in ensuring the safety and longevity of lunar assets. Companies like IHI Aerospace, which develops propulsion systems, and Mitsubishi Heavy Industries, involved in rocket manufacturing, also contribute to the underlying material science and engineering that makes such robust heat shields possible, even if not directly producing Orion's specific shield. Their expertise will be crucial for Japan's own lunar ambitions."
+      ],
+      "ja": [
+        "このニュースは、アルテミスII宇宙船が月からの帰還後に、その熱シールドを綿密に検査することに焦点を当てています。嵐の中を高速で長距離移動してきた配送トラックを想像してみてください。技術者たちは、次の旅に備え、そして何よりも貴重な積荷である宇宙飛行士の安全を確保するために、その保護コーティングの隅々までチェックするのです。このシールドは、再突入時の極度の熱に対する最後の防御線であり、その性能評価は極めて重要です。",
+        "東京で暮らす読者にとって、直接的な影響はすぐには見えないかもしれませんが、将来の月ミッションの安全性と信頼性を支えるものです。これは、自動運転車の高精度GPSナビゲーションや高度な気象予測など、私たちが日常的に利用するサービスの衛星インフラをより強固なものにします。さらに、アルテミス計画における日本の役割を考えると、熱シールドの性能から得られた教訓は、月面での運用部品の設計に直接反映され、将来の地球外建築に使われる素材にも影響を与える可能性があります。",
+        "この影響は、今後5年から10年以内に感じられるようになるでしょう。ここでの決定要因は、有人月ミッションの頻度と、それに続く月面インフラ開発の加速です。月へのキログラムあたりの輸送コストが下がり、ミッションの頻度が増加するにつれて、非常に信頼性の高い、試験済みの素材への需要が大幅に高まり、関連産業でのイノベーションを促進するでしょう。",
+        "日本はこの分野ですでに重要な役割を担っています。JAXAは、ゲートウェイ計画への貢献や月面探査車の計画を通じて、月資産の安全性と長寿命化に直接関与しています。推進システムを開発するIHIエアロスペースや、ロケット製造に関わる三菱重工業のような企業も、オリオンの特定のシールドを直接製造していなくとも、堅牢な熱シールドを可能にする基礎的な材料科学と工学に貢献しています。彼らの専門知識は、日本の月探査の野心にとって不可欠となるでしょう。"
+      ]
+    },
+    "source": {
+      "name": "NASA Artemis",
+      "url": "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/"
+    },
+    "sourceGuid": "https://www.nasa.gov/?post_type=image-article&#038;p=1057059",
+    "status": "published"
+  },
+  {
+    "slug": "skymule-the-reusable-tug-reshaping-orbital-logistics",
+    "category": "space-tech",
+    "issue": "Vol. 10",
+    "publishedAt": "2026-10-16T22:00:00.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/Fhi6eoM386cSBKgzMe6k9G-1920-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "SkyMule: The Reusable Tug Reshaping Orbital Logistics",
+      "ja": "スカイミュール：軌道物流を再定義する再利用可能な宇宙タグ"
+    },
+    "dek": {
+      "en": "Orbital Logistics Corp. unveils a new electric propulsion vehicle, promising to make routine cargo transfers to GEO and lunar orbit a reality, dramatically lowering costs and opening new pathways for off-world development.",
+      "ja": "オービタル・ロジスティクス・コーポレーションが新型電気推進機を発表。静止軌道や月軌道への定期貨物輸送を現実のものとし、コストを大幅に削減、宇宙開発の新たな道筋を拓く。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO, October 2026",
+      "ja": "東京、2026年10月"
+    },
+    "tags": [
+      {
+        "en": "Orbital Logistics",
+        "ja": "軌道物流"
+      },
+      {
+        "en": "Reusable Spacecraft",
+        "ja": "再利用型宇宙船"
+      },
+      {
+        "en": "Space Economy",
+        "ja": "宇宙経済"
+      },
+      {
+        "en": "Lunar Operations",
+        "ja": "月面運用"
+      }
+    ],
+    "body": {
+      "en": [
+        "The quiet hum of electric propulsion is set to redefine the economics of space logistics. Orbital Logistics Corp. (OLC) has announced the upcoming debut of its \"SkyMule\" orbital transfer vehicle, a reusable platform designed to ferry payloads across vast distances within Earth's orbit and beyond.",
+        "Slated for its inaugural demonstration flight in October 2026, SkyMule aims to bridge the gap between low Earth orbit (LEO) and more distant destinations like geosynchronous orbit (GEO) and even lunar trajectories. This vehicle represents a significant shift from the disposable upper stages that have traditionally dominated space transport.",
+        "OLC projects the SkyMule will be capable of delivering up to 5 metric tons to GEO, or 2 metric tons to lunar orbit, at a fraction of current costs — potentially one-tenth the price of existing chemical propulsion tugs. Its fully reusable design targets a service life of 100 missions, promising unprecedented operational frequency.",
+        "The vision is one of routine cosmic errands, where a five-ton cargo, once a monumental undertaking, becomes a scheduled delivery. This shift suggests a future where the silent, steady movement of goods between orbital waypoints is as unremarkable as a terrestrial freight journey.",
+        "> The system \"trades rapid transit for substantial fuel savings and payload capacity.\"",
+        "A key aspect of the SkyMule's design is its electric propulsion system, which prioritizes efficiency over raw speed. This allows for a more economical approach to moving significant mass over long distances in space.",
+        "The emergence of a reliable, low-cost orbital delivery service fundamentally alters the calculus for off-world habitation. Lunar bases, orbital manufacturing facilities, and even deep-space exploration outposts will no longer rely on bespoke, expensive launches for every component. Instead, a steady supply chain could deliver construction materials, life support consumables, and even personal effects, making long-term off-world living less a heroic venture and more a matter of managed logistics. This shift could make the texture of daily life in orbit feel less precarious, more connected to terrestrial supply lines."
+      ],
+      "ja": [
+        "電気推進の静かな駆動音が、宇宙物流の経済性を再定義しようとしている。オービタル・ロジスティクス・コーポレーション（OLC）は、地球周回軌道内、さらにはその先へとペイロードを輸送する再利用可能な軌道輸送機「スカイミュール」のデビューを発表した。",
+        "2026年10月に予定されている初のデモンストレーション飛行では、低地球軌道（LEO）から静止軌道（GEO）、そして月軌道といったより遠い目的地への物資輸送能力が示される。これは、これまで宇宙輸送を支配してきた使い捨てのロケット上段からの大きな転換点となるだろう。",
+        "OLCの予測によれば、スカイミュールは最大5メトリックトンをGEOへ、2メトリックトンを月軌道へ輸送可能であり、そのコストは既存の化学推進式タグの10分の1にまで抑えられる可能性がある。再利用回数は100ミッションを目指しており、運用の頻度も飛躍的に向上する見込みだ。",
+        "かつては国家的な事業であった数トンの貨物輸送が、定期的な配送サービスへと変わる未来が視野に入る。静かに、しかし確実に軌道間を移動する物資の流れは、地上における貨物輸送と同じくらい日常的な光景となるかもしれない。",
+        "> 「急速な輸送速度と引き換えに、大幅な燃料節約とペイロード容量を実現している」",
+        "スカイミュールの設計思想の核となるのは、効率性を重視した電気推進システムだ。これにより、宇宙空間で長距離にわたり大量の質量を移動させる際、より経済的なアプローチが可能になる。",
+        "低コストで信頼性の高い軌道輸送サービスの登場は、宇宙での居住環境を根本的に変えるだろう。月面基地や軌道上製造施設、さらには深宇宙探査の前哨基地は、個別の高価な打ち上げに依存することなく、安定したサプライチェーンから建設資材、生命維持物資、さらには個人の持ち物までを受け取れるようになる。これにより、宇宙での長期生活は、英雄的な冒険というよりも、管理された物流の一部となり、軌道上での日常がより安定し、地上のサプライラインとの繋がりを感じられるようになるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This news describes a private company developing a reusable space vehicle, called \"SkyMule,\" that can carry cargo from Earth's orbit to higher orbits or even to the Moon. Think of it like a new, extremely efficient delivery truck that operates only in space, moving goods between different \"parking lots\" in orbit or taking them all the way to a lunar outpost. Its main advantage is significantly lower cost and the ability to be used many times.",
+        "For Tokyo readers, this kind of advancement could eventually lower the cost of services that rely on satellites in higher orbits, like advanced GPS systems or high-bandwidth satellite internet. It also makes the idea of lunar resource development more viable, potentially impacting the supply chain for rare metals and materials used in electronics manufacturing here on Earth. The cost of placing and maintaining Japan's own communication and Earth observation satellites could also decrease.",
+        "We might see the initial impacts within 5-10 years. The gating factor here is the vehicle's successful operational deployment and the subsequent scaling of services. Once the cost per kilogram to higher orbits falls by another 50-70% due to such innovations, commercial ventures will become much more attractive, driving widespread adoption.",
+        "While Japan doesn't currently have a directly comparable private-sector orbital transfer vehicle program of this scale, companies like Astroscale are leaders in orbital servicing and debris removal, which share a similar goal of making space operations more sustainable and economical. JAXA's future lunar missions and potential collaborations with private entities will also benefit from such cost reductions, enabling more ambitious projects like the Martian Moons eXploration (MMX) mission to deliver samples more efficiently."
+      ],
+      "ja": [
+        "このニュースは、ある民間企業が「スカイミュール」という再利用可能な宇宙輸送機を開発しているというものです。これは、地球の周回軌道からさらに高い軌道や月まで貨物を運ぶことができる乗り物です。例えるなら、宇宙空間だけで荷物を運ぶ、非常に効率的な「宅配トラック」のようなものだと考えてください。軌道上の異なる「駐車場」間や、月面基地まで物資を運ぶのです。最大の利点は、コストが大幅に安くなり、何度も繰り返し使える点です。",
+        "東京で暮らす私たちにとって、このような技術の進歩は、将来的に高軌道衛星に依存するサービス、例えばより高精度なGPSシステムや高速な衛星インターネットの利用料金が下がる可能性を秘めています。また、月面資源開発の実現性を高め、地上のエレクトロニクス製造に不可欠なレアメタルや材料のサプライチェーンに影響を与えるかもしれません。日本自身の通信衛星や地球観測衛星を配置し、維持するコストも削減される可能性があります。",
+        "この種の技術がもたらす具体的な影響を感じられるのは、おそらく5年から10年以内でしょう。鍵となるのは、この輸送機が実際に運用に成功し、サービスが大規模に展開されることです。高軌道への1キログラムあたりの輸送コストが、このような革新によってさらに50〜70パーセント低下すれば、商業的な宇宙活動は格段に魅力的になり、広範な採用へと繋がるはずです。",
+        "日本には、このスカイミュールのような大規模な民間軌道輸送機プログラムはまだありませんが、アストロスケール社のような企業は、軌道上サービスやデブリ除去の分野で世界をリードしており、宇宙活動の持続可能性と経済性を高めるという点で共通の目標を持っています。JAXAの将来の月探査計画や民間企業との連携も、このような輸送コストの削減から恩恵を受けるでしょう。例えば、火星衛星探査機MMXのような野心的なミッションにおいても、より効率的なサンプルリターンが可能になるかもしれません。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/space-exploration/international-space-station/it-really-does-change-you-spacex-crew-12-commander-wishes-we-could-all-see-our-fragile-earth-from-space"
+    },
+    "sourceGuid": "vsYmwPpPkidT4RDYEvgfJJ",
+    "status": "published"
+  },
+  {
+    "slug": "architectural-echoes-chennais-community-hub-points-to-off-world-design",
+    "category": "culture",
+    "issue": "Vol. 10",
+    "publishedAt": "2026-10-16T10:30:32.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "http://static.dezeen.com/uploads/2026/10/spaces-by-manah-soil-sea-community-centre-india-sq_dezeen_2364_col_0-411x411.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Architectural Echoes: Chennai's Community Hub Points to Off-World Design",
+      "ja": "建築の残響：チェンナイのコミュニティハブが示す地球外デザイン"
+    },
+    "dek": {
+      "en": "A new community center in Chennai, India, demonstrates how locally sourced materials and climate-responsive design can foster social connection—a blueprint for future off-world habitats.",
+      "ja": "インド・チェンナイに完成したコミュニティセンターは、地域素材と気候適応型デザインが社会的な繋がりを育む可能性を示唆する。これは、将来の地球外居住地の設計図となり得る。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Chennai, India",
+      "ja": "インド、チェンナイ"
+    },
+    "tags": [
+      {
+        "en": "architecture",
+        "ja": "建築"
+      },
+      {
+        "en": "design",
+        "ja": "デザイン"
+      },
+      {
+        "en": "community",
+        "ja": "コミュニティ"
+      },
+      {
+        "en": "off-world habitats",
+        "ja": "地球外居住地"
+      }
+    ],
+    "body": {
+      "en": [
+        "The challenge of crafting a built environment that feels both rooted and forward-looking deepens when considering the nascent settlements beyond Earth. Yet, inspiration for these future spaces often emerges from thoughtful terrestrial projects, particularly those that prioritize community and environmental harmony.",
+        "In Chennai, India, local architecture studio Spaces by Manah recently completed The Soil & Sea community centre. This 4,330-square-metre building was conceived as a vibrant hub, providing learning spaces for a local education centre, alongside facilities for community workshops and events.",
+        "At its core, the design emphasizes resourcefulness and climate adaptation. The most striking feature is its brick barrel-vaulted roof, an architectural gesture that is both functionally astute and visually commanding. It offers passive cooling and natural light, essential qualities in a warm climate.",
+        "The use of locally sourced bricks gives the structure a tactile presence, grounding it within its immediate surroundings. The warm hues of the material catch the tropical light, creating a sense of permanence and welcome. The original report notes the roof serves as \"a visible landmark\" on the site.",
+        "This approach to architecture — where local materials dictate form, and design responds directly to environmental conditions — offers a compelling model for off-world construction. Lunar regolith or Martian soil, for instance, could become the primary building blocks for future habitats, much like brick in Chennai.",
+        "For those who will live and work off-world, such architectural principles are not merely aesthetic choices. They define the very fabric of daily life, influencing comfort, resource consumption, and the psychological sense of belonging. The creation of communal spaces, marked by familiar textures and intelligent climate control, will be vital for fostering new cultures in alien landscapes.",
+        "Future off-world settlements will require more than just shelters; they will need places that cultivate identity and facilitate gathering. The Soil & Sea community centre, with its thoughtful integration of local materials and social purpose, provides a quiet but powerful precedent for how such vital infrastructure might take shape on other worlds."
+      ],
+      "ja": [
+        "地球外の新たな居住地において、その土地に根ざしつつ未来を見据えた建築環境を創造する課題は、今日ますます深まっている。しかし、そうした未来の空間への示唆は、しばしばコミュニティと環境との調和を重視した、地球上の優れたプロジェクトから生まれる。",
+        "インドのチェンナイでは、地元建築スタジオSpaces by Manahが「The Soil & Seaコミュニティセンター」を完成させた。この4,330平方メートルの建物は、地域の教育センターのための学習空間や、コミュニティのワークショップ、イベント用の施設を提供する活気ある拠点として構想された。",
+        "そのデザインの中核にあるのは、資源の有効活用と気候への適応である。最も印象的なのは、レンガ造りのバレルヴォールト屋根であり、これは機能的に優れているだけでなく、視覚的にも存在感がある。温暖な気候において不可欠な、受動的な冷却と自然光を取り入れる役割を果たす。",
+        "地元で調達されたレンガの使用は、構造物に触覚的な存在感を与え、周囲の環境に深く根ざしている。素材の温かい色合いが熱帯の光を捉え、永続性と歓迎の感覚を生み出す。原文より、「敷地内の視覚的なランドマーク」として機能すると報告されている。",
+        "地元素材が形状を決定し、デザインが直接的に環境条件に応答するこの建築アプローチは、地球外建設にとって説得力のあるモデルを提供する。例えば、月のレゴリスや火星の土壌は、チェンナイのレンガのように、将来の居住地の主要な建材となる可能性がある。",
+        "地球外で生活し、働く人々にとって、このような建築原則は単なる美的選択ではない。それは日々の生活そのものの構造を定義し、快適さ、資源消費、そして帰属意識に影響を与える。見慣れた質感と賢明な気候制御によって特徴づけられる共同空間の創造は、異星の風景の中で新しい文化を育む上で不可欠となるだろう。",
+        "将来の地球外居住地には、単なるシェルター以上のものが必要とされる。そこには、アイデンティティを育み、人々が集うことを促す場所が求められる。The Soil & Seaコミュニティセンターは、地元素材と思慮深い社会目的の統合を通じて、他の惑星でこのような重要なインフラがいかに形作られるかについて、静かながらも力強い先例を示している。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This news from Chennai highlights a community center built with a distinctive brick barrel-vaulted roof, designed to be both functional and a focal point for the community. It's an example of how architects are thinking about using local materials and smart design to create comfortable, sustainable spaces that also bring people together, especially in challenging climates.",
+        "For Tokyo readers, this kind of architectural thinking offers a glimpse into how future off-world habitats might be designed. Imagine lunar or Martian settlements where the 'local materials' are regolith – the dust and rocks on the surface. Japanese architects and material scientists could draw inspiration from this project's emphasis on passive cooling and natural lighting, adapting these principles for extreme extraterrestrial environments.",
+        "The impact on architectural design for space habitats is likely to be felt within the next 5 to 10 years. This timeframe is largely gated by the development of advanced manufacturing techniques, such as 3D printing with regolith, and the actual establishment of permanent human outposts on the Moon or Mars. Once these capabilities mature, the focus will shift rapidly to creating truly livable and culturally resonant spaces.",
+        "In Japan, companies like ispace are already leading the way in lunar resource utilization, which is a direct precursor to building with local materials off-world. While not an architecture firm, their work on lunar landers and rovers is laying the groundwork for future construction. Additionally, major Japanese construction companies like Shimizu Corporation have long explored conceptual designs for lunar bases, emphasizing the engineering challenges of creating habitable structures in space. This Chennai project adds a crucial layer of human-centered, culturally-aware design to that conversation."
+      ],
+      "ja": [
+        "チェンナイからのこのニュースは、機能的でありながらコミュニティの核となるような、特徴的なレンガ造りのバレルヴォールト屋根を持つコミュニティセンターの完成を伝えています。これは、建築家がいかに地元素材と賢いデザインを用いて、特に厳しい気候下で人々を結びつけ、快適で持続可能な空間を創造しているかを示す一例です。",
+        "東京の読者にとって、このような建築思想は、将来の地球外居住地がどのように設計されるかを示唆しています。月や火星の居住地で、「地元素材」がレゴリス（表面の砂や岩）であると想像してみてください。日本の建築家や素材科学者は、このプロジェクトが重視する受動的な冷却や自然光の活用からインスピレーションを得て、これを極限の地球外環境に適応させる研究を進めることができるでしょう。",
+        "宇宙居住地の建築デザインへの影響は、今後5年から10年以内に具体化する可能性が高いです。この期間は、レゴリスを用いた3Dプリンティングのような高度な製造技術の開発と、月や火星に恒久的な人類の拠点が実際に確立されることによって左右されます。これらの技術が成熟すれば、真に住みやすく、文化的に共鳴する空間の創造へと焦点が急速に移っていくでしょう。",
+        "日本では、ispace社が月面資源利用の分野で先行しており、これは地球外での地元素材による建設の直接的な前触れとなります。ispaceは建築会社ではありませんが、月着陸船やローバーの開発を通じて、将来の建設の基礎を築いています。また、清水建設のような日本の大手建設会社も、長年にわたり月面基地のコンセプトデザインを研究しており、宇宙での居住可能な構造物を作るための工学的課題を強調してきました。このチェンナイのプロジェクトは、その議論に人間中心で文化を意識したデザインという重要な層を加えています。"
+      ]
+    },
+    "source": {
+      "name": "Dezeen",
+      "url": "https://www.dezeen.com/2026/10/16/spaces-by-manah-soil-sea-community-centre-india/"
+    },
+    "sourceGuid": "https://www.dezeen.com/?p=2374315",
+    "status": "published"
+  },
+  {
+    "slug": "ratlogs-engine-simplification-redefines-space-access-economics",
+    "category": "space-tech",
+    "issue": "Vol. 10",
+    "publishedAt": "2026-10-16T12:00:00.000Z",
+    "readingMinutes": 5,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
+    },
+    "title": {
+      "en": "RATLOG's Engine Simplification Redefines Space Access Economics",
+      "ja": "RATLOG、エンジン部品9割削減で宇宙アクセス経済を再定義"
+    },
+    "dek": {
+      "en": "A new startup aims to drastically reduce the complexity and cost of rocket engines, promising a future of more accessible off-world operations.",
+      "ja": "新たなスタートアップがロケットエンジンの複雑さとコストを劇的に削減することを目指し、よりアクセスしやすい宇宙活動の未来を提示する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "rocket engine",
+        "ja": "ロケットエンジン"
+      },
+      {
+        "en": "startup",
+        "ja": "スタートアップ"
+      },
+      {
+        "en": "space economy",
+        "ja": "宇宙経済"
+      },
+      {
+        "en": "manufacturing",
+        "ja": "製造"
+      }
+    ],
+    "body": {
+      "en": [
+        "The heavy-lift rocket startup RATLOG, making its debut as part of Y Combinator’s Fall 2026 batch, has unveiled an ambitious plan: to cut approximately 90% of a rocket engine’s parts. This bold simplification aims to fundamentally alter the economics of space launch, a sector long defined by intricate engineering and high manufacturing costs.",
+        "Such a drastic reduction in component count carries profound implications. Fewer parts mean a simpler manufacturing process, significantly lower material costs, and reduced labor requirements. Crucially, it also promises enhanced reliability, as each component represents a potential point of failure. The aerospace industry has historically grappled with the trade-off between performance and complexity; RATLOG seeks to bridge this divide.",
+        "This initiative arrives at a pivotal moment for the commercial space sector. With an increasing number of private entities vying for orbital access, the emphasis has shifted from bespoke, government-funded projects to scalable, cost-effective solutions. RATLOG’s approach aligns directly with this trend, targeting the very heart of launch vehicle expenses.",
+        "Lowering the barrier to entry for heavy-lift capabilities could accelerate the deployment of large-scale orbital infrastructure, from advanced satellite constellations to space stations. It suggests a future where the cost per kilogram to orbit, a critical metric for space development, sees a significant downward revision, making more ambitious projects financially viable.",
+        "> RATLOG Wants to Cut ~90% of a Rocket Engine’s Parts",
+        "For those envisioning a future beyond Earth, this development is more than an engineering feat; it is an economic enabler. Cheaper, more reliable engines translate directly into more frequent and affordable transport to lunar outposts, Martian habitats, and orbital manufacturing facilities. The logistical challenges of establishing and sustaining off-world communities, currently immense, would diminish considerably.",
+        "What does this mean for the people who will actually live, work, and build off-world? It means that the infrastructure required for daily life—habitation modules, life support systems, resource extraction equipment—could be transported and deployed with greater ease and lower capital expenditure. The texture of life off-world, once defined by scarcity and bespoke engineering, might begin to soften with the steady hum of more accessible machines. A wider array of professions, from construction to hospitality, becomes viable when the cost of getting there is no longer prohibitive, fostering a more diverse and resilient off-world culture."
+      ],
+      "ja": [
+        "Y Combinatorの2026年秋期バッチでデビューした重量物打ち上げロケットのスタートアップ、RATLOGは、ロケットエンジンの部品を約90%削減するという野心的な計画を発表した。この大胆な簡素化は、これまで複雑な工学と高い製造コストに縛られてきた宇宙打ち上げの経済性を根本から変えることを目指している。",
+        "部品点数の劇的な削減は、多大な影響をもたらす。部品が少なければ、製造プロセスは簡素化され、材料費と人件費が大幅に削減される。さらに重要なのは、各部品が潜在的な故障箇所であるため、信頼性の向上も期待できる点だ。航空宇宙産業はこれまで、性能と複雑さのトレードオフに直面してきたが、RATLOGはこの隔たりを埋めようとしている。",
+        "この取り組みは、商業宇宙部門にとって極めて重要な時期に登場した。軌道アクセスを求める民間企業が増加する中、特注の政府資金プロジェクトから、スケーラブルで費用対効果の高いソリューションへと焦点が移っている。RATLOGのアプローチは、打ち上げ費用の中核をなす部分を直接ターゲットとしており、この潮流に合致している。",
+        "重量物打ち上げ能力への参入障壁が低くなれば、高度な衛星コンステレーションから宇宙ステーションに至るまで、大規模な軌道インフラの展開が加速する可能性がある。これは、宇宙開発にとって重要な指標である軌道への1キログラムあたりのコストが大幅に下方修正され、より野心的なプロジェクトが財政的に実現可能になる未来を示唆している。",
+        "> RATLOGはロケットエンジンの部品を約90%削減することを目指している",
+        "地球外での未来を思い描く人々にとって、この開発は単なる工学的な偉業ではない。それは経済的な可能性を広げるものだ。安価で信頼性の高いエンジンは、月面基地、火星の居住地、軌道上の製造施設への輸送を、より頻繁に、より手頃な価格で実現することを意味する。現在計り知れないほど大きい、地球外コミュニティを確立し維持するための物流上の課題は、大幅に軽減されるだろう。",
+        "実際に宇宙で生活し、働き、建設する人々にとって、これは何を意味するのか。居住モジュール、生命維持システム、資源採掘装置など、日常生活に必要なインフラが、より容易に、より少ない初期投資で輸送・展開できるようになるということだ。かつて希少性と特注技術によって形作られた宇宙生活の質感は、より身近な機械の安定した稼働音とともに、柔らかなものへと変化し始めるかもしれない。そこへ行くコストがもはや法外なものでなくなれば、建設業からサービス業まで、より多様な職業が実現可能となり、多様で強靭なオフワールド文化が育まれるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "A startup called RATLOG has announced a plan to make rocket engines with about 90% fewer parts. Think of it like taking a very complicated machine, like a high-performance sports car engine, and redesigning it to do the same job with a fraction of the components. The goal is to make rockets much cheaper and more reliable to build and operate.",
+        "For Tokyo readers, this could have a tangible impact on the services we use daily. If rockets become significantly cheaper to launch, the cost of deploying and maintaining satellite constellations—which power everything from GPS navigation to weather forecasting and mobile communication—could drop. This might lead to more resilient and affordable digital services, or even enable new types of space-based data collection that benefit urban planning and disaster prevention.",
+        "This kind of impact could be felt within 5 to 10 years. The timeline depends on RATLOG successfully proving its technology, scaling up manufacturing, and gaining market share in a highly competitive industry. Japan's own H3 rocket program, for instance, is still working towards a consistent launch cadence, which sets a baseline for the market's readiness for new, radically cheaper technologies.",
+        "In Japan, companies like IHI Aerospace and Mitsubishi Heavy Industries (MHI) are central to rocket engine development, focusing on high performance and reliability. While their primary approach isn't radical parts reduction, the underlying drive for efficiency and cost-effectiveness is shared. Interstellar Technologies, a private Japanese firm, is also pushing for lower-cost rockets, demonstrating a similar spirit of innovation aimed at making space more accessible. The gap remains in a comparable, drastic simplification of heavy-lift engine architecture, but the competitive pressure from ventures like RATLOG will undoubtedly influence future Japanese strategies."
+      ],
+      "ja": [
+        "RATLOGというスタートアップが、ロケットエンジンの部品を約9割削減するという計画を発表しました。これは、まるで高性能スポーツカーのエンジンを、同じ機能は保ちつつ、構成部品を大幅に減らして再設計するようなものです。目標は、ロケットの製造と運用を格段に安く、そして信頼性の高いものにすることです。",
+        "東京で暮らす私たちにとって、これは日々の生活で利用するサービスに具体的な影響を与える可能性があります。もしロケットの打ち上げ費用が大幅に下がれば、GPSナビゲーション、天気予報、携帯電話通信など、私たちの生活を支える衛星群の展開と維持にかかるコストも低減するでしょう。これにより、より堅牢で手頃なデジタルサービスが実現したり、都市計画や災害対策に役立つ新たな宇宙ベースのデータ収集が可能になったりするかもしれません。",
+        "このような影響は、今後5年から10年以内に感じられるようになるでしょう。この時間軸は、RATLOGがその技術を成功裏に実証し、製造規模を拡大し、競争の激しい業界で市場シェアを獲得できるかどうかにかかっています。例えば、日本のH3ロケットプログラムも、安定した打ち上げ頻度を確立しようと取り組んでおり、これが新たな、根本的に安価な技術が市場に受け入れられるかどうかの基準点となります。",
+        "日本では、IHIエアロスペースや三菱重工業（MHI）がロケットエンジンの開発の中心を担っており、高い性能と信頼性に重点を置いています。彼らの主要なアプローチは部品の劇的な削減ではありませんが、効率性とコスト効率を追求する根本的な動機は共通しています。日本の民間企業であるインターステラテクノロジズも、より低コストのロケットを目指しており、宇宙をより身近なものにするための同様の革新精神を示しています。重量物打ち上げエンジンのアーキテクチャの劇的な簡素化という点ではまだギャップがありますが、RATLOGのようなベンチャーからの競争圧力は、間違いなく日本の将来戦略に影響を与えることでしょう。"
+      ]
+    },
+    "source": {
+      "name": "Payload",
+      "url": "https://payloadspace.com/ratlog-wants-to-cut-90-of-a-rocket-engines-parts/"
+    },
+    "sourceGuid": "https://payloadspace.com/?p=33310",
+    "status": "published"
+  },
+  {
     "slug": "artemis-ii-the-confident-return",
     "category": "artemis",
     "issue": "Vol. 10",
@@ -1121,8 +1465,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
     },
     "title": {
       "en": "The Kinetic Path to Orbit: Longshot's Vision for Space Cargo",
@@ -1375,8 +1719,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "From Rejection to Orbit: A Software Journey Redefines Space Access",
@@ -1631,8 +1975,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "Precision and Navigation: A New Star Sensor for LEO",
@@ -1889,8 +2233,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0b0b0d"
     },
     "title": {
       "en": "Starlink's Terrestrial Battle: India's Digital Frontier",
@@ -1975,8 +2319,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101012"
     },
     "title": {
       "en": "ESA Astronaut Sophie Adenot Returns to Earth After Eight Months on ISS",
@@ -2061,8 +2405,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0f12"
     },
     "title": {
       "en": "Xona's Commercial Navigation Service: Charting New Orbits",
@@ -2321,8 +2665,8 @@
     "readingMinutes": 3,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0f12"
+      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Etosha's Salt Pan: A Blueprint for Off-world Resource Mapping",
@@ -2405,8 +2749,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Beyond the Snow Line: Microlensing Reveals Distant Worlds",
@@ -2491,8 +2835,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101012"
+      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "Starlink's Indian Stalemate: A Glimpse into Off-World Market Entry",
@@ -2747,8 +3091,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0b0b0d"
+      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Lunar Foundations: The Engineering Behind Permanent Moon Habitation",
@@ -3092,8 +3436,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "Xona Accelerates Pulsar Constellation for Off-World Precision",
@@ -3178,7 +3522,7 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=2200&q=80",
+      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
       "tone": "#0a0a0c"
     },
     "title": {
@@ -3262,8 +3606,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Advanced Coatings Expand Thermal Control for Off-World Habitats",
@@ -3352,8 +3696,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
     },
     "title": {
       "en": "A Golden Dome for US Space: Huntsville and Colorado Springs Forge New Alliance",
@@ -3690,8 +4034,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
     },
     "title": {
       "en": "Mexico's Space Ecosystem Secures $700M Investment",
@@ -3776,8 +4120,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "ESA Advocates for Stronger European Space Role at IAC",
@@ -3946,8 +4290,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Agile Space Industries Bolsters Leadership for Future In-Space Operations",
@@ -4288,8 +4632,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "Frontier Energy Research: Fueling Future Off-world Habitats",
@@ -4634,8 +4978,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "The Rocket Revolution: Opening Pathways to Off-World Futures",
@@ -4808,8 +5152,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Expanding the Lunar Horizon: NASA's New Science Mandate for Artemis",
@@ -4894,8 +5238,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Insuring the Void: Financial Foundations for Off-World Ventures",
@@ -4980,8 +5324,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Orbital Intelligence: Satellites That Think",
@@ -5066,8 +5410,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
     },
     "title": {
       "en": "Hop Aero Secures $11M for Suborbital Logistics",
@@ -5150,8 +5494,8 @@
     "readingMinutes": 3,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Smile Mission Begins Scientific Observations, Charting Earth's Solar Wind Response",
@@ -5236,8 +5580,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "Autonomous Orbital Navigation Tested by Italian Firm",
@@ -5322,8 +5666,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0f12"
+      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Lunar Communications: Building a Network for the Moon's Future Residents",
@@ -5494,8 +5838,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Commercial Satcom: A New Frontier for Defense Spending",
@@ -5578,8 +5922,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#08080a"
+      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0b0b0d"
     },
     "title": {
       "en": "Artemis Accords Convene on Lunar Sustainability and Inclusivity",
@@ -5666,8 +6010,8 @@
     "readingMinutes": 7,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Cosmic Mirrors: Webb Reveals Distant Galaxies Through Gravitational Lensing",
@@ -5752,8 +6096,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Starship Achieves First Orbital Flight, Reshaping Space Access",
@@ -6014,8 +6358,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Beyond Rockets: The Expanding Orbit of Earth's Economy",
@@ -6100,8 +6444,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Boeing Starliner Resets Course After 2024 Incident, Crewed Flight Pushed to 2028",
@@ -6446,8 +6790,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Consolidation in Orbit: Rocket Lab's Strategic Expansion",
@@ -6520,354 +6864,6 @@
       "url": "https://payloadspace.com/rocket-lab-cfo-adam-spice-predicts-more-ma-deals-on-the-horizon/"
     },
     "sourceGuid": "https://payloadspace.com/?p=32946",
-    "status": "published"
-  },
-  {
-    "slug": "esas-aeolus-2-completes-critical-testing-for-wind-mapping",
-    "category": "space-tech",
-    "issue": "Vol. 09",
-    "publishedAt": "2026-09-25T13:10:00.000Z",
-    "readingMinutes": 5,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
-    },
-    "title": {
-      "en": "ESA's Aeolus-2 Completes Critical Testing for Wind Mapping",
-      "ja": "ESAの「アエロロス2」が風力マッピングの重要試験を完了"
-    },
-    "dek": {
-      "en": "The European Space Agency announces a significant milestone for its next-generation wind-profiling satellite, promising enhanced climate models and weather prediction capabilities.",
-      "ja": "欧州宇宙機関は、次世代風力プロファイリング衛星の重要な節目を発表し、気候モデルと気象予測能力の向上を約束する。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "NOORDWIJK, NETHERLANDS — September 25, 2026",
-      "ja": "オランダ、ノールトワイク — 2026年9月25日"
-    },
-    "tags": [
-      {
-        "en": "ESA",
-        "ja": "ESA"
-      },
-      {
-        "en": "Earth Observation",
-        "ja": "地球観測"
-      },
-      {
-        "en": "Climate Science",
-        "ja": "気候科学"
-      },
-      {
-        "en": "Satellite Technology",
-        "ja": "衛星技術"
-      }
-    ],
-    "body": {
-      "en": [
-        "The European Space Agency (ESA) marked a pivotal moment in its Earth observation program this week, with the successful completion of thermal vacuum testing for the Aeolus-2 satellite. This critical phase took place at ESA's ESTEC facility in Noordwijk, Netherlands, simulating the harsh conditions of space to ensure the satellite's operational integrity.",
-        "Aeolus-2 is designed as a successor to the groundbreaking Aeolus mission, which provided the first direct global measurements of wind profiles from space. The new satellite aims to build upon this legacy, offering enhanced data resolution and accuracy crucial for understanding atmospheric dynamics and improving climate models.",
-        "Engineers at ESTEC subjected the 1.4-ton spacecraft to extreme temperature cycles, ranging from -150°C to +100°C, over several weeks. These tests are vital to validate the resilience of its sophisticated Doppler wind lidar instrument, a primary sensor that uses ultraviolet laser pulses to measure wind speed and direction.",
-        "The data generated by Aeolus-2 will be instrumental for global weather forecasting centers, allowing for more precise predictions of severe weather events and long-term climate trends. Its predecessor, Aeolus, provided invaluable insights until its re-entry in 2023, demonstrating the profound impact of direct wind measurements.",
-        "Looking ahead, Aeolus-2 is slated for launch in late 2027 from Kourou, French Guiana, aboard an Ariane 6 rocket. Its operational life is projected for at least seven years, during which it will continuously map Earth's winds from an altitude of approximately 320 kilometers.",
-        "The refinement of such Earth observation capabilities directly influences the viability of off-world settlements. Precise climate modeling for Earth allows for more accurate resource management and disaster preparedness, skills directly transferable to managing enclosed biospheres on the Moon or Mars. Understanding complex atmospheric systems at scale provides a blueprint for the closed-loop environments essential for survival beyond Earth.",
-        "> “The successful completion of this test brings us one step closer to launching a vital tool for our planet's future.”",
-        "For those building habitats on other celestial bodies, the lessons learned from maintaining complex instruments in extreme environments, like the lidar on Aeolus-2, are invaluable. The robust materials and redundant systems developed for missions like this will directly inform the engineering of lunar bases and Martian outposts, where repair options are scarce and environmental resilience is paramount. This incremental progress shapes the very architecture of future off-world living."
-      ],
-      "ja": [
-        "欧州宇宙機関（ESA）は今週、地球観測プログラムにおける重要な節目を迎え、「アエロロス2」衛星の熱真空試験を成功裏に完了した。この重要な段階は、オランダのノールトワイクにあるESAのESTEC施設で行われ、宇宙の過酷な条件をシミュレートし、衛星の運用上の完全性を確認した。",
-        "アエロロス2は、宇宙から風のプロファイルを直接測定した初のミッションである画期的な「アエロロス」の後継機として設計されている。この新しい衛星は、その遺産の上に築かれ、大気力学の理解と気候モデルの改善に不可欠な、より高解像度で正確なデータを提供することを目指す。",
-        "ESTECのエンジニアたちは、数週間にわたり、1.4トンの宇宙船を-150°Cから+100°Cに及ぶ極端な温度サイクルにさらした。これらの試験は、紫外線レーザーパルスを用いて風速と風向を測定する主要センサーである、洗練されたドップラー風ライダー機器の耐久性を検証するために不可欠である。",
-        "アエロロス2が生成するデータは、世界の気象予報センターにとって極めて重要であり、激しい気象現象や長期的な気候変動のより正確な予測を可能にするだろう。前身のアエロロスは、2023年に再突入するまで貴重な洞察を提供し、直接的な風力測定の大きな影響を示した。",
-        "今後、アエロロス2は2027年後半にフランス領ギアナのクールーからアリアン6ロケットで打ち上げられる予定だ。その運用寿命は少なくとも7年間とされており、約320キロメートルの高度から地球の風を継続的にマッピングする。",
-        "このような地球観測能力の洗練は、地球外居住地の実現可能性に直接影響を与える。地球のための正確な気候モデリングは、より正確な資源管理と災害対策を可能にし、これは月や火星の閉鎖生態圏を管理する上で直接応用可能なスキルである。大規模な複雑な大気システムを理解することは、地球外での生存に不可欠な閉鎖ループ環境の青写真を提供する。",
-        "> 「この試験の成功は、地球の未来にとって不可欠なツールを打ち上げるための一歩となる。」",
-        "他の天体で居住地を建設する人々にとって、アエロロス2のライダーのような極限環境で複雑な機器を維持することから得られる教訓は計り知れない。このようなミッションのために開発された堅牢な材料と冗長システムは、修理の選択肢が少なく、環境への耐性が最も重要となる月面基地や火星前哨基地のエンジニアリングに直接役立つだろう。この漸進的な進歩が、未来の地球外生活のまさに建築を形作るのである。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The European Space Agency's recent announcement about the Aeolus-2 satellite, designed to map global wind patterns, might seem distant from daily life in Tokyo. Yet, its successful thermal vacuum testing represents a quiet but significant step in how we understand our planet's atmosphere and, by extension, how we might manage environments beyond it.",
-        "For Tokyo readers, the most immediate impact of such satellites comes through improved weather forecasting. More accurate wind data means better prediction of typhoons, heavy rains, and atmospheric pollution dispersion. This translates to more reliable early warnings, which can influence everything from public transportation schedules to disaster preparedness strategies. Beyond this, the refined climate models that Aeolus-2 will enable contribute to a global understanding of climate change, informing policy and technological development that eventually benefits everyone.",
-        "This kind of impact is already being felt today, but the full benefits of Aeolus-2's advanced data will likely materialize within the next 3-5 years, once the satellite is fully operational and its data integrated into global meteorological systems. The gating factor here is the successful launch and commissioning of the satellite, followed by the assimilation period for its novel data streams.",
-        "Japan's own JAXA and its meteorological agencies also operate Earth observation satellites, such as the Himawari series for geostationary weather observation or the GOSAT series for greenhouse gas monitoring. While there isn't a direct Japanese counterpart solely focused on global wind profiling with lidar in the same way as Aeolus-2, the underlying commitment to advanced Earth sensing for climate and disaster resilience is shared. Companies like Mitsubishi Heavy Industries contribute to the construction of these complex systems, ensuring Japan's independent capabilities in this crucial domain."
-      ],
-      "ja": [
-        "欧州宇宙機関（ESA）が発表した、地球規模の風のパターンをマッピングする「アエロロス2」衛星に関する最近のニュースは、東京での日常生活とは遠い話に聞こえるかもしれません。しかし、その熱真空試験の成功は、私たちが地球の大気をどのように理解し、ひいては地球外の環境をどのように管理していくかという点で、静かながらも重要な一歩を示しています。",
-        "東京に暮らす読者にとって、このような衛星がもたらす最も直接的な影響は、気象予報の精度向上でしょう。より正確な風のデータは、台風や集中豪雨、大気汚染物質の拡散予測を改善します。これは、公共交通機関の運行スケジュールから災害対策戦略に至るまで、あらゆるものに影響を与える、より信頼性の高い早期警報につながります。さらに、アエロロス2が実現する洗練された気候モデルは、気候変動に対する地球規模の理解に貢献し、最終的にはすべての人に利益をもたらす政策や技術開発の指針となるでしょう。",
-        "このような影響はすでに今日感じられていますが、アエロロス2の高度なデータの完全な恩恵は、衛星が完全に稼働し、そのデータが世界の気象システムに統合されてから、今後3〜5年以内に具体化される可能性が高いです。ここでの決定要因は、衛星の打ち上げと運用開始の成功、それに続く新しいデータストリームの同化期間です。",
-        "日本自身のJAXAや気象機関も、静止気象観測用のひまわりシリーズや温室効果ガスモニタリング用のGOSATシリーズなど、地球観測衛星を運用しています。アエロロス2のようにライダーを用いた地球規模の風力プロファイリングに特化した直接的な日本の対応機はありませんが、気候変動と災害レジリエンスのための高度な地球センシングへの根底にあるコミットメントは共通しています。三菱重工業のような企業は、これらの複雑なシステムの構築に貢献し、この重要な分野における日本の独立した能力を確保しています。"
-      ]
-    },
-    "source": {
-      "name": "ESA",
-      "url": ""
-    },
-    "sourceGuid": "e9bdbb0452e4d2b07ea261d533da1a92",
-    "status": "published"
-  },
-  {
-    "slug": "orbital-computing-googles-data-center-experiment",
-    "category": "space-tech",
-    "issue": "Vol. 09",
-    "publishedAt": "2026-09-24T17:56:00.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://futurism.com/wp-content/uploads/2026/09/google-launch-experimental-data-center-space.jpg?quality=85&amp;w=2048",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Orbital Computing: Google's Data Center Experiment",
-      "ja": "軌道上のコンピューティング：Googleのデータセンター実験"
-    },
-    "dek": {
-      "en": "Google prepares to launch a prototype data center into orbit, exploring the potential for off-world computation and its implications for future space habitats.",
-      "ja": "Googleがプロトタイプのデータセンターを軌道に打ち上げる準備を進めている。これは宇宙での計算の可能性と、将来の宇宙居住地への影響を探る試みだ。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "September 2026",
-      "ja": "2026年9月"
-    },
-    "tags": [
-      {
-        "en": "space infrastructure",
-        "ja": "宇宙インフラ"
-      },
-      {
-        "en": "Google",
-        "ja": "Google"
-      },
-      {
-        "en": "orbital computing",
-        "ja": "軌道コンピューティング"
-      },
-      {
-        "en": "off-world economy",
-        "ja": "宇宙経済"
-      }
-    ],
-    "body": {
-      "en": [
-        "The relentless demand for digital infrastructure on Earth faces constraints of energy, cooling, and physical space. A new approach to this challenge may soon leave the planet's atmosphere.",
-        "Google is reportedly preparing an experimental \"data center\" for launch into orbit, scheduled for late September 2026. This initiative seeks to explore the viability of hosting computational power beyond terrestrial confines. The project aims to test core functionalities in the vacuum and radiation environment of space.",
-        "Terrestrial data centers consume vast amounts of electricity and require extensive cooling systems, contributing significantly to global energy footprints. Moving these operations off-world could, in theory, alleviate some of these pressures by leveraging the cold vacuum of space for passive cooling and potentially harnessing solar energy more directly.",
-        "The initial deployment is expected to be a small-scale prototype, designed primarily for proof-of-concept rather than immediate operational capacity. Questions remain regarding the cost-effectiveness of launch, maintenance in orbit, and the sheer volume of data transfer required for a truly impactful space-based infrastructure.",
-        "The physical form of such a data center would differ markedly from its ground-based counterparts, perhaps resembling a series of interconnected modules, each about the size of a commercial refrigerator. The original report queries: > \"Could this really solve our data center woes?\"",
-        "For future inhabitants of lunar bases or orbital habitats, such a development is significant. Local, low-latency data processing could become a reality, reducing reliance on communications relays to Earth. This shift would enable more autonomous operations, from environmental controls to real-time scientific analysis, fostering self-sufficiency in nascent off-world communities.",
-        "The ambition to place computation in orbit speaks to a future where infrastructure is not bound by planetary gravity, but extends into the void, shaping how future societies process information and build their digital lives far from Earth."
-      ],
-      "ja": [
-        "地球上で増大し続けるデジタルインフラへの需要は、エネルギー、冷却、物理的空間の制約に直面している。この課題に対する新たな試みが、まもなく地球の大気を離れるかもしれない。",
-        "Googleは、2026年9月下旬に軌道へ打ち上げられる予定の実験的な「データセンター」の準備を進めていると報じられている。この取り組みは、計算能力を地球の境界を超えてホストする実現可能性を探ることを目的としている。真空と放射線に満ちた宇宙環境でのコア機能のテストが目指されている。",
-        "地上のデータセンターは膨大な電力を消費し、大規模な冷却システムを必要とし、世界のエネルギーフットプリントに大きく貢献している。これらの運用を地球外に移すことで、理論的には、宇宙の低温真空を受動冷却に利用し、太陽エネルギーをより直接的に活用することで、これらの圧力の一部を軽減できる可能性がある。",
-        "最初の展開は小規模なプロトタイプであり、即座の運用能力よりも概念実証を目的としていると見られる。打ち上げコスト、軌道上でのメンテナンス、そして真に影響力のある宇宙ベースのインフラに必要なデータ転送量に関して、依然として疑問が残る。",
-        "このようなデータセンターの物理的な形態は、地上にあるものとは大きく異なるだろう。おそらく、市販の冷蔵庫ほどの大きさの相互接続されたモジュールの集合体となる。原文より: >「これが本当に私たちのデータセンターの悩みを解決できるだろうか？」",
-        "月面基地や軌道上居住地の将来の住民にとって、このような進展は重要である。低遅延のローカルデータ処理が現実のものとなり、地球への通信中継への依存が軽減される。この変化は、環境制御からリアルタイムの科学分析まで、より自律的な運用を可能にし、初期の地球外コミュニティにおける自給自足を促進するだろう。",
-        "軌道上に計算能力を配置するという野心は、インフラが惑星の重力に縛られず、宇宙の虚空へと拡張され、将来の社会が地球から遠く離れて情報を処理し、デジタルライフを構築する方法を形作る未来を示唆している。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Imagine the giant rooms on Earth filled with computers that power the internet. They get very hot and use a lot of electricity. Google is trying something new: sending a small, experimental version of these computer rooms, a \"data center,\" into space. The idea is to see if the cold vacuum of space can help cool them down naturally and if they can run on solar power up there, reducing the energy burden on Earth. It's like moving a very noisy, hot server room to a quiet, cold, high-altitude location.",
-        "In the near future, this could subtly affect services we use daily. Think about how much data is processed for our smartphones, navigation apps, or even cloud storage. If some of that processing moves to space, it might lead to slightly faster response times for certain applications, especially those requiring global reach or real-time data from satellites. It could also contribute to more resilient global communication networks, less vulnerable to terrestrial disruptions.",
-        "This is an experimental launch, so any widespread impact is still 5–10 years away. The main bottleneck will be scaling up the technology, proving its long-term reliability in harsh space environments, and reducing the cost of launching and maintaining such infrastructure. International agreements on orbital debris and spectrum allocation will also play a role.",
-        "While no direct Japanese counterpart is publicly developing orbital data centers, companies like Synspective are already operating Earth observation satellites that process data on board before sending it down, reducing latency. Additionally, Astroscale is working on orbital debris removal, a crucial service that would enable a future with more orbital infrastructure. Japan's focus tends to be on robust, reliable satellite services, which could eventually integrate with or benefit from distributed orbital computing."
-      ],
-      "ja": [
-        "地球上には、インターネットを動かす巨大なコンピューターが詰まった部屋があります。これらは非常に熱くなり、大量の電力を消費します。Googleは、このコンピューター室の実験的な小型版、つまり「データセンター」を宇宙に送るという新しい試みを行っています。宇宙の冷たい真空が自然な冷却に役立つか、そして宇宙で太陽光発電によって稼働できるかを確認し、地球のエネルギー負担を減らすことが狙いです。これは、非常に騒がしく、熱いサーバー室を、静かで冷たい高所の場所に移動させるようなものです。",
-        "近い将来、これは私たちの日常的に使うサービスに微妙な影響を与えるかもしれません。スマートフォン、ナビゲーションアプリ、あるいはクラウドストレージのためにどれほどのデータが処理されているかを考えてみてください。もしその処理の一部が宇宙に移れば、特にグローバルな到達範囲や衛星からのリアルタイムデータを必要とする特定のアプリケーションで、わずかに応答時間が速くなる可能性があります。また、地上での障害に左右されにくい、より強靭なグローバル通信ネットワークにも貢献するでしょう。",
-        "これは実験的な打ち上げであるため、広範な影響が出るのはまだ5〜10年先でしょう。主な課題は、この技術を大規模に展開し、過酷な宇宙環境での長期的な信頼性を証明すること、そしてこのようなインフラの打ち上げと維持にかかるコストを削減することです。軌道デブリや周波数割り当てに関する国際的な合意も重要な要素となります。",
-        "軌道上データセンターを直接開発している日本の企業は公にはありませんが、Synspectiveのような企業は、地上に送る前に衛星上でデータを処理する地球観測衛星をすでに運用しており、遅延を減らしています。また、Astroscaleは軌道デブリ除去に取り組んでおり、これは将来の軌道上インフラにとって不可欠なサービスです。日本の焦点は、堅牢で信頼性の高い衛星サービスにある傾向があり、これらは最終的に分散型軌道コンピューティングと統合されるか、その恩恵を受ける可能性があります。"
-      ]
-    },
-    "source": {
-      "name": "Futurism",
-      "url": "https://futurism.com/future-society/google-launch-experimental-data-center-space"
-    },
-    "sourceGuid": "https://futurism.com/?p=465453",
-    "status": "published"
-  },
-  {
-    "slug": "mschfs-twisted-lexus-redefining-form-for-an-off-world-future",
-    "category": "culture",
-    "issue": "Vol. 09",
-    "publishedAt": "2026-09-24T17:19:43.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "http://static.dezeen.com/uploads/2026/09/motomorphosis-lexus-chelsea-industrial-circle-car-twist-car_dezeen_2364_sq-1-411x411.jpg",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "MSCHF's Twisted Lexus: Redefining Form for an Off-World Future",
-      "ja": "MSCHFの歪んだレクサス：地球外未来のための形態再定義"
-    },
-    "dek": {
-      "en": "A Brooklyn studio's radical reshaping of electric cars into art challenges our perception of objects, offering a glimpse into how off-world constraints might inspire new aesthetics and utility.",
-      "ja": "ブルックリンのスタジオが電気自動車を芸術作品へと過激に変形させたことは、物体に対する私たちの認識に挑戦し、地球外の制約が新たな美学と実用性をいかに刺激するかを示唆する。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "New York, 2026-09-24",
-      "ja": "ニューヨーク, 2026年9月24日"
-    },
-    "tags": [
-      {
-        "en": "Design",
-        "ja": "デザイン"
-      },
-      {
-        "en": "Art",
-        "ja": "アート"
-      },
-      {
-        "en": "Sculpture",
-        "ja": "彫刻"
-      },
-      {
-        "en": "Lexus",
-        "ja": "レクサス"
-      }
-    ],
-    "body": {
-      "en": [
-        "The familiar silhouette of an automobile, a symbol of terrestrial mobility and design, has been radically reimagined. Brooklyn-based creative studio MSCHF recently unveiled two altered Lexus electric cars in New York, transforming utilitarian vehicles into sculptural forms.",
-        "Presented during the city's fall art week at Chelsea Industrial in Hudson Yards, these pieces, dubbed “Motomorphosis,” challenge conventional notions of automotive design. The “Circle Car” and “Twisted Car” are not functional vehicles but rather artistic statements, bending metal and reconfiguring chassis into unexpected geometries.",
-        "> The studio said this is 'a play on the automotive industry's concept car prototypes.'",
-        "This intervention pushes the boundaries of what a car can be, moving beyond engineering constraints to explore pure aesthetic expression and the potential for material transformation. It questions the very essence of an object designed for transport.",
-        "The original Lexus electric vehicles, designed for efficiency and sleek performance, are stripped of their intended purpose. Their robust materials—steel, aluminum, composites—are manipulated, highlighting the inherent plasticity of industrial objects when divorced from their functional imperative.",
-        "For those envisioning life beyond Earth, where gravity, atmospheric conditions, and resource scarcity will profoundly reshape every object, such radical reinterpretation holds a specific resonance. Off-world habitats and vehicles will necessitate designs that prioritize function in extreme environments, but also allow for new forms of aesthetic expression.",
-        "The very definition of a “car” or a “home” will evolve, becoming less constrained by terrestrial norms. Artists and designers working off-world might similarly twist and reshape familiar forms, not for shock value, but out of necessity, creating an entirely new aesthetic language for the cosmos. This artistic gesture on Earth foreshadows a future where utility and art merge in entirely novel ways, defining the tactile and visual landscape of extraterrestrial living."
-      ],
-      "ja": [
-        "地上の移動とデザインの象徴である自動車のシルエットが、根本的に再構築された。ブルックリンを拠点とするクリエイティブスタジオMSCHFは、ニューヨークでレクサスの電気自動車を2台改造し、実用的な乗り物を彫刻的な形態へと変容させた。",
-        "ハドソンヤーズのチェルシー・インダストリアルで開催された秋のアートウィークで発表されたこれらの作品は、「モトモルフォシス」と名付けられ、自動車デザインの常識に挑戦する。「サークルカー」と「ツイステッドカー」は、機能的な車両ではなく芸術的な声明であり、金属を曲げ、シャーシを予想外の幾何学形態に再構成している。",
-        "> スタジオはこれを「自動車業界のコンセプトカーのプロトタイプに対する遊び」と表現した。",
-        "この介入は、車のありうる姿の境界を押し広げ、工学的な制約を超えて、純粋な美的表現と素材変換の可能性を探るものだ。それは、輸送のために設計された物体の本質そのものに問いを投げかける。",
-        "効率と洗練された性能のために設計されたオリジナルのレクサス電気自動車は、その本来の目的から切り離された。スチール、アルミニウム、複合材といった堅牢な素材が操作され、機能的指令から解放された工業製品の持つ本質的な可塑性が浮き彫りになる。",
-        "地球外での生活を構想する者にとって、重力、大気条件、資源の希少性がすべての物体を深く再形成するであろう場所では、このような根本的な再解釈は特別な響きを持つ。地球外の居住施設や乗り物は、極限環境での機能を優先しつつ、新たな美的表現を可能にするデザインを必要とするだろう。",
-        "「車」や「家」という言葉の定義そのものが進化し、地上の規範に縛られなくなる。地球外で活動するアーティストやデザイナーも同様に、見慣れた形をひねり、再形成するかもしれない。それは衝撃のためではなく、必要性からであり、宇宙のためのまったく新しい美的言語を創造する。地球上でのこの芸術的なジェスチャーは、実用性と芸術がまったく新しい方法で融合し、地球外生活の触覚的・視覚的景観を定義する未来を予兆している。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Brooklyn-based art studio MSCHF took two Lexus electric cars and physically twisted and bent them into abstract sculptures. These weren't meant to be driven; they were displayed as art in New York, challenging our ideas of what a car should look like and what its purpose is. It's about seeing familiar objects in a completely new, non-functional way.",
-        "While this specific art project won't directly change your daily commute in Tokyo, it speaks to a broader trend in design and materials science. As we look towards off-world habitats, the constraints of space will force engineers and designers to rethink every object. This kind of radical material manipulation, seen here as art, could inspire new approaches to creating durable, adaptable structures and vehicles from limited resources, impacting the materials used in future orbital stations or lunar bases.",
-        "This influence is likely long-term, perhaps 5-10 years, gated by the actual establishment of permanent off-world settlements. The immediate impact is on design philosophy and material research, which are ongoing. As the cost to launch materials into space decreases, experimentation with new forms and structures will become more feasible.",
-        "In Japan, companies like ispace, focused on lunar landers and rovers, are already grappling with designing functional objects for extreme environments. While not art, their engineering process involves reimagining basic forms under new constraints, much like MSCHF challenges terrestrial norms. Similarly, architecture firms like Nikken Sekkei are exploring concepts for lunar habitats, where every curve and material choice is dictated by survival, yet still aims for aesthetic value."
-      ],
-      "ja": [
-        "ニューヨークのブルックリンにあるアートスタジオMSCHFが、レクサスの電気自動車2台を物理的にねじ曲げ、抽象的な彫刻作品に変えました。これらは運転するためではなく、ニューヨークでアートとして展示され、車のあるべき姿やその目的に対する私たちの考え方に挑戦しています。見慣れた物体を、機能的ではない全く新しい視点で見せる試みです。",
-        "この特定のアートプロジェクトが、東京での皆さんの日々の通勤に直接影響を与えることはありませんが、デザインと材料科学における広範なトレンドを示唆しています。地球外の居住空間を考える際、宇宙の制約はエンジニアやデザイナーに、あらゆる物体を根本的に再考することを強いるでしょう。ここでアートとして見られるような急進的な素材操作は、限られた資源から耐久性のある適応性の高い構造物や車両を生み出す新しいアプローチを刺激し、将来の軌道ステーションや月面基地で使用される材料に影響を与える可能性があります。",
-        "この影響は、おそらく5〜10年後、恒久的な地球外居住地が実際に確立されることによって具体的な形になるでしょう。当面のインパクトは、現在進行中のデザイン哲学と材料研究にあります。宇宙に材料を打ち上げるコストが下がれば、新しい形状や構造の実験がより実現可能になります。",
-        "日本では、月着陸船やローバーに焦点を当てるispaceのような企業が、すでに極限環境向けの機能的な物体を設計する課題に取り組んでいます。これはアートではありませんが、彼らのエンジニアリングプロセスは、MSCHFが地上の規範に挑戦するのと同様に、新しい制約の下で基本的な形状を再考することを含んでいます。同様に、日建設計のような建築事務所は月面居住施設のコンセプトを模索しており、そこではあらゆる曲線や材料の選択が生存によって決定されながらも、美的な価値も追求しています。"
-      ]
-    },
-    "source": {
-      "name": "Dezeen",
-      "url": "https://www.dezeen.com/2026/09/24/mschf-lexus-electric-motomorphosis-circle-car-twisted-car-amory-week/"
-    },
-    "sourceGuid": "https://www.dezeen.com/?p=2368606",
-    "status": "published"
-  },
-  {
-    "slug": "forecasting-the-orbital-economy-a-true-or-false-on-space-industry-trends",
-    "category": "space-tech",
-    "issue": "Vol. 09",
-    "publishedAt": "2026-09-24T15:51:42.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
-    },
-    "title": {
-      "en": "Forecasting the Orbital Economy: A 'True or False' on Space Industry Trends",
-      "ja": "軌道経済の予測：「真偽を問う」宇宙産業トレンド"
-    },
-    "dek": {
-      "en": "SpaceNews and Novaspace CEO Pacôme Révillon delve into the critical trends shaping the commercial space sector, examining the veracity of current industry narratives and future projections.",
-      "ja": "SpaceNewsとNovaspace CEOのパコーム・レヴィヨン氏が、商業宇宙セクターを形成する重要なトレンドを深く掘り下げ、現在の業界の物語と将来の予測の真偽を検証する。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Washington D.C., September 24, 2026",
-      "ja": "ワシントンD.C.、2026年9月24日"
-    },
-    "tags": [
-      {
-        "en": "Space Economy",
-        "ja": "宇宙経済"
-      },
-      {
-        "en": "Industry Trends",
-        "ja": "産業トレンド"
-      },
-      {
-        "en": "Commercial Space",
-        "ja": "商業宇宙"
-      },
-      {
-        "en": "Novaspace",
-        "ja": "ノバスペース"
-      }
-    ],
-    "body": {
-      "en": [
-        "The landscape of the commercial space industry is in constant flux, a dynamic environment where investment flows, technological breakthroughs, and geopolitical shifts redefine possibilities. A recent discussion hosted by SpaceNews, featuring Novaspace CEO Pacôme Révillon, offered a strategic look into these evolving trends.",
-        "Through a 'true or false' format, the dialogue aimed to dissect prevailing assumptions about the sector's trajectory over the coming year. This approach sought to separate aspirational rhetoric from tangible market realities, providing a clearer picture for stakeholders.",
-        "Key topics likely included the consolidation of launch providers, the expansion of satellite mega-constellations, and the growing interest in lunar infrastructure. Such discussions are vital for understanding the underlying currents that will shape future orbital operations and beyond.",
-        "The conversation also touched upon the interplay between national space agencies and private enterprise. As government programs like Artemis push for lunar return, the commercial sector is poised to provide essential services, from logistics to resource extraction, blurring traditional lines of responsibility.",
-        "> \"The pace of consolidation in the launch sector will define access costs for the next decade.\"",
-        "The insights gleaned from such expert analyses are not merely academic. They directly influence the viability of ambitious off-world projects. Understanding the costs, capabilities, and competitive pressures of the space economy is fundamental to planning future habitats and industrial facilities beyond Earth.",
-        "For those who will eventually live and work off-world, these forecasts translate into concrete conditions. The efficiency of satellite communication networks, the availability of affordable launch services, and the stability of orbital supply chains will dictate the quality of daily life, the cost of goods, and the very texture of an extraterrestrial existence. Beneath the numbers, a new cartography of ambition is being drawn, charting the pathways for humanity’s expansion.",
-        "The trajectory of a new satellite constellation, the price of a kilogram to low Earth orbit, or the policy shifts in a distant capital — these are the elements that will define the early stages of off-world culture, determining what materials are abundant, what services are reliable, and what luxuries are truly attainable."
-      ],
-      "ja": [
-        "商業宇宙産業の情勢は常に変化しており、投資の流れ、技術的ブレークスルー、地政学的変化が可能性を再定義するダイナミックな環境にある。SpaceNewsが主催し、Novaspace CEOのパコーム・レヴィヨン氏を招いた最近の議論は、これらの進化するトレンドへの戦略的な視点を提供した。",
-        "「真偽を問う」形式を通じて、この対話は、今後1年間のセクターの軌道に関する一般的な仮定を分析することを目的とした。このアプローチは、願望に満ちたレトリックと具体的な市場の現実を区別し、関係者に明確な全体像を提供する。",
-        "主要なトピックには、打ち上げプロバイダーの統合、衛星メガコンステレーションの拡大、月面インフラへの関心の高まりなどが含まれたと見られる。このような議論は、将来の軌道運用とその先を形作る根底にある潮流を理解するために不可欠である。",
-        "この対話はまた、各国の宇宙機関と民間企業の相互作用にも触れた。アルテミス計画のような政府プログラムが月への帰還を推進するにつれて、商業セクターは物流から資源採掘まで、不可欠なサービスを提供する態勢を整え、従来の責任の境界線を曖昧にしている。",
-        "> 「打ち上げ部門における統合のペースが、今後10年間のアクセスコストを決定するだろう。」",
-        "このような専門家による分析から得られる洞察は、単なる学術的なものではない。それらは、野心的な地球外プロジェクトの実現可能性に直接影響を与える。宇宙経済のコスト、能力、競争圧力を理解することは、地球外の将来の居住地や産業施設を計画するための基礎となる。",
-        "最終的に地球外で生活し、働く人々にとって、これらの予測は具体的な条件へと変換される。衛星通信ネットワークの効率性、手頃な打ち上げサービスの利用可能性、そして軌道上のサプライチェーンの安定性は、日常生活の質、商品のコスト、そして地球外での存在そのものの質感を決定するだろう。数字の背後には、人類の拡大の道筋を描く、新たな野心の地図が描かれている。",
-        "新しい衛星コンステレーションの軌道、低地球軌道への1キログラムあたりの価格、あるいは遠い首都における政策変更 — これらは、地球外文化の初期段階を定義し、どのような材料が豊富で、どのようなサービスが信頼でき、どのような贅沢が真に達成可能であるかを決定する要素となる。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This discussion between SpaceNews and Novaspace's CEO offers a snapshot of the global space industry's anticipated trajectory. Imagine it like an annual forecast for a highly specialized, rapidly evolving market. Experts are weighing in on which business models will succeed, where investments are heading, and how international collaboration or competition might play out.",
-        "For Tokyo readers, these trends will most likely manifest in the services we use daily. Think about the precision of GPS for your smartphone, the speed and reliability of satellite internet, or even the accuracy of weather forecasts for disaster preparedness. As commercial space becomes more robust and competitive, these services could become cheaper, faster, and more ubiquitous, impacting everything from logistics to personal communication.",
-        "We can expect to see these impacts within the next 3 to 5 years. The pace of change is gated by the development of new launch vehicles and the successful deployment of next-generation satellite constellations. Once these systems achieve consistent operational reliability and cost efficiency, the benefits will ripple down to end-users.",
-        "Japan is not merely an observer in this evolving landscape. Companies like Synspective are already deploying their own radar satellite constellations for earth observation, providing data crucial for urban planning and disaster management. ispace, with its lunar lander missions, is a prime example of a Japanese private entity pushing the boundaries of lunar commerce, directly contributing to the infrastructure discussions highlighted by experts like Mr. Révillon. Japan's role, both governmental and private, is integral to how these global trends will ultimately unfold."
-      ],
-      "ja": [
-        "SpaceNewsとNovaspaceのCEOによるこの議論は、世界の宇宙産業が今後たどるであろう軌道を映し出すものです。これは、非常に専門的で急速に進化する市場の年間予測のようなものだと考えてください。専門家たちが、どのビジネスモデルが成功し、どこに投資が向かい、国際的な協力や競争がどのように展開するかについて意見を交わしています。",
-        "東京に住む読者にとって、これらのトレンドは日々の生活で利用するサービスに現れる可能性が高いでしょう。スマートフォンのGPSの精度、衛星インターネットの速度と信頼性、あるいは災害対策のための天気予報の正確さなどを考えてみてください。商業宇宙がより堅牢で競争力のあるものになるにつれて、これらのサービスはより安価に、より速く、より広く利用できるようになり、物流から個人の通信まであらゆるものに影響を与えるでしょう。",
-        "これらの影響は、今後3年から5年以内に現れると予想されます。変化のペースは、新しい打ち上げ機の開発と次世代衛星コンステレーションの成功裡の展開によって左右されます。これらのシステムが安定した運用信頼性とコスト効率を達成すれば、その恩恵は最終的なユーザーにまで波及するでしょう。",
-        "日本は、この進化する状況において単なる傍観者ではありません。Synspectiveのような企業は、すでに独自のレーダー衛星コンステレーションを展開し、都市計画や災害管理に不可欠なデータを提供しています。月面着陸ミッションを行うispaceは、月面商業の限界を押し広げる日本の民間企業の代表例であり、レヴィヨン氏のような専門家が強調するインフラに関する議論に直接貢献しています。日本政府と民間企業の両方の役割は、これらのグローバルなトレンドが最終的にどのように展開するかに不可欠です。"
-      ]
-    },
-    "source": {
-      "name": "SpaceNews",
-      "url": "https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon/"
-    },
-    "sourceGuid": "https://spacenews.com/?p=617749",
     "status": "published"
   }
 ]

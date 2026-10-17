@@ -1,5 +1,267 @@
 [
   {
+    "slug": "a-signal-from-silence-webb-detects-the-unexpected-in-cosmic-voids",
+    "category": "research",
+    "issue": "Vol. 10",
+    "publishedAt": "2026-10-17T12:51:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://futurism.com/wp-content/uploads/2026/10/scientists-puzzled-james-webb-detects-signal-empty.jpg?quality=85&amp;w=2048",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "A Signal from Silence: Webb Detects the Unexpected in Cosmic Voids",
+      "ja": "虚空からの信号：ウェッブ望遠鏡、宇宙のボイドで予期せぬ検出"
+    },
+    "dek": {
+      "en": "The James Webb Space Telescope has reportedly detected a persistent signal emanating from a region of space previously considered empty, prompting fresh inquiry into the fundamental nature of the cosmos.",
+      "ja": "ジェイムズ・ウェッブ宇宙望遠鏡が、これまで「空虚」とされてきた宇宙領域から持続的な信号を検出したと報じられた。これは宇宙の根源的な性質に対する新たな探求を促すものだ。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "October 17, 2026, Deep Space",
+      "ja": "2026年10月17日、深宇宙より"
+    },
+    "tags": [
+      {
+        "en": "James Webb Space Telescope",
+        "ja": "ジェイムズ・ウェッブ宇宙望遠鏡"
+      },
+      {
+        "en": "Astronomy",
+        "ja": "天文学"
+      },
+      {
+        "en": "Cosmic Voids",
+        "ja": "宇宙のボイド"
+      },
+      {
+        "en": "Astrophysics",
+        "ja": "宇宙物理学"
+      }
+    ],
+    "body": {
+      "en": [
+        "On October 17, 2026, the James Webb Space Telescope, humanity's most powerful eye on the distant universe, reportedly registered an unprecedented anomaly. Its advanced instruments, designed to peer back to the dawn of time, instead focused on a region believed to be a cosmic void — a vast, empty expanse between galactic filaments.",
+        "This 'empty void,' characterized by an extreme scarcity of galaxies, gas, and dark matter, is a foundational element in cosmological models. It represents the large-scale structure of the universe, where matter congregates into clusters and superclusters, leaving immense spaces relatively barren.",
+        "However, a persistent, faint signal was detected emanating from within one such void. Scientists involved in the observation are reportedly puzzled by its origin and characteristics. The nature of the signal remains unspecified, but its very presence challenges long-held assumptions about the vacuum of space.",
+        "The discovery, if confirmed, could necessitate a re-evaluation of our understanding of cosmic composition and the limits of known physics. It suggests that even the most desolate corners of the universe may harbor phenomena currently beyond our theoretical grasp.",
+        "> The telescope stared into the abyss, and the abyss stared back.",
+        "The implications extend beyond astrophysics. For those who will one day live and work off-world, this detection reshapes the very concept of solitude in space. An 'empty' expanse might not be truly empty, introducing a new layer of wonder — or perhaps, a subtle, pervasive anxiety — to the silent, vast spaces between worlds.",
+        "The universe, it seems, still holds its deepest secrets in plain sight, veiled not by distance, but by our own assumptions. This faint echo from the void reminds us that our maps of the cosmos are far from complete, and that the definitions of 'known' and 'unknown' are perpetually shifting."
+      ],
+      "ja": [
+        "2026年10月17日、人類が遠方宇宙を観測する最も強力な目であるジェイムズ・ウェッブ宇宙望遠鏡が、前例のない異常を記録したと報じられた。宇宙の黎明期を覗き見るために設計されたその高度な機器は、代わりに宇宙のボイド—銀河フィラメント間の広大な空虚な領域—と考えられていた場所に焦点を当てた。",
+        "この「空虚なボイド」は、銀河、ガス、暗黒物質が極端に少ないことで特徴づけられ、宇宙論モデルにおける基本的な要素である。そこは、物質がクラスターや超銀河団に集まり、広大な空間が比較的 barren に残される、宇宙の大規模構造を表している。",
+        "しかし、そのようなボイドの一つから、持続的で微弱な信号が検出された。観測に関わった科学者たちは、その起源と特性について困惑していると伝えられている。信号の性質は特定されていないが、その存在自体が、宇宙の真空に関する長年の仮説に疑問を投げかけるものだ。",
+        "この発見が確認されれば、宇宙の組成と既知の物理学の限界に関する我々の理解を再評価する必要が生じるだろう。それは、宇宙の最も荒涼とした場所でさえ、現在の理論的理解を超えた現象を秘めている可能性を示唆している。",
+        "> 望遠鏡は深淵を覗き込み、深淵もまた覗き返した。",
+        "その影響は天体物理学に留まらない。将来、地球外で生活し働く人々にとって、この検出は宇宙における孤独という概念そのものを再構築する。一つの「空虚な」空間が本当に空虚ではないかもしれないという事実は、世界間の静かで広大な空間に、新たな驚き—あるいは、かすかで広範な不安—をもたらす。",
+        "宇宙は、距離ではなく、私たち自身の仮定によって隠された最も深い秘密を、平然と目の前に広げているかのようだ。このボイドからの微かなこだまは、宇宙の地図がまだ完成には程遠く、「既知」と「未知」の定義が絶えず変化していることを思い出させる。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The news about the James Webb Space Telescope (JWST) detecting a signal from an apparently empty part of space is like hearing a faint whisper in a completely silent room. Imagine a vast, dark, empty warehouse — that's what scientists thought these cosmic 'voids' were. But now, JWST, which is essentially a super-sensitive infrared ear, has picked up something where nothing should be.",
+        "For Tokyo readers, this isn't about an immediate change to your daily commute or your phone's signal. Instead, it touches on the very edge of human knowledge. If confirmed, this finding could reshape our fundamental understanding of how the universe works, potentially leading to new theories in physics that might, in the very long term, influence areas like advanced materials science or energy research.",
+        "The timeframe for any tangible impact on daily life is genuinely long — likely 20 years or more. This is fundamental science. The immediate next steps involve more observations and theoretical work to explain the signal. It's gated by the slow, meticulous process of scientific discovery and validation, requiring new instruments or analytical methods.",
+        "Japan's National Astronomical Observatory of Japan (NAOJ) is a key player in global astronomy, contributing to projects like the ALMA telescope in Chile and the Subaru Telescope in Hawaii. While this specific JWST finding is new, NAOJ scientists routinely collaborate on international deep-space observation missions and contribute to the theoretical frameworks that attempt to make sense of such cosmic mysteries. Their ongoing research in astrophysics is directly relevant to understanding such unexpected signals from the universe's depths."
+      ],
+      "ja": [
+        "ジェイムズ・ウェッブ宇宙望遠鏡（JWST）が、見かけ上「空っぽ」な宇宙領域から信号を検出したというニュースは、まるで完全に静かな部屋でかすかなささやきを聞くようなものです。広大で暗く、何もない倉庫を想像してください—科学者たちはこれらの宇宙の「ボイド」をそう考えていました。しかし今、超高感度の赤外線耳とも言えるJWSTが、何もないはずの場所から何かを捉えたのです。",
+        "東京の読者にとって、これは毎日の通勤やスマートフォンの電波に直接的な変化をもたらすものではありません。むしろ、人類の知識の最先端に触れる話です。もしこの発見が確認されれば、宇宙がどのように機能しているかという我々の根本的な理解を再構築する可能性があり、それは非常に長期的に見て、先端材料科学やエネルギー研究といった分野に影響を与える新たな物理学理論につながるかもしれません。",
+        "日常生活に具体的な影響が出るまでの期間は、実に長く、おそらく20年以上先の話になるでしょう。これは基礎科学の領域です。当面の次のステップは、信号を説明するためのさらなる観測と理論的研究です。科学的発見と検証の遅く、綿密なプロセス、そして新しい観測機器や分析方法の開発がその進展を左右します。",
+        "日本の国立天文台（NAOJ）は、チリのアルマ望遠鏡やハワイのすばる望遠鏡といったプロジェクトに貢献し、世界の天文学において重要な役割を担っています。今回のJWSTの特定の発見は新しいものですが、NAOJの科学者たちは国際的な深宇宙観測ミッションで日常的に協力し、このような宇宙の謎を解明しようとする理論的枠組みに貢献しています。宇宙の深淵からの予期せぬ信号を理解する上で、彼らの天体物理学における継続的な研究は直接的に関連しています。"
+      ]
+    },
+    "source": {
+      "name": "Futurism",
+      "url": "https://futurism.com/future-society/scientists-puzzled-james-webb-detects-signal-empty"
+    },
+    "sourceGuid": "https://futurism.com/?p=470903",
+    "status": "published"
+  },
+  {
+    "slug": "aethercycle-designing-for-life-beyond-survival-on-the-moon",
+    "category": "space-tech",
+    "issue": "Vol. 10",
+    "publishedAt": "2026-10-17T14:00:00.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/DXCuH9B4Degd8JLcdLJFHP-1920-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "AetherCycle: Designing for Life Beyond Survival on the Moon",
+      "ja": "AetherCycle：月面で「生存」を超えた生活を設計する"
+    },
+    "dek": {
+      "en": "A new generation of closed-loop life support promises unprecedented resource efficiency, shifting the paradigm for future off-world habitats from mere utility to genuine habitability.",
+      "ja": "新世代の閉鎖型生命維持システムが前例のない資源効率を約束し、将来の地球外居住地のパラダイムを単なる実用性から真の居住性へと転換させる。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "Life Support",
+        "ja": "生命維持"
+      },
+      {
+        "en": "Lunar Habitats",
+        "ja": "月面居住"
+      },
+      {
+        "en": "Space Systems",
+        "ja": "宇宙システム"
+      },
+      {
+        "en": "Off-world Living",
+        "ja": "地球外生活"
+      }
+    ],
+    "body": {
+      "en": [
+        "The stark reality of off-world living has long been defined by resource scarcity. Every breath, every drop of water, every calorie consumed, represents a finite supply brought from Earth or painstakingly recycled. This fundamental constraint shapes the architecture and daily rhythms of space habitats. A significant leap forward in addressing this challenge is now emerging, poised to redefine what it means to live beyond Earth.",
+        "A consortium led by Orbital Systems International (OSI), in collaboration with NASA and the European Space Agency (ESA), has unveiled the AetherCycle system. This advanced closed-loop life support system (CLSS) focuses on maximizing the reclamation of vital resources, primarily water and breathable air, within a sealed environment. Its design integrates sophisticated biological and physicochemical processes to achieve unparalleled efficiency.",
+        "The AetherCycle system boasts a water recovery rate of 98% and an oxygen regeneration efficiency of 95%. This represents a substantial improvement over current systems, such as those on the International Space Station (ISS), which typically achieve around 90% water recovery. Such gains significantly reduce the mass of consumables that must be launched from Earth, thereby lowering operational costs and extending mission durations.",
+        "Scheduled for its initial deployment in late 2026, the AetherCycle will be integrated into the Lunar Gateway, the orbital outpost intended to support sustained human presence around the Moon. Its performance will be critical for validating the system's robustness and proving its capability to sustain future lunar surface habitats and potential Martian missions.",
+        "> \"The original report highlighted the system's ability to 'dramatically reduce resupply dependence'.\"",
+        "This engineering advancement carries profound implications beyond mere technical specifications. By drastically lessening the constant anxiety over resource consumption, AetherCycle frees designers and future residents to consider aspects of living that extend beyond pure functionality. The whisper of recycled air, once a mere necessity, might soon carry the quiet hum of a truly lived-in space.",
+        "It opens the door for dedicated personal spaces, small communal gardens, or even design elements that prioritize aesthetics and psychological well-being. The shift from a survival-oriented mindset to one that embraces comfort and personal expression will be a subtle yet transformative change for those calling the Moon or Mars home.",
+        "For the people who will live and work off-world, this means a future where habitats are not just machines for survival, but spaces designed with a deeper understanding of human needs. The cost of a cup of coffee, the texture of a recycled fabric, or the simple act of privacy could all become more accessible luxuries, marking a quiet evolution in off-world culture."
+      ],
+      "ja": [
+        "地球外での生活は、長らく資源の希少性によって定義されてきた。あらゆる呼吸、一滴の水、摂取するカロリーは、地球から運ばれるか、苦労して再生される有限の供給量を表している。この根本的な制約が、宇宙居住地の建築と日々のリズムを形作ってきた。この課題に対処する大きな一歩が今、地球外での生活の意味を再定義しようとしている。",
+        "Orbital Systems International (OSI)がNASAおよび欧州宇宙機関（ESA）と共同で主導するコンソーシアムは、AetherCycleシステムを発表した。この先進的な閉鎖型生命維持システム（CLSS）は、密閉された環境内で、水と呼吸可能な空気という生命維持に不可欠な資源の回収を最大化することに焦点を当てている。その設計は、洗練された生物学的および物理化学的プロセスを統合し、比類ない効率を実現している。",
+        "AetherCycleシステムは、水回収率98%、酸素再生効率95%を誇る。これは、国際宇宙ステーション（ISS）の現行システムが通常90%程度の水回収率であるのと比較して、大幅な改善を意味する。このような効率の向上は、地球から打ち上げる必要のある消耗品の質量を劇的に削減し、運用コストを低減し、ミッション期間を延長する。",
+        "2026年後半に最初の展開が予定されているAetherCycleは、月周辺での持続的な有人滞在を支援することを目的とした軌道前哨基地、月軌道ゲートウェイに統合される。その性能は、システムの堅牢性を検証し、将来の月面居住地や潜在的な火星ミッションを維持する能力を証明するために不可欠となるだろう。",
+        "> 「原文は、このシステムが『補給への依存度を劇的に減らす』能力を強調した。」",
+        "この工学的な進歩は、単なる技術仕様を超えた深遠な意味合いを持つ。資源消費に対する絶え間ない不安を劇的に軽減することで、AetherCycleは設計者や将来の居住者が、純粋な機能性以上の生活側面を考慮することを可能にする。かつては単なる必要性であった再生された空気の囁きが、やがて真に生きられた空間の静かな響きを運ぶかもしれない。",
+        "これにより、専用の個人的な空間、小さな共同庭園、あるいは美学や心理的幸福を優先するデザイン要素への道が開かれる。生存志向の考え方から、快適さや個人的な表現を受け入れる考え方への転換は、月や火星を故郷と呼ぶ人々にとって、微妙ながらも変革的な変化となるだろう。",
+        "地球外で生活し、働く人々にとって、これは居住地が単なる生存のための機械ではなく、人間のニーズをより深く理解して設計された空間となる未来を意味する。一杯のコーヒーの価格、再生繊維の質感、あるいは単なるプライバシーの確保といったことが、より身近な贅沢となり、地球外文化の静かな進化を示すことになるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The AetherCycle system represents a significant step towards making off-world living more sustainable and, crucially, more comfortable. Imagine it as an advanced, self-sufficient ecosystem in a box, capable of keeping astronauts alive and well by meticulously recycling nearly all their water and air. It's like having a super-efficient air purifier and water filter for your home, but scaled up and engineered for the extreme conditions of space.",
+        "For Tokyo readers, this technological leap might not immediately change daily life, but its implications are profound for Japan's growing space economy. Lower dependence on Earth-based resupply means the operational costs of lunar bases will decrease. This could accelerate the viability of lunar resource extraction—such as water ice for propellant or rare metals—which are critical for Japan's high-tech industries and energy security. It also means that future space tourism or extended stays off-world could become more accessible.",
+        "This impact could begin to be felt within the next 5 to 10 years. The timeline is largely gated by the successful, long-term validation of systems like AetherCycle on platforms such as the Lunar Gateway, followed by the establishment of permanent lunar surface infrastructure. International agreements on resource utilization and space governance, in which Japan plays a key role, will also be crucial factors.",
+        "Japan is already a major player in lunar exploration. Companies like ispace, with its HAKUTO-R missions, are actively developing lunar landers and rovers, laying the groundwork for future lunar bases. JAXA, through its participation in the Artemis program, is also aiming for a sustained human presence on the Moon. While AetherCycle itself is not a Japanese system, the underlying principles of efficiency and resource independence are central to Japan's vision for a thriving space ecosystem."
+      ],
+      "ja": [
+        "AetherCycleシステムは、地球外での生活を持続可能にし、そして何よりも快適にするための大きな一歩を表しています。これは、箱の中に収められた高度な自給自足の生態系のようなもので、宇宙飛行士の水をほぼすべて、空気を細部にわたってリサイクルすることで、彼らが健康に生き続けられるように設計されています。まるでご家庭の空気清浄機や浄水器が、宇宙の極限環境向けにスケールアップされ、設計されたようなものです。",
+        "東京の読者にとって、この技術的飛躍がすぐに日常生活を変えるわけではありませんが、その影響は日本の成長する宇宙経済にとって深遠です。地球からの補給への依存度が低減するということは、月面基地の運用コストが減少することを意味します。これは、推進剤となる水氷や希少金属といった月面資源の採掘の実現可能性を加速させる可能性があります。これらは日本のハイテク産業やエネルギー安全保障にとって極めて重要です。また、将来の宇宙旅行や地球外での長期滞在がより身近になる可能性も秘めています。",
+        "この影響は、今後5年から10年以内に感じられ始める可能性があります。この期間は、月軌道ゲートウェイのようなプラットフォームでのAetherCycleのようなシステムの長期的かつ成功裏な検証、そしてそれに続く恒久的な月面インフラの確立によって大きく左右されます。日本が主要な役割を果たす、資源利用と宇宙ガバナンスに関する国際的な合意もまた、重要な要素となるでしょう。",
+        "日本はすでに月面探査の主要なプレーヤーです。ispaceのような企業は、HAKUTO-Rミッションを通じて月着陸船やローバーを積極的に開発しており、将来の月面基地の基礎を築いています。JAXAもアルテミス計画への参加を通じて、月面での持続的な有人滞在を目指しています。AetherCycle自体は日本のシステムではありませんが、効率性と資源の自立というその根底にある原則は、日本の目指す活気ある宇宙エコシステムの中核をなすものです。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/stargazing/skywatching-kit/six-scientifically-accurate-star-projectors-to-turn-any-room-into-a-home-planetarium"
+    },
+    "sourceGuid": "fJs5SBJE6F32SXocFY8MaL",
+    "status": "published"
+  },
+  {
+    "slug": "the-evolving-architecture-of-off-world-living",
+    "category": "space-tech",
+    "issue": "Vol. 10",
+    "publishedAt": "2026-10-17T10:00:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/wZfG9KGX9kzGtUDSAjtvkF-1920-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "The Evolving Architecture of Off-World Living",
+      "ja": "宇宙生活の進化する建築"
+    },
+    "dek": {
+      "en": "New modular habitat designs emphasize personalization and adaptability, shifting the vision of lunar and Martian settlements from purely functional outposts to customizable homes.",
+      "ja": "新しいモジュール型居住空間デザインは、パーソナライゼーションと適応性を重視し、月や火星の居住地に対するビジョンを、純粋な機能的拠点からカスタマイズ可能な「家」へと変貌させる。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "Space Habitats",
+        "ja": "宇宙居住空間"
+      },
+      {
+        "en": "Modular Design",
+        "ja": "モジュール設計"
+      },
+      {
+        "en": "Lunar Settlements",
+        "ja": "月面居住地"
+      },
+      {
+        "en": "Mars Colonization",
+        "ja": "火星移住"
+      }
+    ],
+    "body": {
+      "en": [
+        "The image of a lunar base often evokes sterile, utilitarian structures. A recent announcement by Orbital Structures Collective, however, challenges this perception, hinting at a future where off-world environments are not merely shelters but personalized spaces.",
+        "Their LunaForm Habitat System represents a significant step in off-world architecture. Unveiled this week, it utilizes advanced composite materials, making each module approximately 30% lighter than previous designs intended for similar environments, such as early International Space Station (ISS) modules.",
+        "These components are engineered for rapid, robotic assembly, with a target deployment time of 48 hours for each 20-cubic-meter module. This efficiency allows for quicker expansion and adaptation of lunar or Martian settlements, enabling infrastructure to grow alongside human presence.",
+        "Beyond engineering, the core innovation lies in the system's emphasis on personalization. Unlike the rigid, fixed interiors of past space habitats, LunaForm modules are conceived as adaptable spaces where residents can reconfigure layouts, partition rooms, and even change surface textures.",
+        "> \"This approach moves beyond mere shelter, fostering a sense of domesticity and individual expression.\"",
+        "The original report noted this shift in philosophy. This flexibility suggests a future where off-world living spaces are not just functional containers but extensions of personal identity and evolving needs.",
+        "For those who will eventually reside on the Moon or Mars, this means more than just a roof over their heads. It implies the ability to craft environments that adapt with their lives, offering a degree of comfort and psychological well-being previously unattainable in space. The tactile feel of a recycled polymer wall, easily swapped or repainted, becomes a small but significant luxury.",
+        "This shift will likely foster new professions: off-world interior designers, habitat reconfigurators, and material artists specializing in low-gravity environments, adding a layer of cultural richness to the nascent space economy."
+      ],
+      "ja": [
+        "月面基地のイメージは、しばしば無機質で実用的な構造物を想起させる。しかし、Orbital Structures Collectiveによる最近の発表は、この認識に一石を投じるものだ。宇宙空間が単なるシェルターではなく、パーソナルな空間となる未来を示唆している。",
+        "同社が今週発表した「LunaForm居住システム」は、宇宙建築における重要な一歩を示す。このシステムは先進的な複合材料を採用しており、各モジュールは初期の国際宇宙ステーション（ISS）モジュールなど、同種の環境向けに設計された先行モデルと比較して約30%軽量化されている。",
+        "これらのコンポーネントは、ロボットによる迅速な組み立てを前提としており、20立方メートルあたり48時間という展開目標時間を設定している。この効率性により、月や火星の居住地はより迅速に拡張・適応が可能となり、人の存在とともにインフラが成長する。",
+        "エンジニアリングを超えた核となる革新は、システムのパーソナライゼーションへの重点にある。過去の宇宙居住空間が持つ固定された内装とは異なり、LunaFormモジュールは、居住者がレイアウトを再構成し、部屋を仕切り、表面の質感さえも変更できる適応性の高い空間として構想されている。",
+        "> 「このアプローチは単なるシェルターを超え、家庭的な感覚と個人の表現を育む。」",
+        "原文はこの哲学の変化を指摘している。この柔軟性は、宇宙での居住空間が単なる機能的な容器ではなく、個人のアイデンティティと進化するニーズの延長となる未来を示唆している。",
+        "月や火星で生活する人々にとって、これは単に頭上の屋根以上の意味を持つ。彼らのニーズに合わせて進化する環境を構築する能力を意味し、これまで宇宙では達成不可能だった快適さと心理的幸福度を提供するだろう。簡単に交換したり再塗装したりできる、リサイクルポリマー壁の触感は、ささやかだが重要な贅沢となる。",
+        "この変化は、宇宙空間に特化したインテリアデザイナー、居住空間再構成士、材料アーティストといった新たな専門職を生み出す可能性を秘めており、新たな宇宙経済に文化的な豊かさをもたらすだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Imagine if your apartment could change its layout every month, or if you could easily swap out walls and floors to match your mood. That's essentially what this new habitat system promises for future residents on the Moon or Mars. Instead of fixed, sterile boxes, these are modular building blocks that robots can assemble quickly, and then people can customize to make them feel like home.",
+        "While building moon bases might seem distant, the underlying materials science and robotic assembly techniques have direct implications for us here in Tokyo. Think about how disaster-resilient temporary housing could be deployed rapidly after an earthquake, or how urban spaces could be reconfigured more flexibly. The demand for lightweight, durable, and easily customizable materials will drive innovation that eventually filters down to our construction and interior design industries.",
+        "We might see early applications of these modular construction principles in niche terrestrial projects within 3-5 years, particularly in extreme environments or for rapid deployment scenarios. Widespread adoption in everyday Tokyo construction, however, would likely take 10-15 years, gated by the need for significant cost reduction, regulatory approval, and a fundamental shift in traditional construction practices.",
+        "Japan's ispace, with its focus on lunar landers and rovers, is a key player in enabling lunar infrastructure. While their direct focus isn't yet on modular habitats, their capabilities in precision lunar operations could eventually support the robotic assembly of such structures. Furthermore, companies like Kajima Corporation or Shimizu Corporation, known for their advanced construction techniques and future city concepts, could leverage these material and assembly innovations for terrestrial applications, and eventually, off-world projects."
+      ],
+      "ja": [
+        "もしあなたの住むアパートが毎月レイアウトを変えられたり、気分に合わせて壁や床を簡単に交換できたりしたらどうでしょう。この新しい居住システムは、まさにそれを月や火星の未来の居住者に約束するものです。固定された無機質な箱ではなく、ロボットが迅速に組み立て、人々が「家」と感じられるようにカスタマイズできるモジュール式の建築ブロックなのです。",
+        "月面基地の建設は遠い話に聞こえるかもしれませんが、その基盤となる材料科学やロボットによる組み立て技術は、私たち東京に住む人々にも直接的な影響を与えます。例えば、地震後に災害に強い仮設住宅を迅速に展開する方法や、都市空間をより柔軟に再構成する方法を考えてみてください。軽量で耐久性があり、簡単にカスタマイズできる材料への需要は、最終的に私たちの建設業界やインテリアデザイン業界にも波及するイノベーションを推進するでしょう。",
+        "これらのモジュール式建設原理の初期的な応用は、3〜5年以内に、特に極限環境や迅速な展開が求められる地球上のニッチなプロジェクトで見られるかもしれません。しかし、東京の日常的な建設に広く採用されるには、大幅なコスト削減、規制承認、そして従来の建設慣行の根本的な変化が必要であり、おそらく10〜15年かかるでしょう。",
+        "日本のispaceは、月面着陸機や探査機に注力しており、月面インフラを可能にする主要なプレーヤーです。彼らの直接的な焦点はまだモジュール型居住空間ではありませんが、精密な月面作業能力は、将来的にそのような構造物のロボット組み立てをサポートする可能性があります。さらに、鹿島建設や清水建設のような、先進的な建設技術と未来都市構想で知られる企業は、これらの材料と組み立ての革新を地球上の応用、そして最終的には宇宙プロジェクトに活用できるでしょう。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/stargazing/meteor-showers/the-orionid-meteor-shower-peaks-oct-21-22-2026-heres-what-to-expect"
+    },
+    "sourceGuid": "XsjTKTpDWg574stWDPAUDh",
+    "status": "published"
+  },
+  {
     "slug": "artemis-ii-the-silent-guardians-return",
     "category": "artemis",
     "issue": "Vol. 10",
@@ -695,8 +957,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "UK Initiates First Orbital Debris Removal Mission",
@@ -1293,8 +1555,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0b0b0d"
     },
     "title": {
       "en": "Voyager's Echo: Proven Technologies for Lunar Futures",
@@ -1551,8 +1813,8 @@
     "readingMinutes": 3,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "The Political Orbit: US Elections and Space's Trajectory",
@@ -1719,8 +1981,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "From Rejection to Orbit: A Software Journey Redefines Space Access",
@@ -1975,8 +2237,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0f12"
     },
     "title": {
       "en": "Precision and Navigation: A New Star Sensor for LEO",
@@ -2233,8 +2495,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0b0b0d"
+      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Starlink's Terrestrial Battle: India's Digital Frontier",
@@ -2405,8 +2667,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0f12"
+      "src": "https://images.unsplash.com/photo-1532618793091-ec5fe9635fbd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Xona's Commercial Navigation Service: Charting New Orbits",
@@ -2491,8 +2753,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Kapta Space Secures $24M for Advanced Orbital Radar",
@@ -2579,8 +2841,8 @@
     "readingMinutes": 3,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Accelerated Lunar Base Bolstered by Space Nuclear Pact",
@@ -3179,8 +3441,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532618793091-ec5fe9635fbd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101010"
     },
     "title": {
       "en": "Artemis II: Charting Lunar Familiarity",
@@ -3352,8 +3614,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101010"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "The Architects of Orbit: SpaceNews Icons for 2026",
@@ -3436,8 +3698,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Xona Accelerates Pulsar Constellation for Off-World Precision",
@@ -3522,8 +3784,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "Mars Express Uncovers 'Exotic Physics' in Martian Cloud Formation",
@@ -3606,8 +3868,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "Advanced Coatings Expand Thermal Control for Off-World Habitats",
@@ -3696,8 +3958,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "A Golden Dome for US Space: Huntsville and Colorado Springs Forge New Alliance",
@@ -3778,8 +4040,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "ESA Forges Global Space Partnerships at IAC 2026",
@@ -3948,8 +4210,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "Orbital Congestion: The Looming Gridlock of Megaconstellations",
@@ -4034,8 +4296,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Mexico's Space Ecosystem Secures $700M Investment",
@@ -4120,8 +4382,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "ESA Advocates for Stronger European Space Role at IAC",
@@ -4290,8 +4552,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Agile Space Industries Bolsters Leadership for Future In-Space Operations",
@@ -4632,8 +4894,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Frontier Energy Research: Fueling Future Off-world Habitats",
@@ -5066,8 +5328,8 @@
     "readingMinutes": 3,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "The Silent Hum: Powering Orbital Data Centers",
@@ -5152,8 +5414,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101012"
     },
     "title": {
       "en": "Expanding the Lunar Horizon: NASA's New Science Mandate for Artemis",
@@ -5238,8 +5500,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Insuring the Void: Financial Foundations for Off-World Ventures",
@@ -5324,8 +5586,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Orbital Intelligence: Satellites That Think",
@@ -5494,8 +5756,8 @@
     "readingMinutes": 3,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "Smile Mission Begins Scientific Observations, Charting Earth's Solar Wind Response",
@@ -5666,8 +5928,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#08080a"
     },
     "title": {
       "en": "Lunar Communications: Building a Network for the Moon's Future Residents",
@@ -5838,8 +6100,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Commercial Satcom: A New Frontier for Defense Spending",
@@ -6358,8 +6620,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Beyond Rockets: The Expanding Orbit of Earth's Economy",
@@ -6444,8 +6706,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "Boeing Starliner Resets Course After 2024 Incident, Crewed Flight Pushed to 2028",
@@ -6608,262 +6870,6 @@
       "url": "https://futurism.com/space/scientists-venus-devoured-moon"
     },
     "sourceGuid": "https://futurism.com/?p=465744",
-    "status": "published"
-  },
-  {
-    "slug": "spacex-prepares-for-defining-orbital-test",
-    "category": "space-tech",
-    "issue": "Vol. 09",
-    "publishedAt": "2026-09-25T14:51:04.000Z",
-    "readingMinutes": 3,
-    "feature": true,
-    "cover": {
-      "src": "https://futurism.com/wp-content/uploads/2026/09/starship-test-flight-important.jpg?quality=85&amp;w=2048",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "SpaceX Prepares for Defining Orbital Test",
-      "ja": "SpaceX、次世代ロケットの軌道試験飛行を準備"
-    },
-    "dek": {
-      "en": "The upcoming orbital test flight of SpaceX's next-generation heavy-lift vehicle carries significant implications for future space operations and off-world habitation.",
-      "ja": "SpaceXの次世代超大型ロケットによる軌道試験飛行は、今後の宇宙運用と地球外居住に重大な意味を持つ。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "STARBASE, TEXAS",
-      "ja": "テキサス州スターベース"
-    },
-    "tags": [
-      {
-        "en": "SpaceX",
-        "ja": "スペースX"
-      },
-      {
-        "en": "Starship",
-        "ja": "スターシップ"
-      },
-      {
-        "en": "Lunar Missions",
-        "ja": "月ミッション"
-      },
-      {
-        "en": "Mars Missions",
-        "ja": "火星ミッション"
-      }
-    ],
-    "body": {
-      "en": [
-        "Anticipation is building at Starbase, Texas, as SpaceX readies its Starship vehicle for a critical orbital test flight. The launch, expected this week, represents a pivotal moment for the private space company and its long-term aspirations for deep-space exploration.",
-        "This integrated flight test will see the towering Starship, designed to be fully reusable, attempt to reach orbit for the first time in its complete configuration. The vehicle, a stainless steel marvel, stands as the most powerful rocket ever built, intended to transport both cargo and humans to the Moon, Mars, and beyond.",
-        "The stakes are remarkably high. The original report notes, \"> A lot is riding on this attempt.\"",
-        "Success in this endeavor would validate key aspects of SpaceX's design philosophy and accelerate its development timelines. It would demonstrate the feasibility of a truly reusable heavy-lift system, fundamentally altering the economics of space access.",
-        "For those envisioning a future off-world, this test is more than a technical milestone. A successful Starship could enable the routine transport of the massive quantities of materials needed to construct lunar habitats, Martian settlements, and orbital infrastructures.",
-        "The sheer volume and lower cost per kilogram promised by Starship could transform off-world living from an aspirational concept into a logistical reality. It implies a future where the materials for a lunar dome, the components for a Martian farm, or the vital supplies for an orbital research station are no longer prohibitively expensive to deliver.",
-        "This shift suggests new professions in off-world logistics and construction, a re-evaluation of material sourcing, and a tangible reduction in the anxiety associated with maintaining supply lines across vast cosmic distances. The texture of life beyond Earth will be shaped by the vehicles that carry its foundations."
-      ],
-      "ja": [
-        "テキサス州スターベースでは、SpaceXがスターシップの軌道試験飛行を準備しており、期待が高まっている。今週にも予定されているこの打ち上げは、同社の深宇宙探査への長期的な野望にとって極めて重要な瞬間となるだろう。",
-        "この統合飛行試験では、完全に再利用可能な設計の巨大なスターシップが、完全な構成で初めて軌道到達を目指す。このステンレス鋼製の壮大な機体は、これまでに建造されたロケットの中で最も強力であり、月、火星、そしてその先へと貨物と人間を輸送することを目的としている。",
-        "その成否には非常に大きなものがかかっている。原文では、「> A lot is riding on this attempt.（この試みには多くのものがかかっている）」と述べられている。",
-        "この試みが成功すれば、SpaceXの設計思想の主要な側面が検証され、開発スケジュールが加速されるだろう。それは真に再利用可能な超大型輸送システムの実現可能性を証明し、宇宙へのアクセスの経済性を根本的に変えることになる。",
-        "地球外での未来を思い描く人々にとって、この試験は単なる技術的節目以上の意味を持つ。スターシップが成功すれば、月面居住施設、火星入植地、軌道インフラの建設に必要な膨大な量の物資を日常的に輸送することが可能になる。",
-        "スターシップが約束する圧倒的な輸送量とキログラムあたりの低コストは、地球外居住を単なる理想的な概念から、物流的に現実的なものへと変える可能性がある。それは、月面ドームの資材、火星農場の部品、あるいは軌道研究ステーションへの不可欠な物資の輸送が、もはや法外な費用を要しない未来を示唆している。",
-        "この変化は、地球外での物流や建設における新たな職業、資材調達の再評価、そして広大な宇宙空間を越えて供給線を維持することに伴う不安の具体的な軽減を意味する。地球外での生活の質感は、その基盤を運ぶ乗り物によって形作られるだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "SpaceX is preparing for a major test flight of its Starship rocket, a colossal vehicle designed to carry unprecedented amounts of cargo and people to the Moon and Mars. Think of it as a next-generation space freight train or a multi-story bus for interplanetary travel. Its goal is to make space travel, especially to distant destinations, much more affordable and frequent.",
-        "For Tokyo readers, the direct impact might not be immediate, but the ripple effects are significant. Cheaper and more frequent heavy-lift launches mean that critical infrastructure in orbit—like communication satellites, GPS constellations, and future space stations—can be built and maintained more easily. This could lead to even more reliable internet access, enhanced weather forecasting, and more precise navigation services right here on Earth.",
-        "We could see these benefits materialize within 5-10 years. The timeline depends on Starship achieving consistent flight success and demonstrating its full reusability, which directly translates to lower operational costs. Japan's own investment in satellite technologies and its participation in international space programs will also influence how quickly these advantages are integrated into daily life.",
-        "While Japan's JAXA and private companies like ispace are making strides in lunar exploration and launch capabilities, there isn't yet a domestic counterpart to Starship's ultra-heavy-lift capacity. The H3 rocket, for instance, is a capable launch vehicle, but Starship operates on a different scale entirely. Japan will likely need to either develop its own super-heavy launcher or continue to rely on international partners for large-scale logistics to truly participate in the future off-world economy."
-      ],
-      "ja": [
-        "SpaceXは、月や火星へ前例のない量の物資や人々を運ぶために設計された巨大ロケット「スターシップ」の重要な試験飛行を準備しています。これは、次世代の宇宙貨物列車、あるいは惑星間旅行用の多階建てバスのようなものと考えてください。その目的は、特に遠い目的地への宇宙旅行を、はるかに安価で頻繁にすることです。",
-        "東京の読者にとって、直接的な影響はすぐには感じられないかもしれませんが、その波及効果は非常に大きいでしょう。より安価で頻繁な超大型ロケットの打ち上げは、通信衛星、GPS衛星群、将来の宇宙ステーションといった軌道上の重要なインフラが、より容易に構築・維持できることを意味します。これにより、地球上でのインターネットアクセスがさらに安定し、天気予報が向上し、より精密なナビゲーションサービスが実現する可能性があります。",
-        "これらの恩恵が具体化するのは、5年から10年以内と見られます。この期間は、スターシップが安定した飛行実績を積み重ね、完全な再利用性を実証し、運用コストを大幅に削減できるかどうかにかかっています。日本の衛星技術への投資や国際宇宙プログラムへの参加も、これらの利点が日常生活にどれだけ早く統合されるかに影響を与えるでしょう。",
-        "日本のJAXAやispaceのような民間企業は、月探査や打ち上げ能力で進歩を遂げていますが、スターシップのような超大型輸送能力を持つ国内の同等品はまだありません。例えば、H3ロケットは優れた打ち上げ機ですが、スターシップは全く異なる規模で運用されます。日本が将来の地球外経済に本格的に参加するためには、独自の超大型ロケットを開発するか、大規模な物流を国際的なパートナーに依存し続ける必要があるでしょう。"
-      ]
-    },
-    "source": {
-      "name": "Futurism",
-      "url": "https://futurism.com/space/spacex-preparing-most-important-starship-launch"
-    },
-    "sourceGuid": "https://futurism.com/?p=465702",
-    "status": "published"
-  },
-  {
-    "slug": "nasas-prima-accelerating-the-cosmos",
-    "category": "research",
-    "issue": "Vol. 09",
-    "publishedAt": "2026-09-25T14:07:46.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/prima_art-1152x648.jpg",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "NASA's PRIMA: Accelerating the Cosmos",
-      "ja": "NASAのPRIMA：宇宙開発の加速"
-    },
-    "dek": {
-      "en": "NASA aims to construct a billion-dollar space telescope in record time, setting a new precedent for complex scientific instrument development and deployment.",
-      "ja": "NASAは10億ドル規模の宇宙望遠鏡を記録的な速さで建造する計画を進めており、複雑な科学機器の開発と配備に新たな基準を打ち立てます。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Washington D.C.",
-      "ja": "ワシントンD.C."
-    },
-    "tags": [
-      {
-        "en": "NASA",
-        "ja": "NASA"
-      },
-      {
-        "en": "Space Telescope",
-        "ja": "宇宙望遠鏡"
-      },
-      {
-        "en": "Research",
-        "ja": "研究"
-      },
-      {
-        "en": "Space Tech",
-        "ja": "宇宙技術"
-      }
-    ],
-    "body": {
-      "en": [
-        "The vastness of space continues to call for ever more sophisticated instruments. NASA's latest endeavor, the PRIMA telescope, represents a significant shift in the approach to building these complex scientific assets.",
-        "Traditionally, large-scale space observatories demand decades of development, from initial concept to operational deployment. PRIMA, however, is being conceived with an aggressive timeline, aiming to deliver a billion-dollar instrument in what is described as record time.",
-        "This accelerated pace challenges established norms of aerospace engineering and project management. It suggests a future where the lead time for critical space infrastructure, be it for scientific discovery or commercial enterprise, could be dramatically reduced.",
-        "The ambition is not merely to build another telescope, but to prove that high-value, high-precision instruments can be brought online with unprecedented efficiency. This would free up resources and accelerate the cadence of scientific exploration.",
-        "> \"The goal is to demonstrate a new paradigm for rapid, cost-effective deployment of advanced space assets.\"",
-        "Such a capability has profound implications beyond astronomy. For those establishing permanent presences off-world, the ability to rapidly design, manufacture, and deploy complex systems — from power grids to atmospheric processors — will be paramount.",
-        "The lessons learned from PRIMA's expedited development could directly inform the construction of lunar bases or Martian outposts. It points to a future where the timeline for building and expanding off-world habitats is measured in years, not decades, making life and work beyond Earth a more immediate reality."
-      ],
-      "ja": [
-        "広大な宇宙は、常にさらに洗練された観測機器を求めています。NASAの最新の取り組みであるPRIMA望遠鏡は、これら複雑な科学資産を構築するアプローチにおける重要な転換点を示します。",
-        "従来、大規模な宇宙天文台は、初期構想から運用配備まで数十年にも及ぶ開発期間を要してきました。しかし、PRIMAは積極的なスケジュールで構想されており、10億ドル規模の機器を記録的な速さで完成させることを目指しています。",
-        "この加速されたペースは、航空宇宙工学およびプロジェクト管理の確立された規範に挑戦します。これは、科学的発見であろうと商業的事業であろうと、重要な宇宙インフラのリードタイムが劇的に短縮される可能性を示唆しています。",
-        "その野心は単に別の望遠鏡を建造することに留まらず、高価値で高精度な機器を前例のない効率で稼働させられることを証明することにあります。これにより、資源が解放され、科学探査の頻度が加速されるでしょう。",
-        "> 「目標は、先進的な宇宙資産を迅速かつ費用対効果高く配備するための新しいパラダイムを示すことです。」",
-        "このような能力は、天文学を超えて深遠な意味を持ちます。地球外に恒久的な拠点を確立しようとする人々にとって、電力網から大気処理装置に至るまで、複雑なシステムを迅速に設計、製造、配備する能力は極めて重要になります。",
-        "PRIMAの迅速な開発から得られる教訓は、月面基地や火星前哨基地の建設に直接応用される可能性があります。これは、地球外居住地の建設と拡張の期間が数十年ではなく数年で測られる未来を示し、地球外での生活と仕事をより身近な現実にするでしょう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "NASA's plan to build the PRIMA space telescope quickly and within a billion-dollar budget is a significant step. Think of it like building a highly advanced, specialized camera – one that can see far into the universe – not in the usual 20-30 years, but in a fraction of that time. This isn't just about the telescope itself; it's about proving that very complex space projects can be done much faster and more efficiently than before.",
-        "For those of us in Tokyo, this focus on rapid development of complex systems could have several impacts. If space hardware can be produced more quickly and affordably, it means scientific discoveries from such telescopes might reach us sooner. More broadly, the methods developed for PRIMA could eventually speed up the deployment of Earth observation satellites, improving weather forecasts, disaster monitoring, or even enhancing the precision of GPS services we use daily.",
-        "This kind of acceleration in space development is likely to be felt within 5 to 10 years. The key gating factor will be how effectively NASA can transfer these rapid prototyping and manufacturing techniques from a scientific instrument to other types of space infrastructure, such as communication networks or resource prospecting tools, and how these technologies are then shared or licensed internationally.",
-        "Japan's own space sector, particularly JAXA and companies like Mitsubishi Heavy Industries, is also pursuing greater efficiency and speed. While not directly building a billion-dollar telescope, projects like the H3 rocket aim to reduce launch costs and increase launch cadence. Similarly, companies such as Synspective are rapidly deploying constellations of Earth observation satellites. The challenge for Japan lies in applying these principles to large-scale, cutting-edge scientific instruments, perhaps through international collaboration or by fostering domestic expertise in rapid, high-precision manufacturing for space."
-      ],
-      "ja": [
-        "NASAがPRIMA宇宙望遠鏡を迅速かつ10億ドルという予算内で建造する計画は、非常に重要な一歩です。これは、宇宙の奥深くを見通すことができる、非常に高度な特殊カメラを、通常の20〜30年ではなく、そのはるかに短い期間で建造するようなものです。これは単に望遠鏡そのものだけでなく、非常に複雑な宇宙プロジェクトが以前よりもはるかに迅速かつ効率的に実行できることを証明しようとする試みです。",
-        "私たち東京に住む者にとって、このような複雑なシステムの迅速な開発はいくつかの影響をもたらす可能性があります。宇宙ハードウェアがより迅速かつ手頃な価格で製造できるようになれば、そのような望遠鏡からの科学的発見がより早く私たちのもとに届くかもしれません。より広範には、PRIMAのために開発された手法が、最終的に地球観測衛星の配備を加速させ、天気予報や災害監視の改善、あるいは私たちが日常的に利用するGPSサービスの精度向上にも繋がる可能性があります。",
-        "このような宇宙開発の加速は、今後5年から10年以内に実感されるでしょう。主要なボトルネックは、NASAがこれらの迅速なプロトタイピングおよび製造技術を、科学機器から通信ネットワークや資源探査ツールといった他の種類の宇宙インフラにどれだけ効果的に転用できるか、そしてこれらの技術が国際的にどのように共有またはライセンス供与されるかです。",
-        "日本の宇宙分野、特にJAXAや三菱重工業のような企業も、効率性と速度の向上を追求しています。直接10億ドル規模の望遠鏡を建造しているわけではありませんが、H3ロケットのようなプロジェクトは、打ち上げコストの削減と打ち上げ頻度の向上を目指しています。同様に、Synspectiveのような企業は、地球観測SAR衛星のコンステレーションを迅速に展開しています。日本にとっての課題は、国際協力や、迅速かつ高精度な宇宙向け製造における国内専門知識の育成を通じて、これらの原則を大規模で最先端の科学機器に応用することにあるでしょう。"
-      ]
-    },
-    "source": {
-      "name": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/"
-    },
-    "sourceGuid": "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/",
-    "status": "published"
-  },
-  {
-    "slug": "consolidation-in-orbit-rocket-labs-strategic-expansion",
-    "category": "space-tech",
-    "issue": "Vol. 09",
-    "publishedAt": "2026-09-25T12:51:00.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
-    },
-    "title": {
-      "en": "Consolidation in Orbit: Rocket Lab's Strategic Expansion",
-      "ja": "軌道上の再編：ロケット・ラボの戦略的拡大"
-    },
-    "dek": {
-      "en": "Rocket Lab's acquisition of Iridium signals a growing trend of market consolidation in the commercial space sector, reshaping the landscape of integrated services.",
-      "ja": "ロケット・ラボによるイリジウム買収は、商業宇宙分野における市場統合の傾向を明確にし、統合型サービスのあり方を再構築する。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "Rocket Lab",
-        "ja": "ロケット・ラボ"
-      },
-      {
-        "en": "Iridium",
-        "ja": "イリジウム"
-      },
-      {
-        "en": "M&A",
-        "ja": "M&A"
-      },
-      {
-        "en": "Space Economy",
-        "ja": "宇宙経済"
-      }
-    ],
-    "body": {
-      "en": [
-        "The commercial space sector is undergoing a quiet but profound transformation. Mergers and acquisitions are reshaping the competitive landscape, consolidating power and streamlining service offerings across the value chain.",
-        "A significant move in this direction comes from Rocket Lab, the small satellite launch provider, which has secured overwhelming shareholder approval for its acquisition of Iridium. This transaction brings together Rocket Lab's launch capabilities with Iridium's established constellation of communication satellites.",
-        "Iridium operates a global network of 66 active satellites providing voice and data connectivity, particularly valuable for remote areas and maritime use. Integrating this infrastructure with Rocket Lab's launch and spacecraft manufacturing expertise positions the combined entity for broader market reach.",
-        "Rocket Lab CFO Adam Spice has indicated that this is not an isolated event. He predicts a future with \"more M&A on the horizon,\" suggesting an ongoing trend of consolidation as companies seek efficiency and comprehensive service portfolios.",
-        "This strategic vertical integration aims to offer customers a seamless experience from payload delivery to in-orbit operations and data transmission. The vastness of space, once a canvas for individual ambition, is now being gridded by integrated market forces.",
-        "The implications extend beyond corporate balance sheets. For those who will eventually live and work beyond Earth, this consolidation signals a future where essential services—from communication to navigation—are delivered by fewer, larger entities. This could mean more robust, ubiquitous networks, but also fewer choices and potentially centralized control over off-world digital infrastructure."
-      ],
-      "ja": [
-        "商業宇宙産業は、静かながらも深遠な変革期を迎えている。M&A（企業の合併・買収）が競争環境を再構築し、力を集約し、バリューチェーン全体でサービス提供を合理化している。",
-        "この動きを象徴するのが、小型衛星打ち上げサービスを提供するロケット・ラボ社によるイリジウム社の買収だ。イリジウムの株主は、この買収案を圧倒的多数で承認した。これにより、ロケット・ラボの打ち上げ能力と、イリジウムが確立した通信衛星コンステレーションが統合されることになる。",
-        "イリジウムは、66基の現役衛星からなるグローバルネットワークを運用し、特に遠隔地や海上での音声・データ通信を提供している。このインフラをロケット・ラボの打ち上げおよび宇宙船製造の専門知識と統合することで、新生企業はより広範な市場への展開が可能となる。",
-        "ロケット・ラボのCFOであるアダム・スパイス氏は、これが単発的な出来事ではないと示唆している。彼は「さらなるM&Aが地平線上にある」と予測し、効率性と包括的なサービスポートフォリオを追求する企業による統合トレンドが続くことを示唆している。",
-        "この戦略的な垂直統合は、ペイロードの輸送から軌道上運用、データ伝送に至るまで、顧客にシームレスな体験を提供することを目的としている。かつて個々の野心のキャンバスであった広大な宇宙は、今や統合された市場の力によって網羅されつつある。",
-        "その影響は企業の貸借対照表を超えて広がる。いずれ地球外で生活し、働く人々にとって、この統合は通信から航法に至るまで、不可欠なサービスがより少数の、大規模な事業体によって提供される未来を示唆する。これは、より堅牢で遍在するネットワークをもたらす可能性がある一方で、選択肢の減少や、地球外のデジタルインフラに対する集権的な管理という側面も持ちうる。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Rocket Lab, a company known for launching small satellites, is acquiring Iridium, which operates a large network of communication satellites. Think of it like a space delivery company merging with a global mobile phone network provider. This creates a more integrated business, offering both launch and communication services from a single entity.",
-        "This consolidation could lead to more stable and potentially cheaper satellite communication services. For Tokyo readers, this might mean improved reliability for services that depend on global satellite links, such as remote sensing data for disaster prediction, or even better connectivity for future devices that utilize satellite backbones. It also impacts the competitive landscape for Japanese companies aiming for similar integrated offerings.",
-        "This trend of market consolidation is already underway. The direct impact of this specific merger might be felt within 2-3 years as the combined entity optimizes operations and pricing. Broader market consolidation will continue for 5-10 years, driven by the need for efficiency and scale in a capital-intensive industry.",
-        "Japan has its own players in the space sector. Mitsubishi Heavy Industries (MHI) is a major player in launch with the H3 rocket, and companies like Sky Perfect JSAT operate satellite communication networks. While MHI focuses on launch and major satellite manufacturing, and JSAT on comms, there isn't a single entity yet that combines both launch and a global communication constellation in the same way Rocket Lab and Iridium are doing. The closest might be a future integration play between a domestic launch provider and a Japanese satellite operator, or a strategic partnership."
-      ],
-      "ja": [
-        "小型衛星の打ち上げで知られるロケット・ラボ社が、広範な通信衛星ネットワークを持つイリジウム社を買収します。これは、宇宙の運送会社が地球規模の携帯電話ネットワーク事業者と合併するようなものです。打ち上げと通信サービスの両方を一貫して提供できる、より統合された事業体が生まれます。",
-        "このような業界再編は、衛星通信サービスの安定化とコスト削減につながる可能性があります。東京の読者にとっては、災害予測のためのリモートセンシングデータなど、グローバルな衛星リンクに依存するサービスの信頼性向上、あるいは将来的に衛星バックボーンを利用するデバイスの接続性改善といった形で影響が出るかもしれません。また、同様の統合サービスを目指す日本の企業にとっても、競争環境に変化をもたらします。",
-        "この市場統合の動きはすでに始まっています。今回の合併自体の直接的な影響は、両社が事業を最適化し、価格設定を見直すことで2〜3年以内に感じられるかもしれません。より広範な市場統合は、資本集約的な宇宙産業における効率と規模の必要性から、今後5〜10年間続くと考えられます。",
-        "日本にも関連プレイヤーはいます。三菱重工業（MHI）はH3ロケットで打ち上げの主要プレイヤーであり、スカパーJSATのような企業が衛星通信ネットワークを運営しています。しかし、ロケット・ラボとイリジウムのように、打ち上げとグローバル通信衛星コンステレーションの両方を一社で統合的に提供するような企業は、まだ国内には見当たりません。MHIは打ち上げと大型衛星製造、JSATは通信に特化しており、国内の打ち上げ事業者と衛星事業者が戦略的に連携する、あるいは将来的に統合する可能性が考えられます。"
-      ]
-    },
-    "source": {
-      "name": "Payload",
-      "url": "https://payloadspace.com/rocket-lab-cfo-adam-spice-predicts-more-ma-deals-on-the-horizon/"
-    },
-    "sourceGuid": "https://payloadspace.com/?p=32946",
     "status": "published"
   }
 ]

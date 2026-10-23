@@ -1,5 +1,264 @@
 [
   {
+    "slug": "the-interoperable-sky-aalyrias-vision-for-unified-space-networks",
+    "category": "space-tech",
+    "issue": "Vol. 10",
+    "publishedAt": "2026-10-22T18:13:38.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
+    },
+    "title": {
+      "en": "The Interoperable Sky: Aalyria's Vision for Unified Space Networks",
+      "ja": "相互運用可能な宇宙：Aalyriaが描く統合型宇宙ネットワークの未来"
+    },
+    "dek": {
+      "en": "As orbital traffic intensifies, the challenge of disparate communication systems grows. Aalyria proposes a software-defined solution to unify space networks, promising a future of seamless data flow across the cosmos.",
+      "ja": "軌道交通が激化する中、多様な通信システムの課題は増大している。Aalyriaは、ソフトウェア定義型のアプローチで宇宙ネットワークを統合し、宇宙空間におけるシームレスなデータフローの未来を提示する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO – October 22, 2026",
+      "ja": "東京 – 2026年10月22日"
+    },
+    "tags": [
+      {
+        "en": "Space Networks",
+        "ja": "宇宙ネットワーク"
+      },
+      {
+        "en": "Software-Defined Networking",
+        "ja": "ソフトウェア定義型ネットワーク"
+      },
+      {
+        "en": "Interoperability",
+        "ja": "相互運用性"
+      },
+      {
+        "en": "Satellite Communication",
+        "ja": "衛星通信"
+      }
+    ],
+    "body": {
+      "en": [
+        "The landscape of space communication, once a patchwork of bespoke systems, is now confronting an urgent need for cohesion. As more satellites and missions launch, the inefficiencies of siloed networks become increasingly apparent, hindering the flow of critical data.",
+        "Aalyria, a company emerging from Google's advanced projects division, is advocating for a fundamental shift. Their focus is on creating a unified, software-defined network architecture that can manage diverse communications assets, from terrestrial ground stations to deep-space probes.",
+        "Brian Barritt, CEO of Aalyria, emphasizes the necessity of this evolution. Current space networks often operate in isolation, requiring complex, custom solutions for each new mission or satellite constellation. This approach is unsustainable for the burgeoning space economy.",
+        "The core of Aalyria's proposal lies in software interoperability. By establishing a common operating system for space communications, they aim to enable any satellite or ground station to communicate seamlessly with another, regardless of its manufacturer or specific hardware.",
+        "> \"Networks are evolving, and the role of software interoperability is key.\"",
+        "This paradigm shift from hardware-centric to software-centric networking promises substantial benefits. It could drastically reduce latency, improve data throughput, and enhance the resilience of space-based infrastructure, making communication more robust and adaptable.",
+        "For those who will live and work off-world, this integrated network is not merely an efficiency upgrade; it is a foundational utility. Imagine a lunar habitat where real-time video calls to Earth are as reliable as terrestrial ones, or Martian rovers sharing high-fidelity sensor data instantly with a nearby human outpost. This seamless digital fabric will underpin daily life, commerce, and scientific endeavor, transforming isolated outposts into truly connected communities. The psychological burden of distance may, at last, begin to recede."
+      ],
+      "ja": [
+        "かつて特注システムの寄せ集めであった宇宙通信の状況は、今や緊急の統合を必要としている。より多くの衛星やミッションが打ち上げられるにつれて、孤立したネットワークの非効率性が顕著になり、重要なデータフローを阻害している。",
+        "Googleの先進プロジェクト部門から生まれたAalyriaは、根本的な転換を提唱している。彼らの焦点は、地上局から深宇宙探査機まで、多様な通信資産を管理できる統一されたソフトウェア定義型ネットワークアーキテクチャの構築にある。",
+        "Aalyriaのブライアン・バリットCEOは、この進化の必要性を強調する。現在の宇宙ネットワークはしばしば孤立して運用されており、新しいミッションや衛星コンステレーションごとに複雑なカスタムソリューションが求められる。このアプローチは、成長する宇宙経済にとって持続不可能だ。",
+        "Aalyriaの提案の核心は、ソフトウェアの相互運用性にある。宇宙通信のための共通オペレーティングシステムを確立することで、メーカーや特定のハードウェアに関わらず、あらゆる衛星や地上局が互いにシームレスに通信できるようにすることを目指している。",
+        "> 「ネットワークは進化しており、ソフトウェアの相互運用性が鍵を握る。」",
+        "ハードウェア中心からソフトウェア中心のネットワーキングへのこのパラダイムシフトは、大きな利益を約束する。遅延を劇的に削減し、データスループットを向上させ、宇宙インフラのレジリエンスを高めることで、通信をより堅牢で適応性の高いものにするだろう。",
+        "## 宇宙生活における意味",
+        "月面や火星で暮らし、働く人々にとって、この統合されたネットワークは単なる効率化ではない。それは基盤となるユーティリティだ。地球とのリアルタイムビデオ通話が地上と同じくらい信頼できる月面居住地や、火星探査車が近くの有人基地と高精細なセンサーデータを瞬時に共有する光景を想像してみてほしい。このシームレスなデジタル基盤は、日常生活、商業、科学的探求を支え、孤立した前哨基地を真に接続されたコミュニティへと変貌させるだろう。距離がもたらす心理的負担は、ついに軽減され始めるかもしれない。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Aalyria's work is about making all the different communication systems in space — satellites, ground stations, even future lunar bases — speak the same language. Think of it like a universal adapter for every device you own, but for global and interplanetary data flow. Instead of each satellite constellation needing its own bespoke communication method, they could all plug into a common, software-managed network.",
+        "For Tokyo readers, this means a future where services reliant on satellite data become significantly more robust and efficient. Your smartphone's GPS could become even more precise, and satellite internet services, crucial for remote areas or disaster response, would see reduced latency and increased reliability. It also implies a more stable backbone for critical infrastructure like weather forecasting and early warning systems, making daily life in a dense urban environment like Tokyo subtly smoother and safer.",
+        "This kind of universal interoperability is likely 3-5 years away from widespread implementation. The gating factor isn't just the technology itself, but also the establishment of international standards and the phased upgrade of existing satellite constellations. Japan's space policy and investment in next-generation satellite technology will play a crucial role in how quickly these benefits materialize.",
+        "Japan is already heavily invested in advanced satellite technology and operations. Companies like Synspective, which deploys its own radar satellites, and Astroscale, focusing on orbital debris removal and satellite life extension, would directly benefit from such interoperable networks. JAXA's upcoming lunar missions, like MMX, would also find their deep-space communication significantly streamlined. While a direct Japanese counterpart for a 'universal space OS' isn't prominent yet, the infrastructure and operational needs are clearly aligned with Japan's strategic space interests."
+      ],
+      "ja": [
+        "Aalyriaの取り組みは、宇宙空間にある様々な通信システム、つまり衛星や地上局、さらには将来の月面基地が、すべて同じ言語で話せるようにすることを目指しています。これは、皆さんが持っているあらゆる機器に使えるユニバーサルアダプターのようなものですが、それが地球規模、そして惑星間のデータフローに適用されると想像してください。それぞれの衛星コンステレーションが独自の通信方式を必要とする代わりに、共通のソフトウェア管理されたネットワークに接続できるようになるわけです。",
+        "東京の読者にとって、これは衛星データに依存するサービスが、将来的に格段に堅牢で効率的になることを意味します。スマートフォンのGPSはさらに高精度になり、遠隔地や災害対応に不可欠な衛星インターネットサービスは、遅延が減り信頼性が向上するでしょう。また、気象予報や早期警報システムといった重要インフラの安定した基盤も強化され、東京のような高密度な都市での日常生活が、より円滑で安全になる可能性を秘めています。",
+        "このような普遍的な相互運用性が広く導入されるまでには、おそらく3〜5年かかるでしょう。その鍵となるのは、技術そのものだけでなく、国際的な標準の確立と、既存の衛星コンステレーションの段階的なアップグレードです。日本の宇宙政策と次世代衛星技術への投資が、これらの恩恵がどれだけ早く実現するかに重要な役割を果たすでしょう。",
+        "日本はすでに先進的な衛星技術と運用に深く投資しています。例えば、独自のレーダー衛星を展開するSynspectiveや、軌道上のデブリ除去や衛星寿命延長に取り組むAstroscaleのような企業は、このような相互運用可能なネットワークから直接的な恩恵を受けるでしょう。JAXAのMMXのような将来の月探査ミッションも、深宇宙通信が大幅に効率化されることになります。「宇宙のユニバーサルOS」に直接対応する日本の企業はまだ顕著ではありませんが、そのインフラと運用ニーズは、日本の戦略的宇宙利益と明確に合致しています。"
+      ]
+    },
+    "source": {
+      "name": "SpaceNews",
+      "url": "https://spacenews.com/rethinking-networks-in-space-with-aalyrias-brian-barritt/"
+    },
+    "sourceGuid": "https://spacenews.com/?p=622594",
+    "status": "published"
+  },
+  {
+    "slug": "xona-secures-250m-for-commercial-gps-constellation",
+    "category": "space-tech",
+    "issue": "Vol. 10",
+    "publishedAt": "2026-10-22T13:00:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
+    },
+    "title": {
+      "en": "Xona Secures $250M for Commercial GPS Constellation",
+      "ja": "Xonaが商用GPS網構築へ2億5000万ドル調達"
+    },
+    "dek": {
+      "en": "The funding round positions Xona to scale its satellite network, offering an independent, high-precision alternative to government-operated global positioning systems.",
+      "ja": "Xonaは資金調達により衛星ネットワークを拡大し、政府系システムに代わる高精度な商用測位サービスを提供することを目指す。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "REDMOND, WASHINGTON – October 22, 2026",
+      "ja": "ワシントン州レドモンド – 2026年10月22日"
+    },
+    "tags": [
+      {
+        "en": "GPS",
+        "ja": "GPS"
+      },
+      {
+        "en": "Satellite Navigation",
+        "ja": "衛星測位"
+      },
+      {
+        "en": "Commercial Space",
+        "ja": "商業宇宙"
+      },
+      {
+        "en": "Funding",
+        "ja": "資金調達"
+      }
+    ],
+    "body": {
+      "en": [
+        "The landscape of global navigation is shifting. Xona, a company developing a commercial satellite navigation system, has successfully closed a Series D funding round, securing $250 million. This significant investment is earmarked for the expansion of its planned constellation, which aims to provide an independent, high-precision positioning service.",
+        "Traditional global positioning systems have long been the domain of governments, developed primarily for military and strategic applications before their civilian release. Xona's initiative represents a move towards privatized infrastructure in this critical sector, promising enhanced accuracy and resilience.",
+        "The company's long-term vision involves deploying a network of approximately 258 satellites. This extensive constellation is designed to offer a robust alternative to existing government-backed GPS networks, catering to a growing demand for precise location data in various commercial applications.",
+        "The capital injection will accelerate the development and launch schedule for these satellites. As more industries rely on accurate positioning for autonomous vehicles, logistics, and critical infrastructure, the need for diversified and reliable navigation sources becomes paramount.",
+        "> \"Xona’s long-term plan is to build a ~258-sat constellation to offer an upgraded commercial alternative to government GPS networks.\"",
+        "This commercial venture introduces a new layer of redundancy and capability into the global navigation ecosystem. For off-world operations, such independent systems could prove vital. Future lunar habitats or Martian outposts will require precise, localized positioning for robotic operations, resource extraction, and the navigation of human crews across vast, uncharted terrains. A commercial, high-precision network could offer the granular accuracy needed for these nascent off-world economies, where the cost of navigational error is measured not just in dollars, but in lives and mission viability."
+      ],
+      "ja": [
+        "全地球測位の風景が変わりつつある。商用衛星測位システムを開発するXona社は、シリーズDの資金調達ラウンドを完了し、2億5000万ドル（約375億円）を確保した。この多額の投資は、独立した高精度測位サービスを提供することを目指す同社の衛星コンステレーションの拡大に充てられる。",
+        "従来の全地球測位システムは、長らく政府の領域であり、民間利用に開放される前は主に軍事および戦略的用途のために開発されてきた。Xonaの取り組みは、この重要な分野における民間インフラへの移行を示しており、精度とレジリエンスの向上を約束する。",
+        "同社の長期的なビジョンは、約258基の衛星からなるネットワークを配備することだ。この広範なコンステレーションは、既存の政府支援によるGPSネットワークに代わる堅牢な選択肢を提供し、様々な商業アプリケーションにおける高精度な位置データへの高まる需要に応えるように設計されている。",
+        "今回の資金注入は、これらの衛星の開発および打ち上げスケジュールを加速させる。自動運転車、物流、重要インフラなど、より多くの産業が正確な測位に依存するにつれて、多様で信頼性の高いナビゲーション源の必要性は最も重要になる。",
+        "> 「Xonaの長期計画は、政府系GPSネットワークに代わるアップグレードされた商用サービスを提供するため、約258基の衛星コンステレーションを構築することである。」",
+        "この商業的ベンチャーは、世界のナビゲーションエコシステムに新たな冗長性と機能をもたらす。地球外での運用において、このような独立したシステムは極めて重要になるだろう。将来の月面居住地や火星の前哨基地では、ロボット操作、資源採掘、そして広大な未踏地を移動する有人ミッションのために、正確で局所的な測位が必要となる。商用の高精度ネットワークは、これらの初期の地球外経済において、ナビゲーションエラーのコストが単なる金銭だけでなく、生命とミッションの存続可能性で測られるような状況で、必要とされるきめ細かな精度を提供できる可能性がある。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Think of Xona's plan like building a private, super-accurate GPS system that works alongside the ones governments already run. Instead of relying only on signals from satellites launched by countries, you'd also get signals from Xona's own network. This means more options and potentially more reliable, precise location data for everything from your smartphone to self-driving cars.",
+        "For Tokyo readers, this could mean a few things. In the near future, services that rely on very precise location, like advanced delivery drones or even highly accurate mapping for urban planning, could become even better. Imagine your ride-sharing app knowing your exact position down to a few centimeters, or disaster response teams navigating with unprecedented accuracy during emergencies. This kind of commercial system could also make existing GPS-dependent services more robust against signal disruptions.",
+        "We could see the benefits of such commercial high-precision positioning within the next 3-5 years. The main gating factor will be the speed at which Xona launches its constellation and the adoption rate by commercial service providers. As the cost per kilogram to orbit continues to fall, deploying such large constellations becomes more economically viable.",
+        "Japan already has its own quasi-zenith satellite system, QZSS (Michibiki), which enhances GPS accuracy, especially in urban canyons like Tokyo. While QZSS focuses on augmenting existing government systems, Xona's approach is to build an entirely independent commercial network. This highlights a global trend towards diversified space infrastructure, where companies like Synspective or Astroscale are also building out their own specialized constellations for earth observation or orbital debris removal, showcasing Japan's parallel efforts in creating bespoke space solutions."
+      ],
+      "ja": [
+        "Xonaの計画は、各国政府が運用する既存のGPSシステムと並行して、非常に正確な民間のGPSシステムを構築するようなものだと考えてください。国が打ち上げた衛星からの信号だけに頼るのではなく、Xona独自のネットワークからも信号を受け取れるようになります。これは、スマートフォンから自動運転車まで、あらゆるものにとって、より多くの選択肢と、潜在的により信頼性の高い高精度な位置データをもたらすでしょう。",
+        "東京で暮らす読者にとって、これはいくつかの意味を持つかもしれません。近い将来、高度な配送ドローンや都市計画のための高精度マッピングなど、非常に正確な位置情報に依存するサービスがさらに向上する可能性があります。配車アプリがあなたの正確な位置を数センチ単位で把握したり、災害対応チームが緊急時に前例のない精度でナビゲートしたりする様子を想像してみてください。このような商用システムは、既存のGPSに依存するサービスを、信号障害に対してより堅牢にすることもできます。",
+        "このような商用高精度測位の恩恵は、今後3〜5年以内に実感できるかもしれません。主な決定要因は、Xonaがコンステレーションを打ち上げる速度と、商用サービスプロバイダーによる採用率です。軌道へのキログラムあたりのコストが下がり続けるにつれて、このような大規模なコンステレーションの展開は、より経済的に実行可能になります。",
+        "日本には、東京のような高層ビルが立ち並ぶ地域でのGPS精度を向上させる準天頂衛星システム「QZSS（みちびき）」があります。QZSSが既存の政府システムを補強することに重点を置いているのに対し、Xonaのアプローチは完全に独立した商用ネットワークを構築することです。これは、SynspectiveやAstroscaleのような企業が地球観測や軌道デブリ除去のために独自の専門コンステレーションを構築しているように、多様化する宇宙インフラへの世界的な傾向を示しており、日本も特注の宇宙ソリューションを創出する並行した努力を行っています。"
+      ]
+    },
+    "source": {
+      "name": "Payload",
+      "url": "https://payloadspace.com/xona-raises-250m-series-d-to-scale-commercial-gps-constellation/"
+    },
+    "sourceGuid": "https://payloadspace.com/?p=33393",
+    "status": "published"
+  },
+  {
+    "slug": "esa-council-convenes-charting-europes-space-trajectory",
+    "category": "space-tech",
+    "issue": "Vol. 10",
+    "publishedAt": "2026-10-22T14:00:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
+    },
+    "title": {
+      "en": "ESA Council Convenes, Charting Europe's Space Trajectory",
+      "ja": "ESA理事会、欧州宇宙戦略の針路を定める"
+    },
+    "dek": {
+      "en": "High-level policy discussions at ESA Headquarters solidify the agency's strategic direction for the coming years, impacting future missions and international collaborations.",
+      "ja": "パリのESA本部で開かれた高官級会議は、今後数年間の戦略的方向性を固め、将来のミッションや国際協力に影響を与える。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Paris, October 2026",
+      "ja": "パリ、2026年10月"
+    },
+    "tags": [
+      {
+        "en": "ESA",
+        "ja": "ESA"
+      },
+      {
+        "en": "Space Policy",
+        "ja": "宇宙政策"
+      },
+      {
+        "en": "International Cooperation",
+        "ja": "国際協力"
+      },
+      {
+        "en": "Space Governance",
+        "ja": "宇宙ガバナンス"
+      }
+    ],
+    "body": {
+      "en": [
+        "In late October 2026, the European Space Agency's Council gathered at its Paris headquarters for its 350th session. This biennial meeting serves as the agency's primary decision-making body, where member states collectively shape Europe's ambitions in space.",
+        "The Council, chaired by Juan Carlos Cortés, convened over two days, from October 21st to 22nd. Discussions involved ESA Director General Josef Aschbacher and delegates from across Europe, focusing on the strategic trajectory of the continent's space endeavors.",
+        "These high-level deliberations are crucial for approving new programs, allocating budgets, and defining the scope of future missions. The outcomes of such meetings lay the groundwork for everything from scientific probes to Earth observation satellites and human spaceflight initiatives.",
+        "The 350th session followed a long tradition of collaborative governance, ensuring that European space activities remain coordinated and forward-looking. The weight of these decisions extends beyond scientific discovery, influencing industrial development and technological innovation across the continent.",
+        "> The original report indicated that Director General Josef Aschbacher and Council Chair Juan Carlos Cortés outlined the key decisions and main outcomes.",
+        "Such policy gatherings, though often technical, are the bedrock upon which ambitious projects are built. They provide the stability and direction necessary for engineers to design, for scientists to research, and for astronauts to train.",
+        "For those who envision a future beyond Earth, these council meetings represent a critical, if unseen, component of progress. The long-term commitments forged at polished conference tables in Paris translate directly into the sustained funding and political will required to establish infrastructure off-world.",
+        "Without clear, consistent policy from agencies like ESA, the economic models and supply chains necessary for permanent lunar outposts or orbital habitats would lack a vital foundation. The steady hand of governance, even at a distance, is a prerequisite for any enduring human presence in space."
+      ],
+      "ja": [
+        "2026年10月下旬、欧州宇宙機関（ESA）の理事会がパリの本部で第350回会合を開催した。この隔年開催される会議は、加盟国が欧州の宇宙における目標を共同で形成する、機関の主要な意思決定機関である。",
+        "フアン・カルロス・コルテス議長の下、理事会は10月21日から22日までの2日間にわたり開催された。ESAのヨゼフ・アッシュバッハー長官と欧州各地からの代表団が参加し、大陸の宇宙開発の戦略的軌道に焦点を当てた議論が行われた。",
+        "これらの高官級の審議は、新しいプログラムの承認、予算の配分、そして将来のミッションの範囲を定義するために不可欠である。このような会議の結果は、科学探査機から地球観測衛星、有人宇宙飛行計画に至るまで、あらゆるものの基盤を築く。",
+        "第350回会合は、協調的なガバナンスの長い伝統に則り、欧州の宇宙活動が一貫性を持って未来志向であることを保証する。これらの決定の重みは、科学的発見を超え、大陸全体の産業発展と技術革新に影響を与える。",
+        "> 原文より、ヨゼフ・アッシュバッハー長官とフアン・カルロス・コルテス理事会議長が主要な決定と主な成果を説明したとされている。",
+        "このような政策会議は、しばしば技術的ではあるが、野心的なプロジェクトが構築される基盤となる。これらは、エンジニアが設計し、科学者が研究し、宇宙飛行士が訓練するために必要な安定性と方向性を提供する。",
+        "地球外での未来を思い描く人々にとって、これらの理事会は、目に見えないながらも進歩の重要な要素である。パリの磨かれた会議テーブルで形成される長期的なコミットメントは、地球外のインフラを確立するために必要な持続的な資金と政治的意思に直接結びつく。",
+        "ESAのような機関からの明確で一貫した政策がなければ、恒久的な月面基地や軌道上居住施設に必要な経済モデルやサプライチェーンは、不可欠な基盤を欠くことになるだろう。遠く離れていても、統治の着実な手は、宇宙における永続的な人類の存在の前提条件なのである。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "At its core, this ESA Council meeting was about setting the long-term strategic direction for European space efforts. Think of it as the board meeting for a very large, international construction company that builds highly specialized infrastructure — but in space. The discussions involved approving budgets, signing off on major projects, and coordinating the scientific and industrial goals of its member countries.",
+        "For Tokyo readers, such high-level policy discussions in Europe might seem distant, yet they have tangible implications. ESA is a key player in global space initiatives, often collaborating with JAXA and NASA. Decisions made here can influence the development of international standards for orbital debris mitigation, or the availability of certain satellite components critical for global communication networks that Tokyo relies on. It ensures a stable, predictable environment for the space economy.",
+        "The impacts are likely to be felt over a 3-5 year timeframe. This is because policy decisions take time to translate into funded projects, and then even longer for those projects to yield operational results. The stability of European contributions to international space stations or lunar gateway projects, for instance, depends on these foundational policy alignments.",
+        "Japan's own JAXA and METI (Ministry of Economy, Trade and Industry) engage in similar strategic planning, both domestically and through international forums. While ESA represents a multinational effort, JAXA's annual budget allocations and long-term vision documents, like the Basic Plan on Space Policy, serve a comparable function in charting Japan's independent and collaborative space future. The challenge for both lies in balancing national interests with the inherently global nature of space exploration and development."
+      ],
+      "ja": [
+        "今回のESA理事会は、欧州の宇宙開発の長期的な戦略的方向性を定めることが核心でした。これは、非常に大規模な国際的な建設会社、それも宇宙に特化したインフラを構築する会社の取締役会のようなものだと考えてください。議論では、予算の承認、主要プロジェクトの承認、そして加盟国の科学的・産業的目標の調整が行われました。",
+        "東京の読者にとって、欧州におけるこのような高官級の政策議論は遠いものに感じられるかもしれませんが、具体的な影響を及ぼします。ESAは、JAXAやNASAとも頻繁に協力する、グローバルな宇宙イニシアチブの主要プレーヤーです。ここで下される決定は、東京が依存するグローバル通信ネットワークに不可欠な衛星部品の供給や、軌道上のデブリ（宇宙ごみ）軽減のための国際基準の策定に影響を与える可能性があります。これは宇宙経済に安定した予測可能な環境を保証するものです。",
+        "その影響は、おそらく3年から5年という時間枠で感じられるでしょう。政策決定が資金提供されたプロジェクトに転換され、さらにそのプロジェクトが運用上の成果を生むまでには時間がかかるためです。例えば、国際宇宙ステーションや月周回ゲートウェイ計画への欧州の貢献の安定性は、こうした基礎的な政策調整に依存しています。",
+        "日本自身のJAXAや経済産業省（METI）も、国内的にも国際的なフォーラムを通じて、同様の戦略的計画に取り組んでいます。ESAが多国間協力の努力を代表する一方で、JAXAの年間予算配分や宇宙基本計画のような長期ビジョン文書は、日本の独立した、そして協力的な宇宙の未来を描く上で同様の機能を果たしています。両者にとっての課題は、国家の利益と、本質的にグローバルな宇宙探査および開発の性質とのバランスを取ることです。"
+      ]
+    },
+    "source": {
+      "name": "ESA",
+      "url": ""
+    },
+    "sourceGuid": "e2c6c36777d80b6b680a629c75dd6a02",
+    "status": "published"
+  },
+  {
     "slug": "uncontrolled-descent-debris-in-a-minnesota-cornfield",
     "category": "space-tech",
     "issue": "Vol. 10",
@@ -1899,8 +2158,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
     },
     "title": {
       "en": "RATLOG's Engine Simplification Redefines Space Access Economics",
@@ -2757,8 +3016,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101012"
     },
     "title": {
       "en": "Europe's Agile Orbit: Mini-Constellations Redefine Space Tech Deployment",
@@ -3353,8 +3612,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101012"
+      "src": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101010"
     },
     "title": {
       "en": "From Rejection to Orbit: A Software Journey Redefines Space Access",
@@ -3609,8 +3868,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101010"
+      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Precision and Navigation: A New Star Sensor for LEO",
@@ -3867,7 +4126,7 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
+      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=2200&q=80",
       "tone": "#0a0a0c"
     },
     "title": {
@@ -4039,8 +4298,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Xona's Commercial Navigation Service: Charting New Orbits",
@@ -4125,8 +4384,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Kapta Space Secures $24M for Advanced Orbital Radar",
@@ -4213,7 +4472,7 @@
     "readingMinutes": 3,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
+      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
       "tone": "#0c0c0e"
     },
     "title": {
@@ -4299,8 +4558,8 @@
     "readingMinutes": 3,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Etosha's Salt Pan: A Blueprint for Off-world Resource Mapping",
@@ -4383,8 +4642,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532618793091-ec5fe9635fbd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Beyond the Snow Line: Microlensing Reveals Distant Worlds",
@@ -4469,8 +4728,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "Starlink's Indian Stalemate: A Glimpse into Off-World Market Entry",
@@ -4725,8 +4984,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#08080a"
+      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101012"
     },
     "title": {
       "en": "Lunar Foundations: The Engineering Behind Permanent Moon Habitation",
@@ -4813,8 +5072,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "Artemis II: Charting Lunar Familiarity",
@@ -4986,8 +5245,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "The Architects of Orbit: SpaceNews Icons for 2026",
@@ -5070,8 +5329,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Xona Accelerates Pulsar Constellation for Off-World Precision",
@@ -5156,8 +5415,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Mars Express Uncovers 'Exotic Physics' in Martian Cloud Formation",
@@ -5240,8 +5499,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "Advanced Coatings Expand Thermal Control for Off-World Habitats",
@@ -5330,8 +5589,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "A Golden Dome for US Space: Huntsville and Colorado Springs Forge New Alliance",
@@ -5412,8 +5671,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "ESA Forges Global Space Partnerships at IAC 2026",
@@ -5582,8 +5841,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Orbital Congestion: The Looming Gridlock of Megaconstellations",
@@ -5668,8 +5927,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Mexico's Space Ecosystem Secures $700M Investment",
@@ -5754,8 +6013,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "ESA Advocates for Stronger European Space Role at IAC",
@@ -5924,8 +6183,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Agile Space Industries Bolsters Leadership for Future In-Space Operations",
@@ -6266,8 +6525,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Frontier Energy Research: Fueling Future Off-world Habitats",
@@ -6602,266 +6861,6 @@
       "url": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/"
     },
     "sourceGuid": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
-    "status": "published"
-  },
-  {
-    "slug": "the-rocket-revolution-opening-pathways-to-off-world-futures",
-    "category": "space-tech",
-    "issue": "Vol. 10",
-    "publishedAt": "2026-10-01T15:06:43.000Z",
-    "readingMinutes": 6,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
-    },
-    "title": {
-      "en": "The Rocket Revolution: Opening Pathways to Off-World Futures",
-      "ja": "ロケット革命：地球外未来への道筋を開く"
-    },
-    "dek": {
-      "en": "World Space Week 2026 celebrates an era of unprecedented launch innovation, fundamentally reshaping the economics of space access and paving the way for sustained off-world living and commerce.",
-      "ja": "2026年の世界宇宙週間は、打ち上げ技術における前例のない革新の時代を祝う。これは宇宙アクセス経済を根本から再構築し、持続的な地球外居住と商業への道を開くものだ。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Houston, October 1, 2026",
-      "ja": "ヒューストン、2026年10月1日"
-    },
-    "tags": [
-      {
-        "en": "launch",
-        "ja": "打ち上げ"
-      },
-      {
-        "en": "space economy",
-        "ja": "宇宙経済"
-      },
-      {
-        "en": "innovation",
-        "ja": "革新"
-      },
-      {
-        "en": "World Space Week",
-        "ja": "世界宇宙週間"
-      }
-    ],
-    "body": {
-      "en": [
-        "The global calendar turns to October, bringing with it the annual observance of World Space Week. For 2026, the international celebration, spanning 100 nations, shifts its focus to a phenomenon increasingly evident in our skies: the “Rocket Revolution.” This theme acknowledges a profound transformation in how objects and people reach orbit and beyond.",
-        "A new era of launch innovation has reshaped the economics of space access. Where once missions were bespoke and prohibitively expensive, the advent of reusable rockets and streamlined production methods has dramatically driven down costs. This accessibility has, in turn, fueled a burgeoning space economy, expanding far beyond traditional government-led endeavors.",
-        "The sheer volume of launches now occurring globally is a testament to this shift. Companies are deploying vast constellations of satellites for communication, Earth observation, and navigation. These new capabilities are not merely incremental improvements; they enable entirely new applications and services on Earth.",
-        "This revolution is not just about raw power or speed. It encompasses advances in materials science, propulsion efficiency, and autonomous flight systems, making each launch more reliable and versatile. ",
-        "> The original report notes that World Space Week will celebrate “how launch innovation has stimulated the rapidly-growing space economy and enabled new uses.”",
-        "For those envisioning a future beyond Earth, the implications are fundamental. A continuous flow of affordable transport is the bedrock upon which any sustained off-world presence must be built. It means the difference between occasional scientific expeditions and the routine movement of supplies, personnel, and even construction materials.",
-        "The ability to transport greater mass with higher frequency directly impacts the feasibility of lunar bases, orbital habitats, and eventual Martian settlements. It suggests a future where the cost of a kilogram to orbit is no longer a barrier to establishing permanent infrastructure or a thriving off-world commercial sector.",
-        "This “Rocket Revolution” makes possible the establishment of manufacturing facilities, agricultural modules, and even residential zones in environments previously deemed too distant or too costly to inhabit. It underpins the very idea of a distributed human civilization, where life and work extend beyond the confines of a single planet, offering new horizons for commerce, culture, and daily existence."
-      ],
-      "ja": [
-        "10月に入り、世界各地で毎年恒例の「世界宇宙週間」が始まります。2026年のテーマは「ロケット革命」。これは、地球の軌道やその先へ物資や人々を送り出す方法が劇的に変化している現状を映し出しています。",
-        "打ち上げ技術の革新は、宇宙へのアクセスにかかる経済性を根本から変えました。かつては特注で高額だったミッションが、再利用可能なロケットや効率的な生産方式の登場により、劇的にコストを削減しています。このアクセシビリティの向上は、政府主導の事業をはるかに超え、急成長する宇宙経済を牽引しています。",
-        "世界中で行われる打ち上げの頻度は、この変革を雄弁に物語っています。企業は通信、地球観測、航法のために膨大な数の衛星コンステレーションを展開しています。これらの新しい能力は、単なる既存技術の改善にとどまらず、地球上でのまったく新しいアプリケーションやサービスを可能にしています。",
-        "この「革命」は、単なる推力や速度の向上にとどまりません。材料科学、推進効率、自律飛行システムにおける進歩も含まれており、これにより各打ち上げはより信頼性が高く、多用途になっています。",
-        "> 原文より：「打ち上げの革新がいかに急成長する宇宙経済を刺激し、新たな用途を可能にしたか」",
-        "地球外での生活を構想する人々にとって、その意味合いは根源的です。手頃な価格で継続的な輸送が実現することは、持続可能な地球外プレゼンスを構築する上での基盤となります。これは、時折の科学探査と、物資、人員、さらには建設資材の日常的な輸送との間の決定的な違いを意味します。",
-        "より多くの質量をより高い頻度で輸送できる能力は、月面基地、軌道上居住施設、そして将来的な火星居住地の実現可能性に直接影響を与えます。これは、軌道へのキログラムあたりのコストが、恒久的なインフラや地球外での活発な商業部門を確立する上での障壁ではなくなる未来を示唆しています。",
-        "この「ロケット革命」は、これまで距離やコストのために居住が困難とされてきた環境での製造施設、農業モジュール、さらには居住区の設立を可能にします。それは、商業、文化、そして日々の生活が単一の惑星の境界を越えて広がる、分散型人類文明という概念そのものを支えるものです。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "World Space Week this year is highlighting how much easier and cheaper it's become to send things into space. Think of it like a new express delivery service that can take your packages, big or small, to orbit or even the Moon, much faster and for less money than before. This \"Rocket Revolution\" means we're launching more rockets than ever, opening up space for many new kinds of businesses and scientific projects.",
-        "For those of us in Tokyo, this means a few things are likely to change. You might see more accurate and faster GPS services for navigation and ride-sharing apps, thanks to denser satellite constellations. Satellite internet could become more widespread and reliable, potentially reducing latency for international calls or even enabling new forms of remote work from anywhere. Downstream, advances in materials science driven by space applications could lead to lighter, stronger components in everything from electric vehicles to consumer electronics.",
-        "These changes are already underway, but the full impact will likely be felt within the next 3 to 5 years. This timeline is largely gated by the continued reduction in launch costs and the regulatory frameworks being developed for managing increased orbital traffic and space resources. As more satellites go up, the data they provide becomes cheaper and more accessible for commercial use.",
-        "Japan is actively participating in this revolution. JAXA's H3 rocket program aims to provide reliable, cost-effective access to space, similar to the global trend. Private companies like Interstellar Technologies are developing their own small-scale rockets, while ispace is focused on lunar transport services. These efforts show that Japan is not just observing but also contributing to and preparing for a future where space access is routine, ensuring domestic capabilities for this expanding frontier."
-      ],
-      "ja": [
-        "今年の「世界宇宙週間」は、宇宙に物を送り出すことがいかに簡単で安価になったかを強調しています。これは、まるで以前よりもずっと早く、少ない費用で、大小様々な荷物を軌道や月まで運べる新しい速達サービスが登場したようなものです。この「ロケット革命」のおかげで、私たちはかつてないほどのロケットを打ち上げており、多くの新しい種類のビジネスや科学プロジェクトに宇宙を開放しています。",
-        "東京に暮らす私たちにとって、いくつかの変化が起こる可能性があります。より密度の高い衛星コンステレーションのおかげで、カーナビや配車アプリのためのGPSサービスが、より正確かつ迅速になるかもしれません。衛星インターネットはさらに普及し、信頼性が高まり、国際電話の遅延が減少したり、どこからでもリモートワークが可能になる新しい形態を可能にするかもしれません。さらに、宇宙応用によって推進される材料科学の進歩は、電気自動車から家電製品に至るまで、あらゆるものの軽量でより強靭な部品へと繋がる可能性があります。",
-        "これらの変化はすでに進行中ですが、その本格的な影響が感じられるのは、おそらく今後3年から5年以内でしょう。この期間は主に、打ち上げコストの継続的な削減と、増加する軌道交通や宇宙資源を管理するための規制枠組みの発展によって左右されます。より多くの衛星が打ち上げられるにつれて、それらが提供するデータはより安価になり、商業利用が容易になります。",
-        "日本もこの革命に積極的に参加しています。JAXAのH3ロケット計画は、世界のトレンドと同様に、信頼性が高く費用対効果の高い宇宙アクセスを提供することを目指しています。インターステラテクノロジズのような民間企業は独自の小型ロケットを開発しており、ispaceは月面輸送サービスに注力しています。これらの取り組みは、日本が宇宙アクセスが日常的になる未来を単に傍観するだけでなく、それに貢献し、準備を進めていることを示しており、この拡大するフロンティアのための国内能力を確保しています。"
-      ]
-    },
-    "source": {
-      "name": "SpaceNews",
-      "url": "https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/"
-    },
-    "sourceGuid": "https://spacenews.com/?p=618947",
-    "status": "published"
-  },
-  {
-    "slug": "the-silent-hum-powering-orbital-data-centers",
-    "category": "space-tech",
-    "issue": "Vol. 10",
-    "publishedAt": "2026-10-01T22:31:07.000Z",
-    "readingMinutes": 3,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
-    },
-    "title": {
-      "en": "The Silent Hum: Powering Orbital Data Centers",
-      "ja": "静かなる鼓動：軌道上データセンターの電力供給"
-    },
-    "dek": {
-      "en": "SpaceX's Transporter-18 mission hinted at a future where data processing occurs not on Earth, but in orbit, transforming the economics of space operations and laying groundwork for off-world autonomy.",
-      "ja": "SpaceXのトランスポーター18ミッションは、データ処理が地球上ではなく軌道上で行われる未来を示唆し、宇宙運用の経済性を変革し、オフワールドの自律性の基盤を築く。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "October 1, 2026",
-      "ja": "2026年10月1日"
-    },
-    "tags": [
-      {
-        "en": "Space-tech",
-        "ja": "宇宙技術"
-      },
-      {
-        "en": "Data Centers",
-        "ja": "データセンター"
-      },
-      {
-        "en": "In-orbit computing",
-        "ja": "軌道上コンピューティング"
-      },
-      {
-        "en": "SpaceX",
-        "ja": "スペースX"
-      }
-    ],
-    "body": {
-      "en": [
-        "The silent hum of data, collected from Earth's intricate surface by a growing constellation of satellites, often travels vast distances before it can be truly understood. This journey, from orbit to ground stations and back into the cloud, introduces both latency and cost.",
-        "SpaceX's Transporter-18 mission, launched on October 1, 2026, from Cape Canaveral, marked a subtle but significant shift in this paradigm. While ostensibly another rideshare delivering dozens of small satellites to orbit, its underlying theme was the crucial challenge of powering computation in space.",
-        "This mission explored the foundational elements for what could become orbital data centers — self-contained modules designed to process raw satellite data directly where it is gathered. The goal is to dramatically reduce the volume of data needing downlink, thereby freeing up valuable bandwidth and accelerating insights.",
-        "The \"building blocks\" tested included advancements in energy efficiency for processors, robust thermal management systems capable of dissipating heat in a vacuum, and enhanced inter-satellite communication links. These components are vital for creating a distributed network of computational power above Earth.",
-        "> \"Few rideshares come with a theme, but SpaceX's Transporter-18 had one: getting power to compute in orbit,\" the original report noted.",
-        "This focus underscores a growing demand within the space economy for in-orbit services that move beyond simple data relay. For satellite operators, the ability to process data closer to its source promises a future of lower operational expenditures and faster delivery of actionable intelligence. Imagine real-time analytics for agricultural monitoring, rapid disaster assessment, or immediate threat detection, all without the delay of terrestrial processing.",
-        "Ultimately, the development of orbital data centers will be a cornerstone for future off-world habitats. Lunar or Martian settlements will require robust, low-latency computing infrastructure for everything from life support systems and resource extraction to local communication and entertainment. A future where a complex query can be processed by a server just kilometers away, rather than millions, will define the autonomy and resilience of off-world communities."
-      ],
-      "ja": [
-        "地球の複雑な表面から衛星群によって収集されるデータは、真に理解されるまでに広大な距離を移動することが多い。この軌道から地上局へ、そして再びクラウドへと至る道のりは、遅延とコストの両方を生み出してきた。",
-        "2026年10月1日にケープカナベラルから打ち上げられたSpaceXのトランスポーター18ミッションは、この状況に微かながらも重要な変化をもたらした。多数の小型衛星を軌道に運ぶ相乗り打ち上げでありながら、その根底にあるテーマは、宇宙での計算能力への電力供給という極めて重要な課題であった。",
-        "このミッションは、軌道上データセンターの基礎となる要素を探求した。これは、収集された衛星データをその場で直接処理するために設計された、自己完結型のモジュールである。その目的は、ダウンリンクが必要なデータ量を劇的に削減し、貴重な帯域幅を解放し、洞察を得るまでの時間を短縮することにある。",
-        "試験された「構成要素」には、プロセッサのエネルギー効率の向上、真空中で熱を放散できる堅牢な熱管理システム、そして強化された衛星間通信リンクが含まれる。これらは、地球上空に分散型計算能力ネットワークを構築するために不可欠な要素である。",
-        "「テーマを持った相乗り打ち上げは少ないが、SpaceXのトランスポーター18にはそれがあった。軌道上で計算するための電力供給だ」と原文は記している。",
-        "この焦点は、単なるデータ中継を超えた軌道上サービスに対する宇宙経済内の需要の高まりを強調している。衛星運用者にとって、データの発生源に近い場所で処理できる能力は、運用コストの削減と、より迅速な実用的な情報提供の未来を約束する。農業モニタリングのためのリアルタイム分析、迅速な災害評価、あるいは即時の脅威検知が、地上での処理遅延なしに可能になることを想像してみてほしい。",
-        "究極的には、軌道上データセンターの開発は、将来のオフワールド居住地にとっての礎となるだろう。月や火星の居住地は、生命維持システムや資源採掘から、現地での通信、娯楽に至るまで、堅牢で低遅延の計算インフラを必要とする。数百万キロメートルではなく、わずか数キロメートル離れたサーバーで複雑なクエリが処理できる未来は、オフワールドコミュニティの自律性とレジリエンスを決定づけるものとなるだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "SpaceX's Transporter-18 mission wasn't just about launching satellites. It specifically focused on testing technologies that allow computers to run efficiently in space, essentially laying the groundwork for \"data centers\" that orbit Earth. Imagine your cloud server, but it's floating hundreds of kilometers above you, processing information from other satellites right there, instead of sending it all the way down to Earth and back up again.",
-        "Tokyo residents might experience more precise and faster location-based services (GPS), improved real-time weather forecasting for disaster preparedness, and potentially more resilient and lower-latency satellite communication networks. This could also impact industries reliant on Earth observation data, such as agriculture, urban planning, and environmental monitoring, making their insights quicker and more granular.",
-        "This impact could begin to be felt within 3-5 years. The key gating factor will be the maturation of inter-satellite communication technologies and the standardization of power and data interfaces for in-orbit computing modules. As these \"orbital server racks\" become more commonplace, the benefits will multiply.",
-        "Japan's Synspective, known for its SAR (Synthetic Aperture Radar) satellites, is a strong player in Earth observation. While not directly building orbital data centers yet, their focus on high-frequency data collection creates a clear need for efficient in-orbit processing. Astroscale, focused on orbital debris removal and life extension, also operates in the in-orbit servicing domain, which could eventually include data processing infrastructure maintenance. The development of such capabilities domestically would enhance Japan's data sovereignty and resilience in space."
-      ],
-      "ja": [
-        "SpaceXのトランスポーター18ミッションは、単に多くの衛星を打ち上げるだけではありませんでした。その中心にあったのは、宇宙空間でコンピューターを効率的に稼働させる技術、つまり「軌道上のデータセンター」の基盤を試験することでした。これは、地球を周回するたくさんの衛星から送られてくるデータを、いちいち地球に送り返して処理するのではなく、宇宙空間でそのまま処理してしまおうという考え方です。ちょうど、あなたの会社のクラウドサーバーが、地球上ではなく、はるか上空に浮かんでいるようなものです。",
-        "東京に暮らす私たちにとって、この技術は身近なサービスに影響を与える可能性があります。例えば、GPSを利用した位置情報サービスがより正確かつ迅速になったり、災害対策のためのリアルタイム気象予報がさらに精度を高めたりするでしょう。また、地球観測データに依存する農業、都市計画、環境監視といった産業では、より迅速で詳細な情報が得られるようになるかもしれません。",
-        "このような影響は、今後3〜5年以内に感じられるようになる可能性があります。鍵となるのは、衛星間通信技術の成熟と、軌道上計算モジュールへの電力供給やデータインターフェースの標準化です。これらの「宇宙のサーバーラック」が普及するにつれて、その恩恵は拡大していくでしょう。",
-        "日本では、合成開口レーダー（SAR）衛星による地球観測で知られるSynspective（シンズペクティブ）が、大量のデータ収集を行うプレイヤーとして注目されます。彼らのように頻繁にデータを取得する事業者にとって、軌道上での効率的なデータ処理は将来的に不可欠となるでしょう。また、軌道上のデブリ除去や衛星寿命延長を手がけるAstroscale（アストロスケール）も、軌道上サービスという点で関連性があります。日本がこうした軌道上計算能力を国内で開発することは、データ主権と宇宙におけるレジリエンス（回復力）を高める上で重要です。"
-      ]
-    },
-    "source": {
-      "name": "Payload",
-      "url": "https://payloadspace.com/transporter-18-tests-the-building-blocks-of-orbital-data-centers/"
-    },
-    "sourceGuid": "https://payloadspace.com/?p=33040",
-    "status": "published"
-  },
-  {
-    "slug": "expanding-the-lunar-horizon-nasas-new-science-mandate-for-artemis",
-    "category": "artemis",
-    "issue": "Vol. 09",
-    "publishedAt": "2026-09-30T21:11:23.000Z",
-    "readingMinutes": 6,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
-    },
-    "title": {
-      "en": "Expanding the Lunar Horizon: NASA's New Science Mandate for Artemis",
-      "ja": "月面の地平を拓く：アルテミス計画におけるNASAの新たな科学指令"
-    },
-    "dek": {
-      "en": "NASA announces a significant expansion of scientific investigations for its Artemis Moon missions, signaling a pivot from transient visits to sustained lunar presence and research.",
-      "ja": "NASAはアルテミス月面ミッションにおける科学調査の大幅な拡大を発表した。これは一時的な訪問から、持続的な月面滞在と研究への転換を示す。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Washington D.C.",
-      "ja": "ワシントンD.C."
-    },
-    "tags": [
-      {
-        "en": "Artemis",
-        "ja": "アルテミス"
-      },
-      {
-        "en": "Lunar Science",
-        "ja": "月科学"
-      },
-      {
-        "en": "Moon Base",
-        "ja": "月面基地"
-      },
-      {
-        "en": "NASA",
-        "ja": "NASA"
-      }
-    ],
-    "body": {
-      "en": [
-        "The vision for humanity's return to the Moon continues to evolve, shifting from a series of brief flag-and-footprint missions to the establishment of a lasting scientific outpost. NASA has announced a suite of new scientific investigations, deepening the scope of research planned for its Artemis program, particularly as it moves towards a sustained human presence on the lunar surface.",
-        "These expanded investigations underscore a foundational shift in lunar strategy. While initial Artemis missions like Artemis III will focus on landing astronauts near the lunar South Pole, the new directives emphasize long-term data collection and resource assessment. This includes detailed studies of lunar geology, the distribution of water ice, and the effects of the lunar environment on human physiology.",
-        "The agency's approach now integrates a broader array of disciplines, from heliophysics to astrobiology. Understanding the Moon's unique radiation environment and its potential as a historical archive for solar system evolution will be critical. Such inquiries move beyond basic exploration, aiming to establish the Moon as a living laboratory.",
-        "> \"These investigations are critical for unlocking the full potential of our lunar presence.\"",
-        "The new scientific mandate is not merely academic; it is pragmatic. Data gathered from these investigations will directly inform the design of future lunar habitats, life support systems, and in-situ resource utilization technologies. For instance, precise mapping of water ice deposits could dictate the location and viability of future lunar bases, transforming how resources are sourced off-world.",
-        "This expanded scientific endeavor distinguishes Artemis significantly from the Apollo era. While Apollo yielded invaluable scientific returns, its missions were comparatively brief, with astronauts spending mere days on the surface. Artemis, by contrast, envisions crews of four astronauts undertaking longer durations, potentially weeks or months, facilitating more complex and continuous experiments.",
-        "The implications for those who will eventually live and work on the Moon are profound. A deeper understanding of the lunar environment means more resilient architecture, more efficient resource management, and a more robust daily life. Future lunar residents will inhabit a landscape not just explored, but intimately understood, with every resource and hazard meticulously cataloged, shaping their professions, their leisure, and their very existence on an alien world."
-      ],
-      "ja": [
-        "人類の月への帰還というビジョンは、短い探査ミッションの連続から、永続的な科学前哨基地の設立へと進化を続けている。NASAは新たな一連の科学調査を発表し、特に持続的な月面滞在を目指すアルテミス計画の研究範囲を深めている。",
-        "これらの拡大された調査は、月戦略における根本的な転換を強調する。アルテミスIIIのような初期ミッションは月南極付近への宇宙飛行士着陸に焦点を当てるが、新たな指令は長期的なデータ収集と資源評価を重視する。これには、月の地質、水氷の分布、そして月環境が人間の生理に与える影響に関する詳細な研究が含まれる。",
-        "NASAのアプローチは現在、太陽物理学から宇宙生物学まで、より広範な分野を統合している。月の独特な放射線環境や、太陽系進化の歴史的アーカイブとしての可能性を理解することは極めて重要となるだろう。このような問いは基本的な探査を超え、月を生きる実験室として確立することを目指す。",
-        "> 「これらの調査は、月における我々の存在の可能性を最大限に引き出すために不可欠である。」",
-        "新たな科学指令は単なる学術的なものではなく、実用的だ。これらの調査から得られるデータは、将来の月面居住施設、生命維持システム、そして現地資源利用技術の設計に直接役立つだろう。例えば、水氷堆積物の精密なマッピングは、将来の月面基地の場所と実現可能性を決定し、地球外での資源調達方法を一変させる可能性がある。",
-        "この拡大された科学的取り組みは、アルテミス計画をアポロ時代と大きく区別する。アポロ計画は計り知れない科学的成果をもたらしたが、そのミッションは比較的短く、宇宙飛行士が月面に滞在したのはわずか数日だった。対照的に、アルテミス計画では4人の宇宙飛行士が数週間から数ヶ月というより長い期間を過ごし、より複雑で継続的な実験を可能にする。",
-        "最終的に月に住み、働く人々にとっての意味は深遠だ。月環境への理解が深まることは、より弾力性のある建築、より効率的な資源管理、そしてより堅牢な日常生活を意味する。将来の月面居住者は、単に探査されただけでなく、その資源と危険が綿密に記録された、深く理解された風景の中で生活することになるだろう。これは彼らの職業、余暇、そして異世界での存在そのものを形作るだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "NASA has announced that its Artemis program will significantly broaden its scientific focus on the Moon. Think of it not just as sending a few people to plant a flag, but as setting up a permanent research station. They are planning to study everything from lunar geology and the presence of water ice to how the harsh lunar environment affects human bodies over long periods.",
-        "For Tokyo readers, this expansion of lunar science could have several future impacts. A deeper understanding of lunar resources, especially water ice, could eventually feed into Earth's material science and energy sectors. If lunar resources become accessible, they might influence the supply chains for rare metals or even provide new power sources, affecting industries that power our daily lives. Also, better data on space weather from the Moon could improve Earth-based forecasting for satellite operations and communication networks.",
-        "This kind of impact is likely to unfold over the next 5 to 10 years. The timeline depends on the consistent cadence of Artemis missions and the establishment of international frameworks for lunar resource utilization. Japan's own contributions to lunar rovers and the Gateway lunar outpost will be crucial in shaping these developments.",
-        "Japan is already moving in comparable directions. JAXA's MMX (Martian Moons eXploration) mission, for example, aims to understand resource potential on Mars' moons, which shares a similar spirit of scientific resource assessment. Companies like ispace are also pioneering commercial lunar exploration, focusing on mapping water ice. While the scale differs, the underlying drive to understand and utilize off-world resources for long-term presence is a shared goal."
-      ],
-      "ja": [
-        "NASAは、アルテミス計画における月での科学的焦点が大幅に拡大されると発表しました。これは単に数人が旗を立てに行くだけでなく、恒久的な研究基地を設置するようなものだと考えてください。月の地質や水氷の存在から、過酷な月環境が長期的に人体にどのような影響を与えるかまで、あらゆることを研究する計画です。",
-        "東京で暮らす読者にとって、この月科学の拡大は将来的にいくつかの影響をもたらす可能性があります。特に水氷などの月資源の理解が深まれば、最終的には地球の材料科学やエネルギー分野に貢献するかもしれません。月資源が利用可能になれば、レアメタルのサプライチェーンに影響を与えたり、新たなエネルギー源を提供したりする可能性があり、私たちの日常生活を支える産業に影響を与えるでしょう。また、月からの宇宙天気に関するより良いデータは、衛星運用や通信ネットワークのための地球ベースの予報を改善する可能性があります。",
-        "このような影響は、今後5年から10年で具体化すると考えられます。このタイムラインは、アルテミスミッションの継続的な実施頻度と、月資源利用に関する国際的な枠組みの確立にかかっています。日本の月面ローバーや月周回ゲートウェイへの貢献も、これらの発展を形作る上で極めて重要となるでしょう。",
-        "日本もすでに同様の方向に動いています。例えば、JAXAのMMX（火星衛星探査計画）は、火星の衛星における資源の可能性を理解することを目指しており、科学的な資源評価という点で共通の精神を持っています。ispaceのような企業も、水氷のマッピングに焦点を当てた商業月探査を先駆的に進めています。規模は異なりますが、長期的な存在のために地球外資源を理解し活用するという根底にある推進力は、共通の目標と言えるでしょう。"
-      ]
-    },
-    "source": {
-      "name": "NASA Artemis",
-      "url": "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/"
-    },
-    "sourceGuid": "https://www.nasa.gov/?post_type=press-release&#038;p=1052091",
     "status": "published"
   }
 ]

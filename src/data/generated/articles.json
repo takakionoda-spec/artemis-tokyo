@@ -1,5 +1,351 @@
 [
   {
+    "slug": "lunar-regolith-3d-printing-redefines-off-world-habitat-aesthetics",
+    "category": "space-tech",
+    "issue": "Vol. 10",
+    "publishedAt": "2026-10-24T15:33:08.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/gyqZmq6G2J32EA2wYwRMi5-1920-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Lunar Regolith 3D Printing Redefines Off-World Habitat Aesthetics",
+      "ja": "月面レゴリス3Dプリントが拓く、宇宙居住空間の新たな美学"
+    },
+    "dek": {
+      "en": "Advanced additive manufacturing techniques are not only accelerating lunar construction but also shaping the sensory experience of future off-world homes.",
+      "ja": "先進的な積層造形技術は、月面建設を加速させるだけでなく、未来の宇宙居住空間における感覚的な体験をも形作りつつある。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "lunar construction",
+        "ja": "月面建設"
+      },
+      {
+        "en": "3D printing",
+        "ja": "3Dプリント"
+      },
+      {
+        "en": "regolith",
+        "ja": "レゴリス"
+      },
+      {
+        "en": "habitat design",
+        "ja": "居住空間デザイン"
+      }
+    ],
+    "body": {
+      "en": [
+        "The silent expanse of the Moon, once a distant dream for human habitation, is slowly yielding to the ingenuity of advanced engineering. A recent development in additive manufacturing promises to transform lunar construction, moving beyond mere functionality to influence the very aesthetics of off-world living.",
+        "The Lunar Construction Initiative (LCI) consortium, spearheaded by AstroForge and supported by the European Space Agency (ESA), has successfully demonstrated a novel method for 3D printing structures using lunar regolith. Their tests, conducted at a Nevada desert facility under simulated lunar gravity and vacuum conditions, showcased a significant leap forward.",
+        "A prototype habitat module was erected in a remarkable 72 hours, marking a 30% reduction in construction time compared to earlier extrusion techniques. This efficiency stems from a new binder-jetting system that drastically cuts down on water usage and reduces energy consumption by 15%, critical factors for sustainable lunar operations.",
+        "> \"The texture is not merely functional; it offers a unique tactile and visual quality that could define lunar interiors.\"",
+        "Beyond the impressive statistics, engineers observed an unexpected characteristic: the resulting material exhibits a distinct, layered surface finish. This texture, unlike anything found in conventional terrestrial construction, reflects light with a subtle granularity, inviting touch and offering a new sensory dimension to future lunar homes.",
+        "This shift suggests that off-world architecture will not solely be dictated by structural integrity and environmental protection. The inherent properties of locally sourced materials, processed through advanced means, will imbue habitats with a unique character. Imagine the subtle interplay of light and shadow on these walls, a quiet testament to their extraterrestrial origin.",
+        "For those who will eventually live, work, and raise families on the Moon, this means more than just a roof over their heads. It implies a built environment with its own material language, a new luxury defined by the very dust beneath their feet. Future lunar designers will not only build shelters but craft spaces with inherent textures and aesthetic values, fostering a sense of place utterly distinct from Earth."
+      ],
+      "ja": [
+        "かつて人類の居住地としては遠い夢であった月の静寂な広がりは、高度な工学の創意工夫によって徐々にその姿を変えつつある。積層造形における最近の進歩は、月面建設を単なる機能性から、宇宙での生活美学そのものへと影響を及ぼすものへと変革する可能性を秘めている。",
+        "AstroForgeが主導し、欧州宇宙機関（ESA）が支援する「月面建設イニシアティブ（LCI）」コンソーシアムは、月面レゴリスを用いた3Dプリント構造の新たな手法を実証した。ネバダ州の砂漠施設で、月面重力と真空状態を模した条件下で行われた彼らの試験は、大きな前進を示している。",
+        "試作された居住モジュールは、わずか72時間で建設された。これは、従来の押出成形技術と比較して建設時間を30%短縮したことになる。この効率性は、水の使用量を大幅に削減し、エネルギー消費を15%削減する新しいバインダージェット方式によるもので、持続可能な月面運用にとって極めて重要な要素である。",
+        "> 「この質感は単に機能的なだけでなく、月面インテリアを特徴づける独特の触覚的、視覚的品質を提供するものです。」",
+        "印象的な数値だけでなく、エンジニアたちは予期せぬ特性を発見した。完成した材料は、独特の層状の表面仕上げを示したのだ。この質感は、従来の地球上の建築材料とは異なり、微細な粒子によって光を反射し、触覚を誘い、未来の月面住宅に新たな感覚的次元をもたらす。",
+        "この変化は、宇宙建築が構造的完全性と環境保護のみによって決定されるものではないことを示唆している。高度な手段で加工された現地調達材料の固有の特性が、居住空間に独自の個性をもたらすだろう。これらの壁に光と影が織りなす微妙な相互作用、それは地球外起源の静かな証となるはずだ。",
+        "最終的に月で暮らし、働き、家族を育む人々にとって、これは単に頭上の屋根以上の意味を持つ。それは、独自の素材言語を持つ建築環境、足元の塵そのものによって定義される新たな贅沢を意味する。未来の月面デザイナーは、単にシェルターを建設するだけでなく、固有の質感と美的価値を持つ空間を創造し、地球とは全く異なる場所の感覚を育むだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Imagine building a house on the Moon, not with materials shipped from Earth, but with the lunar dust right beneath your feet. That's essentially what this news is about: engineers have found a much faster and more efficient way to 3D print structures on the Moon using its own soil, called regolith. Think of it like a highly advanced, automated bricklayer that uses local dirt to construct homes, but with incredible precision and speed, all while saving water and energy.",
+        "For Tokyo readers, this advancement might seem distant, but its implications could eventually touch several domains. In the near future, it could influence materials science and sustainable construction practices here on Earth, pushing innovations in using local, recycled materials for building. It also strengthens Japan's position in the global space economy, as expertise in off-world construction materials could feed into domestic industrial capabilities, potentially impacting the supply chains for advanced composites and smart building technologies.",
+        "This impact could become tangible within 5 to 10 years, primarily gated by the successful deployment of full-scale additive manufacturing systems on the Moon and the subsequent certification of these new building materials for human habitation. Further cost reductions in lunar transport will also be a key factor.",
+        "Japan is already a significant player in advanced construction and robotics. Companies like Shimizu Corporation and Obayashi Corporation have long explored concepts for lunar and Martian habitats. While specific 3D printing of lunar regolith on this scale is still nascent for Japanese entities, JAXA's lunar exploration plans and research into advanced materials by Japanese universities and industrial giants like Mitsubishi Heavy Industries are laying the groundwork for similar autonomous off-world construction capabilities. The gap lies mainly in large-scale, in-situ resource utilization for construction, an area where international collaboration will be crucial."
+      ],
+      "ja": [
+        "地球から資材を運ぶのではなく、足元の月の砂を使って家を建てる。今回のニュースは、まさにその実現に向けたものです。エンジニアたちは、月の土（レゴリス）を使って月面に構造物を3Dプリントする、より速く効率的な方法を発見しました。これは、地元にある土を使い、驚くほどの精度と速さで家を建てる、非常に高度で自動化された職人のようなものだと想像してください。しかも、水やエネルギーを節約しながらです。",
+        "東京に暮らす読者にとって、この進歩は遠い話に聞こえるかもしれませんが、その影響は最終的にいくつかの分野に及ぶ可能性があります。近い将来、地球上での材料科学や持続可能な建設手法に影響を与え、地元のリサイクル材料を使った建築の革新を促すかもしれません。また、宇宙での建設材料に関する専門知識は、国内の産業能力にも還元され、先進的な複合材料やスマート建築技術のサプライチェーンに影響を与える可能性があり、日本の宇宙経済における地位を強化するでしょう。",
+        "この影響が具体的に感じられるようになるのは、5年から10年以内と見られます。主な要因は、月面での本格的な積層造形システムの展開成功と、これらの新しい建築材料が人間居住用に認証されることです。月への輸送コストのさらなる削減も重要な要素となるでしょう。",
+        "日本は、先進的な建設技術とロボティクスにおいて既に重要な役割を担っています。清水建設や大林組といった企業は、月面や火星の居住施設のコンセプトを長年探求してきました。この規模での月面レゴリスの3Dプリントは、日本の企業にとってはまだ初期段階ですが、JAXAの月探査計画や、日本の大学、三菱重工業のような産業大手による先進材料の研究は、同様の自律的な宇宙建設能力の基盤を築いています。主なギャップは、建設のための大規模な現地資源利用にあり、この分野では国際協力が不可欠となるでしょう。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-24-2026"
+    },
+    "sourceGuid": "wchGJUxgG5NHcQ6TKocWVC",
+    "status": "published"
+  },
+  {
+    "slug": "starlinks-enduring-signal-in-ukraine",
+    "category": "space-tech",
+    "issue": "Vol. 10",
+    "publishedAt": "2026-10-24T20:46:34.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
+    },
+    "title": {
+      "en": "Starlink's Enduring Signal in Ukraine",
+      "ja": "ウクライナにおけるスターリンクの持続する信号"
+    },
+    "dek": {
+      "en": "The resilience of low Earth orbit satellite networks demonstrates a vital blueprint for off-world communication infrastructure.",
+      "ja": "低軌道衛星ネットワークの回復力は、地球外通信インフラにとって不可欠な青写真を示す。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Kyiv, Ukraine",
+      "ja": "ウクライナ、キーウ"
+    },
+    "tags": [
+      {
+        "en": "Starlink",
+        "ja": "スターリンク"
+      },
+      {
+        "en": "Satellite Internet",
+        "ja": "衛星インターネット"
+      },
+      {
+        "en": "Low Earth Orbit",
+        "ja": "低軌道"
+      },
+      {
+        "en": "Communication",
+        "ja": "通信"
+      }
+    ],
+    "body": {
+      "en": [
+        "In zones of conflict, where the physical landscape is in constant flux and traditional infrastructure often collapses, reliable communication becomes a critical artery. It is not merely a convenience but a fundamental requirement for coordination, safety, and maintaining a connection to the wider world.",
+        "Against this backdrop, Starlink, the satellite internet constellation operated by SpaceX, has continued to demonstrate its operational resilience. Its network, comprising thousands of small satellites in low Earth orbit, has served as a crucial lifeline in Ukraine, providing internet access even as ground-based systems face severe disruption.",
+        "Recent reports indicate a return to normal operational status for the service across the country. This stability underscores the inherent advantages of a distributed satellite network over vulnerable terrestrial cables and cell towers, which can be easily targeted or destroyed.",
+        "The system's design, with numerous independent satellites and easily deployable terminals no larger than a pizza box, offers a level of redundancy and adaptability. This makes it significantly harder to disrupt comprehensively, allowing for continuous connectivity even under duress.",
+        "The implications extend far beyond terrestrial conflicts. For those contemplating permanent human presence off-world, whether on the Moon or Mars, the challenge of establishing and maintaining communication is paramount. Terrestrial models of infrastructure are simply not applicable.",
+        "Future lunar and Martian habitats will require communication systems that are inherently resilient, difficult to disable, and capable of operating independently of any single point of failure. The Starlink model, with its decentralized architecture and global reach, offers a compelling precedent.",
+        "The quiet hum of a terminal, connecting distant points across a contested landscape, suggests a new kind of digital lifeline. Its ability to function where traditional infrastructure has failed offers a preview of what autonomous habitats beyond Earth will require.",
+        "> Starlink seems to be working normally again in Ukraine."
+      ],
+      "ja": [
+        "紛争地帯では、物理的な環境が絶えず変化し、従来のインフラがしばしば崩壊する中で、信頼性の高い通信が生命線となります。それは単なる利便性ではなく、連携、安全確保、そして外部世界とのつながりを維持するための基本的な要件です。",
+        "このような状況下で、SpaceXが運用する衛星インターネット網であるスターリンクは、その運用上の回復力を示し続けています。数千もの小型衛星が低軌道に展開されるそのネットワークは、ウクライナにおいて重要な生命線として機能し、地上システムが深刻な混乱に直面する中でもインターネットアクセスを提供してきました。",
+        "最近の報告では、同国全域でサービスが通常の運用状態に戻っていることが示されています。この安定性は、容易に標的となり破壊されうる地上のケーブルや携帯電話基地局よりも、分散型衛星ネットワークが持つ本質的な利点を浮き彫りにしています。",
+        "多数の独立した衛星と、ピザ箱ほどの大きさで簡単に展開できる端末からなるシステム設計は、高い冗長性と適応性を提供します。これにより、包括的に妨害することが著しく困難になり、困難な状況下でも継続的な接続が可能になります。",
+        "その影響は、地上の紛争をはるかに超えて広がります。月や火星など、地球外での恒久的な人類の居住を考える人々にとって、通信の確立と維持は最重要課題です。地上のインフラモデルは、単純に適用できません。",
+        "将来の月面や火星の居住地は、本質的に回復力があり、無効化が困難で、単一障害点に依存せずに運用できる通信システムを必要とするでしょう。分散型アーキテクチャとグローバルな到達範囲を持つスターリンクのモデルは、説得力のある先例を提供します。",
+        "争われた大地を越え、遠く離れた地点を結ぶターミナルの静かな稼働音は、新たな種類のデジタル生命線を暗示している。従来のインフラが機能不全に陥る場所でさえ稼働し続けるその能力は、地球外の自律的な居住地が何を必要とするかを示唆している。",
+        "「> Starlinkはウクライナで再び正常に機能しているようだ。」"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Starlink is essentially a vast network of small, internet-broadcasting satellites in low Earth orbit. What we're seeing in Ukraine is its capacity to provide stable internet connectivity even when traditional ground infrastructure—like fiber optic cables or cellular towers—is damaged or destroyed. It's like having a constellation of flying Wi-Fi routers that are incredibly difficult to take down all at once.",
+        "For Tokyo readers, this kind of resilient, satellite-based internet holds significant promise, particularly in the realm of disaster preparedness. Japan is prone to natural disasters, and ensuring continuous communication after an earthquake or tsunami is vital. This technology could provide an invaluable backup system for emergency services, critical infrastructure, and even individual households, allowing for rapid information flow when terrestrial networks fail.",
+        "While the technology exists today, its widespread integration into Japan's national disaster response plans and critical infrastructure resilience strategies will likely take 3 to 5 years. This timeframe is largely gated by policy development, regulatory approvals, and domestic procurement decisions for terminals and services.",
+        "Japan is not without its own efforts in satellite communication. While direct LEO internet services are largely dominated by international players, companies like Synspective are developing LEO constellations for Earth observation, and IHI Aerospace contributes significantly to satellite component technology. For robust, resilient communication specifically, JAXA continues research into advanced communication satellite systems, and there's a growing national dialogue about leveraging such technologies for national resilience."
+      ],
+      "ja": [
+        "スターリンクは、低軌道に広がる小さなインターネット放送衛星の巨大なネットワークです。ウクライナで見られているのは、光ファイバーケーブルや携帯電話基地局のような従来の地上インフラが損傷または破壊された場合でも、安定したインターネット接続を提供するその能力です。これは、一度にすべてを破壊することが非常に困難な、空飛ぶWi-Fiルーターの星座を持っているようなものです。",
+        "東京の読者にとって、このような回復力のある衛星ベースのインターネットは、特に災害対策の分野で大きな期待を抱かせます。日本は自然災害に見舞われやすく、地震や津波の後でも継続的な通信を確保することは極めて重要です。この技術は、緊急サービス、重要インフラ、さらには一般家庭にとって、地上ネットワークが機能しない場合に迅速な情報伝達を可能にする、かけがえのないバックアップシステムとなるでしょう。",
+        "この技術自体はすでに存在しますが、日本の国家的な災害対応計画や重要インフラのレジリエンス戦略に広く統合されるまでには、おそらく3年から5年かかるでしょう。この期間は、主に政策策定、規制承認、そして端末やサービスの国内調達に関する決定によって左右されます。",
+        "日本も衛星通信の取り組みがないわけではありません。直接的な低軌道インターネットサービスは国際的なプレイヤーが主導していますが、Synspectiveのような企業は地球観測のための低軌道コンステレーションを開発しており、IHI Aerospaceは衛星部品技術に大きく貢献しています。特に堅牢で回復力のある通信に関しては、JAXAが先進的な通信衛星システムの研究を続けており、国家のレジリエンスのためにこうした技術を活用することについて国内での議論が活発化しています。"
+      ]
+    },
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/"
+    },
+    "sourceGuid": "https://techcrunch.com/?p=3181518",
+    "status": "published"
+  },
+  {
+    "slug": "mars-reveals-a-1000-mile-cloud-hinting-at-uncharted-physics",
+    "category": "research",
+    "issue": "Vol. 10",
+    "publishedAt": "2026-10-24T11:50:28.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/marscloud-1152x648.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Mars Reveals a 1,000-Mile Cloud, Hinting at Uncharted Physics",
+      "ja": "火星に千マイルの雲、未知の物理法則を示唆"
+    },
+    "dek": {
+      "en": "A vast cloud formation stretching across Mars presents a profound challenge to established atmospheric models, suggesting the Red Planet harbors meteorological phenomena unlike any observed on Earth or in current planetary science.",
+      "ja": "火星上空に広がる巨大な雲は、既存の大気モデルに大きな疑問を投げかけている。地球上や現在の惑星科学では観測されていない、特異な気象現象が火星には存在することを示唆している。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO, 2026-10-24",
+      "ja": "東京, 2026年10月24日"
+    },
+    "tags": [
+      {
+        "en": "Mars",
+        "ja": "火星"
+      },
+      {
+        "en": "Planetary Science",
+        "ja": "惑星科学"
+      },
+      {
+        "en": "Atmospheric Physics",
+        "ja": "大気物理学"
+      },
+      {
+        "en": "Space Exploration",
+        "ja": "宇宙探査"
+      }
+    ],
+    "body": {
+      "en": [
+        "A colossal cloud, spanning an estimated 1,000 miles (approximately 1,600 kilometers) across the Martian landscape, has captured the attention of planetary scientists. This atmospheric anomaly is not merely a visual spectacle but represents a significant puzzle for researchers attempting to model the Red Planet's complex climate.",
+        "The sheer scale of this recurring phenomenon suggests a dynamic interplay of atmospheric forces previously uncatalogued. Unlike terrestrial cloud formations, which are governed by well-understood thermodynamic principles, this Martian cloud appears to operate under conditions that defy conventional expectations.",
+        "Observations indicate that the cloud’s formation and persistence are tied to specific Martian seasons, emerging with a regularity that allows for detailed study. However, its immense size and the velocity of its development point to underlying physical processes that remain largely mysterious.",
+        "Scientists are now scrutinizing data from various orbital missions to piece together the mechanisms driving this unique weather event. Understanding its composition, altitude, and interaction with Martian topography is critical to deciphering the atmospheric physics at play.",
+        "> \"The sheer scale of this atmospheric event on Mars challenges our current understanding of planetary meteorology.\"",
+        "Such large-scale atmospheric dynamics hold significant implications for future human endeavors on Mars. Accurate climate modeling is paramount for designing sustainable habitats, planning surface operations, and ensuring the safety of long-duration missions.",
+        "For those who will one day live and work on Mars, the presence of such a vast, poorly understood weather system introduces both scientific opportunity and a new layer of environmental complexity. It underscores the necessity of robust, adaptable off-world infrastructure, and reminds future inhabitants that the Martian sky will present its own unique anxieties and wonders, distinct from any they knew on Earth."
+      ],
+      "ja": [
+        "火星の地表を約1,600キロメートル（およそ1,000マイル）にわたって横断する巨大な雲が、惑星科学者たちの注目を集めている。この大気中の異常現象は、単なる視覚的な壮観に留まらず、火星の複雑な気候をモデル化しようとする研究者たちにとって重要な課題となっている。",
+        "この反復する現象の途方もない規模は、これまでカタログ化されていなかった大気力の動的な相互作用を示唆している。地球上の雲の形成がよく理解された熱力学原理に支配されているのとは異なり、この火星の雲は従来の予測に反する条件下で機能しているように見える。",
+        "観測によると、この雲の形成と持続は特定の火星の季節と関連しており、詳細な研究を可能にする規則性を持って出現する。しかし、その巨大なサイズと発達の速度は、大部分が謎に包まれたままの根底にある物理プロセスを示唆している。",
+        "科学者たちは現在、様々な周回ミッションからのデータを精査し、この特異な気象現象を駆動するメカニズムを解明しようとしている。その組成、高度、そして火星の地形との相互作用を理解することは、作用している大気物理学を解読するために不可欠である。",
+        "> 「火星におけるこの大気現象の純粋な規模は、惑星気象学に関する現在の私たちの理解に挑戦しています。」",
+        "このような大規模な大気力学は、将来の火星における人類の活動に大きな意味を持つ。正確な気候モデリングは、持続可能な居住地の設計、地表活動の計画、そして長期ミッションの安全を確保するために極めて重要である。",
+        "将来、火星で暮らし、働く人々にとって、このような広大で十分に理解されていない気象システムの存在は、科学的な機会と同時に、新たな環境の複雑さをもたらす。これは、堅牢で適応性の高いオフワールドインフラの必要性を強調し、未来の居住者たちに、火星の空が地球上で知っていたものとは異なる、独自の不安と驚異をもたらすことを示唆している。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Imagine a cloud so vast it could stretch from Tokyo to Okinawa, appearing regularly on Mars. That's essentially what scientists are observing: a massive atmospheric phenomenon, thousands of kilometers long, whose behavior challenges our current understanding of how planetary atmospheres work. It's a fundamental mystery playing out on a planetary scale.",
+        "For Tokyo readers, the direct impact is not immediate, but the implications for space exploration are profound. Better understanding Martian weather means more reliable forecasts for future missions. This directly affects the safety and efficiency of robotic probes and, eventually, human outposts. Downstream, insights gained from studying these alien atmospheric dynamics could even refine our own climate models here on Earth, contributing to more accurate weather predictions and disaster preparedness.",
+        "This kind of deep planetary understanding will become critical within the next 5 to 10 years, gated by the increasing pace of robotic and human missions to Mars. As we plan for sustained human presence, precise environmental data will shift from being a scientific curiosity to an operational necessity, directly influencing mission architecture and resource allocation.",
+        "Japan's JAXA, with its Martian Moons eXploration (MMX) mission, is already contributing significantly to understanding the Martian system. While MMX focuses on Phobos and Deimos, the broader goal of characterizing the Martian environment aligns with the need to unravel such atmospheric mysteries. Continued investment in planetary science and advanced sensor technology will be crucial for Japan to remain a key player in this evolving field."
+      ],
+      "ja": [
+        "東京から沖縄まで届くような巨大な雲が、火星に定期的に現れると想像してみてください。科学者たちが観測しているのは、まさにそのような数千キロメートルに及ぶ大規模な大気現象であり、その挙動は惑星の大気がどのように機能するかという私たちの現在の理解に疑問を投げかけています。これは、惑星規模で展開されている根本的な謎なのです。",
+        "東京で暮らす読者にとって、直接的な影響はすぐにはありませんが、宇宙探査への示唆は非常に大きいものです。火星の気象をよりよく理解することは、将来のミッションのためのより信頼性の高い予測につながります。これは、ロボット探査機や、最終的には人類の基地の安全性と効率に直接影響します。さらに、地球外の大気力学を研究することで得られる知見は、地球自身の気候モデルを洗練させ、より正確な天気予報や災害対策に貢献する可能性も秘めています。",
+        "このような深い惑星の理解は、火星へのロボットおよび有人ミッションのペースが加速する今後5年から10年以内に極めて重要になるでしょう。持続的な人類の存在を計画するにつれて、正確な環境データは科学的な好奇心から運用上の必需品へと変わり、ミッションの設計や資源配分に直接影響を与えることになります。",
+        "日本のJAXAは、火星衛星探査計画（MMX）を通じて、火星システムへの理解に大きく貢献しています。MMXはフォボスとダイモスに焦点を当てていますが、火星環境を特徴づけるという広範な目標は、このような大気中の謎を解き明かす必要性と一致しています。惑星科学と先進的なセンサー技術への継続的な投資は、日本がこの進化する分野で主要なプレーヤーであり続けるために不可欠となるでしょう。"
+      ]
+    },
+    "source": {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/"
+    },
+    "sourceGuid": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+    "status": "published"
+  },
+  {
+    "slug": "lunar-regolith-printing-advances-on-site-construction",
+    "category": "space-tech",
+    "issue": "Vol. 10",
+    "publishedAt": "2026-10-24T10:00:00.000Z",
+    "readingMinutes": 4,
+    "feature": false,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/VxuSMyHGHhsXMizCD3sTAS-1920-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Lunar Regolith Printing Advances On-Site Construction",
+      "ja": "月面レゴリス3Dプリント、現地建設の道を拓く"
+    },
+    "dek": {
+      "en": "A new European demonstration shows that large-scale 3D printing using lunar soil could rapidly accelerate the construction of future off-world habitats, significantly reducing reliance on Earth-launched materials.",
+      "ja": "欧州の新たな実証実験は、月面土壌を用いた大規模3Dプリントが将来の宇宙居住地の建設を加速し、地球からの物資輸送への依存を大幅に減らす可能性を示す。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Cologne, Germany",
+      "ja": "ドイツ、ケルン"
+    },
+    "tags": [
+      {
+        "en": "Lunar habitats",
+        "ja": "月面居住地"
+      },
+      {
+        "en": "3D printing",
+        "ja": "3Dプリント"
+      },
+      {
+        "en": "ISRU",
+        "ja": "ISRU (現地資源利用)"
+      },
+      {
+        "en": "Space architecture",
+        "ja": "宇宙建築"
+      }
+    ],
+    "body": {
+      "en": [
+        "Imagine a future where lunar structures rise from the very dust beneath them, crafted not by human hands but by autonomous systems. The European Space Agency (ESA) and its industrial partner, LithosPrint Solutions, recently showcased a significant step towards this reality.",
+        "At the European Astronaut Centre (EAC) in Cologne, Germany, a sophisticated 3D printer successfully fabricated a substantial section of a dome. This demonstration utilized lunar regolith simulant, a material engineered to mimic the abrasive, fine-grained soil found on the Moon.",
+        "The process saw the printer complete a 5-meter diameter dome section in just 72 hours, consuming two tons of simulant to create a structure with a robust 30 cm wall thickness. This method directly leverages the concept of in-situ resource utilization (ISRU), transforming local lunar materials into viable building blocks.",
+        "This marks a considerable advance over previous small-scale printing attempts, moving towards the scale needed for actual habitat modules and infrastructure. The technology promises to reduce the mass of construction materials launched from Earth by up to 90%, a critical factor for sustainable lunar development.",
+        "> \"This approach could fundamentally transform how we envision and build off-world settlements.\"",
+        "The ability to print large, complex structures on-site frees designers from the inherent constraints of launch vehicle dimensions and payload mass. It allows for more organic, integrated architectural forms that can better adapt to the unique lunar environment.",
+        "Beyond its engineering prowess, this development redefines the logistics and economics of lunar settlement. It offers a pathway to establishing permanent, self-sufficient bases faster and more affordably than ever before. For those who will one day live on the Moon, this means less pre-fabricated, standardized housing. Instead, their homes could be bespoke, grown from the local environment, offering a sense of permanence and belonging previously unimaginable."
+      ],
+      "ja": [
+        "人類の手にではなく、自律システムによって、月面の塵から構造物が立ち上がる未来を想像する。欧州宇宙機関（ESA）とその産業パートナーであるLithosPrint Solutionsは、この現実への重要な一歩を先日示した。",
+        "ドイツのケルンにある欧州宇宙飛行士センター（EAC）にて、高度な3Dプリンターがドーム型構造物のかなりの部分の製造に成功した。この実証には、月面の粗く微細な土壌を模倣して作られた月面レゴリス模擬物質が使用された。",
+        "このプロセスでは、直径5メートルのドーム型部分がわずか72時間で完成し、2トンの模擬物質を使用して壁厚30センチメートルの堅牢な構造が構築された。この方法は、現地資源利用（ISRU）の概念を直接活用し、現地の月面物質を実用的な建材へと変換する。",
+        "これまでの小規模なプリント実験と比較して、実際の居住モジュールやインフラに必要なスケールへと大きく前進した。この技術は、地球から打ち上げられる建設資材の質量を最大90%削減する可能性を秘めており、持続可能な月面開発にとって極めて重要な要素となる。",
+        "「このアプローチは、私たちが地球外居住地の構想と建設を根本的に変える可能性がある」",
+        "大規模で複雑な構造物を現地でプリントできる能力は、設計者を打ち上げロケットの寸法やペイロード質量といった固有の制約から解放する。これにより、月独自の環境により適応できる、より有機的で統合された建築形態が可能になる。",
+        "この進展は、単なる工学的な成果に留まらない。月面入植のロジスティクスと経済性を根本的に再定義するものである。これまでよりも迅速かつ手頃な価格で、恒久的で自給自足の基地を確立する道筋を提供する。将来、月で暮らす人々にとって、これは既成の画一的な住居からの脱却を意味する。彼らの家は、その土地の環境から「育まれた」特注品となり、これまで想像しえなかった永続性と帰属意識をもたらすだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Imagine a construction crew on the Moon, but instead of bringing bricks from Earth, they use a giant robot printer to build houses directly from lunar dust. That's essentially what European researchers just demonstrated. They showed that it's possible to 3D print large parts of a building using material that's already on the Moon, making it much easier to set up a permanent base there.",
+        "For Tokyo readers, this kind of technology might seem distant, but it has tangible downstream effects. It could significantly reduce the cost of lunar operations, which in turn might make lunar resources (like helium-3 for fusion, or water ice for fuel) more accessible. This could influence global energy markets or even the design of future space-tourism infrastructure, as lunar bases become more feasible and affordable.",
+        "We're likely looking at a 5–10 year timeframe for widespread application. The gating factor will be the actual deployment of these large-scale printers to the Moon and proving their reliability in the harsh lunar environment. International collaboration and sustained funding for lunar infrastructure projects will also play a key role in accelerating this timeline.",
+        "Japan's own JAXA and private companies like ispace are deeply involved in lunar exploration and resource utilization. ispace, for example, is focused on lunar landers and rovers that could eventually scout for resources and even assist with construction. While not directly 3D printing habitats yet, their work in lunar logistics is a crucial precursor to making such on-site manufacturing viable and widespread."
+      ],
+      "ja": [
+        "月に建設作業員がいると想像してください。彼らが地球からレンガを持ってくる代わりに、巨大なロボットプリンターを使って月面の砂から直接家を建てるのです。欧州の研究者たちが実証したのは、まさにこの技術です。月にある素材を使って建物の大部分を3Dプリントできることを示し、月面に恒久的な基地を設けることを格段に容易にするものです。",
+        "この種の技術は、東京の読者にとっては遠い話に聞こえるかもしれませんが、実は具体的な影響を及ぼす可能性があります。月面での作業コストを大幅に削減できれば、月面資源（核融合燃料としてのヘリウム3や、燃料となる水氷など）の利用がより現実的になるかもしれません。これは世界のエネルギー市場に影響を与えたり、月面基地がより実現可能で手頃な価格になることで、将来の宇宙旅行インフラの設計にも影響を与える可能性があります。",
+        "この技術が広く応用されるまでには、おそらく5年から10年程度の期間を要するでしょう。具体的な障壁となるのは、これらの大規模プリンターを実際に月に展開し、過酷な月面環境での信頼性を証明することです。月面インフラプロジェクトに対する国際的な協力と継続的な資金提供も、このタイムラインを加速させる上で重要な要素となるでしょう。",
+        "日本のJAXAや、ispaceのような民間企業も月探査や資源利用に深く関わっています。例えばispaceは、将来的に資源探査や建設支援に役立つ月着陸船やローバーの開発に注力しています。直接的な居住地の3Dプリントはまだではありませんが、彼らの月面ロジスティクスに関する取り組みは、このような現地生産を可能にするための重要な前段階と言えるでしょう。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/stargazing/medusas-eye-halloween-fireballs-and-more-5-skywatching-targets-to-look-out-for-this-spooky-season"
+    },
+    "sourceGuid": "KJP4y7fj2N8bxD2kSsj4Z",
+    "status": "published"
+  },
+  {
     "slug": "artemis-program-accelerates-lunar-lander-development-for-2028-missions",
     "category": "artemis",
     "issue": "Vol. 10",
@@ -1298,8 +1644,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "AnySignal Forges New Orbital Communication Standard",
@@ -1726,8 +2072,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "Euclid Telescope Identifies First Comet",
@@ -2416,8 +2762,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Artemis II: The Silent Guardian's Return",
@@ -2674,8 +3020,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "RATLOG's Engine Simplification Redefines Space Access Economics",
@@ -2760,8 +3106,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#08080a"
+      "src": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101010"
     },
     "title": {
       "en": "Artemis II: The Confident Return",
@@ -3104,8 +3450,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101012"
     },
     "title": {
       "en": "UK Initiates First Orbital Debris Removal Mission",
@@ -3190,8 +3536,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101012"
+      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Lunar Cadence: The New Normal for Artemis Missions",
@@ -3532,8 +3878,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0f12"
+      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Europe's Agile Orbit: Mini-Constellations Redefine Space Tech Deployment",
@@ -3616,8 +3962,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101010"
+      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "Orbital Intelligence: In Orbit Aerospace Pivots to Autonomous Systems",
@@ -3702,8 +4048,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0f12"
     },
     "title": {
       "en": "Voyager's Echo: Proven Technologies for Lunar Futures",
@@ -3874,8 +4220,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1532618793091-ec5fe9635fbd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "The Kinetic Path to Orbit: Longshot's Vision for Space Cargo",
@@ -3960,8 +4306,8 @@
     "readingMinutes": 3,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532618793091-ec5fe9635fbd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "The Political Orbit: US Elections and Space's Trajectory",
@@ -4128,8 +4474,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "From Rejection to Orbit: A Software Journey Redefines Space Access",
@@ -4384,8 +4730,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "Precision and Navigation: A New Star Sensor for LEO",
@@ -4470,8 +4816,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Gravity's Embrace: Sophie Adenot Returns from Record ISS Mission",
@@ -4642,8 +4988,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Starlink's Terrestrial Battle: India's Digital Frontier",
@@ -4728,8 +5074,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "ESA Astronaut Sophie Adenot Returns to Earth After Eight Months on ISS",
@@ -4814,8 +5160,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "Xona's Commercial Navigation Service: Charting New Orbits",
@@ -4900,8 +5246,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Kapta Space Secures $24M for Advanced Orbital Radar",
@@ -4988,8 +5334,8 @@
     "readingMinutes": 3,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0b0b0d"
     },
     "title": {
       "en": "Accelerated Lunar Base Bolstered by Space Nuclear Pact",
@@ -5074,8 +5420,8 @@
     "readingMinutes": 3,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Etosha's Salt Pan: A Blueprint for Off-world Resource Mapping",
@@ -5244,8 +5590,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Starlink's Indian Stalemate: A Glimpse into Off-World Market Entry",
@@ -5500,8 +5846,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101012"
+      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0f12"
     },
     "title": {
       "en": "Lunar Foundations: The Engineering Behind Permanent Moon Habitation",
@@ -5588,8 +5934,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#08080a"
     },
     "title": {
       "en": "Artemis II: Charting Lunar Familiarity",
@@ -5761,8 +6107,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "The Architects of Orbit: SpaceNews Icons for 2026",
@@ -5845,8 +6191,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Xona Accelerates Pulsar Constellation for Off-World Precision",
@@ -5931,8 +6277,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101010"
     },
     "title": {
       "en": "Mars Express Uncovers 'Exotic Physics' in Martian Cloud Formation",
@@ -6015,8 +6361,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Advanced Coatings Expand Thermal Control for Off-World Habitats",
@@ -6105,8 +6451,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "A Golden Dome for US Space: Huntsville and Colorado Springs Forge New Alliance",
@@ -6187,8 +6533,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "ESA Forges Global Space Partnerships at IAC 2026",
@@ -6357,8 +6703,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Orbital Congestion: The Looming Gridlock of Megaconstellations",
@@ -6519,348 +6865,6 @@
       "url": "https://payloadspace.com/nebex-partners-with-thrusters-unlimited-to-unlock-700m-for-mexicos-space-ecosystem/"
     },
     "sourceGuid": "https://payloadspace.com/?p=33075",
-    "status": "published"
-  },
-  {
-    "slug": "esa-advocates-for-stronger-european-space-role-at-iac",
-    "category": "space-tech",
-    "issue": "Vol. 10",
-    "publishedAt": "2026-10-05T18:28:00.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
-    },
-    "title": {
-      "en": "ESA Advocates for Stronger European Space Role at IAC",
-      "ja": "IACにてESAが提唱する欧州宇宙戦略の強化"
-    },
-    "dek": {
-      "en": "At the 77th International Astronautical Congress, the European Space Agency emphasized the critical need for enhanced European capabilities and deeper international collaboration in a rapidly evolving space landscape.",
-      "ja": "第77回国際宇宙会議で、欧州宇宙機関は、急速に変化する宇宙環境において、欧州の能力向上と国際協力の深化が不可欠であると強調した。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Antalya, Türkiye",
-      "ja": "アンタルヤ、トルコ"
-    },
-    "tags": [
-      {
-        "en": "ESA",
-        "ja": "ESA"
-      },
-      {
-        "en": "International Cooperation",
-        "ja": "国際協力"
-      },
-      {
-        "en": "Space Policy",
-        "ja": "宇宙政策"
-      },
-      {
-        "en": "European Space",
-        "ja": "欧州宇宙"
-      }
-    ],
-    "body": {
-      "en": [
-        "The 77th International Astronautical Congress (IAC) in Antalya, Türkiye, convened global space leaders, researchers, and policymakers. Amidst this gathering, the European Space Agency (ESA) outlined its strategic vision for Europe's role in the evolving extraterrestrial domain.",
-        "On the congress's opening day, October 5, 2026, ESA Director General Josef Aschbacher presented a clear mandate. He underscored the dual imperatives of strengthening European capabilities and fostering deeper international cooperation across all facets of space activity, from scientific exploration to societal contributions.",
-        "This push for enhanced self-reliance aims to position Europe not merely as a participant, but as a more robust and dependable partner on the global stage. It suggests an investment in independent access to space, advanced manufacturing, and resilient data infrastructure, ensuring Europe can contribute substantially to shared endeavors.",
-        "The emphasis was on a dynamic and responsive approach to a rapidly changing environment. The original report noted Aschbacher's assertion that Europe must become a \"stronger and more capable partner\" in this new era.",
-        "Such a strategic shift holds tangible implications for the architecture of future off-world settlements. As Europe develops more independent capabilities, it contributes to a diversified supply chain for crucial materials and systems—from life support modules to power generation. This reduces reliance on single-source providers and fosters a more resilient, distributed network for lunar or Martian outposts.",
-        "For those who will live and work beyond Earth, a stronger European presence means a broader pool of expertise and resources. It implies a greater variety in design philosophies for habitats and infrastructure, potentially leading to more adaptable and culturally diverse off-world environments. The shared burden of establishing sustained human presence in space becomes more equitable, fostering a collaborative spirit that extends to the very fabric of orbital and planetary communities."
-      ],
-      "ja": [
-        "トルコのアンタルヤで開催された第77回国際宇宙会議（IAC）には、世界の宇宙開発を牽引するリーダー、研究者、政策立案者が一堂に会した。その中で、欧州宇宙機関（ESA）は、進化する地球外領域における欧州の役割に関する戦略的ビジョンを提示した。",
-        "2026年10月5日の会議初日、ESAのヨゼフ・アシュバッハー長官は明確な方針を打ち出した。彼は、科学探査から社会貢献に至るまで、宇宙活動のあらゆる側面において欧州の能力を強化し、国際協力を深化させるという二重の課題を強調した。",
-        "この自立性強化への動きは、欧州を単なる参加者ではなく、国際舞台におけるより堅牢で信頼できるパートナーとして位置づけることを目指す。それは、独立した宇宙アクセス、先進製造、そして強靭なデータインフラへの投資を示唆しており、欧州が共有の取り組みに大きく貢献できることを確実にする。",
-        "急速に変化する環境へのダイナミックかつ応答性の高いアプローチが強調された。原文より「欧州は、急速に変化する宇宙環境において、より強く、より有能なパートナーとなる必要がある」とアシュバッハー長官は述べた。",
-        "このような戦略的転換は、将来の地球外居住地の構築に具体的な影響を及ぼす。欧州がより独立した能力を開発することで、生命維持モジュールから発電システムに至るまで、重要な材料やシステムのサプライチェーンが多様化する。これは、単一供給源への依存を減らし、月面や火星の前哨基地にとって、より回復力のある分散型ネットワークを育む。",
-        "地球を超えて生活し、働く人々にとって、欧州の存在感の強化は、より広範な専門知識と資源のプールを意味する。それは、居住施設やインフラ設計における多様な哲学を暗示し、より適応性が高く、文化的に多様な地球外環境につながる可能性を秘めている。宇宙における持続的な人類の存在を確立する共通の負担はより公平になり、軌道上および惑星コミュニティのまさにその基盤にまで及ぶ協力精神を育むだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The European Space Agency (ESA) recently announced its intent to become a stronger, more independent player in the global space arena, while also deepening its international collaborations. Think of it like a major global city, say London or Paris, deciding to invest heavily in its own infrastructure and industries, not just for its own benefit but to be a more reliable and valuable partner in larger international projects, like building a new high-speed rail network across continents.",
-        "For Tokyo readers, this strategic shift could have several tangible impacts. Firstly, it could lead to a more diversified and stable global supply chain for high-tech components crucial to space activities, such as advanced sensors or specialized computing chips, which are also vital for terrestrial industries. Secondly, as Europe develops its own standards and technologies for lunar habitats and resource extraction, it could influence the international frameworks that Japanese companies and JAXA operate within, potentially opening new avenues for joint ventures in off-world architecture or life support systems.",
-        "These impacts are unlikely to be felt immediately on the streets of Shibuya or Ginza. We can anticipate seeing concrete changes within a 5-10 year timeframe. This timeline is largely gated by the long development cycles for new space technologies and the complex, multilateral negotiations required to establish new international space policies and commercial partnerships.",
-        "Japan is already moving in a comparable direction. JAXA, alongside companies like Mitsubishi Heavy Industries and ispace, is actively strengthening its domestic capabilities and pursuing robust international partnerships, particularly within the Artemis program for lunar exploration. Like ESA, Japan aims to be a key, reliable contributor to the future of space, ensuring its technological prowess and strategic interests are well-represented in the coming era of off-world living and commerce."
-      ],
-      "ja": [
-        "欧州宇宙機関（ESA）は最近、国際的な宇宙分野でより強力かつ自立的なプレーヤーとなりつつ、国際協力を深化させる意向を表明しました。これは、ロンドンやパリのような主要な国際都市が、自国のインフラや産業に大規模な投資を行い、それによって大陸を横断する高速鉄道網のような大規模な国際プロジェクトにおいて、より信頼できる価値あるパートナーとなることを目指すようなものです。",
-        "東京で暮らす読者にとって、この戦略的な転換はいくつかの具体的な影響をもたらす可能性があります。まず、宇宙活動に不可欠な高度なセンサーや特殊な計算チップなど、地上産業にも重要なハイテク部品のグローバルサプライチェーンが、より多様化し安定するかもしれません。次に、欧州が月面居住施設や資源採掘のための独自の基準や技術を開発することで、日本の企業やJAXAが活動する国際的な枠組みに影響を与え、地球外建築や生命維持システムにおける新たな共同事業の道を開く可能性があります。",
-        "これらの影響が渋谷や銀座の日常にすぐに現れることはないでしょう。具体的な変化が見られるのは、5年から10年程度の期間内と予測されます。このタイムラインは、新しい宇宙技術の開発に要する長いサイクルと、新たな国際宇宙政策や商業パートナーシップを確立するために必要な複雑な多国間交渉によって大きく左右されます。",
-        "日本もまた、同様の方向で動いています。JAXAは、三菱重工業やispaceのような企業と共に、国内の能力強化と、特に月探査のためのアルテミス計画における強固な国際パートナーシップを積極的に推進しています。ESAと同様に、日本も宇宙の未来において主要かつ信頼できる貢献者となることを目指し、来るべき地球外での生活と商業の時代において、その技術力と戦略的利益が十分に代表されるように努めています。"
-      ]
-    },
-    "source": {
-      "name": "ESA",
-      "url": ""
-    },
-    "sourceGuid": "0c85aa6fbfcdbaccc786c9216adecb9b",
-    "status": "published"
-  },
-  {
-    "slug": "stone-echoes-terrestrial-design-informs-off-world-aesthetics",
-    "category": "culture",
-    "issue": "Vol. 10",
-    "publishedAt": "2026-10-05T04:00:44.000Z",
-    "readingMinutes": 5,
-    "feature": false,
-    "cover": {
-      "src": "http://static.dezeen.com/uploads/2026/09/grace-atelier-tiles-ceramiche-keope_dezeen_2364_col_1-411x411.jpg",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Stone Echoes: Terrestrial Design Informs Off-World Aesthetics",
-      "ja": "地上の石の響き：宇宙居住空間のデザインへ"
-    },
-    "dek": {
-      "en": "Italian brand Ceramiche Keope introduces a new collection of stone-effect porcelain tiles, prompting reflection on how natural textures might define future off-world interiors.",
-      "ja": "イタリアのセラミケ・ケオペ社が発表した石材調磁器タイルコレクションは、自然な質感が未来の宇宙居住空間のデザインをいかに形作るかという問いを投げかける。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "MILAN",
-      "ja": "ミラノ"
-    },
-    "tags": [
-      {
-        "en": "Interior Design",
-        "ja": "インテリアデザイン"
-      },
-      {
-        "en": "Materials Science",
-        "ja": "材料科学"
-      },
-      {
-        "en": "Off-world Architecture",
-        "ja": "宇宙建築"
-      },
-      {
-        "en": "Biophilic Design",
-        "ja": "バイオフィリックデザイン"
-      }
-    ],
-    "body": {
-      "en": [
-        "The desire for familiar textures persists, even as human habitats extend beyond Earth. Italian design house Ceramiche Keope recently unveiled its Grace Atelier collection, a series of porcelain surfaces that evoke the deep geological history of Europe. This release prompts consideration of how such terrestrial aesthetics might translate to the stark environments of orbital stations or lunar bases.",
-        "Launched on October 5, 2026, the collection features three distinct stone-effect designs: Grace, Grace Fossil, and Grace Lithos. These surfaces are presented as both monolithic slabs and intricate geometric mosaics. The intent is to create \"varied and cohesive\" interiors, offering designers flexibility in shaping living and working spaces.",
-        "Ceramiche Keope, known for its expertise in porcelain, has crafted these tiles to mimic the tactile and visual qualities of natural stone. The inspiration drawn from specific European geological sites suggests a deep connection to Earth's ancient formations. This artistic interpretation of natural history into durable surfaces speaks to a longing for authenticity.",
-        "> The project is built on four pillars.",
-        "The collection's foundation rests on four key pillars, aiming to blend aesthetics with functionality. Such considerations—durability, ease of maintenance, and aesthetic appeal—will be paramount in environments where resources are constrained and psychological well-being is critical.",
-        "For those envisioning life off-world, the choice of interior materials moves beyond mere decoration. A lunar habitat, for instance, might prioritize lightweight, radiation-resistant, and easily cleanable surfaces. Yet, the psychological need for spaces that feel natural, reminiscent of Earth, will remain. Materials like these porcelain tiles, offering the illusion of natural stone without its weight or fragility, could become highly valued.",
-        "The development of advanced composite materials and 3D printing techniques for off-world construction will likely focus on structural integrity and resource efficiency. However, the finishing touches—the textures underfoot, the patterns on a wall—will define the quality of daily life. Designers will face the challenge of creating environments that are both functional and emotionally resonant, perhaps by replicating Earth's familiar beauty through engineered facsimiles. This convergence of advanced manufacturing with biophilic design principles could shape the very fabric of off-world dwellings."
-      ],
-      "ja": [
-        "人類が地球を離れて居住空間を広げる中でも、慣れ親しんだ質感への欲求は消えない。イタリアのデザインブランド、セラミケ・ケオペ社は先日、ヨーロッパの深い地質学的歴史を想起させる磁器タイルコレクション「Grace Atelier」を発表した。この発表は、地球上の美意識が軌道上のステーションや月面基地の厳しい環境にどう適応していくかという考察を促す。",
-        "2026年10月5日に発表されたこのコレクションは、「Grace」「Grace Fossil」「Grace Lithos」という三つの異なる石材調デザインを特徴とする。これらは一枚板のモノリシックなスラブと、幾何学的なモザイクの両方で提供される。その目的は、「多様でありながらまとまりのある」インテリアを創造し、居住空間や作業空間をデザインする上での柔軟性を提供することにある。",
-        "磁器の専門知識で知られるセラミケ・ケオペ社は、天然石の触感と視覚的品質を模倣するようにこれらのタイルを製作した。特定のヨーロッパの地質学的サイトから着想を得ている点は、地球の古代の形成物との深いつながりを示唆する。天然の歴史を耐久性のある表面素材へと芸術的に解釈するこの試みは、本物への憧れを語る。",
-        "> このプロジェクトは四つの柱に基づいている。",
-        "このコレクションは、美学と機能性を融合させる四つの柱に基づいて構築されている。耐久性、手入れのしやすさ、そして美的魅力といった要素は、資源が限られ、心理的幸福が極めて重要となる宇宙環境において、最も重視されるだろう。",
-        "宇宙での生活を想像する人々にとって、内装材の選択は単なる装飾を超えた意味を持つ。例えば、月面居住地では、軽量で耐放射線性に優れ、清掃が容易な表面が優先されるかもしれない。しかし、地球を想起させるような自然な感覚を与える空間への心理的欲求は依然として大きい。これらの磁器タイルは、天然石の重さや脆さを持たずにその「錯覚」を提供する点で、宇宙空間で高く評価される素材となるだろう。",
-        "宇宙建設のための先進複合材料や3Dプリント技術の開発は、構造的完全性と資源効率に焦点を当てるだろう。しかし、足元の質感や壁のパターンといった最終的な仕上げが、日々の生活の質を決定する。デザイナーは、機能的であると同時に感情的に響く環境を創造するという課題に直面する。それは、地球の慣れ親しんだ美しさを、エンジニアリングされた模倣を通じて再現することかもしれない。先進的な製造技術とバイオフィリックデザイン原則の融合が、宇宙居住空間のまさにその構造を形作ることになるだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Imagine walking into a new café or office building in Tokyo and seeing walls or floors that look exactly like natural stone, but are actually made of extremely durable, lightweight ceramic. That's essentially what Ceramiche Keope has done with their new Grace Atelier collection. They've used advanced techniques to create porcelain tiles that perfectly mimic the appearance and texture of ancient European geological sites, offering a sense of natural beauty in modern interiors.",
-        "For Tokyo readers, this kind of material innovation suggests a future where the distinction between natural and engineered surfaces blurs. In urban planning, this could lead to more sustainable and cost-effective ways to incorporate biophilic design—the integration of nature into built environments—without the environmental impact or structural limitations of real stone. It might influence material choices for high-rise residential interiors, public spaces, or even disaster-resistant architecture, making beautiful, durable surfaces more accessible.",
-        "This impact is already observable today, with similar high-performance ceramic and composite materials being used in Japanese construction and interior design. We can expect to see wider adoption and refinement within the next 3-5 years, driven by consumer demand for sustainable luxury and advancements in manufacturing efficiency. The gating factor will be the continued development of cost-effective production methods and broader market acceptance of engineered materials as premium alternatives.",
-        "In Japan, companies like Toto and Lixil are continually innovating in ceramic and composite materials for both interior and exterior applications, focusing on durability, aesthetics, and hygiene. While perhaps not directly mimicking ancient geological sites, their research into advanced tile and surfacing technologies for bathrooms, kitchens, and architectural facades follows a similar trajectory of blending high performance with sophisticated design. The challenge for Japanese firms will be to meet the same level of artistic interpretation of natural forms while maintaining their reputation for precision and functionality."
-      ],
-      "ja": [
-        "東京の新しいカフェやオフィスビルに入った時、壁や床がまるで天然石のように見えるのに、実は非常に耐久性のある軽量なセラミック製だった、と想像してみてください。セラミケ・ケオペ社が新しい「Grace Atelier」コレクションで実現したのは、まさにそのようなことです。彼らは高度な技術を使い、古代ヨーロッパの地質学的サイトの外観と質感を完璧に模倣した磁器タイルを作り出しました。これは、現代のインテリアに自然な美しさをもたらします。",
-        "東京で暮らす読者にとって、このような素材の革新は、天然素材と人工素材の境界が曖昧になる未来を示唆しています。都市計画においては、本物の石材を使う際の環境負荷や構造上の制約なしに、バイオフィリックデザイン—建築環境に自然を取り入れること—をより持続可能かつ費用対効果の高い方法で実現できるかもしれません。高層マンションのインテリア、公共空間、さらには災害に強い建築物の素材選択にも影響を与え、美しく耐久性のある表面材がより身近になる可能性があります。",
-        "この影響は、高性能セラミックや複合材料が日本の建設やインテリアデザインですでに使われているため、今日すでに観察できます。今後3〜5年以内に、持続可能なラグジュアリーへの消費者需要と製造効率の向上に牽引され、より広範な採用と洗練が進むと予想されます。普及の鍵となるのは、費用対効果の高い生産方法の継続的な開発と、エンジニアリングされた素材がプレミアムな代替品として市場に広く受け入れられるかどうかです。",
-        "日本では、TOTOやLIXILといった企業が、耐久性、美学、衛生面に焦点を当て、内外装向けのセラミックや複合材料において常に革新を続けています。彼らが古代の地質学的サイトを直接模倣しているわけではないものの、浴室、キッチン、建築ファサード向けの高度なタイルおよび表面技術の研究は、高性能と洗練されたデザインを融合させるという点で共通の方向性を持っています。日本の企業にとっては、精密さと機能性という評判を維持しつつ、自然な形態の芸術的解釈において同様のレベルに達することが課題となるでしょう。"
-      ]
-    },
-    "source": {
-      "name": "Dezeen",
-      "url": "https://www.dezeen.com/2026/10/05/grace-atelier-tiles-ceramiche-keope/"
-    },
-    "sourceGuid": "https://www.dezeen.com/?p=2369710",
-    "status": "published"
-  },
-  {
-    "slug": "agile-space-industries-bolsters-leadership-for-future-in-space-operations",
-    "category": "space-tech",
-    "issue": "Vol. 10",
-    "publishedAt": "2026-10-05T12:00:00.000Z",
-    "readingMinutes": 5,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
-    },
-    "title": {
-      "en": "Agile Space Industries Bolsters Leadership for Future In-Space Operations",
-      "ja": "アジャイル・スペース・インダストリーズ、宇宙空間での運用に向け経営体制を強化"
-    },
-    "dek": {
-      "en": "Agile Space Industries, a key developer of in-space propulsion, has appointed Jonathan Baliff to its Board of Directors, signaling strategic expansion in the burgeoning off-world economy.",
-      "ja": "宇宙空間推進システムの主要開発企業であるアジャイル・スペース・インダストリーズは、ジョナサン・バリフ氏を役員会に迎え、成長するオフワールド経済における戦略的拡大を示唆する。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "DURANGO, Colo.",
-      "ja": "コロラド州デュランゴ"
-    },
-    "tags": [
-      {
-        "en": "Space Economy",
-        "ja": "宇宙経済"
-      },
-      {
-        "en": "Propulsion",
-        "ja": "推進技術"
-      },
-      {
-        "en": "Commercial Space",
-        "ja": "商業宇宙"
-      },
-      {
-        "en": "Lunar Operations",
-        "ja": "月面運用"
-      }
-    ],
-    "body": {
-      "en": [
-        "The landscape of in-space logistics is rapidly evolving, demanding robust and adaptable propulsion systems for everything from orbital maneuvering to lunar landings. Agile Space Industries, a company specializing in advanced chemical propulsion, has taken a significant step in strengthening its strategic direction with the appointment of Jonathan Baliff to its Board of Directors. This move, announced on October 5, 2026, reflects a broader industry trend towards solidifying corporate leadership as the commercial space sector matures.",
-        "Baliff brings a wealth of experience spanning aerospace, finance, and corporate governance. His background includes executive roles that have navigated complex market dynamics and significant capital flows within the aviation and energy sectors. This expertise is particularly relevant as Agile Space Industries looks to scale its operations and secure its position in a competitive market increasingly focused on sustained lunar and orbital activities.",
-        "Agile Space Industries is known for its innovative propulsion technology, which includes additively manufactured (3D-printed) thrusters designed for precision maneuvering and soft landings on celestial bodies. These systems are critical components for lunar landers, orbital transfer vehicles, and other spacecraft requiring high-performance, responsive thrust. The company's focus on agile, high-performance solutions addresses a growing need for flexible in-space mobility.",
-        "The decision to enhance the board with such a profile underscores the company's ambition to move beyond research and development into larger-scale commercial deployment. Securing experienced leadership is a crucial step for companies aiming to transition from technology innovators to established industry providers, especially in an environment where investor confidence and strategic partnerships are paramount.",
-        "> \"Baliff has joined its Board of Directors, bringing extensive experience in aerospace, finance, and corporate leadership,\" the original report noted.",
-        "This strategic addition suggests a focus on the financial and operational rigor required to support significant growth. For the off-world economy, this translates into a potential for more reliable and cost-effective propulsion solutions, which are fundamental to reducing the overall expense and risk of space missions.",
-        "As humanity extends its presence beyond Earth, the efficiency and reliability of in-space transportation become paramount. For those who will live, work, and conduct business off-world, advancements in propulsion directly impact daily life. Cheaper, more precise thrusters mean lower shipping costs for essential supplies, more flexible habitat placement, and safer transit for personnel. The evolution of companies like Agile Space Industries is not merely about rockets; it is about enabling the logistics of a nascent extraterrestrial society, shaping the very economics of life away from Earth."
-      ],
-      "ja": [
-        "宇宙空間における物流は急速に進化しており、軌道上での機動から月面着陸に至るまで、堅牢で適応性の高い推進システムが求められている。先進的な化学推進システムを専門とするアジャイル・スペース・インダストリーズは、ジョナサン・バリフ氏を役員会に迎えることで、その戦略的方向性を強化する重要な一歩を踏み出した。2026年10月5日に発表されたこの人事は、商業宇宙セクターが成熟するにつれて、企業が経営体制を固めるという業界の広範な傾向を反映している。",
-        "バリフ氏は、航空宇宙、金融、企業統治にわたる豊富な経験を持つ。彼の経歴には、航空およびエネルギー分野における複雑な市場動向と大規模な資金の流れを管理してきた幹部職が含まれる。アジャイル・スペース・インダストリーズが事業を拡大し、持続的な月面および軌道上活動にますます焦点を当てる競争市場でその地位を確立しようとしている現在、この専門知識は特に重要である。",
-        "アジャイル・スペース・インダストリーズは、精密な機動と天体への軟着陸のために設計された、積層造形（3Dプリント）されたスラスタを含む革新的な推進技術で知られている。これらのシステムは、月着陸船、軌道輸送機、および高性能で応答性の高い推力を必要とするその他の宇宙船にとって重要な構成要素である。アジャイルで高性能なソリューションに焦点を当てる同社の姿勢は、柔軟な宇宙空間移動に対する高まるニーズに応えるものである。",
-        "このような経歴を持つ人物を役員会に加えるという決定は、同社が研究開発の段階を超え、より大規模な商業展開へと移行しようとする野心を示している。特に投資家の信頼と戦略的パートナーシップが最重要視される環境において、テクノロジーイノベーターから確立された業界プロバイダーへと転換を目指す企業にとって、経験豊富なリーダーシップを確保することは極めて重要な一歩となる。",
-        "> 「バリフ氏は、航空宇宙、金融、企業リーダーシップにおける豊富な経験をもたらし、役員会に加わった」と原文は記している。",
-        "この戦略的な追加は、大幅な成長を支えるために必要な財務的および運用上の厳格さに焦点を当てていることを示唆している。オフワールド経済にとっては、これはより信頼性が高く費用対効果の高い推進ソリューションの可能性につながり、宇宙ミッションの全体的な費用とリスクを削減するための基礎となる。",
-        "人類が地球を超えてその存在を拡大するにつれて、宇宙空間での輸送の効率性と信頼性は最重要となる。オフワールドで生活し、働き、ビジネスを行う人々にとって、推進技術の進歩は日常生活に直接影響を与える。より安価で精密なスラスタは、必需品の輸送コストを削減し、居住地の配置をより柔軟にし、人員の安全な移動を可能にするだろう。アジャイル・スペース・インダストリーズのような企業の進化は、単にロケットに関するものではない。それは、初期段階の地球外社会の物流を可能にし、地球を離れた生活の経済そのものを形作ることに他ならない。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Imagine a delivery company that specializes in moving delicate packages not across town, but across the vastness of space, perhaps to a lunar base or an orbiting factory. Agile Space Industries is one such company, focusing on the engines that make these precise deliveries possible. Their recent decision to bring a seasoned executive with deep experience in finance and large-scale operations onto their board is like that delivery company hiring a top-tier business strategist to help them expand and manage growth. It signals a move from a promising startup to a more established player ready for bigger contracts.",
-        "For Tokyo readers, the impact of more efficient in-space propulsion might seem distant, but it connects to several key domains. Firstly, it could lower the overall cost of deploying and maintaining satellite constellations, which underpin many everyday services from GPS navigation to mobile network coverage. Secondly, as the idea of lunar resources or in-orbit manufacturing gains traction, more affordable and reliable space transportation could make these future supply chains viable, potentially influencing the cost or availability of specialized materials for Japanese industries like electronics or advanced robotics.",
-        "This impact is likely to be felt within the next 5 to 10 years. The gating factor here is the pace at which the demand for sustained lunar and orbital operations grows, and how quickly the cost per kilogram to move goods within space can be reduced. While the technology is maturing, the commercial market for these services needs to expand significantly for the full effects to be realized.",
-        "Japan has strong players in aerospace propulsion, notably IHI Aerospace and Mitsubishi Heavy Industries (MHI), which develop engines for rockets like the H3. While these companies primarily focus on launch vehicles, the underlying material science and engineering expertise are comparable. Furthermore, companies like ispace, which is actively pursuing lunar lander missions, will be direct beneficiaries and potential partners for improved in-space propulsion systems. The strategic growth seen at Agile Space Industries reflects a global trend that Japanese firms are also navigating, aiming to secure their positions in the evolving space economy."
-      ],
-      "ja": [
-        "想像してみてください。市内の配達ではなく、広大な宇宙空間、例えば月面基地や軌道上の工場へ、精密な荷物を運ぶ専門の運送会社があるとします。アジャイル・スペース・インダストリーズは、まさにそのような精密な輸送を可能にするエンジンを開発している企業です。今回、金融と大規模な事業運営に深い経験を持つベテラン幹部を役員会に迎えたことは、その運送会社が成長を管理し、事業を拡大するために一流の経営戦略家を雇うようなものです。これは、有望なスタートアップから、より大規模な契約に対応できる確立された企業へと移行するシグナルと言えるでしょう。",
-        "東京で暮らす私たちにとって、より効率的な宇宙空間推進がもたらす影響は遠いものに感じるかもしれません。しかし、いくつかの重要な分野と繋がっています。まず、GPSナビゲーションや携帯電話ネットワークなど、私たちの日常生活を支える多くのサービスを支える衛星コンステレーションの展開と維持にかかる全体的なコストを下げる可能性があります。次に、月面資源や軌道上での製造という考えが現実味を帯びるにつれて、より手頃で信頼性の高い宇宙輸送が、これらの将来のサプライチェーンを実用的なものにするでしょう。これは、日本のエレクトロニクスや先進ロボット工学のような産業にとって、特殊な材料のコストや入手可能性に影響を与えるかもしれません。",
-        "この影響が実感されるのは、今後5年から10年以内と考えられます。主要な要因は、持続的な月面および軌道上での運用に対する需要がどれだけ速く高まるか、そして宇宙空間内で物資を移動させるキログラムあたりのコストがどれだけ迅速に削減されるかです。技術は成熟しつつありますが、その効果が完全に現れるには、これらのサービスの商業市場が大きく拡大する必要があります。",
-        "日本には、IHIエアロスペースや三菱重工業（MHI）のように、H3ロケットなどのエンジン開発を手がける航空宇宙推進分野の強力な企業があります。これらの企業は主に打ち上げロケットに焦点を当てていますが、その根底にある材料科学と工学の専門知識は比較対象となり得ます。さらに、月着陸船ミッションを積極的に追求しているispaceのような企業は、改良された宇宙空間推進システムの直接的な恩恵を受ける可能性があり、潜在的なパートナーにもなり得るでしょう。アジャイル・スペース・インダストリーズに見られる戦略的成長は、日本の企業もまた、進化する宇宙経済の中で自らの地位を確立しようと努力しているという世界的な傾向を反映しています。"
-      ]
-    },
-    "source": {
-      "name": "SpaceNews",
-      "url": "https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/"
-    },
-    "sourceGuid": "https://spacenews.com/?p=619009",
-    "status": "published"
-  },
-  {
-    "slug": "the-gridded-fabric-of-future-habitats-space-populars-modular-vision",
-    "category": "culture",
-    "issue": "Vol. 10",
-    "publishedAt": "2026-10-04T05:00:48.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "http://static.dezeen.com/uploads/2026/10/space-popular-nieuwe-instituut-gallery-rotterdam-sq_dezeen_2364_col_0-411x411.jpg",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "The Gridded Fabric of Future Habitats: Space Popular’s Modular Vision",
-      "ja": "未来の居住空間を織りなすグリッド：Space Popularが示すモジュラーデザインの可能性"
-    },
-    "dek": {
-      "en": "A Rotterdam gallery uses a colourful gridded carpet to define space, hinting at how flexible, tactile surfaces might shape off-world interiors.",
-      "ja": "ロッテルダムのギャラリーがカラフルなグリッド状カーペットで空間を定義。これは、柔軟で触覚的な表面が地球外居住空間のインテリアをどのように形成するかを示唆する。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Rotterdam",
-      "ja": "ロッテルダム"
-    },
-    "tags": [
-      {
-        "en": "design",
-        "ja": "デザイン"
-      },
-      {
-        "en": "architecture",
-        "ja": "建築"
-      },
-      {
-        "en": "interior design",
-        "ja": "インテリアデザイン"
-      },
-      {
-        "en": "modularity",
-        "ja": "モジュール性"
-      }
-    ],
-    "body": {
-      "en": [
-        "In the constrained volumes of future off-world habitats, every surface will carry multiple purposes. Design studios are already exploring principles that prioritize adaptability and sensory experience, even within terrestrial settings. Such is the approach taken by Space Popular for the Collection Gallery at the Nieuwe Instituut in Rotterdam.",
-        "The studio has completed a gallery space where a colourful gridded carpet demarcates the collection. This is not merely decorative; it is a fundamental element of spatial organization. The textile surface transforms a long, narrow volume into a dynamic exhibition area, allowing for reconfigurable displays of both physical and digital artifacts.",
-        "The grid, rendered in soft fibre, offers a quiet logic for navigation and arrangement. It provides a visual and tactile framework that guides the visitor through the space, suggesting zones without the need for rigid walls or permanent structures. This inherent modularity is central to the design's effectiveness.",
-        "> Occupying a long, narrow volume within the museum, the Collection Gallery serves as a permanent space to exhibit the Nieuwe Instituut's physical and digital collection, documenting the history of architecture and design.",
-        "The choice of carpet introduces a crucial sensory dimension. In environments where external views are limited or non-existent, the texture and acoustic properties of interior surfaces become paramount. A soft, patterned floor can absorb sound, reduce glare, and provide a comforting sense of place, distinct from the hard, functional surfaces of a spacecraft.",
-        "The quiet logic of a grid, rendered in soft fibre, speaks to a fundamental human need for order, even amidst the unknown. This design approach suggests a future where the interior architecture of lunar bases or Martian settlements might forgo static layouts for highly adaptable, textile-based systems.",
-        "For those who will live, work, and raise families beyond Earth, such design principles offer more than just aesthetics. They promise spaces that can evolve with their inhabitants' needs, transforming a dining area into a workspace, or a sleeping pod into a recreation zone, simply by reconfiguring soft, modular elements. This approach points to a future where our off-world environments are not merely functional, but deeply responsive to human comfort and creativity."
-      ],
-      "ja": [
-        "将来の地球外居住空間の限られた容積では、あらゆる表面が複数の目的を持つことになるでしょう。デザインスタジオは、地上環境においても適応性と感覚的体験を優先する原則をすでに探求しています。ロッテルダムのニューエ・インスティテュート内にあるコレクション・ギャラリーに対するSpace Popularのアプローチもその一つです。",
-        "同スタジオは、カラフルなグリッド状カーペットを用いてコレクションを区画するギャラリー空間を完成させました。これは単なる装飾ではなく、空間構成の根幹をなす要素です。このテキスタイル表面は、長く狭い空間をダイナミックな展示エリアへと変え、物理的およびデジタルな展示物を再構成可能にします。",
-        "柔らかい繊維で表現されたグリッドは、ナビゲーションと配置に静かな論理を提供します。それは、硬い壁や恒久的な構造物なしに、訪問者を空間へと導き、ゾーンを示唆する視覚的および触覚的な枠組みを提供します。この本質的なモジュール性がデザインの有効性の中心です。",
-        "> 博物館内の長く狭い空間を占めるコレクション・ギャラリーは、ニューエ・インスティテュートの物理的およびデジタルコレクションを展示する常設スペースとして機能し、建築とデザインの歴史を記録しています。",
-        "カーペットの選択は、重要な感覚的側面を導入します。外部の景色が限られているか、存在しない環境では、内部表面の質感と音響特性が極めて重要になります。柔らかく、模様のある床は音を吸収し、まぶしさを軽減し、宇宙船の硬く機能的な表面とは異なる、心地よい場所の感覚を提供できます。",
-        "柔らかい繊維で表現されたグリッドの静かな論理は、未知の環境の中でも秩序を求める人間の根源的な欲求を物語ります。このデザインアプローチは、月面基地や火星の入植地の内部建築が、固定されたレイアウトから高度に適応可能なテキスタイルベースのシステムへと移行する未来を示唆しています。",
-        "地球外で暮らし、働き、子育てをする人々にとって、このようなデザイン原則は単なる美学以上のものを提供します。それは、居住者のニーズに合わせて進化できる空間、つまり柔らかくモジュール式の要素を再構成するだけで、ダイニングエリアがワークスペースに、寝室がレクリエーションゾーンに変わるような空間を約束します。このアプローチは、私たちの地球外環境が単に機能的であるだけでなく、人間の快適さと創造性に深く応える未来を示しています。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This news from Rotterdam highlights a design approach that uses a simple element — a carpet with a grid pattern — to make a gallery space adaptable and visually organized. Instead of building fixed walls, the floor itself defines areas and pathways, allowing the exhibition to change easily. It’s about creating flexible environments within a confined volume, using soft, tactile materials.",
-        "For Tokyo readers, this concept of highly adaptable interiors, where spaces can shift function without major renovation, has clear implications. Imagine your compact apartment transforming from a living room to a dining area or a workspace simply by rearranging modular floor elements or furniture. This approach could influence the design of future smart homes and compact urban dwellings, making them more versatile and responsive to daily life.",
-        "This kind of interior flexibility is likely to become more prevalent in urban design within the next 3 to 5 years. The gating factor will be the widespread adoption of modular furniture systems and smart material technologies that allow for quick, non-structural reconfiguration. As the cost of urban space continues to rise, designers will increasingly seek these adaptable solutions.",
-        "In Japan, companies like Muji (良品計画) already champion a minimalist, modular approach to home furnishings and storage, emphasizing adaptability and efficient use of space. While Muji focuses on furniture, the underlying philosophy of creating flexible living environments with simple, well-designed components aligns closely with the principles seen in Space Popular's gallery, and points towards how Japanese ingenuity might shape the interiors of future off-world habitats."
-      ],
-      "ja": [
-        "ロッテルダムからのこのニュースは、シンプルな要素、つまりグリッド柄のカーペットを使ってギャラリー空間を適応可能にし、視覚的に整理するデザインアプローチを強調しています。固定された壁を作る代わりに、床自体がエリアと通路を定義し、展示を簡単に変更できるようにします。これは、限られた容積の中で、柔らかく触覚的な素材を使って柔軟な環境を作り出すことなのです。",
-        "東京の読者にとって、大規模な改修なしに空間の機能を変えられる、このような高度に適応可能なインテリアの概念は、明確な意味を持ちます。コンパクトな住まいが、モジュール式の床材や家具を再配置するだけで、リビングルームからダイニングエリア、あるいはワークスペースへと変貌するのを想像してみてください。このアプローチは、将来のスマートホームやコンパクトな都市型住居のデザインに影響を与え、より多用途で日常生活に即した空間を生み出す可能性があります。",
-        "このようなインテリアの柔軟性は、今後3年から5年以内に都市デザインでより普及するでしょう。その鍵となるのは、大規模な構造変更を伴わない迅速な再構成を可能にする、モジュール式家具システムやスマート素材技術の広範な採用です。都市空間のコストが上昇し続けるにつれて、デザイナーたちはこうした適応性の高いソリューションをますます求めるようになるでしょう。",
-        "日本では、良品計画（Muji）のような企業が、すでに住居の家具や収納に対してミニマリストでモジュール的なアプローチを推進し、適応性と空間の効率的な利用を重視しています。Mujiは家具に焦点を当てていますが、シンプルで良くデザインされたコンポーネントで柔軟な生活環境を創造するというその根底にある哲学は、Space Popularのギャラリーに見られる原則と密接に一致しており、日本の創意工夫が将来の地球外居住空間のインテリアをどのように形作るかを示唆しています。"
-      ]
-    },
-    "source": {
-      "name": "Dezeen",
-      "url": "https://www.dezeen.com/2026/10/04/space-popular-nieuwe-instituut-collection-gallery-rotterdam/"
-    },
-    "sourceGuid": "https://www.dezeen.com/?p=2371340",
     "status": "published"
   }
 ]

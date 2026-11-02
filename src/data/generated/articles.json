@@ -1,5 +1,267 @@
 [
   {
+    "slug": "starfalls-maiden-flight-a-new-era-of-orbital-access-begins",
+    "category": "space-tech",
+    "issue": "Vol. 11",
+    "publishedAt": "2026-11-01T15:00:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/drwYrYiYJJqmLo4dZ34YaM-1920-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Starfall's Maiden Flight: A New Era of Orbital Access Begins",
+      "ja": "スターフォール初飛行：軌道アクセス新時代への序曲"
+    },
+    "dek": {
+      "en": "A new fully reusable heavy-lift vehicle successfully completes its inaugural flight, promising to dramatically reduce the cost and increase the cadence of space transportation, with profound implications for off-world development.",
+      "ja": "完全再利用型重量物輸送ロケットが初の軌道飛行を成功させ、宇宙輸送のコスト削減と頻度向上を約束。地球外開発に深い影響を与える可能性を秘める。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Cape Canaveral, November 1, 2026",
+      "ja": "ケープカナベラル、2026年11月1日"
+    },
+    "tags": [
+      {
+        "en": "space-tech",
+        "ja": "宇宙技術"
+      },
+      {
+        "en": "reusable rockets",
+        "ja": "再利用ロケット"
+      },
+      {
+        "en": "space economy",
+        "ja": "宇宙経済"
+      },
+      {
+        "en": "orbital operations",
+        "ja": "軌道運用"
+      }
+    ],
+    "body": {
+      "en": [
+        "The launch of the Starfall heavy-lift vehicle marks a new inflection point in orbital access. Developed by privately-funded Stellar Dynamics, the rocket successfully completed its maiden orbital flight and vertical landing this week, demonstrating capabilities poised to redefine the economics of space.",
+        "Starfall is designed for full reusability, a critical factor in driving down the cost per kilogram to orbit. With a stated payload capacity of 100 metric tons to Low Earth Orbit, and ambitious plans for a weekly launch cadence within two years, it represents a significant leap from current operational systems. This capacity opens doors for larger, more complex orbital infrastructure projects.",
+        "The successful return of the first stage to its landing pad at Cape Canaveral underscored the maturity of Stellar Dynamics' engineering approach. This achievement follows years of iterative development and testing, positioning Starfall as a direct successor to the current generation of partially reusable launchers.",
+        "Its immediate impact is economic: the promise of vastly reduced launch costs. This cost reduction is not merely incremental; it suggests a fundamental shift in how industries approach space, from satellite deployment to the construction of large-scale habitats. The sheer volume of cargo that can be delivered will accelerate the development of off-world economies.",
+        "> \"This ushers in a new era of routine space access,\" the original report noted, highlighting the potential for space transportation to become as predictable as air freight.",
+        "This routine access will fundamentally alter the texture of daily life for future off-world residents. Materials for construction, goods for consumption, and even personal effects will no longer be ultra-rare, high-value commodities. Instead, a steady, affordable supply chain could enable more diverse architecture, more varied personal possessions, and a greater sense of domestic normalcy.",
+        "The very definition of luxury might shift from mere access to orbit, to the quality and abundance of resources once there."
+      ],
+      "ja": [
+        "新型の重量物打ち上げロケット「スターフォール」の初飛行は、軌道へのアクセスにおける新たな転換点を示した。民間資金で設立されたステラ・ダイナミクス社が開発したこのロケットは、今週、初の軌道飛行と垂直着陸を成功させ、宇宙経済の再定義を予感させる能力を実証した。",
+        "スターフォールは完全な再利用性を念頭に設計されており、これは軌道へのキログラムあたりのコストを大幅に削減する上で極めて重要な要素である。低軌道へ100メートルトンのペイロード能力を持ち、2年以内に週1回の打ち上げ頻度を目指すという野心的な計画は、現在の運用システムからの大きな飛躍を意味する。この能力は、より大規模で複雑な軌道インフラプロジェクトの実現を可能にするだろう。",
+        "ケープカナベラルへの第1段の着陸成功は、ステラ・ダイナミクス社の工学アプローチの成熟度を強調した。この成果は長年の反復開発と試験を経て達成されたものであり、スターフォールを現在の部分再利用型ロケットの直接の後継機として位置づける。",
+        "その直接的な影響は経済的であり、打ち上げコストの大幅な削減が約束される。このコスト削減は単なる漸進的なものではなく、衛星配備から大規模な居住施設の建設に至るまで、産業界が宇宙にアプローチする方法の根本的な変化を示唆する。輸送可能な貨物の純粋な量そのものが、地球外経済の発展を加速させるだろう。",
+        "> 「これは日常的な宇宙アクセスという新時代を到来させる」と原文は記し、宇宙輸送が航空貨物のように予測可能になる可能性を強調した。",
+        "この日常的なアクセスは、将来の地球外居住者の日常生活の質感を根本的に変えるだろう。建設資材、消費財、さらには個人の持ち物でさえ、もはや超希少で高価な商品ではなくなる。その代わりに、安価で安定したサプライチェーンが、より多様な建築様式、より多種多様な私物、そしてより強い家庭的な感覚を可能にするだろう。",
+        "贅沢の定義そのものが、単に軌道へのアクセスから、そこでの資源の質と豊富さへと変化するかもしれない。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This news about Stellar Dynamics' Starfall rocket essentially describes a new kind of \"space delivery truck\" that can fly to orbit and back, over and over again. Think of it like a very large cargo plane that doesn't just deliver goods across continents, but to a \"parking lot\" in space, and then returns to be refilled and sent again. The key here is that it makes sending things to space much, much cheaper.",
+        "For Tokyo readers, this development could bring several changes. First, services that rely on satellites – like your GPS navigation, mobile phone networks, or even advanced weather forecasting – could become more robust and affordable. With cheaper launches, Japanese companies like Synspective or ispace could deploy their constellations or lunar landers more frequently and at a lower cost, leading to more competitive services globally and domestically. This also means a potential reduction in the cost of raw materials sourced from space, once that industry matures.",
+        "We might see these impacts within the next 3 to 5 years. The main gating factor is not just the rocket's operational cadence, but also how quickly the international space economy adapts to such low costs. Japan's own space policy and domestic launch capabilities will also need to evolve to fully leverage or compete with such disruptive technologies.",
+        "While Japan's H3 rocket program is making strides in heavy-lift capabilities, and companies like Interstellar Technologies are exploring reusable suborbital rockets, a fully reusable orbital heavy-lift system like Starfall represents a significant gap in current Japanese private sector offerings. JAXA and Japanese industry are certainly watching these developments closely, as the ability to routinely and affordably access space will be crucial for any nation's future in the off-world economy."
+      ],
+      "ja": [
+        "ステラ・ダイナミクス社のスターフォール・ロケットに関するこのニュースは、基本的に「宇宙の配送トラック」が何度も軌道へ行き来できるようになるという話です。大陸間を貨物を運ぶ大型輸送機が、今度は宇宙の「駐車場」まで荷物を届け、また戻ってきて再利用されるようなものだと考えてください。ここで最も重要なのは、宇宙へ物を送るコストが格段に安くなるということです。",
+        "東京で暮らす読者にとって、この進展はいくつかの変化をもたらす可能性があります。まず、GPSナビゲーション、携帯電話網、高度な天気予報など、衛星に依存するサービスが、より堅牢で手頃な価格になるかもしれません。打ち上げコストが安くなれば、シンクスペクティブやispaceのような日本の企業も、自社の衛星コンステレーションや月着陸船をより頻繁に、低コストで展開できるようになり、国内外で競争力のあるサービスを提供できるでしょう。また、将来的に宇宙から資源が調達されるようになった場合、そのコスト削減にも繋がる可能性があります。",
+        "こうした影響は、今後3年から5年以内に現れるかもしれません。主な制約要因は、ロケットの運用頻度だけでなく、国際的な宇宙経済がこのような低コストにどれだけ早く適応できるかです。日本自身の宇宙政策や国内の打ち上げ能力も、こうした破壊的な技術を最大限に活用し、あるいはそれと競争するために進化していく必要があるでしょう。",
+        "日本のH3ロケットプログラムは重量物輸送能力の向上に努めており、インターステラテクノロジズのような企業は再利用可能な準軌道ロケットの研究を進めていますが、スターフォールのような完全再利用型の軌道重量物輸送システムは、現在の日本の民間部門の提供する技術にはまだ大きなギャップがあります。JAXAや日本の産業界は、これらの動向を注意深く見守っており、宇宙への日常的かつ手頃なアクセス能力は、どの国の将来の宇宙経済においても極めて重要になるでしょう。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/stargazing/meteor-showers/planetary-defense-how-military-and-civil-satellites-are-watching-fireballs-to-help-keep-earth-safe-from-space-rocks"
+    },
+    "sourceGuid": "sxQnxLXFdsasCnviktgnRP",
+    "status": "published"
+  },
+  {
+    "slug": "orbital-transparency-a-us-satellite-observes-chinas-secret-spaceplane",
+    "category": "space-tech",
+    "issue": "Vol. 11",
+    "publishedAt": "2026-11-01T11:02:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://futurism.com/wp-content/uploads/2026/10/us-satellite-china-top-secret-spaceplane-camera.jpg?quality=85&amp;w=2048",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Orbital Transparency: A US Satellite Observes China's Secret Spaceplane",
+      "ja": "軌道上の透明性：米国衛星が中国の秘密宇宙機を観測"
+    },
+    "dek": {
+      "en": "The recent observation of a Chinese reusable spaceplane by a US satellite underscores the evolving landscape of orbital operations, where strategic assets are increasingly subject to remote scrutiny.",
+      "ja": "米国衛星による中国の再利用型宇宙機の観測は、軌道上での戦略的アセットが遠隔監視の対象となりつつある、宇宙活動の進化する様相を浮き彫りにする。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO, 2026-11-01",
+      "ja": "東京, 2026年11月1日"
+    },
+    "tags": [
+      {
+        "en": "Spaceplane",
+        "ja": "宇宙機"
+      },
+      {
+        "en": "Reconnaissance",
+        "ja": "偵察"
+      },
+      {
+        "en": "Orbital Surveillance",
+        "ja": "軌道監視"
+      },
+      {
+        "en": "China Space Program",
+        "ja": "中国宇宙計画"
+      }
+    ],
+    "body": {
+      "en": [
+        "The quiet expanse of Earth's orbit is becoming an increasingly visible domain. A recent report indicates that a US reconnaissance satellite successfully captured images of China's top-secret reusable spaceplane during its mission.",
+        "This event marks a significant moment in the ongoing, often unspoken, competition for orbital awareness. China's spaceplane program, much like the US Air Force's X-37B, operates under a shroud of secrecy, with its precise capabilities and mission objectives largely undisclosed.",
+        "The ability of one nation's orbital assets to observe and document another's classified spacecraft highlights the advanced state of satellite imaging and tracking technologies. It suggests that even the most clandestine operations in space are becoming increasingly difficult to keep truly hidden.",
+        "Such observations provide valuable intelligence on the operational patterns and potential functionalities of these highly capable vehicles. They offer a glimpse into the strategic priorities of major spacefaring nations, where reusable platforms are seen as key to future rapid deployment and in-orbit flexibility.",
+        "> \"Here's what it actually looks like.\"",
+        "The implications extend beyond military intelligence. For future off-world habitats and lunar outposts, this level of persistent, high-resolution orbital surveillance will be a baseline condition. Privacy, in the traditional sense, may become an unattainable luxury in regulated orbital or lunar domains.",
+        "The architecture of future settlements, the design of resource extraction sites, and even the daily routines of off-world inhabitants will need to account for constant overhead observation. Every structure, every movement, will exist under the silent gaze of unseen eyes, shaping the very fabric of nascent extraterrestrial cultures.",
+        "This shift suggests that resilience and discretion will be paramount. Designers of lunar habitats might integrate features that obscure activity from above, while operational protocols for resource management or sensitive research could require careful scheduling to minimize exposure."
+      ],
+      "ja": [
+        "地球軌道の静かな広がりは、ますます可視化される領域となりつつある。最近の報道によれば、米国の偵察衛星が、中国の極秘再利用型宇宙機のミッション中にその画像を撮影することに成功した。",
+        "この出来事は、軌道上の状況認識を巡る、しばしば語られることのない競争における重要な瞬間を画す。中国の宇宙機プログラムは、米国空軍のX-37Bと同様に秘密のベールに包まれ、その正確な能力やミッション目的はほとんど公開されていない。",
+        "ある国の軌道アセットが、他国の機密宇宙船を観測し記録する能力は、衛星画像および追跡技術の高度な進展を示している。これは、宇宙における最も秘密裏の作戦でさえ、真に隠し続けることがますます困難になっていることを示唆する。",
+        "このような観測は、これらの高性能な乗り物の運用パターンや潜在的な機能に関する貴重な情報を提供する。再利用可能なプラットフォームが将来の迅速な展開と軌道上での柔軟性の鍵と見なされる主要な宇宙開発国の戦略的優先事項を垣間見ることができる。",
+        "> 「実際にどのように見えるか」",
+        "その影響は軍事情報に留まらない。将来の地球外居住地や月面基地にとって、このレベルの持続的で高解像度の軌道監視は、基本的な条件となるだろう。従来の意味でのプライバシーは、規制された軌道上や月面領域では、達成不可能な贅沢となるかもしれない。",
+        "将来の入植地の建築、資源採掘地の設計、さらには地球外居住者の日常的な活動も、常に上空からの観測を考慮に入れる必要がある。すべての構造物、すべての動きが、見えない目の静かな視線の下に存在し、初期の地球外文化のまさにその構造を形作ることになるだろう。",
+        "この変化は、回復力と慎重さが極めて重要になることを示唆する。月面居住地の設計者は、上空からの活動を隠す機能を統合する可能性があり、資源管理や機密研究のための運用プロトコルは、露出を最小限に抑えるための慎重なスケジューリングを必要とするかもしれない。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Imagine a delivery truck that flies itself, completely autonomously, and can be used over and over again for secret missions. That's essentially what a reusable spaceplane is, and a US satellite just spotted China's version in orbit. It's like one country's spy plane taking a picture of another country's new, highly classified aircraft, but happening thousands of kilometers above our heads.",
+        "For those of us in Tokyo, this news might seem distant, but it subtly impacts the invisible infrastructure that underpins our daily lives. Services like precise GPS navigation, mobile network connectivity, and even advanced weather forecasting rely on satellites. When major powers observe each other's secret space assets, it adds a layer of strategic complexity to the orbital environment where these vital services operate. It could influence how Japan approaches its own space security and the development of domestic surveillance capabilities.",
+        "This shift isn't a future possibility; it's already shaping policy. We can expect to see concrete changes in Japan's space infrastructure and strategic investments within the next 3 to 5 years. This timeframe is largely gated by new defense assessments and the budget allocation process for JAXA and related industries, as Japan considers enhancing its own orbital monitoring and resilience.",
+        "While Japan doesn't operate a classified reusable spaceplane like China's, Japanese companies and agencies are actively pursuing related technologies. Mitsubishi Heavy Industries (MHI), for example, is developing reusable rocket components, and JAXA is continually advancing its satellite capabilities. Astroscale, a Tokyo-based company, is a global leader in orbital debris removal and in-orbit servicing, which requires extremely precise tracking and rendezvous — skills that are closely aligned with advanced orbital awareness. The current gap lies in a dedicated, classified spaceplane program for strategic purposes."
+      ],
+      "ja": [
+        "まるで、秘密のミッションのために何度も繰り返し使える、自動操縦の空飛ぶトラックを想像してみてください。再利用型宇宙機とはまさにそのようなもので、米国の衛星が中国版のそれを軌道上で発見したというニュースです。これは、ある国のスパイ機が他国の新型の極秘航空機を撮影するようなものですが、それが私たちの頭上数千キロの宇宙空間で起こっているのです。",
+        "東京に暮らす私たちにとって、このニュースは遠い出来事のように思えるかもしれませんが、私たちの日常生活を支える目に見えないインフラに微妙な影響を与えます。高精度GPSナビゲーション、携帯電話ネットワークの接続性、さらには高度な天気予報といったサービスは、衛星に依存しています。主要国が互いの秘密の宇宙アセットを監視し合うことは、これらの重要なサービスが運用される軌道環境に戦略的な複雑さを加えることになります。これは、日本が独自の宇宙安全保障にどのように取り組み、国内の監視能力を開発していくかに影響を与える可能性があります。",
+        "この変化は将来の可能性ではなく、すでに政策を形成しています。日本の宇宙インフラと戦略的投資において、今後3年から5年以内に具体的な変化が見られると予想されます。この期間は、日本が独自の軌道監視とレジリエンス（回復力）の強化を検討する中で、新たな防衛評価とJAXAおよび関連産業への予算配分プロセスによって大きく左右されるでしょう。",
+        "日本は中国のような秘密の再利用型宇宙機を運用していませんが、日本の企業や機関は関連技術を積極的に追求しています。例えば、三菱重工業（MHI）は再利用型ロケット部品の開発を進めており、JAXAも衛星能力の向上に継続的に取り組んでいます。東京に拠点を置くアストロスケール社は、軌道デブリ除去や軌道上サービスの世界的なリーダーであり、これには極めて精密な追跡とランデブー技術が必要とされます。これは高度な軌道状況認識と密接に関連するスキルです。現状では、戦略目的のための専用の秘密宇宙機プログラムにはギャップがあります。"
+      ]
+    },
+    "source": {
+      "name": "Futurism",
+      "url": "https://futurism.com/space/us-satellite-china-top-secret-spaceplane-camera"
+    },
+    "sourceGuid": "https://futurism.com/?p=472658",
+    "status": "published"
+  },
+  {
+    "slug": "the-crescent-lander-and-the-architecture-of-lunar-permanence",
+    "category": "space-tech",
+    "issue": "Vol. 11",
+    "publishedAt": "2026-11-01T13:00:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/vrXD6fnzi9tqspZvKaeFBi-1920-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "The Crescent Lander and the Architecture of Lunar Permanence",
+      "ja": "クレセント・ランダー、月面定住の建築学"
+    },
+    "dek": {
+      "en": "A new lunar lander design promises expanded payload capacity and reduced operational costs, pointing towards a future where off-world habitats are not merely temporary outposts, but true extensions of human endeavor.",
+      "ja": "新型月面着陸機の設計が発表された。ペイロード容量の拡大と運用コストの削減は、月面居住空間が一時的な前哨基地ではなく、人類の活動を真に拡張する未来を示唆する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO, JAPAN — November 1, 2026",
+      "ja": "東京、日本 — 2026年11月1日"
+    },
+    "tags": [
+      {
+        "en": "Lunar Lander",
+        "ja": "月着陸機"
+      },
+      {
+        "en": "Space Architecture",
+        "ja": "宇宙建築"
+      },
+      {
+        "en": "Lunar Economy",
+        "ja": "月経済"
+      },
+      {
+        "en": "Private Space",
+        "ja": "民間宇宙"
+      }
+    ],
+    "body": {
+      "en": [
+        "The vast, silent expanse of the lunar south pole, once a distant scientific curiosity, is steadily transforming into a stage for human ambition. The latest stride in this direction comes from Lunar Ascent Inc., a private aerospace firm, which recently unveiled the design for its next-generation lunar lander.",
+        "Named the \"Crescent Lander,\" the vehicle is engineered to deliver substantial payloads to the lunar surface with unprecedented efficiency. This development marks a significant pivot from the transient missions of the past, suggesting a future of more sustained off-world operations.",
+        "Central to the Crescent Lander's capabilities is its impressive payload capacity, rated at five metric tons. Its modular design allows for the integration of up to three habitation modules or a variety of scientific equipment, offering flexibility for diverse mission profiles, from research outposts to foundational infrastructure.",
+        "Lunar Ascent Inc. has outlined an aggressive timeline for the new vehicle. An uncrewed test flight is targeted for late 2026, with crewed missions slated to commence as early as 2028. These milestones underscore the accelerating pace of private sector involvement in lunar exploration.",
+        "Economically, the Crescent Lander aims to redefine the cost structure of lunar access. The original report highlights a \"30% reduction in cost per kilogram to the lunar surface.\" This efficiency gain, coupled with the lander's emphasis on reusability, promises to make lunar operations more financially viable for a broader range of enterprises.",
+        "This approach stands in stark contrast to the singular, high-stakes missions of the Apollo era, which prioritized national prestige over economic sustainability. Even compared to earlier commercial lunar attempts, the Crescent Lander represents a material shift in design philosophy, focusing on long-term presence over short-term visits.",
+        "The implications extend beyond mere engineering. With increased payload capacity and reduced costs, the prospect of constructing more robust, permanent lunar habitats becomes tangible. The smooth, matte finish of a 3D-printed regolith brick, once a speculative concept, now feels closer to being a foundational element of a lunar home.",
+        "For those who will eventually live, work, and build families off-world, this means a transition from merely surviving in cramped capsules to establishing genuine settlements. The Crescent Lander is not just a vehicle; it is a critical piece of infrastructure for the nascent architecture of lunar permanence, enabling the creation of spaces where life can truly unfold beyond Earth."
+      ],
+      "ja": [
+        "かつて遠い科学的関心事であった月の南極の広大で静かな空間は、人類の野心の舞台へと着実に変貌を遂げつつある。この方向への最新の一歩は、民間航空宇宙企業Lunar Ascent Inc.から発表された次世代月着陸機の設計である。",
+        "「クレセント・ランダー」と名付けられたこの機体は、比類ない効率で大量のペイロードを月面へ輸送できるよう設計されている。この開発は、過去の一時的なミッションからの大きな転換点となり、より持続的な月面運用が可能な未来を示唆する。",
+        "クレセント・ランダーの能力の中核をなすのは、5トンという驚異的なペイロード容量だ。そのモジュール設計により、最大3つの居住モジュールや様々な科学機器を統合でき、研究基地から基盤インフラまで、多様なミッションプロファイルに柔軟に対応する。",
+        "Lunar Ascent Inc.は、この新型機体について積極的なタイムラインを提示している。無人試験飛行は2026年後半が目標とされ、有人ミッションは早ければ2028年には開始される予定だ。これらのマイルストーンは、月探査における民間部門の関与が加速していることを強調している。",
+        "経済的には、クレセント・ランダーは月へのアクセスにおけるコスト構造を再定義することを目指す。原文より、「月面への1kgあたりの輸送コストを30%削減する」と報じられている。この効率向上は、着陸機の再利用性への重点と相まって、より広範な企業にとって月面運用を経済的に実現可能にする。",
+        "このアプローチは、国家の威信を経済的持続可能性よりも優先したアポロ時代の単発で高リスクなミッションとは対照的である。初期の商業月探査の試みと比較しても、クレセント・ランダーは設計思想における実質的な転換を示しており、短期的な訪問ではなく長期的な存在に焦点を当てている。",
+        "その意味合いは単なる工学的な側面にとどまらない。ペイロード容量の増加とコスト削減により、より堅牢で永続的な月面居住空間を建設する可能性が現実味を帯びてくる。3Dプリントされたレゴリスレンガの滑らかなマットな表面は、かつては投機的な概念であったが、今や月面の家の基礎的な要素となる日が近い。",
+        "将来、月で生活し、働き、家族を築く人々にとって、これは狭いカプセルで生き残ることから、真の居住地を確立することへの移行を意味する。クレセント・ランダーは単なる乗り物ではない。それは、地球を超えて生活が真に展開できる空間を創造するための、月面定住という新しい建築の重要なインフラとなるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Imagine a delivery truck, but instead of bringing packages across Tokyo, it flies to the Moon. This new \"Crescent Lander\" is like an upgraded version of that lunar delivery service. It can carry much heavier loads – think of it as being able to bring an entire small apartment's worth of supplies, or even the parts for a small house, to the lunar surface, and do so more affordably than before.",
+        "For Tokyo readers, this development might seem distant, but its ripple effects could be significant. Consider the impact on materials science: new lunar construction techniques could inspire innovations in Earth-bound architecture. It could also influence the supply chains for rare metals or other resources that might one day be extracted from the Moon, potentially diversifying global markets and affecting prices for high-tech components that flow through our city.",
+        "This isn't an overnight change. We're looking at a timeframe of perhaps 5 to 10 years for these impacts to become tangible. The biggest gating factor will be the establishment of sustained demand for lunar resources and the maturation of international agreements on resource rights. Japan is currently observing these discussions, rather than driving them, which will influence the pace of domestic industry adoption.",
+        "Japan already has players moving in comparable directions. ispace, for instance, has demonstrated lunar landing capabilities and is actively pursuing lunar resource development. While the Crescent Lander focuses on larger, heavier payloads for habitat construction, ispace's approach to smaller, more agile landers and rovers complements the overall goal of lunar presence. JAXA's MMX (Martian Moons eXploration) mission, though targeting Mars' moons, also contributes valuable expertise in off-world resource understanding and sample return, which can inform future lunar endeavors."
+      ],
+      "ja": [
+        "東京中を荷物を運ぶ配送トラックを想像してみてください。この新しい「クレセント・ランダー」は、その月版の配送サービスが大幅にパワーアップしたようなものです。これまでよりもはるかに重い荷物、例えば小さなアパート一軒分の資材や、小さな家の部品さえも月面に運ぶことができ、しかも以前より安価にそれが可能になります。",
+        "東京で暮らす読者にとって、この進展は遠い話に聞こえるかもしれませんが、その波及効果は大きいかもしれません。例えば、素材科学への影響です。月面での新しい建設技術は、地球の建築分野にも革新をもたらす可能性があります。また、将来的に月で採掘されるかもしれない希少金属やその他の資源のサプライチェーンにも影響を与え、世界の市場を多様化させ、私たちの都市を流れるハイテク部品の価格に影響を与える可能性も秘めています。",
+        "これは一夜にして起こる変化ではありません。これらの影響が目に見えるようになるまでには、おそらく5年から10年ほどの期間を要するでしょう。最大のボトルネックは、月資源に対する持続的な需要の確立と、資源権利に関する国際的な合意の成熟です。日本は現在、これらの議論を主導するのではなく注視している立場であり、それが国内産業の導入ペースに影響を与えることになります。",
+        "日本にも同様の方向性で動いているプレイヤーはいます。例えば、ispaceは月面着陸能力を実証し、月資源開発に積極的に取り組んでいます。クレセント・ランダーが居住空間建設のためのより大型で重いペイロードに焦点を当てているのに対し、ispaceの小型で機動的な着陸機やローバーへのアプローチは、月面プレゼンスという全体目標を補完するものです。JAXAのMMX（火星衛星探査計画）ミッションは火星の衛星を対象としていますが、これも月面での将来的な活動に役立つ、地球外資源の理解とサンプルリターンに関する貴重な専門知識を提供しています。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/space-exploration/missions/nasas-swift-space-telescope-is-about-to-crash-to-earth-where-will-it-fall"
+    },
+    "sourceGuid": "B2xTDuHsfSsc4ASSkhqrCU",
+    "status": "published"
+  },
+  {
     "slug": "the-printed-home-a-new-vision-for-lunar-habitats",
     "category": "space-tech",
     "issue": "Vol. 10",
@@ -3809,8 +4071,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "HPE Forges Lunar Computing Frontier",
@@ -3895,8 +4157,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0f12"
     },
     "title": {
       "en": "Moon Rovers: The Foundation of a Lunar Home",
@@ -3979,8 +4241,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "SpaceX and Tesla: A Potential Merger Signals New Corporate Horizons",
@@ -4237,8 +4499,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "AnySignal Forges New Orbital Communication Standard",
@@ -4495,8 +4757,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "UARX Space Navigates Early Orbital Challenges with OSSIE-D",
@@ -4581,8 +4843,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "WarpWare Secures Funding for Autonomous Flight Software",
@@ -4665,8 +4927,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Euclid Telescope Identifies First Comet",
@@ -5355,8 +5617,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101012"
+      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#08080a"
     },
     "title": {
       "en": "Artemis II: The Silent Guardian's Return",
@@ -5699,8 +5961,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0b0b0d"
+      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "Artemis II: The Confident Return",
@@ -5957,8 +6219,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "AI and the Geospatial Horizon: New Vistas for Off-World Intelligence",
@@ -6043,8 +6305,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "UK Initiates First Orbital Debris Removal Mission",
@@ -6129,8 +6391,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#08080a"
+      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0b0b0d"
     },
     "title": {
       "en": "Lunar Cadence: The New Normal for Artemis Missions",
@@ -6471,8 +6733,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Europe's Agile Orbit: Mini-Constellations Redefine Space Tech Deployment",
@@ -6631,264 +6893,6 @@
       "url": "https://payloadspace.com/exclusive-in-orbit-aerospace-pivots-from-re-entry-vehicles-to-spacecraft-autonomy/"
     },
     "sourceGuid": "https://payloadspace.com/?p=33264",
-    "status": "published"
-  },
-  {
-    "slug": "voyagers-echo-proven-technologies-for-lunar-futures",
-    "category": "artemis",
-    "issue": "Vol. 10",
-    "publishedAt": "2026-10-13T13:00:00.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101012"
-    },
-    "title": {
-      "en": "Voyager's Echo: Proven Technologies for Lunar Futures",
-      "ja": "ボイジャーの残響：月面未来へ受け継がれる技術"
-    },
-    "dek": {
-      "en": "NASA JPL prepares a new lunar lander, leveraging the deep space heritage of the Voyager program to establish humanity's sustained presence on the Moon.",
-      "ja": "NASA JPLは、ボイジャー計画の深宇宙探査技術を応用した新たな月着陸機を準備する。これは、月面における人類の持続的な存在を確立するための重要な一歩となる。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "PASADENA",
-      "ja": "パサデナ"
-    },
-    "tags": [
-      {
-        "en": "Artemis Program",
-        "ja": "アルテミス計画"
-      },
-      {
-        "en": "Lunar Lander",
-        "ja": "月着陸機"
-      },
-      {
-        "en": "NASA JPL",
-        "ja": "NASA JPL"
-      },
-      {
-        "en": "Space Technology",
-        "ja": "宇宙技術"
-      }
-    ],
-    "body": {
-      "en": [
-        "The name Voyager evokes images of distant stars, the outer reaches of our solar system, and probes that have journeyed beyond human comprehension. Now, that legacy is being re-envisioned for a different, yet equally ambitious, frontier: the Moon.",
-        "NASA's Jet Propulsion Laboratory (JPL) is actively testing a new spacecraft, dubbed the Voyager Technologies Lander. This mission is slated for a lunar landing as early as October 2026, marking a pivotal moment in the Artemis program's goal of returning humans to the lunar surface.",
-        "Unlike the iconic twin Voyager probes themselves, this new lander does not aim for interstellar space. Instead, it meticulously integrates proven, robust technologies derived from decades of deep space exploration. This approach prioritizes reliability and risk reduction for critical lunar surface operations.",
-        "The strategy reflects a maturing space industry. By drawing on established engineering principles and hardware designs, JPL seeks to create a dependable platform for scientific instruments, resource prospecting, and eventually, support systems for human habitats.",
-        "> The Voyager Technologies Lander is being readied for a Moon mission.",
-        "Such a lander represents more than just a scientific payload delivery system; it is a foundational piece of infrastructure. Its success will inform future designs for larger cargo transporters, power generation units, and even pressurized modules that will form the backbone of lunar settlements.",
-        "For those who will one day call the Moon home, the reliability embedded in such heritage technology is paramount. It suggests a future where the components of off-world living—from power grids to communication relays—are built upon a bedrock of tested, resilient systems, offering a quiet assurance in an otherwise alien environment."
-      ],
-      "ja": [
-        "ボイジャーという名は、遠い星々、太陽系の外縁、そして人類の理解を超えて旅を続ける探査機のイメージを呼び起こす。今、その遺産は、同じく野心的でありながら異なるフロンティア、すなわち月へと再構築されようとしている。",
-        "NASAのジェット推進研究所（JPL）は、「ボイジャー・テクノロジーズ着陸機」と呼ばれる新型宇宙船の試験を積極的に進めている。このミッションは、2026年10月にも月面着陸を予定しており、アルテミス計画が掲げる人類の月面帰還という目標において極めて重要な瞬間となる。",
-        "この新しい着陸機は、象徴的なボイジャー探査機そのものとは異なり、星間空間を目指すものではない。その代わり、数十年にわたる深宇宙探査で培われた、実績のある堅牢な技術を綿密に統合している。このアプローチは、月面での重要な運用における信頼性とリスク低減を最優先している。",
-        "この戦略は、成熟しつつある宇宙産業の現状を反映している。JPLは、確立された工学原理とハードウェア設計を活用することで、科学機器、資源探査、そして将来的には人間居住区を支援するための信頼性の高いプラットフォームを構築しようとしている。",
-        "> ボイジャー・テクノロジーズ着陸機は月ミッションに向けて準備が進められている。",
-        "このような着陸機は、単なる科学ペイロードの輸送システム以上の意味を持つ。それは、インフラの基礎となるピースである。その成功は、将来の大型貨物輸送機、発電ユニット、さらには月面居住地の骨格を形成する与圧モジュールの設計に影響を与えるだろう。",
-        "いつか月を故郷と呼ぶ人々にとって、このような遺産技術に組み込まれた信頼性は極めて重要である。それは、電力網から通信中継器に至るまで、地球外での生活を構成する要素が、試験され、回復力のあるシステムの基盤の上に構築される未来を示唆し、異質な環境の中で静かな安心感を提供する。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "NASA JPL is developing a new lunar lander that borrows proven technologies from the long-running Voyager program. Think of it as a highly reliable delivery truck, but one designed for the Moon. Its purpose is to safely land equipment and potentially supplies for future human missions, leveraging designs that have already worked flawlessly in deep space for decades.",
-        "For Tokyo readers, this development primarily impacts the reliability and cost-efficiency of future lunar operations. As Japan aims to participate more actively in lunar exploration, including potential resource extraction or the establishment of bases, having access to highly dependable, standardized components could reduce the overall risk and investment required. This could manifest in more accurate lunar mapping services or more stable satellite communications that support Earth-based industries.",
-        "We can expect to see the impact of such proven technologies within the next 3 to 5 years. Once the Voyager Technologies Lander successfully completes its mission in 2026, it will set a new benchmark for lunar lander reliability. This will be gated by the speed at which these validated technologies are adopted and scaled across the international space community, including commercial players.",
-        "Japan's own ispace, with its HAKUTO-R program, is a prime example of a private entity actively pursuing lunar lander development. While ispace focuses on its unique design, the success of JPL's approach—leveraging proven, cost-effective technologies—serves as a valuable lesson. It highlights the importance of robust engineering and risk mitigation, areas where Japanese industry excels and can further contribute to the global lunar economy."
-      ],
-      "ja": [
-        "NASA JPLは、長年にわたるボイジャー計画で培われた実証済みの技術を応用した、新しい月着陸機を開発しています。これは、月面専用に設計された、極めて信頼性の高い「配送トラック」のようなものだと考えてください。その目的は、将来の有人ミッションのために機器や物資を安全に月面に届けることで、深宇宙で何十年も完璧に機能してきた設計を活用しています。",
-        "東京で暮らす読者にとって、この進展は主に将来の月面運用の信頼性と費用対効果に影響を与えます。日本が月資源の採掘や基地建設を含む月探査に積極的に参加することを目指す中で、信頼性の高い標準化されたコンポーネントにアクセスできることは、全体的なリスクと必要な投資を削減する可能性があります。これは、より精密な月面マッピングサービスや、地球の産業を支えるより安定した衛星通信として現れるかもしれません。",
-        "このような実証済み技術の影響は、今後3年から5年以内に現れると予想されます。ボイジャー・テクノロジーズ着陸機が2026年のミッションを成功させれば、月着陸機の信頼性において新たな基準を打ち立てるでしょう。これは、これらの検証済み技術が国際的な宇宙コミュニティ、特に商業プレイヤー間でどれだけ迅速に採用され、規模が拡大されるかによって左右されます。",
-        "日本のispaceは、「HAKUTO-R」プログラムを通じて、月着陸機開発を積極的に進める民間企業の代表例です。ispaceは独自の設計に注力していますが、JPLの、実績のある費用対効果の高い技術を活用するアプローチの成功は、貴重な教訓となります。これは、日本の産業が得意とし、世界の月面経済にさらに貢献できる、堅牢なエンジニアリングとリスク低減の重要性を浮き彫りにしています。"
-      ]
-    },
-    "source": {
-      "name": "NASA Artemis",
-      "url": "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/"
-    },
-    "sourceGuid": "https://www.nasa.gov/?p=1055724",
-    "status": "published"
-  },
-  {
-    "slug": "aether-1-module-unfurls-signifying-new-eras-in-orbital-living",
-    "category": "space-tech",
-    "issue": "Vol. 10",
-    "publishedAt": "2026-10-13T21:00:00.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://cdn.mos.cms.futurecdn.net/HysbXdLLrhsSef2Qzd4BJW-1920-80.jpg",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Aether-1 Module Unfurls, Signifying New Eras in Orbital Living",
-      "ja": "軌道居住の新時代を告げる：エーテル1モジュールの展開"
-    },
-    "dek": {
-      "en": "Starlight Habitats successfully deploys its first commercial inflatable module, Aether-1, in Low Earth Orbit, marking a significant step towards larger, more comfortable off-world dwellings.",
-      "ja": "スターライト・ハビタッツ社が初の商業用膨張式モジュール「エーテル1」を低軌道に展開。より広く快適な軌道居住空間への重要な一歩となる。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "Space Habitats",
-        "ja": "宇宙居住"
-      },
-      {
-        "en": "Commercial Space",
-        "ja": "商業宇宙"
-      },
-      {
-        "en": "Orbital Living",
-        "ja": "軌道上生活"
-      },
-      {
-        "en": "Architecture",
-        "ja": "建築"
-      }
-    ],
-    "body": {
-      "en": [
-        "In the silent expanse of Low Earth Orbit, a new form began to take shape. The Aether-1 module, a pioneering commercial habitat, slowly unfurled its multi-layered membrane, expanding into the void. This quiet act of inflation marks a tangible shift in how humanity conceives of living beyond Earth.",
-        "Developed by Starlight Habitats, a private aerospace firm, the Aether-1 represents their inaugural step towards establishing a network of orbital accommodations. Launched earlier this month, the module reached its designated Low Earth Orbit altitude of approximately 400 kilometers, where its autonomous deployment sequence commenced.",
-        "Unlike the rigid, metallic segments of traditional space stations, Aether-1 employs a flexible, expandable architecture. Once fully inflated, it provides an internal volume of 300 cubic meters, a significant increase over prior inflatable modules like NASA's Bigelow Expandable Activity Module (BEAM) on the International Space Station, which offered a mere 16 cubic meters. The module, weighing approximately 15 metric tons, achieves this expansive volume with a comparatively light structural mass.",
-        "The primary objective of Aether-1 is to serve as a long-duration research and commercial outpost, capable of housing four to six individuals for extended periods. Its design prioritizes comfort and psychological well-being, moving beyond the cramped, utilitarian environments that have characterized most human presence in orbit thus far. This focus signals a maturation in orbital design philosophy.",
-        "> The original report notes the module represents \"a deliberate move towards habitability over mere utility.\"",
-        "This emphasis on human-centric design manifests in larger, more adaptable interior spaces, potentially featuring configurable partitions and integrated environmental controls that mimic terrestrial conditions. The visual and spatial generosity offered by Aether-1 is intended to mitigate the psychological stresses of isolation and confinement inherent in off-world living.",
-        "For those who will eventually live, work, and raise families off-world, modules like Aether-1 foreshadow a future where orbital dwellings are not merely functional vessels but homes. The availability of more expansive personal spaces, a greater sense of privacy, and an aesthetic consideration in design will fundamentally alter the texture of daily life in orbit, making it less an endurance test and more a sustainable way of being."
-      ],
-      "ja": [
-        "低軌道の静寂な空間で、新たな居住形態がゆっくりとその姿を現した。商業用居住モジュールの先駆けとなるエーテル1は、多層構造の膜を静かに広げ、真空の中で膨張を始めた。この静かな展開は、人類が地球外での生活をどのように捉えるかという認識に、具体的な変化をもたらす。",
-        "民間航空宇宙企業スターライト・ハビタッツ社が開発したエーテル1は、軌道上居住施設ネットワーク構築に向けた彼らの第一歩となる。今月初めに打ち上げられたこのモジュールは、約400キロメートルの低軌道に到達し、自律的な展開シーケンスを開始した。",
-        "従来の宇宙ステーションの硬質な金属製セグメントとは異なり、エーテル1は柔軟な膨張式構造を採用している。完全に膨張すると、内部容積は300立方メートルに達する。これは国際宇宙ステーション（ISS）に設置されたNASAのビゲロー膨張式活動モジュール（BEAM）が提供するわずか16立方メートルと比較して、大幅な増加である。約15トンの質量で、このモジュールは比較的軽量な構造で広大な容積を実現している。",
-        "エーテル1の主な目的は、長期滞在型の研究および商業拠点として機能し、4〜6名の乗員を長期間収容することである。その設計は快適さと心理的幸福を優先しており、これまでの軌道上における人類の存在を特徴づけてきた、狭く実用本位な環境から脱却している。この焦点は、軌道設計思想の成熟を示唆する。",
-        "> 原文より「このモジュールは、単なる実用性から居住性への意図的な移行を象徴する。」",
-        "人間中心のデザインへのこの重点は、より広く、より適応性の高い内部空間に現れている。構成可能な間仕切りや、地球の環境条件を模倣した統合型環境制御システムが特徴となる可能性もある。エーテル1が提供する視覚的、空間的なゆとりは、地球外での生活に内在する孤立と閉鎖の心理的ストレスを軽減することを意図している。",
-        "将来的に地球外で生活し、働き、家庭を築く人々にとって、エーテル1のようなモジュールは、軌道上の住居が単なる機能的な乗り物ではなく、家となる未来を予見させる。より広範な個人空間、プライバシーの感覚の向上、そしてデザインにおける美的配慮の存在は、軌道上での日常生活の質を根本的に変え、それを耐久試験ではなく、持続可能な生き方へと変容させるだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Imagine a large, inflatable structure, much like a very advanced, self-deploying tent, that has just expanded itself in Earth's orbit. This isn't just another small compartment for scientific experiments; it’s a significant step towards creating actual living spaces in space, designed to be comfortable and spacious enough for people to call home for long periods. Think of it as moving from camping in a tiny bivouac to setting up a multi-room glamping tent, but in space.",
-        "For Tokyo readers, this development points towards a future where space travel might become less arduous and more accessible. You might see a reduction in the cost of orbital tourism, making a week-long stay in an orbiting hotel a tangible, if still luxury, option. Beyond tourism, it opens possibilities for new types of orbital businesses, from research facilities that require more space to even data centers operating in microgravity, impacting our digital infrastructure and the services we use daily.",
-        "Such changes are not immediate. We are likely looking at a timeframe of 5 to 10 years, primarily gated by the development of robust international regulations for commercial space habitation and the continued decrease in launch costs. Japan's space policy, especially regarding private ventures, will also play a crucial role in how quickly these services become available to its citizens.",
-        "While Japan does not currently have a direct commercial counterpart developing large inflatable habitats, companies like ispace are actively pursuing commercial lunar development, demonstrating a strong private sector interest in off-world ventures. The technology for such large-scale orbital architecture could also draw from the advanced materials science and manufacturing capabilities found in companies like Mitsubishi Heavy Industries, though a dedicated large-scale orbital habitat program is still an area for future domestic investment."
-      ],
-      "ja": [
-        "地球の軌道上に、まるで非常に進化した自動展開式の大きなテントが膨らんだと想像してみてください。これは単なる科学実験用の小さな区画ではなく、人々が長期にわたって「家」と呼べるような、快適で広々とした実際の居住空間を宇宙に創り出すための大きな一歩です。小さなテントでのキャンプから、多部屋のグランピングテントを設営するようなものだと考えると分かりやすいでしょう。",
-        "東京に暮らす読者の皆さんにとって、この進展は、宇宙旅行がより手軽で身近なものになる未来を示唆しています。軌道上ホテルでの一週間の滞在が、まだ贅沢品ではあるものの、より具体的な選択肢となることで、その費用が下がる可能性もあります。観光だけでなく、より広い空間を必要とする研究施設や、微重力環境で稼働するデータセンターなど、新たな種類の軌道上ビジネスが生まれ、私たちのデジタルインフラや日常利用するサービスに影響を与えるかもしれません。",
-        "このような変化はすぐには訪れません。私たちは主に、商業宇宙居住に関する強固な国際規制の整備と、打ち上げコストの継続的な削減によって、5年から10年という期間を見込むべきでしょう。日本の宇宙政策、特に民間事業に関するものが、これらのサービスが国民にどれだけ早く利用可能になるかにおいて、重要な役割を果たすでしょう。",
-        "日本には現在、大型膨張式居住モジュールを開発している直接的な商業的企業はありませんが、ispace社が商業月面開発を積極的に進めており、地球外事業に対する民間部門の強い関心を示しています。このような大規模な軌道建築の技術は、三菱重工業のような企業の持つ先進的な材料科学や製造能力から恩恵を受けることも考えられますが、専用の大型軌道居住プログラムは、今後の国内投資領域と言えるでしょう。"
-      ]
-    },
-    "source": {
-      "name": "Space.com",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-13-2026"
-    },
-    "sourceGuid": "kn9ugcKPtdSeYpkje87HHQ",
-    "status": "published"
-  },
-  {
-    "slug": "the-kinetic-path-to-orbit-longshots-vision-for-space-cargo",
-    "category": "space-tech",
-    "issue": "Vol. 10",
-    "publishedAt": "2026-10-13T18:05:00.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
-    },
-    "title": {
-      "en": "The Kinetic Path to Orbit: Longshot's Vision for Space Cargo",
-      "ja": "軌道への運動学的経路：Longshot社が描く宇宙貨物輸送の未来"
-    },
-    "dek": {
-      "en": "A new contender proposes a radical departure from traditional rocket launches, aiming to propel cargo into space with a gun-like system. This redefines the economics of orbital access, offering a glimpse into future off-world logistics.",
-      "ja": "従来のロケット打ち上げから根本的に脱却し、銃のようなシステムで貨物を宇宙へ送り出すという新構想が登場した。これは軌道アクセス経済を再定義し、未来の宇宙物流の一端を垣間見せる。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "space-tech",
-        "ja": "宇宙技術"
-      },
-      {
-        "en": "launch-systems",
-        "ja": "打ち上げシステム"
-      },
-      {
-        "en": "cargo",
-        "ja": "貨物"
-      },
-      {
-        "en": "space-economy",
-        "ja": "宇宙経済"
-      }
-    ],
-    "body": {
-      "en": [
-        "For decades, the image of a rocket ascending through the atmosphere has been synonymous with space travel. This familiar ascent, however, may soon be joined by a different kind of trajectory, one driven by sheer kinetic force rather than controlled combustion.",
-        "Longshot, a new venture, is challenging the established paradigm of space launch. The company proposes an audacious system that would hurl cargo into orbit from a ground-based accelerator, effectively a massive space gun. This concept, slated for discussion at TechCrunch Disrupt 2026, signals a bold shift in how we might imagine delivering payloads beyond Earth.",
-        "Unlike the multi-stage rockets that meticulously guide payloads through the gravitational pull, Longshot's approach relies on immense initial velocity. The engineering challenge is significant, demanding robust payload design capable of withstanding extreme G-forces during launch, a factor that traditionally limits such high-acceleration concepts.",
-        "Should these technical hurdles be overcome, the implications for the space economy are substantial. The promise lies in dramatically reduced costs per kilogram to orbit, bypassing the complex and expensive infrastructure associated with rocket manufacturing and propellant storage.",
-        "> This approach promises to redefine access to orbit, moving beyond the conventional rocket.",
-        "Such a system could democratize access to space for a wider array of smaller payloads, from micro-satellites to raw materials. It envisions a future where the routine delivery of goods to orbital stations or lunar bases becomes as streamlined and frequent as terrestrial logistics.",
-        "For those who will eventually live and work off-world, this kinetic launch method could transform daily life. The cost of bringing construction materials, scientific instruments, or even personal effects from Earth could plummet, making permanent settlements more economically viable. It suggests a future where the steady hum of a cargo gun replaces the thunderous roar of a rocket, bringing the necessities of a new life with a rapid, almost silent ascent."
-      ],
-      "ja": [
-        "数十年にわたり、大気圏を上昇するロケットの姿は、宇宙旅行の代名詞であった。しかし、この見慣れた上昇に、まもなく異なる軌跡が加わるかもしれない。それは、制御された燃焼ではなく、純粋な運動エネルギーによって推進されるものだ。",
-        "Longshot社という新たなベンチャーが、従来の宇宙打ち上げの常識に挑んでいる。同社が提案するのは、地上に設置された加速器、すなわち巨大な「宇宙砲」から貨物を軌道へ射出するという大胆なシステムである。TechCrunch Disrupt 2026で議論されるこの構想は、地球外へのペイロード輸送のあり方を大きく変える可能性を示唆している。",
-        "重力に逆らいながらペイロードを精密に誘導する多段式ロケットとは異なり、Longshot社のアプローチは膨大な初期速度に依存する。これは技術的に大きな挑戦であり、打ち上げ時の極度のGフォースに耐えうる堅牢なペイロード設計が求められる。この要素は、これまで高加速コンセプトの実現を阻んできた要因でもあった。",
-        "もしこれらの技術的課題が克服されれば、宇宙経済にもたらされる影響は計り知れない。ロケット製造や推進剤貯蔵に伴う複雑で高価なインフラを回避することで、軌道へのキログラムあたりのコストが劇的に削減される可能性を秘めている。",
-        "> このアプローチは、従来のロケットを超え、軌道へのアクセスを再定義する可能性を秘めている。",
-        "このようなシステムは、マイクロサテライトから原材料に至るまで、幅広い小型ペイロードの宇宙アクセスを民主化するだろう。それは、軌道ステーションや月面基地への物資の定常的な輸送が、地上の物流と同じくらい効率的かつ頻繁になる未来を描いている。",
-        "将来的に宇宙で生活し、働く人々にとって、この運動学的打ち上げ方法は日常生活を一変させるかもしれない。地球から建設資材、科学機器、あるいは個人的な品々を運ぶコストが大幅に下がり、恒久的な居住地の経済的実現可能性が高まる。それは、ロケットの轟音の代わりに、貨物砲の連続的な音が響き、新しい生活の必需品が迅速かつほとんど音もなく運ばれてくる未来を示唆している。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Longshot is proposing a system to launch cargo into space using a massive gun-like device, rather than the rockets we are accustomed to seeing. Imagine a package delivery service that shoots parcels directly into orbit, bypassing the need for huge, expendable launch vehicles.",
-        "For Tokyo readers, this could mean more affordable access to space-derived services and materials. If the cost of sending small satellites or raw materials to orbit drops significantly, it could lead to cheaper, more accurate GPS services, enhanced weather forecasting, or even new materials developed in orbit becoming more accessible for industries here.",
-        "This vision is likely 5 to 10 years away from widespread implementation. The primary gating factor will be proving that payloads can survive the extreme G-forces of such a launch, and then establishing a reliable, frequent, and safe operational cadence. Regulatory frameworks for these unconventional launches will also need to evolve.",
-        "While Japan does not currently have a 'space gun' project, companies like Interstellar Technologies (IST) are pursuing cost-effective and rapid launch solutions with their MOMO and ZERO rockets. Their focus on drastically reducing the cost per kilogram to orbit for small payloads aligns with the fundamental economic goal Longshot is aiming for, albeit through very different technological means."
-      ],
-      "ja": [
-        "Longshot社は、私たちが慣れ親しんだロケットではなく、巨大な「宇宙砲」のような装置を使って貨物を宇宙へ打ち上げるシステムを提案しています。これは、巨大で使い捨ての打ち上げ機を必要とせず、まるで宅配便の荷物を直接軌道に「撃ち込む」ような発想です。",
-        "東京で暮らす読者にとって、これは宇宙由来のサービスや素材へのアクセスがより手頃になることを意味するかもしれません。小型衛星や原材料を軌道に送るコストが大幅に下がれば、より安価で精度の高いGPSサービスや、高度な気象予報が利用できるようになります。あるいは、軌道上で開発された新しい素材が、日本の産業にとってより身近なものになる可能性も考えられます。",
-        "この構想が広く実用化されるまでには、おそらく5年から10年かかるでしょう。最大の障壁は、ペイロードが打ち上げ時の極度のGフォースに耐えられることを証明し、その上で信頼性が高く、頻繁かつ安全な運用体制を確立することです。また、このような非伝統的な打ち上げ方法に対する規制の枠組みも整備される必要があります。",
-        "日本には現在「宇宙砲」のような直接的なプロジェクトはありませんが、インターステラテクノロジズ（IST）のような企業が、MOMOやZEROロケットを通じて、低コストかつ迅速な打ち上げソリューションを追求しています。小型ペイロードの軌道投入コストを劇的に削減するという彼らの目標は、技術的な手段は大きく異なりますが、Longshot社が目指す経済的な目標と根本的に共通しています。"
-      ]
-    },
-    "source": {
-      "name": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/13/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026/"
-    },
-    "sourceGuid": "https://techcrunch.com/?p=3176078",
     "status": "published"
   }
 ]

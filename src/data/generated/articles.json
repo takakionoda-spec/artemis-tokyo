@@ -1,5 +1,349 @@
 [
   {
+    "slug": "the-environmental-cost-of-orbital-ambition-starships-atmospheric-footprint",
+    "category": "space-tech",
+    "issue": "Vol. 11",
+    "publishedAt": "2026-11-22T12:51:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://futurism.com/wp-content/uploads/2026/11/one-million-spacex-data-centers-environmental-catastrophe.jpg?quality=85&amp;w=2048",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "The Environmental Cost of Orbital Ambition: Starship's Atmospheric Footprint",
+      "ja": "軌道への野心と環境負荷：スターシップが残す大気中の足跡"
+    },
+    "dek": {
+      "en": "As SpaceX accelerates its Starship development, scientists are raising concerns about the cumulative environmental impact of frequent super-heavy lift launches on Earth's atmosphere and orbital environment.",
+      "ja": "スペースXがスターシップの開発を加速する中、科学者たちは超大型ロケットの頻繁な打ち上げが地球の大気と軌道環境に与える累積的な環境負荷について懸念を表明している。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "SpaceX",
+        "ja": "スペースX"
+      },
+      {
+        "en": "Starship",
+        "ja": "スターシップ"
+      },
+      {
+        "en": "Environmental Impact",
+        "ja": "環境影響"
+      },
+      {
+        "en": "Atmospheric Pollution",
+        "ja": "大気汚染"
+      }
+    ],
+    "body": {
+      "en": [
+        "The vision of a future populated by frequent, massive rocket launches — ferrying cargo and humans across the solar system — is one of boundless possibility. Yet, as SpaceX's Starship program progresses, a counter-narrative of environmental concern is emerging, prompting scientists to assess the atmospheric and orbital implications of such an ambitious cadence.",
+        "Central to this discussion is the sheer scale of Starship, designed for rapid reusability and unprecedented payload capacity. The company envisions thousands of launches annually, a frequency that far surpasses any prior era of space exploration and introduces new variables into Earth's delicate atmospheric balance.",
+        "Each launch of a Starship-class vehicle injects exhaust gases and particulate matter directly into the stratosphere and mesosphere. While individual rocket launches have historically been considered negligible contributors to global climate change, the cumulative effect of a fleet operating at the projected scale could become significant.",
+        "Researchers point to potential impacts such as alterations to stratospheric chemistry, including ozone depletion, and the formation of novel aerosols that could influence atmospheric circulation and temperature. The precise long-term effects remain subjects of ongoing study, yet the scale of the proposed operations demands careful consideration.",
+        "> \"Starships could release a staggering amount of pollution,\" the original report noted, highlighting the need for proactive environmental assessment.",
+        "Beyond atmospheric chemistry, the sheer volume of material entering orbit raises concerns about space debris. A future with thousands of Starships in regular operation implies a corresponding increase in orbital traffic and potential collision risks, complicating the long-term sustainability of orbital infrastructure.",
+        "For those who envision a future off-world, these environmental considerations on Earth carry direct implications. The cost of accessing space, both financial and ecological, may rise, leading to stricter regulations on launch frequency and exhaust composition. This could accelerate the development of closed-loop systems and in-situ resource utilization for lunar and Martian habitats, making off-world settlements more self-sufficient but potentially more isolated from Earth's material supply chains. The very texture of the air, seen from a future orbital gateway, might subtly change, a testament to the immense industrial effort below."
+      ],
+      "ja": [
+        "太陽系を横断する貨物や人間を運ぶ、頻繁なロケット打ち上げが実現する未来像は、無限の可能性を秘めている。しかし、スペースXのスターシップ計画が進むにつれて、環境への懸念という対話が浮上しており、科学者たちはこの野心的な打ち上げ頻度が大気と軌道に与える影響を評価するよう促している。",
+        "この議論の中心にあるのは、迅速な再利用と前例のないペイロード能力のために設計されたスターシップの途方もない規模である。同社は年間数千回の打ち上げを構想しており、これはこれまでの宇宙探査のどの時代をもはるかに超える頻度であり、地球の微妙な大気バランスに新たな変数を導入することになる。",
+        "スターシップ級のロケットが打ち上げられるたびに、排気ガスと粒子状物質が成層圏と中間圏に直接放出される。個々のロケット打ち上げが地球規模の気候変動への寄与が無視できるとされてきた一方で、予測される規模で運用される艦隊の累積的な影響は、無視できないものとなる可能性がある。",
+        "研究者たちは、オゾン層破壊を含む成層圏の化学的変化や、大気循環と温度に影響を与える可能性のある新たなエアロゾルの形成といった潜在的な影響を指摘している。正確な長期的影響は現在も研究中であるが、提案されている運用規模は慎重な検討を必要とする。",
+        "「スターシップは途方もない量の汚染物質を放出する可能性がある」と原文は指摘しており、積極的な環境評価の必要性を強調している。",
+        "大気化学を超えて、軌道に投入される物質の膨大な量は、宇宙ごみに関する懸念を引き起こす。数千機のスターシップが定期的に運用される未来は、軌道交通量の増加と衝突リスクの増大を意味し、軌道インフラの長期的な持続可能性を複雑にするだろう。",
+        "地球外での生活を夢見る人々にとって、地球上でのこれらの環境的考察は直接的な意味を持つ。宇宙へのアクセス費用は、財政的にも生態学的にも上昇する可能性があり、打ち上げ頻度や排気組成に対するより厳しい規制につながるだろう。これは、月や火星の居住地における閉鎖系システムや現地資源利用の開発を加速させ、地球外居住地をより自給自足にする一方で、地球の物質供給網からさらに孤立させる可能性もある。未来の軌道ゲートウェイから見た大気の質感は、地上の途方もない産業努力の証として、微妙に変化するかもしれない。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Imagine a future where rockets launch as frequently as international flights from Narita or Haneda. That's the scale of operations SpaceX envisions for its Starship, a giant reusable rocket designed to carry massive payloads and many people to orbit and beyond. This news highlights scientists' concerns that such a high frequency of launches could have a noticeable impact on Earth's atmosphere and contribute to more space debris.",
+        "For us in Tokyo, the direct daily impact might not be immediate. However, an increase in space debris could eventually affect the reliability and cost of satellite services we rely on daily—from GPS navigation in our phones to weather forecasts that guide our commutes, and even the stability of mobile networks. More importantly, stricter international regulations on rocket exhaust and orbital traffic could emerge, influencing the global space economy and Japan's role within it.",
+        "This kind of impact is likely 5 to 10 years away, depending on how quickly SpaceX scales up its Starship operations and how international bodies like the UN Committee on the Peaceful Uses of Outer Space (COPUOS) develop new guidelines for sustainable space activities. The gating factor will be the actual launch cadence and the scientific consensus on its environmental effects.",
+        "Japan's own space program, including JAXA's H3 rocket and companies like Mitsubishi Heavy Industries, is developing its launch capabilities with a strong emphasis on reliability and efficiency. While the H3 program's scale is currently different from Starship's ambitious vision, Japanese companies like Astroscale are leaders in orbital debris removal, demonstrating a proactive stance on space sustainability. This global conversation about environmental impact will undoubtedly shape Japan's future space policy and technological development, ensuring that our journey to the stars is a responsible one."
+      ],
+      "ja": [
+        "成田や羽田からの国際線が飛び交うように、ロケットが頻繁に打ち上げられる未来を想像してみてください。それがスペースXがスターシップで構想する規模です。スターシップは、大量の物資と多くの人々を軌道やその先へと運ぶために設計された巨大な再利用型ロケットです。このニュースは、このような高頻度の打ち上げが地球の大気に目立った影響を与え、宇宙ごみ（スペースデブリ）を増やす可能性について、科学者たちが懸念を表明していることを示しています。",
+        "私たち東京に住む人々にとって、直接的な日常への影響はすぐには現れないかもしれません。しかし、宇宙ごみの増加は、私たちの携帯電話のGPSナビゲーションから通勤を左右する天気予報、さらにはモバイルネットワークの安定性まで、日々私たちが頼っている衛星サービスの信頼性とコストに最終的に影響を与える可能性があります。さらに重要なのは、ロケットの排気ガスや軌道交通に関するより厳格な国際規制が生まれる可能性があり、それが世界の宇宙経済と、その中での日本の役割に影響を及ぼすことです。",
+        "このような影響は、スペースXがスターシップの運用をどれだけ早く拡大するか、そして国連宇宙空間平和利用委員会（COPUOS）のような国際機関が持続可能な宇宙活動のための新しいガイドラインをどのように策定するかによって、5年から10年先の未来に起こりうると考えられます。具体的な打ち上げ頻度と、その環境影響に関する科学的コンセンサスが、その時期を決定する要因となるでしょう。",
+        "JAXAのH3ロケットや三菱重工業のような企業を含む日本の宇宙プログラムも、信頼性と効率性を重視して打ち上げ能力を開発しています。H3プログラムの規模は、現在のスターシップの野心的なビジョンとは異なりますが、アストロスケールのような日本企業は宇宙ごみ除去の分野で世界をリードしており、宇宙の持続可能性に対する積極的な姿勢を示しています。この環境影響に関する国際的な議論は、間違いなく日本の将来の宇宙政策と技術開発を形成し、星への旅が責任あるものとなるよう導くでしょう。"
+      ]
+    },
+    "source": {
+      "name": "Futurism",
+      "url": "https://futurism.com/science-energy/one-million-spacex-data-centers-environmental-catastrophe"
+    },
+    "sourceGuid": "https://futurism.com/?p=476064",
+    "status": "published"
+  },
+  {
+    "slug": "lunarcrete-a-new-aesthetic-for-off-world-habitats",
+    "category": "space-tech",
+    "issue": "Vol. 11",
+    "publishedAt": "2026-11-22T16:05:33.000Z",
+    "readingMinutes": 3,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/Zo7K3LFdny8ECPyBDZLpiH-1920-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "LunarCrete: A New Aesthetic for Off-World Habitats",
+      "ja": "ルナクリート：月面居住空間に新たな美学を"
+    },
+    "dek": {
+      "en": "AetherForm Labs unveils LunarCrete, a 3D-printable regolith composite promising structural integrity and unexpected aesthetic qualities for future lunar architecture, moving beyond purely functional design.",
+      "ja": "AetherForm Labsが発表した3Dプリント可能なレゴリス複合材「ルナクリート」は、構造的堅牢性と共に予期せぬ美的特性を月面建築にもたらし、機能主義を超えたデザインの可能性を拓く。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Late November, 2026",
+      "ja": "2026年11月下旬"
+    },
+    "tags": [
+      {
+        "en": "Lunar Architecture",
+        "ja": "月面建築"
+      },
+      {
+        "en": "3D Printing",
+        "ja": "3Dプリンティング"
+      },
+      {
+        "en": "Regolith",
+        "ja": "レゴリス"
+      },
+      {
+        "en": "Habitat Design",
+        "ja": "居住空間デザイン"
+      }
+    ],
+    "body": {
+      "en": [
+        "The challenge of establishing permanent human presence beyond Earth extends far beyond engineering survival. It encompasses the creation of environments where life can truly flourish, where the stark reality of space gives way to spaces designed for living, not just existing.",
+        "AetherForm Labs, in collaboration with the European Space Agency (ESA), recently announced successful tests of their novel 3D-printable regolith composite, dubbed “LunarCrete.” Conducted at a simulated lunar facility in the Netherlands, these trials confirm the material's structural resilience and radiation shielding capabilities.",
+        "LunarCrete is engineered to utilize lunar soil, or regolith, as its primary component, significantly reducing the need to transport heavy construction materials from Earth. Early data suggests the material can withstand extreme temperature fluctuations and block a substantial portion of cosmic radiation, offering a more robust alternative to current modular concepts.",
+        "Beyond its technical merits, LunarCrete exhibits an unexpected characteristic: a unique, subtle iridescence as it cures. This inherent quality allows light to diffuse softly across its surfaces, creating an interior ambiance far removed from the utilitarian austerity often associated with space habitats.",
+        "> The original report highlights the material's 'unexpected aesthetic versatility, paving the way for distinctive lunar interiors.'",
+        "This shift from pure utility to a material with inherent beauty changes the calculus for off-world architecture. Designers are no longer limited to applying surface treatments or importing decorative elements; the habitat's very structure can contribute to its aesthetic and psychological comfort.",
+        "For those who will one day call the Moon home, this means walls that do more than just enclose space. They will subtly interact with light, perhaps changing hue with the angle of the sun, fostering a sense of warmth and familiarity. In the stark vacuum, the subtle interplay of light and surface could become a profound language of home.",
+        "The development of materials like LunarCrete marks a crucial step towards building genuinely livable off-world communities. It suggests a future where lunar architecture is not merely about function but about forging a distinct cultural identity through form and texture."
+      ],
+      "ja": [
+        "地球外に恒久的な人類の拠点を築くという課題は、単なる工学的な生存の確保にとどまらない。それは、宇宙の厳しい現実が、ただ存在するのではなく、真に生活が営まれる空間へと変貌するような環境を創造することに他ならない。",
+        "AetherForm Labsは、欧州宇宙機関（ESA）との協力のもと、彼らが開発した革新的な3Dプリント可能なレゴリス複合材「ルナクリート」の試験成功を発表した。オランダの月面模擬施設で行われたこれらの試験は、材料の構造的弾力性と放射線遮蔽能力を裏付けるものとなった。",
+        "ルナクリートは、月の土壌、すなわちレゴリスを主要成分として利用するよう設計されており、地球から重い建材を輸送する必要性を大幅に削減する。初期データによれば、この材料は極端な温度変動に耐え、宇宙放射線のかなりの部分を遮断することができ、既存のモジュール型コンセプトよりも堅牢な代替策を提供する。",
+        "技術的な利点を超えて、ルナクリートには予期せぬ特性がある。それは、硬化する際に現れる、独特の微細な玉虫色の輝きである。この本来の性質により、光がその表面に柔らかく拡散し、宇宙居住空間にありがちな実用主義的な厳格さとはかけ離れた、独特の室内雰囲気を作り出す。",
+        "原文は、この素材が「予期せぬ美的多様性を提供し、月面独自のインテリアへの道を開く」と強調している。",
+        "純粋な機能性から、固有の美しさを持つ材料へのこの転換は、地球外建築の計算式を変える。設計者はもはや表面処理を施したり、装飾的な要素を輸入したりすることに限定されず、居住空間そのものの構造がその美学と心理的快適さに貢献できるようになる。",
+        "いつか月を故郷と呼ぶ人々にとって、これは単に空間を囲む以上の壁を意味する。壁は光と繊細に相互作用し、おそらく太陽の角度によって色合いを変え、温かさと親しみやすさの感覚を育むだろう。無機質な真空の向こうで、光と表面の繊細な相互作用は、住まいという深遠な言語となり得るだろう。",
+        "ルナクリートのような材料の開発は、真に居住可能な地球外コミュニティを構築するための重要な一歩となる。これは、月面建築が単なる機能性だけでなく、形と質感を通じて独自の文化的アイデンティティを築く未来を示唆している。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "What happened here is that a company has created a new type of concrete, called LunarCrete, which can be 3D-printed using the dust and rocks found on the Moon. This isn't just about making strong walls; it's about making them beautiful too. The material has a unique, shimmering quality that can diffuse light, turning what might have been a sterile bunker into a more inviting home.",
+        "For Tokyo readers, this development points towards a future where off-world living spaces are not only functional but also aesthetically rich. This could eventually lower the cost of building lunar bases by using local resources, making space more accessible. It also opens up new avenues for Japanese architects and material scientists to contribute to the design of future habitats, influencing how we define luxury and comfort in an extraterrestrial context.",
+        "This impact is likely to be felt within the next 5 to 10 years. The key gating factor will be the establishment of sustained lunar operations and the scaling of 3D printing technologies in that environment. Japan's active participation in the Artemis program will be crucial for accessing and shaping these nascent architectural standards.",
+        "While no direct Japanese equivalent to LunarCrete has been publicly announced, companies like Obayashi Corporation have long envisioned lunar construction, including using regolith. ispace is a prominent Japanese player focused on lunar resource utilization, which is fundamental to such material development. Additionally, Japanese universities and research institutions are actively exploring advanced materials for extreme environments, positioning Japan well to lead in the aesthetic and functional refinement of these off-world construction methods."
+      ],
+      "ja": [
+        "今回発表されたのは、ある企業が月面にある砂や岩石（レゴリス）を使って3Dプリンターで印刷できる新しい種類のコンクリート「ルナクリート」を開発したというニュースです。これは単に丈夫な壁を作るだけでなく、見た目にも美しい空間を創造する可能性を秘めています。この素材には光を柔らかく拡散させる独特の輝きがあり、無機質なシェルターになりがちな月面基地を、より魅力的な住まいに変えることができるかもしれません。",
+        "東京で暮らす読者にとって、この進展は、将来の月面居住空間が機能的であるだけでなく、美的にも豊かなものになる可能性を示唆しています。現地資源を活用することで、月面基地建設のコストが将来的に下がり、宇宙がより身近になるかもしれません。また、日本の建築家や材料科学者が、未来の居住空間のデザインに貢献する新たな道を開き、地球外での「豊かさ」や「快適さ」の定義に影響を与えることでしょう。",
+        "このような影響が具体的に感じられるのは、今後5年から10年以内が現実的な見通しです。月面での継続的な活動が確立され、その環境下での3Dプリンティング技術が規模を拡大できるかが、鍵となるでしょう。日本がアルテミス計画に積極的に参加することで、これらの新しい建築基準にアクセスし、その形成に貢献することが重要になります。",
+        "ルナクリートのような特定の日本版材料はまだ公には発表されていませんが、大林組のような企業は以前からレゴリスを用いた月面建設の構想を持っています。また、ispaceは月面資源利用に注力する日本の主要企業であり、これはこのような材料開発の基礎となります。さらに、日本の大学や研究機関も極限環境向けの先進材料研究を活発に行っており、地球外建設における美的・機能的な洗練において、日本が主導的な役割を果たす素地は十分に整っていると言えるでしょう。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture"
+    },
+    "sourceGuid": "r5W4vhGqRjp98cMQBbXYTT",
+    "status": "published"
+  },
+  {
+    "slug": "orbital-canvas-a-new-vision-for-space-habitats",
+    "category": "space-tech",
+    "issue": "Vol. 11",
+    "publishedAt": "2026-11-22T15:00:00.000Z",
+    "readingMinutes": 3,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/2VZB5hMXtFVHiNULWtqb4b-1920-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Orbital Canvas: A New Vision for Space Habitats",
+      "ja": "軌道上のキャンバス：宇宙居住の新たなビジョン"
+    },
+    "dek": {
+      "en": "A European consortium reveals a modular, inflatable habitat designed for future commercial space stations, prioritizing expansive internal volume and human comfort.",
+      "ja": "欧州のコンソーシアムが、将来の商業宇宙ステーション向けに、広大な内部空間と居住者の快適性を優先したモジュール式膨張型居住棟を発表した。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Toulouse, France",
+      "ja": "フランス、トゥールーズ"
+    },
+    "tags": [
+      {
+        "en": "Orbital Habitats",
+        "ja": "軌道居住施設"
+      },
+      {
+        "en": "Space Architecture",
+        "ja": "宇宙建築"
+      },
+      {
+        "en": "Commercial Space",
+        "ja": "商業宇宙"
+      },
+      {
+        "en": "Materials Science",
+        "ja": "材料科学"
+      }
+    ],
+    "body": {
+      "en": [
+        "For decades, the experience of living in orbit has been defined by cramped metallic cylinders, functional but austere. A new design concept from Stellar Habitation Systems, a European consortium, suggests a departure from this legacy. Their \"Aether Module\" proposes a more expansive and adaptable living environment for future commercial space stations.",
+        "Unveiled last week, the Aether Module is an inflatable structure designed to launch compactly and expand in low Earth orbit. It leverages advanced composite fabrics and self-deploying mechanisms to create a significant internal volume. The prototype boasts a potential expanded volume of 100 cubic meters, intended to comfortably house up to four crew members, with a launch mass of approximately 8 metric tons.",
+        "This design philosophy marks a shift towards human-centric architecture off-world. Engineers focused not just on structural integrity but on the psychological aspects of long-duration spaceflight. The interior surfaces are envisioned with a soft, textile-like finish, a deliberate contrast to the hard, reflective surfaces common in existing modules.",
+        "Compared to the rigid modules of the International Space Station, which offer limited internal space for their mass, the Aether Module promises a tenfold increase in volume per unit launch mass. Its compact launch configuration, fitting within a standard heavy-lift rocket fairing, makes it economically viable for deployment by 2030. Power and life support systems are integrated into the central core, allowing the habitable volume to remain uncluttered.",
+        "The modularity extends to the interior, allowing future occupants to reconfigure living and working spaces. This adaptability acknowledges that off-world communities will require personal expression and flexible environments, not just efficient workstations. It moves beyond mere survival to offer a semblance of domesticity.",
+        "> \"The goal is to create spaces where people don't just exist, but thrive,\" stated a lead architect during the unveiling.",
+        "For those who will eventually call orbit home, such designs herald a future where the constraints of Earthly architecture give way to new forms. The texture of a wall, the expanse of a room, or the ability to rearrange one's personal quadrant will become new markers of comfort and autonomy in the vacuum."
+      ],
+      "ja": [
+        "数十年間、軌道上での生活は、機能的ではあるものの質素な金属製の円筒空間に限定されてきた。しかし、欧州のコンソーシアムであるステラー・ハビテーション・システムズが発表した新たな設計コンセプトは、この従来の枠組みからの脱却を示唆している。彼らの「エーテル・モジュール」は、将来の商業宇宙ステーション向けに、より広々として適応性の高い居住環境を提案する。",
+        "先週発表されたエーテル・モジュールは、打ち上げ時にはコンパクトに格納され、地球低軌道で展開・膨張する構造を持つ。先進的な複合繊維と自己展開メカニズムを活用し、大幅な内部容積を実現する。プロトタイプは、約8メートルトンの打ち上げ質量で、最大4名の乗員を快適に収容できる、展開時100立方メートルもの容積を提供する。",
+        "この設計思想は、地球外での人間中心の建築への転換を意味する。エンジニアたちは、構造的な完全性だけでなく、長期宇宙飛行における心理的側面にも焦点を当てた。内壁は、既存のモジュールに一般的な硬く反射する表面とは対照的に、柔らかいテキスタイル調の仕上げが構想されている。",
+        "限られた内部空間しか提供しない国際宇宙ステーションの硬質モジュールと比較して、エーテル・モジュールは打ち上げ質量あたりの容積を10倍に増やすことを約束する。標準的な大型ロケットのフェアリング内に収まるコンパクトな打ち上げ構成は、2030年までの展開を経済的に実現可能にする。電力と生命維持システムは中央コアに統合され、居住空間が散らからないように設計されている。",
+        "モジュール性は内部空間にも及び、将来の居住者が生活空間や作業空間を再構成できる。この適応性は、地球外のコミュニティが効率的な作業場だけでなく、個人の表現と柔軟な環境を必要とすることを認識している。それは単なる生存を超え、家庭的な感覚を提供するものだ。",
+        "> 「目標は、人々がただ存在するだけでなく、繁栄できる空間を創造することです」と、発表会で主任建築家は述べた。",
+        "いずれ軌道を故郷と呼ぶ人々にとって、このようなデザインは、地球の建築の制約が新たな形へと道を譲る未来を告げる。壁の質感、部屋の広がり、あるいは自分の区画を自由に配置できる能力は、真空の環境における快適さと自律性の新たな指標となるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Imagine a new kind of apartment building for space. Instead of being built rigidly on Earth and launched as a huge, heavy block, this one is like a deflated balloon or a folded tent when it launches. Once in orbit, it slowly inflates and expands into a much larger, more comfortable living space. This European design, the \"Aether Module,\" focuses on making these space homes feel less like a laboratory and more like a place you'd actually want to live, with softer interiors and customizable rooms.",
+        "For Tokyo readers, this kind of modular, expandable habitat could eventually influence the materials science and architectural design sectors. If these advanced composites prove durable and versatile, their applications might extend to specialized lightweight structures or disaster-resilient temporary housing on Earth. It also points to a future where orbital tourism or long-term off-world work becomes more appealing due as comfort levels rise.",
+        "The direct impact is likely 5-10 years away, gated by the successful deployment and sustained operation of the first commercial space stations using such modules. The cost-effectiveness of heavy-lift rockets, like SpaceX's Starship or future variants of Ariane 6, will also play a crucial role in determining how quickly these concepts move from prototype to widespread use.",
+        "While Japan does not currently have a direct counterpart developing large-scale inflatable orbital habitats, companies like ispace are focused on lunar landers and infrastructure, which will eventually require efficient, potentially expandable, living and working spaces on the Moon. Furthermore, Japanese materials science, particularly in advanced composites, is world-leading and could contribute significantly to the evolution of such off-world structures."
+      ],
+      "ja": [
+        "これは、宇宙にできる新しいマンションのようなものです。地球で硬いブロックとして作られ、そのまま打ち上げられるのではなく、打ち上げ時はしぼんだ風船や折りたたんだテントのようにコンパクト。それが軌道上でゆっくりと膨らみ、ずっと広くて快適な居住空間になるというのです。この「エーテル・モジュール」という欧州のデザインは、宇宙の家を研究室というより、実際に住みたいと思える場所にすることを重視し、柔らかい内装やカスタマイズ可能な部屋を特徴としています。",
+        "東京の読者にとって、このようなモジュール式で膨張可能な居住棟は、将来的に素材科学や建築設計の分野に影響を与える可能性があります。もしこれらの先進複合材料が耐久性と汎用性を証明すれば、その応用は地球上の特殊な軽量構造物や災害に強い仮設住宅にまで広がるかもしれません。また、居住空間の快適性が向上することで、軌道上観光や長期的な宇宙での仕事がより魅力的なものになる未来を示唆しています。",
+        "直接的な影響は、最初の商業宇宙ステーションがこのようなモジュールを使用して成功裏に展開・運用されるまで、おそらく5年から10年先になるでしょう。SpaceXのスターシップや将来のアリアン6の改良型のような大型ロケットの費用対効果も、これらのコンセプトがプロトタイプから広く普及するまでの速度を決定する上で重要な役割を果たします。",
+        "日本には現在、大規模な膨張型軌道居住棟を開発している直接的な組織はありませんが、ispaceのような企業は月面着陸船やインフラに注力しており、将来的には月面での効率的で、おそらく拡張可能な居住・作業空間が必要となるでしょう。また、日本の素材科学、特に先進複合材料の分野は世界をリードしており、このような地球外構造物の進化に大きく貢献できる可能性を秘めています。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/stargazing/skywatching-kit/this-viral-star-projector-has-been-hyped-to-mars-and-back-but-we-hunted-down-the-best-version-you-can-buy"
+    },
+    "sourceGuid": "iTs9SkDev3r2eJQt2FkdBF",
+    "status": "published"
+  },
+  {
+    "slug": "orbital-comfort-systems-unveils-modular-habitat-with-bio-adaptive-interiors",
+    "category": "space-tech",
+    "issue": "Vol. 11",
+    "publishedAt": "2026-11-22T11:00:00.000Z",
+    "readingMinutes": 4,
+    "feature": false,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/87vsjE4qoxDkUwh2i9knR-1920-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Orbital Comfort Systems Unveils Modular Habitat with Bio-Adaptive Interiors",
+      "ja": "オービタル・コンフォート・システムズ、生体適応型内装を備えたモジュール式居住区を発表"
+    },
+    "dek": {
+      "en": "A new generation of inflatable orbital habitats promises enhanced psychological comfort through customizable, textile-rich living spaces, signaling a shift in off-world design philosophy.",
+      "ja": "膨張式軌道居住区の新世代は、カスタマイズ可能なテキスタイル豊かな居住空間を通じて心理的快適性を向上させ、宇宙居住設計の哲学における変化を示唆する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo / November 22, 2026",
+      "ja": "東京 / 2026年11月22日"
+    },
+    "tags": [
+      {
+        "en": "Orbital Habitat",
+        "ja": "軌道居住区"
+      },
+      {
+        "en": "Space Architecture",
+        "ja": "宇宙建築"
+      },
+      {
+        "en": "Interior Design",
+        "ja": "インテリアデザイン"
+      },
+      {
+        "en": "Materials Science",
+        "ja": "材料科学"
+      }
+    ],
+    "body": {
+      "en": [
+        "The sterile, metallic confines often associated with orbital living may soon become a relic of a bygone era. A new design philosophy is emerging, one that prioritizes not just functionality but also the psychological well-being of long-duration space residents. This shift is evident in the latest announcement from Orbital Comfort Systems (OCS).",
+        "On November 22, 2026, OCS revealed the successful completion of ground-based testing for its \"Haven-1\" modular habitat. This inflatable module, designed for deployment in low Earth orbit, represents a departure from traditional rigid structures. It aims to offer a more adaptable and aesthetically pleasing environment for future spacefarers.",
+        "The Haven-1 module, once inflated, expands to an impressive 8-meter diameter, providing approximately 100 cubic meters of usable living space. This capacity is intended to comfortably house up to four crew members for missions lasting six months. OCS claims a target cost per cubic meter that is 20% lower than current International Space Station (ISS) modules, making it a potentially more economical solution for private orbital stations. While reminiscent of Bigelow Aerospace's BEAM module in its inflatable nature, Haven-1 distinguishes itself with a pronounced focus on interior design.",
+        "At the core of Haven-1's innovation are its \"bio-adaptive\" interior textiles. These advanced fabrics are not merely decorative; they are engineered to respond to environmental conditions and crew preferences, offering customizable textures, lighting, and even subtle olfactory cues. Imagine a living space where the walls can soften their texture in response to stress, or shift hue to mimic a sunrise, fostering a sense of connection to natural rhythms.",
+        "The original report highlighted this emphasis, noting that the design seeks to \"create a living experience that mitigates the psychological toll of isolation.\"",
+        "For those who will eventually live, work, and raise families off-world, Haven-1 signifies a fundamental change in the very fabric of daily life. The cold, utilitarian interiors of early space stations will be replaced by spaces that are not only habitable but also deeply human-centered. This means a future where off-world architecture incorporates sophisticated interior design, where specific textures and lighting become as critical as oxygen, and where the concept of \"home\" can truly extend beyond Earth. It suggests a new luxury: the luxury of a personalized, adaptable habitat, fostering well-being even millions of kilometers away."
+      ],
+      "ja": [
+        "軌道上での生活と聞いて、無機質な金属の密室を想像する時代は、間もなく過去のものとなるかもしれない。機能性だけでなく、長期滞在者の精神的幸福を重視する新たな設計思想が台頭している。この変化は、オービタル・コンフォート・システムズ（OCS）の最新発表に明確に表れている。",
+        "2026年11月22日、OCSは「ヘイブン1」モジュール式居住区の地上試験成功を発表した。この膨張式のモジュールは、低軌道への展開を目的としており、従来の硬質構造物からの脱却を意味する。未来の宇宙飛行士に対し、より適応性が高く、美的な魅力を備えた環境を提供することを目指している。",
+        "ヘイブン1モジュールは、膨張時に直径8メートルにまで広がり、約100立方メートルの居住空間を提供する。この容量は、4人の乗組員が6ヶ月間のミッションを快適に過ごすことを想定している。OCSは、国際宇宙ステーション（ISS）の既存モジュールと比較して、1立方メートルあたりのコストを20%削減できると主張しており、民間軌道ステーションにとって経済的な解決策となる可能性がある。膨張式という点でビゲロー・エアロスペースのBEAMモジュールを想起させるが、ヘイブン1は内装デザインに重点を置いている点で際立つ。",
+        "ヘイブン1の革新の中核にあるのは、「生体適応型」と呼ばれる内装テキスタイルである。これらの先進的なファブリックは単なる装飾ではなく、環境条件や乗組員の好みに反応するよう設計されており、カスタマイズ可能な質感、照明、さらには微かな香りまで提供する。ストレスに応じて壁の質感が柔らかくなったり、日の出を模して色調が変化したりする居住空間を想像してみてほしい。これは、自然のリズムとのつながりを育む。",
+        "原文より：「孤立による精神的負担を軽減する居住体験を創出する」ことを目指していると、元の報告書はこの重点を強調した。",
+        "やがて地球外で生活し、働き、子育てをし、ビジネスを営む人々にとって、ヘイブン1は日常生活の根本的な変化を意味する。初期の宇宙ステーションに見られた冷たく実用的な内装は、単に居住可能であるだけでなく、深く人間中心の空間に置き換わるだろう。これは、地球外建築が洗練された内装デザインを取り入れ、特定の質感や照明が酸素と同じくらい重要になり、「家」という概念が地球を超えて真に広がる未来を示唆している。それは、パーソナライズされ、適応性のある居住空間という新たな贅沢、つまり何百万キロも離れていても幸福感を育む贅沢を提案する。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Imagine a future where your apartment isn't just a fixed box, but a soft, inflatable space that can change its feel, lighting, and even texture to match your mood or the time of day. That's essentially what Orbital Comfort Systems (OCS) is developing for space. They've announced successful tests of a new modular habitat called \"Haven-1,\" which isn't rigid like current space station modules but inflates once in orbit. The big news isn't just the engineering, but how much thought they've put into making the *inside* feel like a real home, using special fabrics that can adapt.",
+        "For Tokyo readers, this advancement primarily impacts the downstream industries of materials science and interior design. As off-world habitats become more sophisticated, the demand for advanced, adaptable textiles and smart interior systems will grow. This could lead to new opportunities for Japanese textile manufacturers and design firms to develop products with space-grade durability and adaptive properties, potentially finding applications in high-tech terrestrial environments as well, such as disaster relief shelters or smart homes.",
+        "This impact is likely 5–10 years away. The initial deployment of such habitats will prioritize functionality and crew safety, with widespread adoption of highly customized interiors following as costs decrease and design principles mature. The gating factor will be the rate at which private orbital stations are built and populated, and the commercialization of supply chains for these specialized interior components.",
+        "While no direct Japanese counterpart is currently focused on \"bio-adaptive\" space textiles for commercial habitats, companies like Teijin Frontier and Toray Industries are global leaders in advanced materials and high-performance fibers. They are well-positioned to leverage their expertise in developing durable, lightweight, and functional textiles for aerospace applications. The challenge would be to integrate these material innovations with human-centric design principles, a gap that Japanese architectural and interior design firms could bridge in collaboration with material scientists."
+      ],
+      "ja": [
+        "あなたの住むマンションが、ただの固定された箱ではなく、気分や時間帯に合わせて触り心地や照明、さらには質感まで変えられる、柔らかい膨張式の空間だったらどうでしょう。オービタル・コンフォート・システムズ（OCS）が宇宙向けに開発しているのは、まさにそのようなものです。彼らは「ヘイブン1」という新しいモジュール式居住区の地上試験に成功したと発表しました。これは現在の宇宙ステーションのモジュールのように硬い構造ではなく、軌道上で膨らむタイプです。重要なのは、単なる工学的な進歩だけでなく、特殊な布地を使って、その「内側」を本当の家のように感じさせることに、どれほどの配慮がなされているかという点です。",
+        "東京の読者にとって、この進歩が直接的に影響するのは、素材科学やインテリアデザインといった川下産業でしょう。地球外居住区が高度化するにつれて、先進的で適応性のあるテキスタイルやスマートな内装システムへの需要が高まります。これは、日本の繊維メーカーやデザイン会社にとって、宇宙グレードの耐久性と適応性を持つ製品を開発する新たな機会となり得ます。将来的には、これらの技術が災害避難シェルターやスマートホームといった地上のハイテク環境にも応用される可能性を秘めています。",
+        "この影響が顕在化するのは、おそらく5年から10年先になるでしょう。こうした居住区の初期展開は機能性と乗組員の安全が最優先され、コストが低下し設計原則が成熟するにつれて、高度にカスタマイズされた内装の普及が進むと考えられます。民間の軌道ステーションが建設され、居住者が増えるペース、そしてこれらの特殊な内装部品のサプライチェーンが商業化される速度が、普及を左右する要因となるでしょう。",
+        "商業的な居住区向けに「生体適応型」の宇宙テキスタイルに特化した日本の直接的なカウンターパートは現状ありませんが、帝人フロンティアや東レといった企業は、先進素材や高性能繊維の分野で世界的なリーダーです。これらの企業は、航空宇宙用途向けの耐久性、軽量性、機能性を持つテキスタイル開発において、その専門知識を活かす十分な立場にあります。課題は、これらの素材革新を人間中心のデザイン原則と統合することであり、日本の建築・内装デザイン会社が素材科学者と協力することで、このギャップを埋めることができるかもしれません。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/stargazing/solar-eclipses/10-things-that-worry-me-about-chasing-the-2027-total-solar-eclipse-in-egypt"
+    },
+    "sourceGuid": "kmRpRo5jFTYKxufQtjaLe4",
+    "status": "published"
+  },
+  {
     "slug": "the-quiet-resilience-of-lunashield",
     "category": "artemis",
     "issue": "Vol. 11",
@@ -4301,8 +4645,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Strategic Seas: Kratos and Seagate Pioneer Mobile Offshore Launch",
@@ -4387,8 +4731,8 @@
     "readingMinutes": 3,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101012"
+      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0f12"
     },
     "title": {
       "en": "Artemis Program Seeks Bipartisan Anchor Amidst Political Shift",
@@ -4565,7 +4909,7 @@
     "readingMinutes": 3,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=2200&q=80",
+      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
       "tone": "#0a0a0c"
     },
     "title": {
@@ -4651,8 +4995,8 @@
     "readingMinutes": 3,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Lyra Systems Aims to Bridge the 'Valley of Death' for Space Technologies",
@@ -4735,8 +5079,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614314107768-6018061b5b72?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101012"
+      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#08080a"
     },
     "title": {
       "en": "A Generational Shift Towards Lunar Permanence",
@@ -4989,8 +5333,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Satellite Connectivity: Bridging Terrestrial Divides, Forging Off-world Links",
@@ -5075,7 +5419,7 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
+      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
       "tone": "#0c0c0e"
     },
     "title": {
@@ -5245,8 +5589,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0b0b0d"
+      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#08080a"
     },
     "title": {
       "en": "NASA's Lunar Base Awards Signal New Era of Off-World Infrastructure",
@@ -5755,8 +6099,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "AST SpaceMobile's Blacklift Rocket: Vertical Integration in Orbit",
@@ -5931,8 +6275,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
     },
     "title": {
       "en": "Orbital Scrutiny: The X36 Maneuver and Satellite Vulnerability",
@@ -6105,8 +6449,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
     },
     "title": {
       "en": "Orbital Custodians: The Rise of Satellite Security Platforms",
@@ -6363,8 +6707,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1564053489984-317bbd824340?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "CesiumAstro Secures $730 Million for Synchronicity Constellation",
@@ -6451,8 +6795,8 @@
     "readingMinutes": 3,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "Orbital Taps Orca Aerospace for Autonomous Data Centers",
@@ -6527,350 +6871,6 @@
       "url": "https://payloadspace.com/exclusive-orbital-taps-orca-aerospace-for-onboard-autonomy-software/"
     },
     "sourceGuid": "https://payloadspace.com/?p=33549",
-    "status": "published"
-  },
-  {
-    "slug": "lunar-regolith-printing-unlocks-new-off-world-design-possibilities",
-    "category": "culture",
-    "issue": "Vol. 11",
-    "publishedAt": "2026-11-05T20:55:15.000Z",
-    "readingMinutes": 4,
-    "feature": false,
-    "cover": {
-      "src": "https://cdn.mos.cms.futurecdn.net/nmyuKvA2TBYzza98d3t3BK-1920-80.jpg",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Lunar Regolith Printing Unlocks New Off-World Design Possibilities",
-      "ja": "月面レゴリス印刷が拓く、新たなオフワールドデザインの可能性"
-    },
-    "dek": {
-      "en": "A recent breakthrough in additive manufacturing using lunar soil promises to reshape the aesthetics and functionality of future extraterrestrial habitats, moving beyond standardized modules.",
-      "ja": "月面土壌を用いた積層造形技術の進展は、将来の地球外居住空間の美学と機能性を再構築し、標準化されたモジュールを超えた多様性をもたらす。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "November 5, 2026",
-      "ja": "2026年11月5日"
-    },
-    "tags": [
-      {
-        "en": "3D Printing",
-        "ja": "3Dプリンティング"
-      },
-      {
-        "en": "Lunar Habitats",
-        "ja": "月面居住"
-      },
-      {
-        "en": "Off-world Architecture",
-        "ja": "オフワールド建築"
-      },
-      {
-        "en": "Materials Science",
-        "ja": "材料科学"
-      }
-    ],
-    "body": {
-      "en": [
-        "For decades, the vision of off-world habitats has been largely utilitarian: compact, metallic modules, designed for pure function. Yet, as the prospect of sustained lunar presence grows, so does the desire for environments that reflect more than mere survival.",
-        "A significant engineering advance has emerged from a collaboration between NASA and LunarForge Inc., a private aerospace firm. They have successfully demonstrated a large-scale 3D printing system capable of utilizing lunar regolith — the loose dust and rock covering the Moon's surface — to construct complex structures on demand.",
-        "The new system, dubbed 'Regolith Artisan', employs a laser sintering process to fuse lunar soil particles layer by layer. In recent tests conducted in a simulated lunar environment, the prototype successfully printed a structural wall segment measuring 3 meters in height and 5 meters in length, achieving a compressive strength comparable to terrestrial concrete.",
-        "This capability marks a departure from the costly and logistically challenging practice of transporting pre-fabricated modules from Earth. Instead, future lunar settlements could see structures, tools, and even furniture fabricated directly from local resources, reducing payload mass by potentially thousands of kilograms per mission.",
-        "The implications for off-world culture are profound. Imagine a lunar habitat where walls curve organically, or where interior partitions are custom-designed to reflect personal taste, rather than engineering expediency. The uniformity of early space stations gives way to bespoke living spaces.",
-        "> \"This technology moves us closer to a future where lunar residents can truly shape their environment.\"",
-        "Beyond mere aesthetics, this localized manufacturing capability could foster entirely new off-world crafts and industries. Lunar artisans might emerge, specializing in unique regolith-based sculptures or functional objects, imbuing future lunar homes with a sense of place and personal history. The texture of a printed wall, the unique grain of lunar-derived ceramics, will become hallmarks of off-world living, transforming sterile modules into true homes."
-      ],
-      "ja": [
-        "長年にわたり、地球外居住空間の構想は、そのほとんどが実用一点張りであった。機能性を追求した、コンパクトな金属製モジュールがその代表である。しかし、月面での持続的な滞在の可能性が高まるにつれて、単なる生存を超えた環境への欲求もまた高まっている。",
-        "NASAと民間航空宇宙企業ルナー・フォージ社との共同開発により、重要な工学的進歩が実現した。彼らは月面を覆う砂や岩石、すなわちレゴリスを利用して、複雑な構造物をオンデマンドで構築できる大規模な3D印刷システムの実証に成功した。",
-        "「レゴリス・アルチザン」と名付けられたこの新システムは、レーザー焼結プロセスを用いて月面土壌粒子を層ごとに融着させる。月面を模した環境での最近の試験では、試作機は高さ3メートル、長さ5メートルの構造壁セグメントの印刷に成功し、地球上のコンクリートに匹敵する圧縮強度を達成した。",
-        "この能力は、地球からプレハブモジュールを輸送するという、費用と物流の課題が大きい慣行からの脱却を意味する。将来の月面居住地では、構造物、工具、さらには家具までが現地資源から直接製造され、ミッションあたりのペイロード質量を数千キログラム削減できる可能性がある。",
-        "オフワールド文化への影響は計り知れない。壁が有機的に湾曲したり、内部の間仕切りが工学的な都合ではなく、個人の好みを反映してカスタムデザインされたりする月面居住空間を想像してみてほしい。初期の宇宙ステーションに見られた画一性は、オーダーメイドの生活空間へと変化するだろう。",
-        "「この技術は、月面居住者が自らの環境を真に形作れる未来へと我々を近づける。」",
-        "単なる美学を超えて、この現地生産能力は全く新しいオフワールドの工芸品や産業を育む可能性がある。独自のレゴリスベースの彫刻や機能的なオブジェに特化した月面の職人が現れ、将来の月面住宅に場所の感覚と個人の歴史を吹き込むかもしれない。印刷された壁の質感、月由来のセラミックスの独特な木目が、オフワールド生活の象徴となり、無機質なモジュールを真の「家」へと変貌させるだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Imagine a future where building on the Moon is as simple as pressing a button. This news describes a new 3D printing technology that can use the Moon's own soil, called regolith, to build structures. Instead of launching heavy construction materials from Earth, which is incredibly expensive, this 'Regolith Artisan' system acts like a giant space printer, creating walls and other parts directly on the lunar surface. It means less reliance on Earth and more self-sufficiency for lunar pioneers.",
-        "For Tokyo readers, this development could subtly influence several domains. In the near term, it will drive advancements in materials science here on Earth, as researchers explore new composites and ceramics inspired by lunar regolith applications. Further out, it could influence architectural design, with off-world specific forms and construction methods eventually inspiring terrestrial innovations. Ultimately, it strengthens the supply chain resilience for future Japanese lunar missions, making them more viable and less dependent on external resources.",
-        "We can expect to see these impacts within a 5-10 year timeframe. The primary gating factor will be the full-scale deployment of permanent lunar bases and the extensive characterization of lunar materials under real operational conditions. As the cost per kilogram to the Moon decreases and more missions are launched, the economic viability of such on-site manufacturing will accelerate.",
-        "Japan is already moving in a comparable direction. JAXA, for instance, has ongoing research into lunar resource utilization, including regolith processing. Companies like ispace are actively developing lunar landers and rovers that could facilitate such construction, and firms like Shimizu Corporation have explored concepts for lunar bases that would leverage local resources. This news reinforces the global shift towards 'living off the land' in space, a strategy Japan is keen to master for its own lunar ambitions."
-      ],
-      "ja": [
-        "月面での建設がボタン一つでできる未来を想像してみてください。今回のニュースは、月自身の砂（レゴリス）を使って構造物を作る新しい3D印刷技術についてです。地球から重い建設資材を運ぶのは非常にコストがかかりますが、この「レゴリス・アルチザン」システムは、巨大な宇宙プリンターのように機能し、月面で直接壁や他の部品を作り出すことができます。これは、地球への依存度を減らし、月面開拓者の自給自足能力を高めることを意味します。",
-        "東京で暮らす読者にとって、この進展はいくつかの分野に間接的な影響を与える可能性があります。短期的な視点では、月面レゴリスの応用からヒントを得た新しい複合材料やセラミックスの研究が進み、地球上の材料科学の発展を促すでしょう。さらに長期的には、月面固有の建築様式や工法が、いずれ地球上の建築デザインにも影響を与えるかもしれません。最終的には、将来の日本の月探査ミッションにおけるサプライチェーンの強靭化に繋がり、外部資源への依存を減らし、ミッションの実現可能性を高めることになります。",
-        "これらの影響は、5年から10年の期間で現れると予想されます。主な鍵となるのは、恒久的な月面基地の本格的な展開と、実際の運用条件下での月面材料の広範な特性評価です。月への輸送コストが下がり、より多くのミッションが打ち上げられるにつれて、このような現地生産の経済的実行可能性は加速するでしょう。",
-        "日本も同様の方向性で動いています。例えば、JAXAはレゴリス処理を含む月面資源利用の研究を進めています。ispaceのような企業は、このような建設を促進する月着陸船やローバーの開発に積極的に取り組んでおり、清水建設のような企業は現地資源を活用する月面基地の構想を探求してきました。このニュースは、宇宙で「現地調達」する世界的な潮流を後押しするものであり、日本も自国の月面開発計画のためにこの技術の習得に意欲的です。"
-      ]
-    },
-    "source": {
-      "name": "Space.com",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-announces-3rd-stage-for-its-powerful-new-glenn-rocket-and-a-new-engine"
-    },
-    "sourceGuid": "sPUQxTqZ9YEntM5VUH8CqE",
-    "status": "published"
-  },
-  {
-    "slug": "cork-as-a-shield-draco-mission-explores-natural-thermal-protection",
-    "category": "space-tech",
-    "issue": "Vol. 11",
-    "publishedAt": "2026-11-05T17:05:59.000Z",
-    "readingMinutes": 4,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
-    },
-    "title": {
-      "en": "Cork as a Shield: DRACO Mission Explores Natural Thermal Protection",
-      "ja": "コルクが盾となる：DRACOミッションが探る天然素材の熱防御"
-    },
-    "dek": {
-      "en": "A Portuguese firm supplies cork-based thermal protection for ESA's DRACO mission, signaling a shift towards natural, resilient materials in aerospace engineering.",
-      "ja": "ポルトガルの企業がESAのDRACOミッションにコルクベースの熱防御材を供給。航空宇宙工学における天然かつ回復力のある素材への移行を示唆する。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Mozelos, Portugal",
-      "ja": "ポルトガル、モゼロス"
-    },
-    "tags": [
-      {
-        "en": "space-tech",
-        "ja": "宇宙技術"
-      },
-      {
-        "en": "materials",
-        "ja": "素材"
-      },
-      {
-        "en": "ESA",
-        "ja": "ESA"
-      },
-      {
-        "en": "thermal protection",
-        "ja": "熱防御"
-      }
-    ],
-    "body": {
-      "en": [
-        "The quiet strength of cork, often associated with wine bottles and insulation, is finding a new application in the rigorous domain of space. A Portuguese company, Amorim Cork Solutions, is contributing its P50 cork-based thermal protection material to a European Space Agency (ESA) mission, DRACO.",
-        "Scheduled for an upcoming flight, the DRACO mission is specifically designed to capture rare in-flight data during its critical operational phases. This data is vital for understanding extreme conditions, and its survival hinges on robust shielding.",
-        "Amorim's P50 material, derived from natural cork, offers a compelling alternative to conventional synthetic ablative shields. Its inherent cellular structure provides excellent insulation and energy absorption properties, crucial for protecting sensitive instruments from the intense heat generated during atmospheric re-entry or high-speed flight.",
-        "The selection of a natural, renewable resource like cork for such a demanding aerospace application underscores a broader trend. Engineers are increasingly looking beyond traditional composites, exploring sustainable and naturally occurring materials that offer comparable or superior performance characteristics.",
-        "> The original report notes the mission aims to \"capture rare in-flight data.\"",
-        "This development signals a potential shift in how future off-world habitats and vehicles might be constructed and protected. Imagine lunar landers or Martian re-entry capsules incorporating lightweight, naturally derived thermal shields, reducing reliance on complex manufacturing processes and heavy synthetic components.",
-        "For those living and working off-world, this could translate into more efficient spacecraft, lower payload costs due to reduced mass, and even a new aesthetic for interior and exterior surfaces — a subtle, organic texture in an otherwise engineered environment. The resilience of cork, in its quiet way, might soon underpin the resilience of distant human outposts."
-      ],
-      "ja": [
-        "ワインの栓や建材として馴染み深いコルクが、宇宙という過酷な領域で新たな役割を担う。ポルトガルの企業アモリン・コルク・ソリューションズは、欧州宇宙機関（ESA）のDRACOミッション向けに、P50コルクベース熱防御材を供給する。",
-        "近日予定されているDRACOミッションは、その重要な運用段階で「飛行中の希少なデータを収集する」ために設計されている。このデータは極限状態を理解する上で不可欠であり、その生存は堅牢なシールドにかかっている。",
-        "天然コルクから作られるアモリン社のP50素材は、従来の合成アブレータシールドに代わる魅力的な選択肢を提供する。その固有の細胞構造は優れた断熱性とエネルギー吸収特性をもたらし、大気圏再突入や高速飛行中に発生する強烈な熱から精密機器を保護する上で極めて重要となる。",
-        "このような要求の厳しい航空宇宙用途に、コルクのような天然の再生可能資源が選ばれたことは、より広範な傾向を示唆している。技術者たちは、従来の複合材料を超え、同等またはそれ以上の性能特性を提供する持続可能で自然発生する材料の探求を深めている。",
-        "> 原文より「飛行中の希少なデータを収集する」ことをミッションの目的としている。",
-        "この進展は、将来の宇宙居住施設や宇宙船がどのように構築され、保護されるかにおいて、潜在的な変化をもたらす。月面着陸機や火星再突入カプセルが、軽量で天然由来の熱シールドを組み込むことで、複雑な製造プロセスや重い合成部品への依存を減らす可能性を想像する。",
-        "宇宙で暮らし、働く人々にとって、これはより効率的な宇宙船、質量削減によるペイロードコストの低減、さらには内装や外装の新たな美学へと繋がるかもしれない。エンジニアリングされた環境の中で、控えめながらも有機的な質感が生まれる。コルクの持つ静かな回復力が、遠い人類の拠点の強靭さを支える日も近いだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Imagine a special delivery package sent through extreme heat, like re-entering Earth's atmosphere. This news is about using natural cork, like what you find in wine stoppers, as the protective packaging for that delivery. A Portuguese company is providing this cork material to a European space mission to shield its sensitive instruments and data from intense heat. It’s a clever use of a familiar, natural resource for a very high-tech purpose.",
-        "For Tokyo readers, this development points towards a future where advanced materials might be more sustainable and accessible. It could influence material science research in Japan, leading to lighter, more environmentally friendly components for everything from high-speed trains to next-generation construction. Specifically, it could impact industries requiring robust thermal management, potentially lowering costs or opening new design possibilities for urban infrastructure that needs to withstand extreme conditions, even on Earth.",
-        "We might see the initial impacts within 5-7 years, primarily in research and development. This timeframe is gated by the successful validation of the cork material on ESA's DRACO mission and subsequent industrial scaling. Further adoption by commercial space companies or terrestrial high-performance applications would then follow.",
-        "Japan, through JAXA and companies like Mitsubishi Heavy Industries (MHI) and IHI Aerospace, is a leader in advanced materials for aerospace. While not specifically focused on cork, MHI's work on lightweight composites for the H3 rocket and JAXA's research into ablative materials for re-entry vehicles demonstrate a parallel commitment to innovative thermal protection. The pursuit of high-performance, cost-effective, and potentially sustainable materials is a continuous effort across the Japanese space and high-tech sectors."
-      ],
-      "ja": [
-        "地球の大気圏に再突入するような、非常に高温の環境を通過する特別な荷物を想像してみてください。今回のニュースは、ワインの栓にも使われるような天然のコルクを、その荷物を保護するための梱包材として利用するという話です。ポルトガルの企業が、欧州の宇宙ミッションにこのコルク素材を提供し、機密性の高い機器やデータを激しい熱から守ります。身近な天然資源を、非常に高度な技術目的のために賢く使う事例と言えるでしょう。",
-        "東京の読者にとって、この進展は、より持続可能で利用しやすい先進素材の未来を示唆しています。日本の素材科学研究に影響を与え、高速鉄道から次世代建築に至るまで、あらゆる分野でより軽量で環境に優しい部品の開発につながる可能性があります。特に、頑丈な熱管理を必要とする産業に影響を与え、コスト削減や、地球上の極限状態にも耐えうる都市インフラの新たな設計可能性を開くかもしれません。",
-        "研究開発の初期段階での影響は、今後5～7年以内に現れる可能性があります。これは、ESAのDRACOミッションにおけるコルク素材の検証成功と、それに続く産業規模での生産拡大にかかっています。その後、商業宇宙企業や地上の高性能アプリケーションへのさらなる採用が続くでしょう。",
-        "日本は、JAXAや三菱重工業（MHI）、IHIエアロスペースといった企業を通じて、航空宇宙分野の先進素材において主導的な役割を担っています。特にコルクに特化しているわけではありませんが、MHIのH3ロケット用軽量複合材の開発や、JAXAの再突入機用アブレータ素材の研究は、革新的な熱防御への同様の取り組みを示しています。高性能で費用対効果が高く、持続可能性も追求する素材の開発は、日本の宇宙およびハイテク産業全体で継続的な努力が払われています。"
-      ]
-    },
-    "source": {
-      "name": "SpaceNews",
-      "url": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/"
-    },
-    "sourceGuid": "https://spacenews.com/?p=625491",
-    "status": "published"
-  },
-  {
-    "slug": "artemis-accelerates-a-faster-path-to-lunar-habitation",
-    "category": "artemis",
-    "issue": "Vol. 11",
-    "publishedAt": "2026-11-04T21:04:10.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0f12"
-    },
-    "title": {
-      "en": "Artemis Accelerates: A Faster Path to Lunar Habitation",
-      "ja": "アルテミス加速：月面居住への迅速な道筋"
-    },
-    "dek": {
-      "en": "NASA outlines an accelerated timeline for its Artemis program, emphasizing a faster path to sustained human presence and infrastructure on the Moon.",
-      "ja": "NASAはアルテミス計画の加速化されたタイムラインを提示し、月面における持続的な人類の存在とインフラ構築への迅速な道筋を強調する。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "Artemis",
-        "ja": "アルテミス"
-      },
-      {
-        "en": "Lunar Exploration",
-        "ja": "月面探査"
-      },
-      {
-        "en": "Space Economy",
-        "ja": "宇宙経済"
-      },
-      {
-        "en": "Off-world Living",
-        "ja": "宇宙居住"
-      }
-    ],
-    "body": {
-      "en": [
-        "The lunar horizon, long a distant aspiration, draws closer. NASA has outlined revised plans for its Artemis program, signaling a renewed intent to accelerate human presence on the Moon. This update moves beyond aspirational timelines, detailing a strategic push for a more rapid return.",
-        "On November 4, 2026, the agency presented its updated roadmap. The core objective remains the establishment of a sustainable human presence at the lunar South Pole, a region believed to hold significant reserves of water ice. This acceleration aims to compress the schedule for subsequent crewed missions following the initial Artemis III landing.",
-        "The revised strategy emphasizes increased cadence for missions, including the deployment of the Lunar Gateway orbital outpost and the development of larger, more capable human landing systems. While specific new dates for Artemis III, targeting four astronauts to the surface, were not explicitly moved forward, the focus shifts to a more aggressive tempo for follow-on missions, ensuring a continuous cycle of lunar operations.",
-        "> The revised strategy emphasizes increased cadence for missions, including the deployment of the Lunar Gateway orbital outpost.",
-        "Unlike the Apollo era, which prioritized singular, high-stakes landings, Artemis seeks to build infrastructure for long-term habitation. This shift transforms the Moon from a destination for flags and footprints into a proving ground for sustained human activity.",
-        "The dust of the lunar regolith, once merely a scientific curiosity, now becomes a material for construction, a texture underfoot in future habitats. The accelerated pace suggests a future where lunar living is not a distant dream but a tangible, near-term endeavor.",
-        "For those contemplating a life beyond Earth, this means a tangible reduction in the waiting period. The acceleration promises earlier opportunities for new professions, from lunar architects to resource managers, and a faster evolution of the built environment on another world. The very fabric of off-world daily life, from shelter to sustenance, is now on a quicker path to definition."
-      ],
-      "ja": [
-        "月の地平線は、長らく遠い夢であったが、その距離は急速に縮まりつつある。NASAはアルテミス計画の改訂された計画を発表し、月への人類の存在を加速させる新たな意図を示した。この更新は、単なる願望的なタイムラインを超え、より迅速な帰還に向けた戦略的な推進を詳述している。",
-        "2026年11月4日、同機関はその更新されたロードマップを提示した。核心的な目標は、大量の水の氷を保持するとされる月の南極に、持続可能な人類の存在を確立することである。この加速は、初期のアルテミスIII着陸に続く有人ミッションのスケジュールを圧縮することを目指している。",
-        "改訂された戦略は、月軌道プラットフォーム「ゲートウェイ」の展開や、より大型で高性能な有人着陸システムの開発を含むミッションの頻度増加を重視している。4人の宇宙飛行士が月面に着陸する予定のアルテミスIIIの具体的な新日程が前倒しされたわけではないが、その後のミッションのペースをより積極的なものとし、月面活動の継続的なサイクルを確保することに重点が置かれている。",
-        "> 改訂された戦略は、月軌道プラットフォーム「ゲートウェイ」の展開を含むミッションの頻度増加を重視している。",
-        "旗を立てることに重点を置いたアポロ時代とは異なり、アルテミス計画は長期的な居住のためのインフラ構築を目指す。この転換は、月を単なる目的地から、持続的な人間活動の実験場へと変える。",
-        "月のレゴリスの塵は、かつては単なる科学的好奇心の対象であったが、今や建築材料となり、未来の居住空間の足元を覆う質感となる。加速されたペースは、月面での生活が遠い夢ではなく、具体的で近い将来の取り組みであることを示唆している。",
-        "地球外での生活を考える人々にとって、これは待機期間の具体的な短縮を意味する。この加速は、月面建築家から資源管理者まで、新たな職業の機会をより早く生み出し、別の世界における建築環境の進化を加速させるだろう。住居から食料供給まで、地球外での日常生活そのものが、より迅速に形作られる道筋にある。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "NASA has announced its intention to speed up the Artemis program, which aims to send astronauts back to the Moon and establish a long-term base there. Think of it like a major construction project where the developers decide to accelerate the building schedule for the next phases, aiming to have people living and working on the Moon more quickly than previously planned. It’s not just about one-off visits anymore; it’s about making the Moon a place where people can consistently stay.",
-        "For Tokyo readers, this acceleration means a faster timeline for the development of lunar infrastructure. This could translate into quicker access to lunar resources, potentially impacting the supply chains for rare metals used in electronics and advanced materials. It might also accelerate the development of technologies for extreme environments that could find applications back on Earth, influencing materials science or disaster preparedness systems available domestically.",
-        "We can expect to see tangible impacts within 5-10 years, primarily gated by the successful deployment and operationalization of the Lunar Gateway (an orbital outpost around the Moon) and advanced lunar landers. The cost per kilogram to the Moon also needs to fall significantly, which this accelerated cadence could help achieve. Japan’s own contributions to Gateway modules and lunar rovers will also play a role in how quickly these developments materialize.",
-        "Japan is a key partner in the Artemis program, with JAXA actively contributing to Gateway modules and developing its own lunar surface exploration technologies, such as the SLIM lander and the MMX mission for Martian moons. Companies like ispace are also pursuing lunar landers and resource exploration. While NASA is accelerating the overall program, Japan's specific focus on precision landing and robotic exploration complements this, filling crucial gaps for future lunar operations."
-      ],
-      "ja": [
-        "NASAは、宇宙飛行士を再び月に送り込み、長期的な基地を確立するアルテミス計画を加速させる意向を発表しました。これは、まるで大規模な建設プロジェクトで、開発者が次の段階の建設スケジュールを前倒しし、以前の計画よりも早く月で人々が生活し、働くことを目指すようなものです。単発の訪問ではなく、人々が継続的に滞在できる場所として月を整備することに重点が置かれています。",
-        "東京で暮らす読者にとって、この加速は月面インフラ開発のタイムラインが早まることを意味します。これにより、月面資源へのアクセスが迅速化し、例えば電子機器や先端材料に使われる希少金属のサプライチェーンに影響を与える可能性があります。また、極限環境技術の開発も加速され、それが地上での応用、特に材料科学や国内の災害対策システムに影響を及ぼすかもしれません。",
-        "具体的な影響は、月軌道プラットフォーム「ゲートウェイ」（月周回軌道の基地）と先進的な月着陸機の展開と運用が成功した後に、5年から10年以内に現れると予想されます。この加速されたペースは、月へのキログラムあたりの輸送コストを大幅に引き下げることにも寄与するでしょう。日本がゲートウェイモジュールや月面ローバーに貢献することも、これらの進展がどれだけ早く実現するかに影響を与えます。",
-        "日本はアルテミス計画の主要なパートナーであり、JAXAはゲートウェイモジュールに積極的に貢献し、SLIM着陸機や火星衛星探査ミッションMMXのような独自の月面探査技術を開発しています。ispaceのような民間企業も月着陸機や資源探査を進めています。NASAが計画全体を加速させる中で、日本の精密着陸やロボット探査への特化はこれを補完し、将来の月面運用にとって不可欠な役割を担うでしょう。"
-      ]
-    },
-    "source": {
-      "name": "NASA Artemis",
-      "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/"
-    },
-    "sourceGuid": "https://www.nasa.gov/?p=1062413",
-    "status": "published"
-  },
-  {
-    "slug": "lunar-logistics-corporations-cargo-hopper-sets-stage-for-heavier-lunar-deliverie",
-    "category": "space-tech",
-    "issue": "Vol. 11",
-    "publishedAt": "2026-11-04T23:00:36.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://cdn.mos.cms.futurecdn.net/RLwiYvR97AgM2qiaxieDDg-1920-80.jpg",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Lunar Logistics Corporation's Cargo Hopper Sets Stage for Heavier Lunar Deliveries",
-      "ja": "ルナ・ロジスティクス、カーゴホッパーで月面重量輸送の新時代へ"
-    },
-    "dek": {
-      "en": "A successful engine test for a new lunar lander promises increased payload capacity and reduced costs, reshaping the future of off-world habitation and commerce.",
-      "ja": "新型月着陸船のエンジン試験成功は、ペイロード容量の増加とコスト削減を約束し、地球外居住と商業の未来を再構築する。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "Lunar Lander",
-        "ja": "月着陸船"
-      },
-      {
-        "en": "Space Logistics",
-        "ja": "宇宙物流"
-      },
-      {
-        "en": "Lunar South Pole",
-        "ja": "月南極"
-      },
-      {
-        "en": "Payload Capacity",
-        "ja": "ペイロード容量"
-      }
-    ],
-    "body": {
-      "en": [
-        "The high desert of California recently bore witness to a crucial step in lunar logistics. Under a sky that often mirrors the desolation of the Moon itself, Lunar Logistics Corporation successfully completed a static hot-fire test of its \"Cargo Hopper\" lander. This event marks a significant stride toward a future where regular, heavy-lift deliveries to the lunar surface become routine.",
-        "The test, conducted in late October, validated the integrated descent system and primary engine performance for the Cargo Hopper. Engineers monitored thrust profiles and fuel consumption, confirming the vehicle's readiness for its inaugural mission. This careful validation process underscores the meticulous engineering required for off-world operations.",
-        "Scheduled for a Q2 2027 launch, the Cargo Hopper is designed to transport up to 500 kilograms of payload to the lunar south pole. Its primary target is the Malapert Massif, a region identified as critical for potential water ice resources and future human settlements. This mission aims to support the burgeoning infrastructure needs of lunar exploration.",
-        "A key differentiator for the Cargo Hopper is its projected operational efficiency. The company anticipates a 15% reduction in cost per kilogram to the lunar surface compared to current commercial offerings. This economic advantage could reshape the viability of various lunar ventures, from scientific research to resource extraction.",
-        "> \"The successful test confirms our path to more affordable and frequent lunar access.\"",
-        "Unlike the bespoke, single-use landers of the Apollo era, the Cargo Hopper is envisioned for multiple deployments, offering a more sustainable model for lunar supply chains. This iterative approach allows for continuous refinement and cost optimization, moving beyond the 'one-off' expeditions of the past.",
-        "For those contemplating life beyond Earth, such advancements carry profound implications. A reliable and cost-effective delivery system for 500 kilograms means more than just scientific instruments or life support consumables. It means the possibility of larger, more resilient habitats, the transport of specialized tools for off-world manufacturing, or even personal items that transform a stark module into a genuine home. The architecture of lunar living begins to evolve, driven by the steady rhythm of cargo shipments."
-      ],
-      "ja": [
-        "カリフォルニアの広大な砂漠が、最近、月面物流における重要な一歩の舞台となった。月そのものの荒涼とした風景を思わせる空の下で、ルナ・ロジスティクス・コーポレーション（LLC）は、その月着陸船「カーゴホッパー」の静的燃焼試験を成功させた。この出来事は、月面への定期的かつ重量貨物輸送が日常となる未来に向けた大きな前進を示している。",
-        "10月下旬に行われたこの試験は、カーゴホッパーの統合降下システムと主エンジンの性能を検証した。エンジニアたちは推力プロファイルと燃料消費量を監視し、初飛行ミッションへの準備が整ったことを確認した。この綿密な検証プロセスは、地球外での運用に求められる細心の工学技術を浮き彫りにしている。",
-        "2027年第2四半期の打ち上げが予定されているカーゴホッパーは、最大500キログラムのペイロードを月南極に輸送するよう設計されている。主な目標地点はマウアパート・マッシフで、水氷資源の可能性と将来の有人居住地にとって極めて重要とされている地域だ。このミッションは、月探査の拡大するインフラニーズを支えることを目指す。",
-        "カーゴホッパーの重要な差別化要因は、その運用効率にある。同社は、既存の商業サービスと比較して、月面への1キログラムあたりの輸送コストを15%削減できると見込んでいる。この経済的優位性は、科学研究から資源採掘に至るまで、さまざまな月面事業の実現可能性を再構築する可能性がある。",
-        "> 「今回の試験成功は、より手頃で頻繁な月へのアクセスに向けた我々の道筋を確かなものにする」",
-        "アポロ時代の特注で使い捨ての着陸船とは異なり、カーゴホッパーは複数回の展開を想定しており、月面サプライチェーンにとってより持続可能なモデルを提供する。この反復的なアプローチにより、継続的な改良とコスト最適化が可能となり、過去の「一度きり」の探査を超えていく。",
-        "地球外での生活を考える人々にとって、このような進歩は深い意味を持つ。500キログラムを確実かつ費用効率良く届けられる輸送システムは、単に科学機器や生命維持物資以上のものを意味する。それは、より大きく、より強固な居住空間、地球外での製造のための専門工具の輸送、あるいは殺風景なモジュールを真の家へと変える個人的な品々の可能性をも意味する。月面での生活の建築は、貨物輸送の着実なリズムによって進化し始めるだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Imagine a sophisticated, robotic delivery truck that can fly itself all the way to the Moon. That's essentially what a company called Lunar Logistics Corporation has just proven with a successful engine test for their \"Cargo Hopper\" lander. This vehicle is designed to carry a substantial amount of supplies – about 500 kilograms, roughly the weight of a small car – directly to the Moon's south pole, where future lunar bases are planned. It's a big step towards making lunar deliveries more common and less expensive.",
-        "For Tokyo readers, this kind of development impacts the future availability and cost of lunar resources. If transporting heavy cargo to the Moon becomes cheaper and more frequent, it could accelerate the establishment of lunar mining operations, potentially influencing the supply chain for rare metals and other materials crucial for electronics and advanced manufacturing here on Earth. It also means that future Japanese lunar missions or private ventures could leverage such services, reducing their own logistical burdens.",
-        "We could see tangible impacts within 5-10 years. This timeframe is largely gated by the maturation of the lunar resource market and the establishment of international agreements on resource extraction and ownership. While the technology is advancing rapidly, the economic and policy frameworks need to catch up before we see widespread commercial utilization affecting terrestrial markets.",
-        "Japan's ispace, with its Hakuto-R missions, is a direct counterpart in the private lunar lander sector, albeit currently focusing on smaller payloads and different business models. While ispace has demonstrated lunar landing capabilities, the Cargo Hopper's emphasis on heavier, more cost-efficient cargo delivery to specific, resource-rich regions represents a slightly different, complementary trajectory. Japan could benefit from such services or develop its own heavy-lift variants, potentially through collaborations between JAXA and private firms like Mitsubishi Heavy Industries, to support future lunar infrastructure."
-      ],
-      "ja": [
-        "月まで自力で飛んでいける、高性能なロボット配送トラックを想像してみてください。ルナ・ロジスティクス・コーポレーションという会社が、まさにその「カーゴホッパー」という着陸船のエンジン試験に成功し、それを実証しました。この乗り物は、将来の月面基地が計画されている月南極に、小型車一台分ほどの約500キログラムもの物資を直接運ぶことができます。月への物資輸送をより一般的で安価にするための大きな一歩なのです。",
-        "東京に住む私たちにとって、このような進展は将来の月資源の入手可能性とコストに影響を与えます。月への重量貨物輸送が安価で頻繁になれば、月面での採掘作業の確立が加速し、地球上のエレクトロニクスや先端製造業に不可欠なレアメタルなどのサプライチェーンに影響を与える可能性があります。また、将来の日本の月ミッションや民間事業が、このような輸送サービスを利用できるようになり、自国の物流負担を軽減することにもつながるでしょう。",
-        "具体的な影響が見られるのは、今後5年から10年以内と考えられます。この期間は、主に月資源市場の成熟と、資源採掘および所有に関する国際的な合意の確立によって左右されます。技術は急速に進歩していますが、地球市場に広範な商業利用が影響を与える前に、経済的および政策的枠組みが追いつく必要があります。",
-        "日本のispace社は、Hakuto-Rミッションで、民間の月着陸船分野における直接的な競合相手と言えます。ispaceは月面着陸能力を実証していますが、カーゴホッパーがより重く、費用効率の高い貨物を特定の資源豊富な地域へ輸送することに重点を置いている点は、やや異なり、補完的な方向性を示しています。日本は、将来の月面インフラを支援するために、このようなサービスから恩恵を受けるか、JAXAと三菱重工業のような民間企業との協力によって、独自の重量貨物輸送型を開発する可能性もあります。"
-      ]
-    },
-    "source": {
-      "name": "Space.com",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-4-2026"
-    },
-    "sourceGuid": "psVh7BUq5AqENzNcXN5rCL",
     "status": "published"
   }
 ]

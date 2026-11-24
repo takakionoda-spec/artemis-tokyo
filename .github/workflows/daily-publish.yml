@@ -58,7 +58,7 @@ jobs:
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4o-mini' }}
           CRON_LOOKBACK_HOURS: ${{ vars.CRON_LOOKBACK_HOURS || '24' }}
           CRON_MAX_PER_RUN: ${{ vars.CRON_MAX_PER_RUN || '6' }}
-          NEXT_PUBLIC_SITE_URL: ${{ vars.NEXT_PUBLIC_SITE_URL || 'https://artemis-tokyo.vercel.app' }}
+          NEXT_PUBLIC_SITE_URL: ${{ vars.NEXT_PUBLIC_SITE_URL || 'https://www.artemis-tokyo.com' }}
         run: |
           if [ "${{ inputs.dry_run }}" = "true" ]; then
             npm run cron:publish:dry

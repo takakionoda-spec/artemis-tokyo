@@ -59,6 +59,12 @@ export type SourceDef = {
    The configuration object itself.
    ------------------------------------------------------------------------- */
 export const siteConfig = {
+  /* -------------------------------------------------------------- ANALYTICS */
+  analytics: {
+    /** GA4 measurement ID (G-XXXXXXXXXX). Empty string = no tag rendered.
+     *  NEXT_PUBLIC_GA_ID, when set, takes precedence. */
+    gaMeasurementId: "G-DRP2WJWRJZ"
+  },
   /* ------------------------------------------------------------------ BRAND */
   brand: {
     /** Display name in uppercase tracking (e.g. "ARTEMIS TOKYO"). */
@@ -66,7 +72,7 @@ export const siteConfig = {
     /** Wordmark as rendered in Header/Footer (mixed case allowed). */
     wordmark: "Artemis Tokyo",
     /** Canonical site URL — used by SEO, sitemap, JSON-LD, cron User-Agent. */
-    siteUrl: "https://artemis-tokyo.vercel.app",
+    siteUrl: "https://www.artemis-tokyo.com",
     /** Editorial subject — used in metadata description and the LLM voice. */
     subject: {
       en: "the Artemis Program and the human migration to space said to arrive in the 2040s",

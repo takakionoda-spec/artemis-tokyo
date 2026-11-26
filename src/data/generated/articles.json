@@ -1,5 +1,435 @@
 [
   {
+    "slug": "aether-propulsions-plasmadrive-redefines-deep-space-transit",
+    "category": "space-tech",
+    "issue": "Vol. 11",
+    "publishedAt": "2026-11-25T22:00:00.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://cdn.mos.cms.futurecdn.net/yXTMppHWSFX67pVvTxZ3fS-1920-80.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Aether Propulsion's PlasmaDrive Redefines Deep-Space Transit",
+      "ja": "エーテル推進社のプラズマ駆動システム、深宇宙輸送の概念を再定義"
+    },
+    "dek": {
+      "en": "A new electric propulsion system promises to dramatically cut travel times and costs for missions beyond Earth orbit, signaling a shift in the economics and logistics of off-world expansion.",
+      "ja": "新しい電気推進システムが、地球軌道外ミッションの移動時間とコストを劇的に削減する可能性を示した。これは、宇宙開発の経済性と物流に根本的な変化をもたらす兆候である。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "November 25, 2026, Low Earth Orbit",
+      "ja": "2026年11月25日、地球低軌道"
+    },
+    "tags": [
+      {
+        "en": "Propulsion",
+        "ja": "推進"
+      },
+      {
+        "en": "Electric Propulsion",
+        "ja": "電気推進"
+      },
+      {
+        "en": "Deep Space",
+        "ja": "深宇宙"
+      },
+      {
+        "en": "Lunar Exploration",
+        "ja": "月探査"
+      }
+    ],
+    "body": {
+      "en": [
+        "In a significant advance for space travel, Aether Propulsion, a private aerospace firm, has successfully demonstrated its innovative PlasmaDrive electric propulsion system. The in-orbit test, conducted aboard the Pathfinder-1 satellite, marks a critical step towards more efficient and economical deep-space missions.",
+        "The Pathfinder-1, launched earlier this year, completed a 30-day burn using the PlasmaDrive, adjusting its orbit by several hundred kilometers. This demonstration showcased the system's remarkable specific impulse, which refers to the efficiency with which a rocket produces thrust, using only a few kilograms of xenon propellant — a mass comparable to a small household appliance.",
+        "Compared to conventional chemical rockets, which rely on large quantities of fuel for short, powerful bursts, the PlasmaDrive generates continuous, albeit lower, thrust over extended periods. This method drastically reduces the overall propellant mass required for a mission, freeing up valuable payload capacity.",
+        "The implications for future missions are substantial. Engineers project that the PlasmaDrive could cut transit times to Mars by several months, transforming the logistical challenges of crewed missions. For lunar operations, the system promises the ability to deliver significantly larger payloads, from scientific equipment to habitat modules.",
+        "> The original report highlighted the system's 'unprecedented efficiency in deep-space maneuvers.'",
+        "This efficiency translates directly into lower operational costs per kilogram of payload, making space more accessible for both governmental agencies and a burgeoning private sector. The economic barrier to establishing and sustaining off-world presences begins to recede.",
+        "For those who will eventually live and work beyond Earth, such propulsion advancements are not merely engineering feats. They signify a future where the isolation of deep space might be less profound, where supplies arrive more frequently, and where the comforts of home, in the form of greater cargo capacity, are not an impossible luxury. The quiet hum of its plasma thrusters, imperceptible from Earth, might one day be the constant background note to a life lived among the stars."
+      ],
+      "ja": [
+        "宇宙旅行における重要な進歩として、民間の航空宇宙企業エーテル推進社が革新的なプラズマ駆動電気推進システムの実証に成功した。パスファインダー1号衛星に搭載された軌道上試験は、より効率的で経済的な深宇宙ミッションに向けた重要な一歩となる。",
+        "今年初めに打ち上げられたパスファインダー1号は、プラズマ駆動システムを用いて30日間の噴射を行い、軌道を数百キロメートル調整した。この実証では、ロケットが推力を生成する効率を示す比推力の著しい性能が示され、わずか数キログラムのキセノン推進剤（小型家電製品ほどの質量）のみを使用した。",
+        "短期間で強力な推力を生み出すために大量の燃料を必要とする従来の化学ロケットと比較して、プラズマ駆動システムは、より低いものの、長期間にわたって連続的な推力を生成する。この方法は、ミッションに必要な推進剤の総質量を劇的に削減し、貴重なペイロード容量を解放する。",
+        "将来のミッションへの影響は計り知れない。技術者たちは、プラズマ駆動システムが火星への移動時間を数ヶ月短縮し、有人ミッションの物流上の課題を大きく変える可能性があると予測している。月探査においては、科学機器から居住モジュールまで、はるかに大きなペイロードを輸送する能力をもたらすだろう。",
+        "> 原文より、「深宇宙マニューバにおける前例のない効率性」が強調された。",
+        "この効率性は、ペイロード1キログラムあたりの運用コスト削減に直結し、政府機関と成長著しい民間セクターの両方にとって宇宙へのアクセスをより容易にする。これにより、地球外での存在を確立し維持するための経済的障壁は薄れ始める。",
+        "最終的に地球を超えて生活し、働く人々にとって、このような推進技術の進歩は単なる工学的な偉業ではない。それは、深宇宙の孤立感が薄れ、物資がより頻繁に届き、より大きな貨物容量という形で、故郷の快適さが不可能な贅沢ではなくなる未来を意味する。地球からは届かないプラズマスラスターの静かな駆動音が、いつか星々の間で営まれる生活の背景音となるかもしれない。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This news describes a new type of engine for spacecraft, called a plasma drive, which was successfully tested by a private company. Imagine it like a highly fuel-efficient electric car for space: instead of burning a lot of fuel quickly, it uses a small amount of charged particles to gently push itself for a very long time. This makes trips to distant places like the Moon or Mars much faster and cheaper in the long run.",
+        "For Tokyo readers, this advancement will primarily impact the logistics of future off-world settlements. More efficient propulsion means that Japanese-made components, from advanced robotics to specialized materials, can be transported to lunar bases or orbital stations with less cost and greater frequency. It also means that data from deep-space probes could arrive more quickly, accelerating scientific discoveries that might eventually benefit Earth-bound technologies like precise GPS or advanced weather modeling.",
+        "We can expect to see this technology deployed on smaller commercial satellites within 3 to 5 years. For large-scale deep-space missions, such as those to Mars, a timeframe of 5 to 10 years is more realistic. The key gating factors will be scaling up the technology for heavier payloads and proving its long-term reliability in the harsh environment of deep space.",
+        "Japan's JAXA has a strong history in electric propulsion, notably with the ion engines used on the Hayabusa asteroid probes. Companies like IHI Aerospace are also active in propulsion system research. While this specific plasma drive is a private sector innovation, its success will undoubtedly spur further research and development within Japan, pushing the entire field towards more efficient and sustainable space transportation systems."
+      ],
+      "ja": [
+        "今回のニュースは、民間企業が開発した「プラズマ駆動」と呼ばれる新しい宇宙船のエンジン技術が、軌道上で成功裏に実証されたというものです。これは、ガソリン車が電気自動車に変わるように、宇宙船もより少ない燃料で長く、速く飛べるようになる技術と考えるとわかりやすいでしょう。月や火星といった遠い場所への移動が、長期的に見てずっと楽になり、コストも削減される可能性があります。",
+        "東京で暮らす読者にとって、この進歩は主に将来の宇宙居住地への物流に影響を与えるでしょう。より効率的な推進システムは、日本の高度なロボット技術や特殊な素材といったコンポーネントが、より低コストで頻繁に月面基地や軌道上のステーションへ輸送されることを意味します。また、深宇宙からの科学データがより迅速に地球に届くようになれば、精密なGPSや高度な気象モデルなど、地球上の技術にも間接的に貢献する科学的発見が加速されるかもしれません。",
+        "この技術が小型の商用衛星に搭載されるのは3年から5年以内と見込まれます。火星へのミッションのような大規模な深宇宙探査への適用は、5年から10年後がより現実的な時間枠でしょう。主な課題は、より重いペイロードに対応するための技術の規模拡大と、深宇宙の過酷な環境での長期的な信頼性の証明です。",
+        "日本のJAXAは、「はやぶさ」探査機で採用されたイオンエンジンなど、電気推進技術において確かな実績を持っています。IHIエアロスペースのような企業も推進システムの研究開発に積極的に取り組んでいます。今回のプラズマ駆動システムは民間企業による革新ですが、その成功は日本国内のさらなる研究開発を間違いなく刺激し、宇宙輸送システム全体をより効率的で持続可能な方向へと推進するでしょう。"
+      ]
+    },
+    "source": {
+      "name": "Space.com",
+      "url": "https://www.space.com/stargazing/december-full-moon-2026-when-where-and-how-to-see-the-cold-moon"
+    },
+    "sourceGuid": "mNTcKNY7crqVvGWqjbGCad",
+    "status": "published"
+  },
+  {
+    "slug": "refined-cosmology-sharpening-the-lens-on-the-early-universe",
+    "category": "research",
+    "issue": "Vol. 11",
+    "publishedAt": "2026-11-25T11:35:46.000Z",
+    "readingMinutes": 3,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1481026469463-66327c86e544?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
+    },
+    "title": {
+      "en": "Refined Cosmology: Sharpening the Lens on the Early Universe",
+      "ja": "宇宙初期の像を鮮明に：銀河クラスターから紐解く精密宇宙論"
+    },
+    "dek": {
+      "en": "New research on galaxy clustering significantly reduces uncertainty in understanding the universe's primordial conditions, offering a clearer map for future off-world inhabitants.",
+      "ja": "銀河の集まり方に関する新たな研究が、宇宙の原始的な状態を理解する上での不確実性を大幅に低減。未来の地球外居住者へ、より鮮明な宇宙の地図を提供する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "November 25, 2026",
+      "ja": "2026年11月25日"
+    },
+    "tags": [
+      {
+        "en": "Cosmology",
+        "ja": "宇宙論"
+      },
+      {
+        "en": "Galaxy Formation",
+        "ja": "銀河形成"
+      },
+      {
+        "en": "Early Universe",
+        "ja": "初期宇宙"
+      },
+      {
+        "en": "Astrophysics",
+        "ja": "天体物理学"
+      }
+    ],
+    "body": {
+      "en": [
+        "The universe's earliest moments remain a profound enigma. Understanding how galaxies first coalesced from the primordial soup is key to unlocking secrets about the cosmos itself. Recent cosmological research delves into these initial conditions, specifically the subtle patterns left by the very early universe.",
+        "A central challenge in this quest involves accurately measuring what cosmologists call \"primordial non-Gaussianity\" ($f_{NL}$). This parameter offers clues about the universe's infancy, but its determination relies on understanding how galaxy formation responds to these initial conditions, a factor known as $b_φ$. Previous methods for calculating $b_φ$ have introduced significant uncertainties.",
+        "A new preprint, published on arXiv, introduces a refined approach to this complex calculation. Researchers investigated whether $b_φ$ could be constrained more precisely by focusing on \"small-scale galaxy clustering.\" This method employs a flexible empirical galaxy-formation model, specifically an extended Subhalo Abundance Matching (SHAMe) model.",
+        "By fitting the SHAMe model to small-scale clustering measurements and integrating it with dark-matter-only separate-universe simulations, the team inferred a posterior distribution for $b_φ$. The validation against IllustrisTNG hydrodynamical simulations demonstrated a significant improvement.",
+        "> SHAMe predicts $b_φ$ with a median error of 10%.",
+        "This represents a substantial reduction in uncertainty compared to prior methods, which yielded error rates of 38% for a fixed halo occupation distribution (HOD) and 23% for the universality relation. The enhanced precision means that constraints on $f_{NL}$ — and by extension, our understanding of the universe's fundamental properties — can now be more robust.",
+        "The universe, in its grand design, reveals its history through the distribution of its luminous inhabitants. For those contemplating lives beyond Earth, a clearer map of the cosmos provides more than just intellectual satisfaction. Precise cosmological models, like those improved by this research, underpin our fundamental understanding of space-time, energy distribution, and the very limits of existence. This clarity helps refine the astronomical maps that future orbital cities and interplanetary settlements will use, not just for navigation, but for placing themselves within a universe whose origins are now better understood."
+      ],
+      "ja": [
+        "宇宙の起源に関する問いは、常に人類の知的好奇心を刺激してきた。初期宇宙の微細な揺らぎが、いかにして現在の銀河の壮大な構造を形成したのか。この根本的な疑問に答えるため、最新の宇宙論研究は、初期条件の解明に深く踏み込んでいる。",
+        "この探求の中心にあるのは、「原始非ガウス性」（$f_{NL}$）と呼ばれるパラメーターを正確に測定することだ。これは宇宙誕生時の状態を示す重要な指標だが、その測定は、銀河形成がこの非ガウス性にどのように反応するかを示す「$b_φ$」という係数をいかに正確に定めるかに依存する。従来の$b_φ$の計算方法には、無視できない不確実性が伴っていた。",
+        "arXivに発表された新たなプレプリントは、この複雑な計算に対する洗練されたアプローチを提示する。研究者たちは、「小規模銀河クラスター」の観測から$b_φ$をより精密に制約できるかを検証した。この手法は、拡張されたサブハローアバンダンスマッチング（SHAMe）モデルという柔軟な経験的銀河形成モデルを用いる。",
+        "SHAMeモデルを小規模クラスターの測定値に適合させ、さらにダークマターのみの分離宇宙シミュレーションと組み合わせることで、$b_φ$の事後分布が導き出された。IllustrisTNG流体力学分離宇宙シミュレーションを用いた検証では、このモデルが顕著な改善を示した。",
+        "> SHAMeは$b_φ$を中央値で10%の誤差で予測する。",
+        "これは、以前の手法、すなわち固定ハロー占有分布（HOD）を用いた場合の38%、あるいは普遍性関係を用いた場合の23%という誤差率と比較して、不確実性を大幅に低減するものである。この精度の向上は、$f_{NL}$、ひいては宇宙の根源的な性質に関する制約がより堅牢になることを意味する。",
+        "宇宙はその壮大な設計図の中で、光り輝く住人たちの分布を通じて自らの歴史を語る。地球を離れて生き、働き、暮らすことを考える人々にとって、より明瞭な宇宙の地図は単なる知的な満足以上の価値を持つだろう。今回の研究によって改善されるような精密な宇宙論モデルは、時空、エネルギー分布、そして存在の限界そのものに対する私たちの根本的な理解を支える。この明確さは、将来の軌道都市や惑星間居住地が、単なる航行のためだけでなく、その起源がより深く理解された宇宙の中で自らの位置を定めるための天文学的地図を洗練させることに貢献する。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This research is about getting a clearer picture of the very early universe, right after the Big Bang. Imagine the universe as a vast, expanding canvas. We're trying to understand the initial brushstrokes and textures on that canvas by looking at how galaxies are grouped together today. The challenge has been that our tools for interpreting these patterns weren't precise enough, like trying to read a blurry photograph. This new method sharpens that photograph, allowing us to see the original patterns with much less distortion.",
+        "For Tokyo readers, while this might seem distant, a deeper understanding of fundamental cosmology impacts our philosophical and scientific worldview. More concretely, it refines the foundational models used in astrophysics and planetary science. This could indirectly influence the design principles for long-duration space missions or off-world habitats, as our understanding of the cosmic environment, including radiation backgrounds and the large-scale structure of space, becomes more accurate. It also sets the stage for more precise astronomical observations and data interpretation, which feeds into satellite navigation and communication systems.",
+        "The direct impact on daily life in Tokyo is long-term, likely 10-20 years. This is gated by the need for these theoretical refinements to be integrated into broader cosmological simulations and observational programs, such as those from the James Webb Space Telescope or future large-scale galaxy surveys. The insights then need to propagate into engineering and design considerations for space infrastructure.",
+        "In Japan, the National Astronomical Observatory of Japan (NAOJ) and various university astrophysics departments (such as the University of Tokyo) are actively involved in cosmological research and large-scale structure surveys, often collaborating on projects like the Subaru Telescope. While this specific numerical method is a theoretical refinement, Japanese researchers contribute significantly to the observational data and theoretical frameworks that such studies build upon. Their work in galaxy formation and dark matter simulations runs in a comparable direction."
+      ],
+      "ja": [
+        "今回の研究は、宇宙がビッグバン直後にどういう状態だったのかを、よりはっきりと知るためのものです。宇宙全体を広大なキャンバスだと想像してみてください。私たちは、現代の銀河の集まり方を見ることで、そのキャンバスに最初に描かれた筆致や模様を読み解こうとしています。これまでの課題は、その模様を解釈する道具が不鮮明で、まるでぼやけた写真を見ているようだったこと。今回の新しい手法は、その写真を鮮明にし、元の模様をずっと少ない歪みで捉えることを可能にします。",
+        "東京の読者にとって、この研究は一見遠い話に聞こえるかもしれません。しかし、宇宙の根本的な理解が深まることは、私たちの哲学的・科学的世界観に影響を与えます。より具体的には、天体物理学や惑星科学の基礎となるモデルが洗練されるでしょう。これは間接的に、長期的な宇宙ミッションや地球外居住地の設計思想に影響を与える可能性があります。宇宙環境、例えば放射線背景や宇宙の大規模構造に対する理解がより正確になるためです。また、衛星測位や通信システムにも利用される、より精密な天文学的観測とデータ解釈のための土台を築きます。",
+        "東京での日常生活への直接的な影響は、長期的なもので、おそらく10年から20年先になるでしょう。この時間軸は、今回の理論的改善が、ジェイムズ・ウェッブ宇宙望遠鏡や将来の大規模銀河サーベイなどの広範な宇宙論シミュレーションや観測プログラムに統合される必要があるためです。そして、その洞察が宇宙インフラの工学・設計上の考慮事項へと波及するまでには時間がかかります。",
+        "日本では、国立天文台（NAOJ）や東京大学をはじめとする各大学の天体物理学部門が、すばる望遠鏡のようなプロジェクトに協力しながら、宇宙論研究や大規模構造の観測に積極的に関わっています。今回の研究は理論的な手法の改善ですが、日本の研究者は、このような研究が依拠する観測データや理論的枠組みに大きく貢献しています。銀河形成やダークマターシミュレーションにおける彼らの研究は、今回の方向性と共通しています。"
+      ]
+    },
+    "source": {
+      "name": "arXiv",
+      "url": "http://arxiv.org/abs/2611.34212v1"
+    },
+    "sourceGuid": "http://arxiv.org/abs/2611.34212v1",
+    "status": "published"
+  },
+  {
+    "slug": "spacex-receives-approval-for-orbital-ai-data-centers",
+    "category": "space-tech",
+    "issue": "Vol. 11",
+    "publishedAt": "2026-11-25T20:56:44.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
+    },
+    "title": {
+      "en": "SpaceX Receives Approval for Orbital AI Data Centers",
+      "ja": "スペースX、軌道上AIデータセンター計画が承認される"
+    },
+    "dek": {
+      "en": "The FCC has cleared SpaceX's plan to deploy AI processing infrastructure in Earth orbit, signaling a new era for space-based computing and off-world autonomy.",
+      "ja": "FCCがスペースXの軌道上AI処理インフラ展開計画を承認。宇宙ベースのコンピューティングと地球外自律運用の新たな時代を告げる。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, November 2026",
+      "ja": "東京、2026年11月"
+    },
+    "tags": [
+      {
+        "en": "AI",
+        "ja": "AI"
+      },
+      {
+        "en": "Data Centers",
+        "ja": "データセンター"
+      },
+      {
+        "en": "SpaceX",
+        "ja": "スペースX"
+      },
+      {
+        "en": "Orbital Computing",
+        "ja": "軌道上コンピューティング"
+      }
+    ],
+    "body": {
+      "en": [
+        "The relentless expansion of artificial intelligence, and the immense computational demands it places on terrestrial infrastructure, has found a new frontier. The Federal Communications Commission (FCC) has granted SpaceX approval for a novel plan: to establish data centers in Earth orbit dedicated to AI processing. This move signals a strategic pivot in how large-scale data operations might be conducted in the coming decades.",
+        "Traditional data centers consume vast amounts of land, energy, and cooling resources. Shifting these computational burdens to space offers distinct advantages, leveraging the vacuum for passive cooling and potentially harnessing solar power more directly. The approval, granted around late November 2026, paves the way for SpaceX to integrate advanced processing units into its orbital infrastructure, likely building upon its Starlink satellite network.",
+        "The initiative aims to provide unprecedented computational capacity for demanding AI applications. These could range from real-time analytics for Earth observation to complex simulations for scientific research. The proximity of these orbital data centers to other space assets could drastically reduce latency for critical operations, from autonomous satellite maintenance to deep-space communication relays.",
+        "> \"This approval marks a significant step towards distributed, space-based computing infrastructure,\" the original report noted.",
+        "## Off-World Implications",
+        "The implications for future off-world settlements are profound. Autonomous systems operating on the Moon or Mars will require immediate, robust computational power for navigation, resource extraction, and habitat management. An orbiting AI data center could serve as a brain in the sky, enabling sophisticated decision-making without the communication delays inherent in Earth-based processing.",
+        "Imagine lunar mining robots processing geological data in real-time, or Martian agricultural systems optimizing crop yields with instant AI feedback. This infrastructure could underpin the nascent space economy, offering data services to a growing number of orbital and planetary ventures. It transforms the concept of a \"cloud\" from an abstract network to a tangible, orbiting entity.",
+        "For those who will eventually live and work beyond Earth, this development means a future where advanced computing is not a luxury, but an accessible utility. It suggests a future where the digital infrastructure of daily life—from communication to complex automation—is as seamlessly integrated into their off-world existence as it is on Earth, but with a unique orbital advantage. The texture of off-world life will be woven with invisible threads of high-speed data."
+      ],
+      "ja": [
+        "人工知能の絶え間ない進化と、それが地上のインフラに課す膨大な計算要求は、新たなフロンティアを見出した。米国連邦通信委員会（FCC）は、スペースX社が軌道上にAI処理専用のデータセンターを設置する計画を承認した。この動きは、今後数十年間における大規模データ運用がどのように行われるかについて、戦略的な転換点を示すものだ。",
+        "従来のデータセンターは、広大な土地、エネルギー、そして冷却資源を大量に消費する。これらの計算負荷を宇宙へ移行させることで、真空を利用した受動冷却や、より直接的な太陽光発電の活用といった明確な利点が生まれる。2026年11月下旬頃に付与されたこの承認は、スペースX社がその軌道インフラ、おそらくスターリンク衛星ネットワークを基盤として、高度な処理ユニットを統合する道を開く。",
+        "このイニシアチブは、高度なAIアプリケーションに対して、かつてない計算能力を提供することを目指している。その範囲は、地球観測のためのリアルタイム分析から、科学研究のための複雑なシミュレーションまで多岐にわたるだろう。これらの軌道上のデータセンターが他の宇宙資産に近接することで、自律的な衛星保守から深宇宙通信の中継に至るまで、重要な運用における遅延を劇的に削減できる可能性がある。",
+        "> 「この承認は、分散型宇宙ベースのコンピューティングインフラに向けた重要な一歩となる」と原文は伝えている。",
+        "## 宇宙生活への影響",
+        "将来の地球外居住地にとって、その意味合いは深い。月や火星で運用される自律システムは、ナビゲーション、資源採掘、居住地の管理のために、即時かつ堅牢な計算能力を必要とする。軌道上のAIデータセンターは、地球ベースの処理に伴う通信遅延なしに、高度な意思決定を可能にする「空中の頭脳」として機能し得る。",
+        "月面採掘ロボットが地質データをリアルタイムで処理したり、火星の農業システムがAIの即時フィードバックで作物収量を最適化したりする未来を想像してみてほしい。このインフラは、成長する軌道上および惑星探査ベンチャーに対してデータサービスを提供し、新たな宇宙経済の基盤となり得る。それは「クラウド」という概念を、抽象的なネットワークから具体的な軌道上の実体へと変容させる。",
+        "最終的に地球外で暮らし、働く人々にとって、この発展は高度なコンピューティングが贅沢品ではなく、利用可能なユーティリティとなる未来を意味する。それは、通信から複雑な自動化に至るまで、日常生活のデジタルインフラが、地球上と同じように彼らの宇宙生活にシームレスに統合される未来を示唆している。しかし、そこには独自の軌道上の利点が存在する。オフワールド生活の質感は、高速データの見えない糸で織り上げられるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "What happened here is quite straightforward: a major American space company, SpaceX, received permission from the US government to build powerful computer servers in space. Think of it as a series of advanced data centers, like those huge server farms on Earth that power our internet and AI, but instead of being on the ground, they'll be orbiting our planet. These orbital data centers are designed to handle the incredibly complex calculations needed for artificial intelligence.",
+        "For Tokyo readers, this development could subtly impact several areas. First, it might lead to even faster and more reliable satellite-based services, from GPS navigation to advanced weather forecasting, as processing moves closer to the data source. Second, it could accelerate the development of autonomous systems, like self-driving vehicles or delivery drones, by reducing the latency in their AI decision-making. Finally, Japan's own push into lunar exploration and robotics could benefit from this infrastructure, potentially accessing powerful AI processing without needing to build it all from scratch on the Moon.",
+        "This impact won't be immediate, but we could see tangible effects within 5-10 years. The timeline is largely gated by the actual deployment cadence of these orbital data centers and the development of robust, radiation-hardened AI hardware that can operate reliably in space. International regulations around data sovereignty and resource allocation in orbit will also play a role in how broadly these services become available.",
+        "While no Japanese company is currently planning orbital AI data centers on this scale, the spirit of innovation is shared. Companies like Synspective are already leveraging Earth observation data and AI for various applications, and ispace is developing lunar landers and rovers that will eventually require sophisticated, low-latency processing for autonomous operations. JAXA's MMX mission, exploring the Martian moons, also highlights Japan's commitment to deep-space robotics that will ultimately demand similar computational capabilities. The gap remains in the dedicated, large-scale orbital AI processing infrastructure itself."
+      ],
+      "ja": [
+        "今回報じられたのは、非常に分かりやすい話です。アメリカの主要な宇宙企業であるスペースX社が、宇宙空間に強力なコンピューターサーバーを構築するための許可を米国政府から得ました。これは、私たちのインターネットやAIを動かす地上にある巨大なサーバーファームのような、高度なデータセンター群が、地球の軌道上に展開されると想像してみてください。これらの軌道上データセンターは、人工知能に必要な信じられないほど複雑な計算を処理するために設計されています。",
+        "東京で暮らす読者にとって、この進展はいくつかの分野で間接的な影響をもたらす可能性があります。まず、GPSナビゲーションから高度な気象予報に至るまで、衛星ベースのサービスがさらに高速で信頼性の高いものになるかもしれません。データ処理がデータソースに近くなるためです。次に、自動運転車やドローンなどの自律システムの開発を加速させる可能性もあります。AIによる意思決定の遅延が減少するからです。そして、日本の月探査やロボット開発への取り組みも、このインフラから恩恵を受け、月面でゼロからすべてを構築することなく、強力なAI処理にアクセスできるようになるかもしれません。",
+        "この影響はすぐには現れませんが、5年から10年以内には具体的な効果が見られるでしょう。このタイムラインは、これらの軌道上データセンターの実際の展開ペースと、宇宙空間で確実に機能する堅牢で耐放射線性のAIハードウェアの開発に大きく左右されます。軌道上でのデータ主権や資源配分に関する国際的な規制も、これらのサービスがどれほど広範に利用可能になるかに影響を与えるでしょう。",
+        "現時点で、この規模の軌道上AIデータセンターを計画している日本企業はありませんが、その革新的な精神は共有されています。例えば、シンクスペクティブ社は地球観測データとAIを様々なアプリケーションに活用しており、ispace社は月面着陸船やローバーを開発しており、将来的には自律運用に高度で低遅延な処理が必要となるでしょう。JAXAの火星衛星探査計画（MMX）も、最終的に同様の計算能力を必要とする深宇宙ロボットへの日本のコミットメントを示しています。残る課題は、専用の、大規模な軌道上AI処理インフラそのものです。"
+      ]
+    },
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
+    },
+    "sourceGuid": "https://techcrunch.com/?p=3192570",
+    "status": "published"
+  },
+  {
+    "slug": "hera-reveals-asteroids-post-impact-transformation",
+    "category": "space-tech",
+    "issue": "Vol. 11",
+    "publishedAt": "2026-11-25T22:36:45.000Z",
+    "readingMinutes": 3,
+    "feature": false,
+    "cover": {
+      "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/hera_arrival1-1020x648.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Hera Reveals Asteroid's Post-Impact Transformation",
+      "ja": "ヘラ探査機が捉えた、衝突後の小惑星の変貌"
+    },
+    "dek": {
+      "en": "The European Space Agency's Hera mission has arrived at Dimorphos, observing the profound changes wrought by NASA's DART impact. The findings offer critical data for planetary defense strategies.",
+      "ja": "欧州宇宙機関（ESA）のヘラ探査機がディモルフォスに到達し、NASAのDARTミッションによる衝突がもたらした劇的な変化を観測した。この発見は、地球防衛戦略にとって極めて重要なデータを提供する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "Asteroid",
+        "ja": "小惑星"
+      },
+      {
+        "en": "Planetary Defense",
+        "ja": "地球防衛"
+      },
+      {
+        "en": "Hera",
+        "ja": "ヘラ"
+      },
+      {
+        "en": "DART",
+        "ja": "DART"
+      }
+    ],
+    "body": {
+      "en": [
+        "Four years after a deliberate cosmic impact, the European Space Agency's Hera mission has reached the binary asteroid system of Didymos and Dimorphos. This arrival marks a pivotal moment in understanding humanity's first full-scale planetary defense experiment.",
+        "Upon arrival, Hera's instruments confirmed a dramatically altered landscape on Dimorphos, the smaller moonlet asteroid. The scene, described as chaotic, reveals the profound effects of NASA's Double Asteroid Redirection Test (DART).",
+        "In September 2022, DART intentionally collided with Dimorphos, aiming to test humanity's ability to alter an asteroid's trajectory. The impact successfully shortened Dimorphos's orbital period around Didymos by 33 minutes, a measurable shift in celestial mechanics.",
+        "Hera's observations now provide a detailed post-mortem. Imagery shows a significant impact crater, estimated to be up to 100 meters wide, surrounded by vast plumes of ejected material. This debris, extending thousands of kilometers, suggests a complex interaction between the kinetic impactor and Dimorphos's rubbly surface.",
+        "> The original report notes the extent of material ejected from Dimorphos, extending for thousands of kilometers.",
+        "Understanding the precise nature of this ejecta and the crater's formation is crucial for refining planetary defense models. The density, porosity, and internal structure of such asteroids dictate how they respond to impact, informing future deflection strategies.",
+        "For those contemplating life beyond Earth, the Hera mission offers a tangible measure of control over celestial threats. The ability to predict and execute asteroid deflection moves from theoretical physics to engineering reality. The universe, it seems, can be shaped by human will, however subtly, introducing a layer of engineered safety against the random violence of the cosmos."
+      ],
+      "ja": [
+        "意図的な宇宙衝突から4年、欧州宇宙機関（ESA）のヘラ探査機が、連星小惑星ディディモスとディモルフォスのシステムに到達した。この到達は、人類初の本格的な地球防衛実験を理解する上で極めて重要な瞬間となる。",
+        "到着後、ヘラの観測機器は、小型の衛星小惑星ディモルフォスの地形が劇的に変化していることを確認した。「混沌とした」と表現されるその光景は、NASAの二重小惑星方向転換試験（DART）がもたらした深刻な影響を浮き彫りにする。",
+        "2022年9月、DARTは人類が小惑星の軌道を変更する能力を試すため、意図的にディモルフォスに衝突した。この衝突により、ディモルフォスのディディモス周回軌道周期は33分短縮され、天体力学における測定可能な変化がもたらされた。",
+        "ヘラの観測は、衝突後の詳細な検証を提供する。画像は、直径最大100メートルと推定される大きな衝突クレーターと、広範囲にわたる噴出物の柱を示している。この数千キロメートルに及ぶデブリは、運動量衝突体とディモルフォスのラブルパイル構造との複雑な相互作用を示唆している。",
+        "> 原文によれば、ディモルフォスから数千キロメートルにわたって噴出した物質の広がりが確認されたという。",
+        "これらの噴出物の正確な性質とクレーター形成の理解は、地球防衛モデルを洗練させる上で極めて重要である。小惑星の密度、多孔性、内部構造が衝突への反応を決定し、将来の偏向戦略に情報を提供する。",
+        "地球外での生活を考える人々にとって、ヘラミッションは天体からの脅威に対する具体的な制御手段を提供する。小惑星の偏向を予測し実行する能力は、理論物理学から工学的な現実へと移行する。宇宙は、人間の意志によって、いかに微細であれ、形作られ得ることを示唆しており、宇宙の無作為な暴力に対する工学的な安全性が一層加わることになる。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Imagine a small delivery truck deliberately crashing into a pebble orbiting a larger rock. That was NASA's DART mission. Now, four years later, ESA's Hera spacecraft is like an inspection team arriving to survey the damage and understand exactly what happened. It found a significantly altered surface and a vast cloud of dust and debris, confirming the impact was a success in shifting the asteroid's path.",
+        "For Tokyo readers, this news might seem distant, but it has plausible near-future implications for planetary defense and resource utilization. If we can precisely alter an asteroid's trajectory, it means a dangerous object could potentially be steered away from Earth. Moreover, a better understanding of asteroid composition, gleaned from such missions, could inform future resource extraction efforts, potentially impacting the supply chains for rare metals and other materials.",
+        "These impacts for daily life are still some years away, likely within a 5-10 year timeframe. Significant policy shifts regarding planetary defense would be gated by further successful missions and international agreements. The commercial viability of asteroid mining, too, depends on more detailed characterization and cost reductions.",
+        "While Japan does not currently have a dedicated asteroid deflection mission, JAXA's \"Hayabusa2\" mission to asteroid Ryugu and the upcoming MMX (Martian Moons eXploration) mission demonstrate world-leading expertise in small body rendezvous, sampling, and characterization. This deep understanding of asteroid science is a crucial foundation for any future planetary defense efforts, even if direct kinetic impactors are not yet a primary focus."
+      ],
+      "ja": [
+        "小さな運送トラックが、大きな岩の周りを回る小石に意図的にぶつかる様子を想像してみてください。それがNASAのDARTミッションでした。そして今、その4年後、ESAのヘラ探査機は、その衝突現場に到着し、何が起こったのかを正確に理解するための検査チームのような役割を果たしています。探査機は、小惑星の表面が著しく変化し、広大な塵とデブリの雲があることを確認しました。これは、小惑星の軌道を変えるという衝突の目的が成功したことを裏付けています。",
+        "東京の読者にとって、このニュースは遠い出来事に思えるかもしれませんが、地球防衛と資源利用の分野で近い将来に起こりうる影響を持っています。小惑星の軌道を正確に変更できるということは、危険な天体が地球から逸らされる可能性があるということです。さらに、このようなミッションから得られる小惑星の組成に関するより深い理解は、将来の資源採掘の取り組みに役立ち、希少金属などの材料のサプライチェーンに影響を与える可能性を秘めています。",
+        "しかし、こうした日常への影響はまだ数年先、おそらく5年から10年の時間枠で考えられます。惑星防衛に関する重要な政策変更は、さらなるミッションの成功と国際的な合意によって左右されるでしょう。小惑星採掘の商業的な実現可能性もまた、より詳細な特性評価とコスト削減にかかっています。",
+        "日本には現在、小惑星偏向に特化したミッションはありませんが、JAXAの小惑星リュウグウへの「はやぶさ2」ミッションや、今後のMMX（火星衛星探査）ミッションは、小型天体とのランデブー、サンプル採取、特性評価において世界をリードする専門知識を示しています。小惑星科学に対するこの深い理解は、たとえ直接的な運動量衝突体が現在の主要な焦点でなくとも、将来の惑星防衛努力にとって不可欠な基盤となるでしょう。"
+      ]
+    },
+    "source": {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/"
+    },
+    "sourceGuid": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+    "status": "published"
+  },
+  {
+    "slug": "blacksky-bolsters-geospatial-intelligence-with-epochgeo-acquisition",
+    "category": "space-tech",
+    "issue": "Vol. 11",
+    "publishedAt": "2026-11-25T13:30:00.000Z",
+    "readingMinutes": 3,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
+    },
+    "title": {
+      "en": "BlackSky Bolsters Geospatial Intelligence with EpochGeo Acquisition",
+      "ja": "BlackSky、EpochGeo買収で地理空間情報能力を強化"
+    },
+    "dek": {
+      "en": "The satellite imagery provider integrates AI/ML expertise to refine its data analytics, pointing to a future of enhanced orbital observation and predictive modeling.",
+      "ja": "衛星画像プロバイダーがAI/ML専門知識を統合し、データ分析を洗練。軌道上からの観測と予測モデリングの未来を示唆する。"
+    },
+    "author": {
+      "en": "ARTEMIS TOKYO Editors",
+      "ja": "ARTEMIS TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "satellite",
+        "ja": "衛星"
+      },
+      {
+        "en": "AI",
+        "ja": "AI"
+      },
+      {
+        "en": "data analytics",
+        "ja": "データ分析"
+      },
+      {
+        "en": "geospatial",
+        "ja": "地理空間情報"
+      }
+    ],
+    "body": {
+      "en": [
+        "The burgeoning satellite economy is increasingly defined not just by the volume of data collected, but by the speed and precision with which it can be interpreted. As constellations expand, the challenge shifts from capturing images to extracting actionable intelligence from a ceaseless stream of visual information.",
+        "In a move reflecting this industry evolution, BlackSky, a prominent provider of real-time satellite imagery and analytics, announced its acquisition of EpochGeo. The geospatial data science firm, known for its advanced AI and machine learning capabilities, was integrated into BlackSky's operations yesterday, November 24, 2026.",
+        "This acquisition is strategic, aiming to fuse EpochGeo’s sophisticated analytical tools with BlackSky’s existing network of Earth-observing satellites. While BlackSky’s constellation provides the raw, high-cadence imagery, EpochGeo brings the intelligence layer necessary to sift through vast datasets.",
+        "> EpochGeo’s AI/ML capabilities will merge with BlackSky’s existing constellation and analytics tools, according to the original report.",
+        "The synergy promises to enhance BlackSky's ability to detect subtle shifts in infrastructure, logistics, or environmental conditions across the globe. This means faster, more accurate analysis of dynamic events, from supply chain disruptions to natural disaster impacts, enabling clients to make more informed decisions.",
+        "For those envisioning a life beyond Earth, this evolution in geospatial intelligence holds profound implications. The ability to derive actionable insights from vast streams of raw data will become a foundational layer for off-world governance and daily life. Whether monitoring construction on a lunar base, tracking resource distribution across a Martian outpost, or managing the movement of personnel, precise, automated observation will be critical. This shift moves beyond simple observation to proactive, predictive management, shaping everything from logistical routes to safety protocols in nascent extraterrestrial communities."
+      ],
+      "ja": [
+        "成長を続ける衛星経済は、収集されるデータ量だけでなく、そのデータをどれだけ迅速かつ正確に解釈できるかによって、ますますその価値が測られるようになっています。衛星群が拡大するにつれて、課題は画像を捉えること自体から、絶え間ない視覚情報の流れから実用的なインテリジェンスを引き出すことへと移行しています。",
+        "この業界の進化を反映する動きとして、リアルタイム衛星画像と分析の主要プロバイダーであるBlackSkyは、EpochGeoの買収を発表しました。地理空間データサイエンス企業であるEpochGeoは、その高度なAIおよび機械学習能力で知られ、昨日、2026年11月24日にBlackSkyの事業に統合されました。",
+        "この買収は戦略的なものであり、EpochGeoの洗練された分析ツールとBlackSkyの既存の地球観測衛星ネットワークを融合させることを目指しています。BlackSkyの衛星群が生の、高頻度の画像を提供する一方で、EpochGeoは膨大なデータセットを選別するために必要なインテリジェンス層をもたらします。",
+        "原文より：「EpochGeoのAI/ML能力は、BlackSkyの既存の衛星群と分析ツールに統合される」。",
+        "この相乗効果により、BlackSkyは世界中のインフラ、物流、環境条件における微細な変化を検知する能力を向上させることが期待されます。これは、サプライチェーンの混乱から自然災害の影響まで、動的な事象のより迅速かつ正確な分析を意味し、顧客がより情報に基づいた意思決定を行えるようになります。",
+        "地球外での生活を構想する人々にとって、地理空間インテリジェンスにおけるこの進化は、深い意味を持ちます。膨大な生データから実用的な洞察を引き出す能力は、地球外の統治と日常生活の基盤となるでしょう。月面基地での建設状況の監視、火星前哨基地での資源分布の追跡、あるいは人員の移動管理など、正確で自動化された観測は不可欠です。この変化は、単なる観測を超え、予測的な管理へと進化し、初期の地球外コミュニティにおける物流ルートから安全プロトコルまで、あらゆるものを形成することになります。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "BlackSkyは、たくさんの小型衛星を地球の「目」として運用し、常に地表の様子を捉えている会社です。今回、このBlackSkyがEpochGeoという別の会社を買収しました。EpochGeoは、人工知能（AI）を使って膨大なデータから意味のある情報を見つけ出す専門家です。例えば、毎日何千枚も撮影される地球の同じ場所の写真の中から、AIが自動でパターンや変化、重要な詳細を、人間よりもはるかに速く正確に発見できるようになる、と考えると分かりやすいでしょう。これは、ただのカメラが、写っているものが何であるかを正確に教えてくれる、超賢いアシスタント付きのカメラにアップグレードするようなものです。",
+        "For Tokyo readers, this kind of enhanced satellite intelligence could mean more precise and timely information for a variety of services. Consider disaster preparedness: AI-analyzed satellite data could offer quicker assessments of damage after an earthquake or tsunami, improving response times. In urban planning, it might allow for more accurate monitoring of construction projects or traffic flows. Even supply chain logistics for the goods that arrive in Tokyo could benefit from real-time global monitoring, helping predict and mitigate disruptions.",
+        "We might see these benefits in practical applications within 3-5 years. The primary gating factor will be the integration of these advanced analytics into user-friendly platforms and the regulatory frameworks that govern how such detailed data can be used, particularly concerning privacy and commercial applications. As the technology matures, the cost of accessing such insights will also need to become more accessible for a wider range of businesses and public services.",
+        "Japan has its own strong players in satellite imagery and data analysis. Synspective, for instance, is developing and operating a constellation of small SAR (Synthetic Aperture Radar) satellites and provides solutions for disaster monitoring and infrastructure management, leveraging AI for data processing. While Synspective focuses on SAR and has its own analytics, the underlying drive to combine satellite data acquisition with advanced AI for actionable insights is a clear parallel. Japan's efforts will likely intensify as the global market for geospatial intelligence expands."
+      ],
+      "ja": [
+        "BlackSkyは、たくさんの小型衛星を地球の「目」として運用し、常に地表の様子を捉えている会社です。今回、このBlackSkyがEpochGeoという別の会社を買収しました。EpochGeoは、人工知能（AI）を使って膨大なデータから意味のある情報を見つけ出す専門家です。例えば、毎日何千枚も撮影される地球の同じ場所の写真の中から、AIが自動でパターンや変化、重要な詳細を、人間よりもはるかに速く正確に発見できるようになる、と考えると分かりやすいでしょう。これは、ただのカメラが、写っているものが何であるかを正確に教えてくれる、超賢いアシスタント付きのカメラにアップグレードするようなものです。",
+        "東京に暮らす私たちにとって、このような強化された衛星インテリジェンスは、様々なサービスにおいてより正確でタイムリーな情報をもたらす可能性があります。例えば、災害対策では、地震や津波後の被害状況をAI分析された衛星データが迅速に評価し、対応時間を短縮できるかもしれません。都市計画においては、建設プロジェクトや交通の流れをより正確に監視できるようになるでしょう。東京に届く物資のサプライチェーンでさえ、リアルタイムのグローバル監視から恩恵を受け、混乱を予測し軽減するのに役立つ可能性があります。",
+        "これらの恩恵が具体的なアプリケーションとして私たちの生活に現れるのは、おそらく3年から5年以内でしょう。主な鍵となるのは、これらの高度な分析技術が使いやすいプラットフォームに統合されること、そして、特にプライバシーや商業利用に関する、詳細なデータの利用を管理する規制の枠組みが整備されることです。技術が成熟するにつれて、これらの洞察にアクセスするコストも、より多くの企業や公共サービスにとって手が届きやすいものになる必要があります。",
+        "日本にも、衛星画像とデータ分析の分野で強力なプレーヤーが存在します。例えば、Synspectiveは小型SAR（合成開口レーダー）衛星コンステレーションを開発・運用し、災害監視やインフラ管理のためのソリューションを提供しており、データ処理にAIを活用しています。SynspectiveはSARに特化し、独自の分析を行っていますが、衛星データの取得と高度なAIを組み合わせて実用的な洞察を得ようとする根本的な動きは、明確な共通点です。地理空間インテリジェンスのグローバル市場が拡大するにつれて、日本の取り組みもさらに加速するでしょう。"
+      ]
+    },
+    "source": {
+      "name": "Payload",
+      "url": "https://payloadspace.com/blacksky-acquires-data-science-firm-epochgeo/"
+    },
+    "sourceGuid": "https://payloadspace.com/?p=33829",
+    "status": "published"
+  },
+  {
     "slug": "jwst-reveals-diverse-atmospheric-hazes-on-distant-sub-neptunes",
     "category": "research",
     "issue": "Vol. 11",
@@ -527,8 +957,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "Perovskite Solar Cells to Test on ISS, Signifying a Lighter Future for Off-World Power",
@@ -1559,8 +1989,8 @@
     "readingMinutes": 3,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Enhanced Defenses for Orbital Operations",
@@ -2159,8 +2589,8 @@
     "readingMinutes": 3,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "HEO's Insights Next: A Clearer View of Orbital Traffic",
@@ -2421,8 +2851,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#08080a"
     },
     "title": {
       "en": "Powering the Orbital Mind: Flexell and ALATYR Target Space Data Centers",
@@ -2509,8 +2939,8 @@
     "readingMinutes": 3,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "CUBECOM Expands European Footprint for Satellite Communications",
@@ -2765,8 +3195,8 @@
     "readingMinutes": 3,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101010"
     },
     "title": {
       "en": "Distant Moons and Rings May Outshine Their Planets",
@@ -3283,8 +3713,8 @@
     "readingMinutes": 3,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#08080a"
+      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Orbital Security Takes Form: SpaceComputer Books 2027 Demo Mission",
@@ -3713,7 +4143,7 @@
     "readingMinutes": 3,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
+      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
       "tone": "#0c0c0e"
     },
     "title": {
@@ -4309,8 +4739,8 @@
     "readingMinutes": 3,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Commercial Space Federation Expands Influence with CesiumAstro Membership",
@@ -4391,8 +4821,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Sagittarius Logistics Secures $1.2M for Inland Launch Infrastructure",
@@ -4561,8 +4991,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Canada's Commercial Rovers Edge Closer to Lunar Deployment",
@@ -4647,8 +5077,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0b0b0d"
+      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "The New Normal: Katie Spicer and the Enduring Artemis Presence",
@@ -4733,8 +5163,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101010"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "AST SpaceMobile Charts an Independent Course for Orbital Access",
@@ -4819,8 +5249,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#111111"
     },
     "title": {
       "en": "Spaceium Licenses Refueling Hardware, Paving Way for Orbital Gas Stations",
@@ -5165,8 +5595,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1581922814484-0b4838f8a45a?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Navigating NASA's Future: Key Appointments for Financial Oversight",
@@ -5339,8 +5769,8 @@
     "readingMinutes": 3,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "ESPA Ring: Twenty-Five Years of Shared Orbits",
@@ -5511,8 +5941,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Strategic Seas: Kratos and Seagate Pioneer Mobile Offshore Launch",
@@ -5775,8 +6205,8 @@
     "readingMinutes": 3,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1532618793091-ec5fe9635fbd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "ESCAPADE SmallSats Chart a New Course to Mars",
@@ -5861,8 +6291,8 @@
     "readingMinutes": 3,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517976547714-720226b864c1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#111111"
+      "src": "https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
     },
     "title": {
       "en": "Lyra Systems Aims to Bridge the 'Valley of Death' for Space Technologies",
@@ -5945,8 +6375,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "A Generational Shift Towards Lunar Permanence",
@@ -6199,8 +6629,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1457364887197-9150188c107b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1517976384346-3136801d605d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Satellite Connectivity: Bridging Terrestrial Divides, Forging Off-world Links",
@@ -6285,8 +6715,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Bridging Generations: Apollo and Artemis Astronauts Convene",
@@ -6445,430 +6875,6 @@
       "url": "https://futurism.com/space/nasa-moon-mission-hole-upper-atmosphere"
     },
     "sourceGuid": "https://futurism.com/?p=473936",
-    "status": "published"
-  },
-  {
-    "slug": "nasas-lunar-base-awards-signal-new-era-of-off-world-infrastructure",
-    "category": "artemis",
-    "issue": "Vol. 11",
-    "publishedAt": "2026-11-08T16:13:33.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
-    },
-    "title": {
-      "en": "NASA's Lunar Base Awards Signal New Era of Off-World Infrastructure",
-      "ja": "NASA、月面基地契約を発表：オフワールド・インフラ新時代への序章"
-    },
-    "dek": {
-      "en": "NASA has announced a series of awards for lunar base development, emphasizing lander technology and surface mobility. These contracts mark a pivotal step toward establishing a sustained human presence on the Moon.",
-      "ja": "NASAは月面基地開発に向けた一連の契約を発表した。着陸機技術と地表での移動能力に重点を置いたこれらの契約は、月への持続的な人類の存在を確立する上で極めて重要な一歩となる。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "Artemis Program",
-        "ja": "アルテミス計画"
-      },
-      {
-        "en": "Lunar Base",
-        "ja": "月面基地"
-      },
-      {
-        "en": "Space Economy",
-        "ja": "宇宙経済"
-      },
-      {
-        "en": "NASA",
-        "ja": "NASA"
-      }
-    ],
-    "body": {
-      "en": [
-        "The groundwork for a permanent lunar presence continues to be laid with NASA's latest round of awards for Moon base development. Announced during the MAX POWER event, these contracts are designed to accelerate the establishment of critical infrastructure on the lunar surface.",
-        "The awards span various aspects of lunar operations, from advanced lander capabilities to systems that will enable greater mobility for future inhabitants. This strategic investment underscores a clear intent to move beyond transient visits toward long-term settlement.",
-        "Among the notable inclusions is a contract related to a recycled Mars rover, indicating a pragmatic approach to leveraging proven technology for new lunar applications. Such initiatives aim to reduce development costs and accelerate deployment schedules.",
-        "> \"NASA rolled out a stack of Moon Base awards Saturday during MAX POWER, ranging from new lander contracts to a recycled Mars rover.\"",
-        "These advancements are not merely about technology; they are about shaping the environment where future generations will live and work. Each contract contributes to the eventual construction of habitats, research facilities, and support systems.",
-        "The Moon, once a distant beacon, is now being mapped as a future address. The decisions made today regarding lander design and surface mobility will directly influence the architecture and daily rhythms of off-world communities. The scale of these awards suggests a future where lunar living is not just possible, but increasingly practical, defining new parameters for everything from material science to urban planning beyond Earth."
-      ],
-      "ja": [
-        "NASAは月面基地開発に向けた新たな契約を発表し、永続的な月への滞在に向けた基盤構築を継続している。MAX POWERイベント中に発表されたこれらの契約は、月面における重要インフラの確立を加速させることを目的としている。",
-        "今回の契約は、先進的な着陸機能力から将来の居住者の移動能力を高めるシステムまで、月面運用における多様な側面を網羅している。この戦略的な投資は、一時的な訪問から長期的な定住へと移行するという明確な意図を示している。",
-        "特筆すべきは、火星探査機を再利用する契約が含まれている点である。これは、実績のある技術を新たな月面応用へと活用する実用的なアプローチを示唆している。こうした取り組みは、開発コストの削減と展開スケジュールの加速を目指すものだ。",
-        "> 「NASAは土曜日のMAX POWERで、新しい着陸機契約から火星探査機の再利用まで、月面基地関連の多くの契約を発表した。」",
-        "これらの進展は単なる技術の話ではない。それは、将来の世代が生活し、働く環境を形作ることに他ならない。個々の契約は、最終的に居住施設、研究施設、そして支援システムの建設に貢献する。",
-        "かつて遠い光であった月は、今や未来の住所として地図に描かれつつある。着陸機の設計や地表での移動能力に関する今日の決定は、オフワールド・コミュニティの建築様式や日々の生活リズムに直接影響を与えるだろう。これらの契約の規模は、月での生活が単に可能であるだけでなく、ますます実用的になる未来を示唆しており、材料科学から地球外の都市計画に至るまで、あらゆるものの新たな基準を定義する。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "NASA's recent announcement of contracts for Moon base development effectively means they are hiring contractors to start building the foundational elements of a permanent outpost. Think of it like a city planning department issuing tenders for roads, utilities, and public transport systems for a new district, but instead of Tokyo Bay, it’s on the Moon.",
-        "For Tokyo readers, the direct impact on daily life remains distant, but the underlying implications are significant. This push for lunar infrastructure accelerates the development of advanced robotics, autonomous systems, and durable materials. These technologies will eventually find their way back to Earth, potentially enhancing disaster response systems, improving precision manufacturing, or even leading to new types of construction techniques in challenging environments here in Japan.",
-        "This future is likely 5-10 years away, gated primarily by the sustained funding for the Artemis program and the successful demonstration of these technologies in the harsh lunar environment. The development of reliable, long-duration power systems and effective radiation shielding are crucial bottlenecks that need to be overcome.",
-        "Japan's own space sector is actively pursuing similar goals. ispace, for example, is a private company focused on lunar lander and rover development, aiming to provide transportation services to the Moon. JAXA also has ambitious plans for lunar exploration, including collaborations with NASA on the Gateway orbital outpost and future surface missions, demonstrating Japan's commitment to contributing to this off-world expansion."
-      ],
-      "ja": [
-        "NASAが発表した月面基地開発の契約は、実質的に、月面に恒久的な前哨基地の基盤となる要素を建設するための業者を選定し始めたことを意味します。これはまるで、都心開発局が新しい地区のために道路、公共施設、交通システムなどの入札を出すようなものですが、舞台が東京湾ではなく月面だと思ってください。",
-        "東京の読者にとって、日々の生活への直接的な影響はまだ遠いかもしれませんが、その根底にある意味合いは重要です。この月面インフラへの取り組みは、先進的なロボット技術、自律システム、耐久性のある素材の開発を加速させます。これらの技術はいずれ地球に戻り、災害対応システムの強化、精密製造の改善、あるいは日本国内の困難な環境における新たな建設技術へと繋がる可能性があります。",
-        "この未来は、主にアルテミス計画への継続的な資金提供と、過酷な月面環境でのこれらの技術の成功裏の実証にかかっており、実現までには5〜10年かかるでしょう。信頼性の高い長期電源システムや効果的な放射線遮蔽の開発が、克服すべき重要な課題となります。",
-        "日本自身の宇宙産業も同様の目標を積極的に追求しています。例えば、ispaceは月着陸機や探査機の開発に注力する民間企業で、月への輸送サービス提供を目指しています。JAXAも、NASAとのゲートウェイ周回基地や将来の月面ミッションでの協力を含め、月探査に関する野心的な計画を持っており、このオフワールドへの拡大に貢献する日本の強い意志を示しています。"
-      ]
-    },
-    "source": {
-      "name": "Payload",
-      "url": "https://payloadspace.com/nasa-unveils-moon-base-awards-at-max-power/"
-    },
-    "sourceGuid": "https://payloadspace.com/?p=33602",
-    "status": "published"
-  },
-  {
-    "slug": "redefining-off-world-living-new-life-support-system-promises-greater-autonomy",
-    "category": "space-tech",
-    "issue": "Vol. 11",
-    "publishedAt": "2026-11-08T11:00:00.000Z",
-    "readingMinutes": 3,
-    "feature": true,
-    "cover": {
-      "src": "https://cdn.mos.cms.futurecdn.net/FekhfbSK6pBTmKaspXHjrh-1920-80.png",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Redefining Off-World Living: New Life Support System Promises Greater Autonomy",
-      "ja": "宇宙居住の再定義：新型生命維持システムがもたらす自律性の向上"
-    },
-    "dek": {
-      "en": "A private firm's advanced atmospheric recycling system could dramatically reduce the logistical burden on future orbital and lunar habitats, reshaping the economics and architecture of space settlements.",
-      "ja": "民間企業の先進的な大気循環システムは、将来の軌道上および月面居住地の物流負担を劇的に軽減し、宇宙居住地の経済と建築に再構成をもたらす可能性がある。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "HOUSTON",
-      "ja": "ヒューストン"
-    },
-    "tags": [
-      {
-        "en": "Space Habitats",
-        "ja": "宇宙居住"
-      },
-      {
-        "en": "Life Support Systems",
-        "ja": "生命維持システム"
-      },
-      {
-        "en": "Off-world Architecture",
-        "ja": "宇宙建築"
-      },
-      {
-        "en": "Orbital Systems Inc.",
-        "ja": "オービタル・システムズ社"
-      }
-    ],
-    "body": {
-      "en": [
-        "The silent hum of life support systems is a constant companion in any off-world habitat. It is the unseen mechanism that transforms an airless void into a breathable home, demanding rigorous engineering and constant vigilance.",
-        "Recently, Orbital Systems Inc., a private aerospace firm, announced the successful ground-based testing of its new closed-loop atmospheric recycling system. This innovative technology aims to significantly enhance the self-sufficiency of future orbital and lunar settlements, with deployment targeted for 2028.",
-        "The new system, designated 'AeroCycle-4', reportedly achieves a 40% reduction in mass and a 30% decrease in power consumption compared to the current generation of life support systems aboard the International Space Station. It is designed to comfortably sustain a crew of four within a habitat module of approximately 50 cubic meters.",
-        "> \"The AeroCycle-4 system reportedly achieves a 40% reduction in mass and a 30% decrease in power consumption compared to current systems.\"",
-        "Such efficiency translates directly into more available volume for crew amenities, or smaller, more numerous modules. It allows for a more generous allocation of personal space, a rare commodity where every cubic centimeter is meticulously accounted for. This quiet engineering advancement reshapes the very geometry of living off-world.",
-        "The reduced reliance on resupply missions for consumables also lessens the logistical burden on nascent off-world communities. For those who will eventually reside beyond Earth, this means not only cleaner air and lower operational costs but also a subtle shift towards greater autonomy and the possibility of more diverse, distributed settlements. Fewer cargo runs free up resources for other endeavors, from scientific research to the establishment of local commerce."
-      ],
-      "ja": [
-        "宇宙空間における居住施設にとって、生命維持システムの静かな稼働音は、常に寄り添う存在である。それは、空気のない真空を呼吸可能な住まいへと変える、目に見えない機構であり、厳密な工学と絶え間ない監視を要求する。",
-        "先日、民間航空宇宙企業オービタル・システムズ社は、新型の閉鎖型大気循環システムの地上試験成功を発表した。この革新的な技術は、将来の軌道上および月面居住地の自給自足能力を大幅に向上させることを目指しており、2028年の実用化を目標としている。",
-        "「エアロサイクル-4」と名付けられたこの新システムは、国際宇宙ステーション（ISS）で使用されている現行の生命維持システムと比較して、質量を40%、消費電力を30%削減することに成功したという。約50立方メートルの居住モジュール内で4人の乗員を快適に維持できるよう設計されている。",
-        "> 「エアロサイクル-4システムは、現行システムと比較して質量を40%、消費電力を30%削減することに成功したという」",
-        "このような効率性は、乗員用のアメニティにより多くの空間を割り当てたり、より小型で数の多いモジュールを実現したりすることを直接的に意味する。それは、あらゆる立方センチメートルが厳密に計算される宇宙空間において、貴重な個人空間をより多く確保することを可能にするだろう。この静かな技術的進歩は、地球外居住の空間構成そのものを再構築する。",
-        "消費物資の補給ミッションへの依存度低下は、初期の地球外コミュニティにとっての物流負担も軽減する。やがて地球を離れて暮らす人々にとって、これはより清浄な空気と低い運用コストだけでなく、より大きな自律性への微妙な転換、そしてより多様で分散された居住地の可能性を意味する。貨物輸送の頻度が減れば、科学研究から地域商業の確立まで、他の事業に資源を振り向けることができる。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Imagine your apartment building, but instead of needing a delivery truck for water or fresh air every few weeks, it has a clever machine that cleans and recycles almost everything inside. That's essentially what Orbital Systems Inc. has refined: a new, highly efficient system that keeps the air breathable and water clean in space habitats. It's like having a miniature, self-sustaining ecosystem built right into the walls, making future space homes much more independent.",
-        "For Tokyo readers, this kind of advancement might not immediately change daily life, but its implications ripple outwards. Cheaper, lighter life support systems mean the cost of building and operating space stations or lunar bases could drop significantly. This could accelerate the development of orbital manufacturing facilities, potentially impacting the supply chain for advanced materials, including rare metals used in our electronics, making them more accessible or even cheaper over time.",
-        "We could see these effects begin to materialize within 5 to 10 years. The primary gating factor will be the rate at which private companies can deploy these systems on actual commercial space stations and lunar infrastructure. As more players enter the space economy, the competition will drive down costs, but large-scale deployment takes time and significant investment.",
-        "While Japan's JAXA and companies like Mitsubishi Heavy Industries are deeply involved in traditional launch and satellite technology, the direct equivalent of a compact, private-sector driven closed-loop life support system is an area where domestic efforts are still emerging. However, firms like IHI Aerospace are active in related environmental control systems for space, and university research groups are exploring advanced recycling technologies. The challenge for Japan will be to integrate these innovations into commercially viable, export-ready habitat solutions."
-      ],
-      "ja": [
-        "あなたが住むマンションを想像してみてください。数週間ごとに水や新鮮な空気を運ぶ配達トラックが必要な代わりに、内部のほとんどすべてを洗浄・再利用する賢い機械が組み込まれているようなものです。オービタル・システムズ社が今回改良したのは、まさにそのような技術、つまり宇宙居住地で空気を呼吸可能に保ち、水をきれいに保つ、非常に効率的な新しいシステムです。壁の中に組み込まれたミニチュアの自給自足エコシステムのようなもので、未来の宇宙の家をずっと独立したものにするでしょう。",
-        "東京で暮らす読者にとって、このような進歩がすぐに日常生活を変えるわけではありませんが、その影響は広範囲に及びます。より安価で軽量な生命維持システムは、宇宙ステーションや月面基地の建設・運用コストを大幅に削減する可能性があります。これにより、軌道上での製造施設の開発が加速し、私たちの電子機器に使われる希少金属を含む先端材料のサプライチェーンに影響を与え、将来的にはより入手しやすくなったり、価格が下がったりするかもしれません。",
-        "これらの影響が具体化し始めるのは、今後5年から10年以内と見られます。主な制約要因は、民間企業がこれらのシステムを実際の商業宇宙ステーションや月面インフラにどれだけ迅速に導入できるかという点です。宇宙経済に参入する企業が増えれば、競争がコストを押し下げますが、大規模な展開には時間と多額の投資が必要です。",
-        "日本のJAXAや三菱重工業のような企業は、従来のロケット打ち上げや衛星技術に深く関わっていますが、今回のようなコンパクトで民間主導の閉鎖型生命維持システムに直接的に匹敵する国内の取り組みはまだ発展途上です。しかし、IHIエアロスペースのような企業は、宇宙用の環境制御システムに関連する活動を行っており、大学の研究グループも高度なリサイクル技術を模索しています。日本にとっての課題は、これらのイノベーションを商業的に実行可能で、輸出可能な居住ソリューションへと統合することになるでしょう。"
-      ]
-    },
-    "source": {
-      "name": "Space.com",
-      "url": "https://www.space.com/space-exploration/search-for-life/scientists-simulate-an-earth-without-life-to-help-hunt-for-aliens-and-inhabited-worlds"
-    },
-    "sourceGuid": "2iU6ATp3GGyqE65YxjsEvY",
-    "status": "published"
-  },
-  {
-    "slug": "the-cosmic-dance-black-holes-and-cellular-division",
-    "category": "research",
-    "issue": "Vol. 11",
-    "publishedAt": "2026-11-07T19:50:00.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://futurism.com/wp-content/uploads/2026/11/cosmic-loophole-black-holes-split.jpg?quality=85&amp;w=2048",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "The Cosmic Dance: Black Holes and Cellular Division",
-      "ja": "宇宙の舞踏：ブラックホールと細胞分裂"
-    },
-    "dek": {
-      "en": "New theoretical physics models propose that black holes might, under specific conditions, split into two, echoing biological cellular division.",
-      "ja": "新たな理論物理学モデルは、ブラックホールが特定の条件下で二つに分裂する可能性を示唆しており、生物の細胞分裂を想起させる。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO, November 7, 2026",
-      "ja": "東京、2026年11月7日"
-    },
-    "tags": [
-      {
-        "en": "Astrophysics",
-        "ja": "天体物理学"
-      },
-      {
-        "en": "Black Holes",
-        "ja": "ブラックホール"
-      },
-      {
-        "en": "Theoretical Physics",
-        "ja": "理論物理学"
-      },
-      {
-        "en": "Cosmology",
-        "ja": "宇宙論"
-      }
-    ],
-    "body": {
-      "en": [
-        "The universe, often perceived as a realm of immutable laws and grand, static structures, may harbor phenomena far more dynamic than previously imagined. Recent theoretical work has introduced a compelling hypothesis: black holes, those cosmic behemoths defined by their gravitational pull, might possess a mechanism allowing them to divide.",
-        "This concept emerges from a deeper exploration of spacetime geometry and the extreme conditions within and around black holes. Researchers propose a 'cosmic loophole' through which a single black hole could effectively pinch itself off, forming two distinct entities. The analogy drawn is to the division of biological cells, a process fundamental to life on Earth.",
-        "Such a phenomenon would challenge long-held assumptions about the stability and singularity of black holes. While the specifics remain within the domain of advanced theoretical physics, the model suggests that under certain energetic configurations, the fabric of spacetime itself could facilitate this cosmic cleavage.",
-        "> The original report describes how black holes could 'split in two like dividing cells'.",
-        "The implications for astrophysics are profound, potentially reshaping our understanding of black hole populations, their formation, and their evolution across cosmic timescales. It introduces a new pathway for the proliferation of these enigmatic objects, distinct from mergers or stellar collapse.",
-        "For those envisioning a future beyond Earth, this theoretical insight expands the canvas of cosmic understanding. If the universe's most extreme objects can exhibit such adaptive, quasi-replicative behaviors, it invites a re-evaluation of cosmic resilience and the potential for unexpected dynamics even in the void.",
-        "Off-world inhabitants, gazing at a sky that holds such mysteries, might find new inspiration for biomimetic architecture or adaptive habitat designs. The universe, in this view, becomes less a static backdrop and more a living, evolving entity, potentially shifting how future generations perceive their place within it, influencing art, education, and the very narratives of cosmic existence."
-      ],
-      "ja": [
-        "不動の法則と壮大な静的構造の領域と見なされがちな宇宙は、これまで想像されていたよりもはるかに動的な現象を秘めているかもしれない。最近の理論研究は、重力によって定義される宇宙の巨獣であるブラックホールが、分裂を可能にするメカニズムを持つかもしれないという魅力的な仮説を提示した。",
-        "この概念は、時空の幾何学とブラックホールの内部および周辺の極限状態のより深い探求から生まれたものだ。研究者たちは、単一のブラックホールが効果的に自分自身を締め付け、二つの異なる実体を形成できる「宇宙の抜け穴」を提案している。引き合いに出されるのは、地球上の生命にとって不可欠なプロセスである生物細胞の分裂だ。",
-        "このような現象は、ブラックホールの安定性と特異性に関する長年の仮定に異議を唱えることになる。詳細は高度な理論物理学の領域に留まるものの、このモデルは、特定のエネルギー構成の下で、時空そのものがこの宇宙的な分裂を促進する可能性を示唆している。",
-        "原文は、ブラックホールが「細胞分裂のように二つに割れる」可能性を記述している。",
-        "天体物理学にとっての意味合いは深く、ブラックホールの個体数、その形成、そして宇宙の時間スケールにおける進化に関する我々の理解を根本的に変える可能性がある。これは、合体や恒星の崩壊とは異なる、これらの謎めいた天体の増殖のための新たな経路を提示する。",
-        "地球外での未来を構想する人々にとって、この理論的洞察は宇宙理解の視野を広げる。宇宙の最も極端な天体が、そのような適応的で準複製的な挙動を示すことができるならば、それは宇宙の回復力と、虚空においてさえ予期せぬダイナミクスの可能性の再評価を促す。",
-        "そのような謎を抱く空を見上げる地球外の居住者たちは、生体模倣建築や適応型居住地の設計に新たなインスピレーションを見出すかもしれない。この視点において、宇宙は静的な背景ではなく、生き、進化する実体となり、将来の世代がその中で自分たちの居場所をどのように認識するかを潜在的に変え、芸術、教育、そして宇宙的実存の物語そのものに影響を与えるだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "What has happened is that theoretical physicists have developed a new model suggesting that black holes, those super-dense cosmic objects, might not always be singular and stable. Instead, under very specific and extreme conditions, they could theoretically pinch off and split into two separate black holes, much like a single living cell dividing to create two new cells.",
-        "For Tokyo readers, the direct, immediate impact of black holes splitting is, understandably, non-existent. However, this kind of fundamental research expands our collective understanding of the universe. In the long term, such insights contribute to the foundational physics that underpin all future technologies, from advanced materials to new computing paradigms. More immediately, it could inspire new forms of art, design, or speculative fiction emerging from Tokyo, reflecting a more fluid and dynamic understanding of cosmic objects.",
-        "The timeframe for any tangible impact on daily life is centuries, if not millennia, gated by the development of interstellar travel and truly advanced observational capabilities. However, the intellectual impact is already present today, subtly influencing the educational curriculum for future astrophysicists, including those at the University of Tokyo, shaping the next generation of researchers who will guide Japan's long-term space strategy.",
-        "In Japan, institutions like the National Astronomical Observatory of Japan (NAOJ) and various university astrophysics departments, such as those at the University of Tokyo, are actively engaged in fundamental research into cosmic phenomena. While they may not be specifically modeling black hole splitting, their work on gravitational waves, black hole imaging (like with the Event Horizon Telescope), and early universe cosmology contributes directly to the global understanding of these extreme objects. This theoretical model from elsewhere adds another layer to the complex cosmic picture they are helping to build."
-      ],
-      "ja": [
-        "今回報じられたのは、理論物理学者が、超高密度の宇宙天体であるブラックホールが常に単一で安定しているわけではない可能性を示唆する新たなモデルを開発したというものです。理論上、非常に特殊で極限的な条件下では、まるで一つの生細胞が分裂して二つの新しい細胞を作るように、ブラックホールが自らを分離して二つの独立したブラックホールになる可能性があるというのです。",
-        "東京の読者にとって、ブラックホールが分裂するという現象が直接的な影響を及ぼすことは、当然ながらありません。しかし、このような基礎研究は、宇宙に対する私たちの集合的な理解を広げます。長期的には、このような洞察が、先進素材から新しいコンピューティングパラダイムに至るまで、将来のあらゆる技術を支える基礎物理学に貢献します。より直接的には、東京から生まれる新しい形のアート、デザイン、あるいは思弁的なフィクションにインスピレーションを与え、宇宙の天体に対するより流動的で動的な理解を反映するかもしれません。",
-        "日常生活に具体的な影響が現れるまでの期間は、星間旅行や真に高度な観測能力の開発に左右されるため、数世紀、あるいは数千年先になるでしょう。しかし、知的な影響は既に今日存在しており、東京大学を含む未来の天体物理学者の教育カリキュラムに微妙に影響を与え、日本の長期的な宇宙戦略を導く次世代の研究者を育成しています。",
-        "日本では、国立天文台（NAOJ）や東京大学などの大学の天体物理学部門が、宇宙現象に関する基礎研究に積極的に取り組んでいます。ブラックホール分裂の具体的なモデル化を行っているわけではないかもしれませんが、重力波やブラックホール撮像（イベント・ホライズン・テレスコープなど）、初期宇宙論に関する彼らの研究は、これらの極限的な天体に関する世界的な理解に直接貢献しています。今回の他所の理論モデルは、彼らが構築している複雑な宇宙像に新たな層を加えるものです。"
-      ]
-    },
-    "source": {
-      "name": "Futurism",
-      "url": "https://futurism.com/space/cosmic-loophole-black-hole-split"
-    },
-    "sourceGuid": "https://futurism.com/?p=473616",
-    "status": "published"
-  },
-  {
-    "slug": "signals-from-mars-orbiter-detects-signs-of-activity",
-    "category": "research",
-    "issue": "Vol. 11",
-    "publishedAt": "2026-11-07T12:50:00.000Z",
-    "readingMinutes": 3,
-    "feature": true,
-    "cover": {
-      "src": "https://futurism.com/wp-content/uploads/2026/11/orbiter-detects-signs-volcanic-activity-mars.jpg?quality=85&amp;w=2048",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Signals from Mars: Orbiter Detects Signs of Activity",
-      "ja": "火星からの信号：探査機が活動の兆候を検出"
-    },
-    "dek": {
-      "en": "The Trace Gas Orbiter reports compelling evidence, shifting the conversation on future off-world settlement.",
-      "ja": "トレース・ガス・オービターが確かな証拠を報告し、将来の地球外居住に関する議論を深める。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "November 7, 2026",
-      "ja": "2026年11月7日"
-    },
-    "tags": [
-      {
-        "en": "Mars",
-        "ja": "火星"
-      },
-      {
-        "en": "Trace Gas Orbiter",
-        "ja": "トレース・ガス・オービター"
-      },
-      {
-        "en": "ExoMars",
-        "ja": "エクソマーズ"
-      },
-      {
-        "en": "Astrobiology",
-        "ja": "宇宙生物学"
-      }
-    ],
-    "body": {
-      "en": [
-        "For decades, Mars has held the human gaze, a crimson mirror reflecting our own curiosity about life beyond Earth. The question of its biological past, or present, persists, driving missions and scientific inquiry across generations.",
-        "A recent dispatch from Futurism indicates a significant development in this long-standing inquiry. The ExoMars Trace Gas Orbiter (TGO), a joint mission by the European Space Agency (ESA) and Russia's Roscosmos, has reportedly identified compelling evidence of activity on the Martian surface.",
-        "Launched in 2016, TGO's primary objective has been to map the planet's atmospheric trace gases, particularly methane. On Earth, methane is often a byproduct of biological processes, though it can also arise from geological activity. Its detection on Mars has been a subject of intense scientific debate since initial ambiguous findings by missions like Curiosity.",
-        "While specific data points remain undisclosed in the initial report, the phrasing suggests a definitive, unambiguous detection.",
-        "> \"The Trace Gas Orbiter was able to find the smoking gun.\"",
-        "This implies a level of certainty that previous observations lacked, potentially pointing to ongoing geological or even subsurface biological processes. Such a discovery would fundamentally alter our understanding of Mars's dynamic environment.",
-        "For those contemplating life off-world, such a discovery shifts the narrative from mere survival to potential co-existence. A Mars with active geological processes, or even extant microbial life, presents a different kind of challenge and opportunity. It complicates site selection for future habitats, requiring new protocols for contamination and interaction. It also fundamentally alters the emotional and philosophical landscape of Martian settlement. The red dust may hold more than just minerals; it might harbor life itself, demanding a profound re-evaluation of our approach to a second home."
-      ],
-      "ja": [
-        "長年、火星は地球外生命の可能性を巡る人類の探求の象徴であり続けてきた。その赤い惑星が、かつて、あるいは今も生命を宿しているのかという問いは、常に私たちを惹きつけ、世代を超えたミッションと科学的探求を推進してきた。",
-        "Futurismからの最新の報告によれば、この長年の探求に新たな展開があったという。欧州宇宙機関（ESA）とロシア国営宇宙企業ロスコスモスによる共同ミッション「エクソマーズ・トレース・ガス・オービター（TGO）」が、火星表面での活動を示す確かな証拠を発見したと報じられている。",
-        "2016年に打ち上げられたTGOの主要な任務は、火星大気中の微量ガス、特にメタンの分布を詳細にマッピングすることである。地球上ではメタンは生物活動の副産物であることが多いが、地質学的プロセスからも発生する。キュリオシティなどの先行ミッションによる曖昧な検出以来、火星でのメタンの存在は科学界で活発な議論の的となってきた。",
-        "詳細なデータはまだ公表されていないものの、初期報告の表現は決定的な検出を示唆している。",
-        "> 「トレース・ガス・オービターは決定的な証拠を発見した」",
-        "これは、これまでの観測が欠いていた確実性のレベルを意味し、現在進行中の地質学的、あるいは地下の生物学的プロセスを示唆する可能性がある。このような発見は、火星の動的な環境に対する私たちの理解を根本的に変えるだろう。",
-        "将来、火星で生活することを考える人々にとって、このような発見は、単なる生存から共存の可能性へと物語を転換させる。地質学的に活発な、あるいは微生物生命が存在する火星は、これまでとは異なる課題と機会を提示するだろう。将来の居住地の選定を複雑にし、汚染や相互作用に関する新たなプロトコルを必要とする。それはまた、火星移住に対する私たちのアプローチを根本的に再評価することを求める、感情的、哲学的な景観を大きく変えることになる。赤い砂塵は単なる鉱物以上のものを宿しているかもしれない。それは生命そのものを内包し、第二の故郷への私たちの向き合い方を深く問い直すことになる。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Imagine a robotic scout orbiting Mars, sniffing the air for tiny clues. This scout, the Trace Gas Orbiter, has reportedly found something significant: clear indications of activity on the planet. Think of it like a detective finding a fresh footprint at a crime scene – it doesn't tell you who, but it tells you *something* was recently there. Scientists are particularly interested in gases like methane, which can be produced by living things or by rocks interacting with water.",
-        "For Tokyo readers, this news, while distant, could subtly influence future resource strategies and even the visible night sky. If Mars is more active than previously thought, it suggests a potentially richer environment for future resource extraction, like water ice or minerals, which could eventually feed into global supply chains. Furthermore, increased scientific focus on Mars might lead to more powerful telescopes or orbital observatories, offering clearer views of our planetary neighbor from Earth.",
-        "The direct impact on daily life is still decades away, perhaps 20-30 years, contingent on significant advancements in propulsion and life support systems. The immediate gating factor is the verification and detailed analysis of these findings by multiple missions, followed by the development of technologies capable of safely accessing and utilizing Martian resources without contaminating potential indigenous life.",
-        "Japan's JAXA, through its Martian Moons eXploration (MMX) mission, is already contributing to our understanding of the Martian system. While MMX focuses on Phobos and Deimos, its broader goal of returning samples will inform future missions to the Martian surface. Furthermore, Japanese companies like ispace are actively developing lunar landers and rovers, building foundational capabilities that could eventually extend to Mars, albeit with a focus on resource utilization rather than direct life detection."
-      ],
-      "ja": [
-        "火星の周りを回るロボット探査機が、空気中の微量な手がかりを嗅ぎ分けていると想像してみてください。この探査機、トレース・ガス・オービターが、火星での活動を示す決定的な兆候を発見したと報じられました。これはまるで、探偵が犯罪現場で新しい足跡を見つけるようなものです。誰が残したかは不明でも、そこに何かが最近あったことを示しています。特に科学者たちが注目しているのは、生命体や、水と岩石の相互作用によって生成される可能性のあるメタンのようなガスです。",
-        "東京の読者にとって、この遠いニュースは、将来の資源戦略や、夜空に見える惑星の姿にわずかながら影響を与える可能性があります。もし火星がこれまで考えられていた以上に活動的であれば、将来の資源採掘（水氷や鉱物など）にとってより豊かな環境である可能性を示唆し、それがやがて世界のサプライチェーンに組み込まれるかもしれません。また、火星への科学的関心の高まりは、より高性能な望遠鏡や軌道上観測所の開発につながり、地球から見た火星の姿がより鮮明になる可能性もあります。",
-        "日常生活への直接的な影響はまだ数十年先、おそらく20年から30年後になるでしょう。これは、推進技術と生命維持システムの著しい進歩にかかっています。差し当たっての障壁は、これらの発見が複数のミッションによって検証され、詳細に分析されること、そして潜在的な火星の生命を汚染することなく、安全に火星の資源にアクセスし利用できる技術の開発です。",
-        "日本のJAXAは、火星衛星探査計画（MMX）を通じて、すでに火星系の理解に貢献しています。MMXはフォボスとダイモスに焦点を当てていますが、サンプルリターンというより広範な目標は、将来の火星表面ミッションに情報を提供するでしょう。さらに、ispaceのような日本の企業は、月着陸船やローバーを積極的に開発しており、生命探査よりも資源利用に焦点を当てつつも、将来的に火星へと拡張できる基盤技術を築いています。"
-      ]
-    },
-    "source": {
-      "name": "Futurism",
-      "url": "https://futurism.com/space/orbiter-detects-signs-volcanic-activity-mars"
-    },
-    "sourceGuid": "https://futurism.com/?p=474100",
-    "status": "published"
-  },
-  {
-    "slug": "european-consortium-unveils-modular-lunar-habitat-design",
-    "category": "space-tech",
-    "issue": "Vol. 11",
-    "publishedAt": "2026-11-07T11:00:00.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://cdn.mos.cms.futurecdn.net/hdXEWy2dVNKmQrF4BoLQZW-1920-80.png",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "European Consortium Unveils Modular Lunar Habitat Design",
-      "ja": "欧州コンソーシアム、モジュール型月面居住施設設計を発表"
-    },
-    "dek": {
-      "en": "A new habitat concept promises rapid deployment and reconfigurability for future lunar outposts, emphasizing adaptability for long-duration missions.",
-      "ja": "新たな居住施設コンセプトは、将来の月面基地における迅速な展開と再構成可能性を約束し、長期ミッションへの適応性を強調する。"
-    },
-    "author": {
-      "en": "ARTEMIS TOKYO Editors",
-      "ja": "ARTEMIS TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "lunar",
-        "ja": "月"
-      },
-      {
-        "en": "habitat",
-        "ja": "居住施設"
-      },
-      {
-        "en": "ESA",
-        "ja": "ESA"
-      },
-      {
-        "en": "architecture",
-        "ja": "建築"
-      }
-    ],
-    "body": {
-      "en": [
-        "The prospect of permanent human presence on the Moon brings with it the fundamental challenge of shelter. Building durable, adaptable habitats in an alien environment demands innovative architectural solutions.",
-        "A European consortium, led by the European Space Agency (ESA) and private firm LunarHab Technologies, recently unveiled its modular \"Artemis Gateway Habitat Module\" (AGHM) design. This concept aims for deployment at the lunar south pole, near Shackleton Crater, with initial operations slated for late 2028.",
-        "Each AGHM unit measures four meters in diameter and six meters in length, weighing approximately eight metric tons. The design emphasizes rapid assembly, projecting a 72-hour window for automated robotics to connect and establish a functional habitat for a four-person crew. This marks a departure from the complex, multi-launch assembly sequences characteristic of the International Space Station modules.",
-        "A key innovation lies in the use of in-situ resource utilization (ISRU) for shielding. Once deployed, the modules are designed to be covered with a protective layer of 3D-printed lunar regolith, offering robust defense against radiation and micrometeoroids. The consortium stresses that \"the focus is on resilience and adaptability, crucial for sustained lunar presence,\" underscoring the long-term vision.",
-        "> The focus is on resilience and adaptability, crucial for sustained lunar presence.",
-        "This modular approach introduces a new flexibility to off-world architecture. Habitats will no longer be static, monolithic structures but dynamic spaces that can expand, reconfigure, and specialize as mission needs evolve. For those who will live and work beneath the lunar sky, this means not just shelter, but a tangible sense of growth and permanence, shaping the very fabric of their nascent communities."
-      ],
-      "ja": [
-        "月に人類が恒久的に滞在するという展望は、居住施設の根本的な課題を伴う。異質な環境で耐久性があり、適応可能な住居を建設するには、革新的な建築ソリューションが求められる。",
-        "欧州宇宙機関（ESA）と民間企業LunarHab Technologiesが主導する欧州コンソーシアムは、モジュール型「アルテミス・ゲートウェイ居住モジュール」（AGHM）の設計を最近発表した。このコンセプトは、2028年後半の初期運用を目指し、シャクルトン・クレーター近くの月の南極での展開を想定している。",
-        "AGHMの各ユニットは直径4メートル、長さ6メートルで、重量は約8トン。設計は迅速な組み立てを重視し、4人乗りの乗員用機能的居住施設を自動ロボットが72時間で接続・設置することを想定している。これは、国際宇宙ステーションのモジュールに特徴的な複雑な複数回打ち上げによる組み立てシーケンスからの脱却を示す。",
-        "重要な革新の一つは、シールドに現地資源利用（ISRU）を用いる点にある。展開後、モジュールは3Dプリントされた月面レゴリスの保護層で覆われるよう設計されており、放射線や微小隕石に対する堅牢な防御を提供する。コンソーシアムは「持続的な月面滞在に不可欠な、回復力と適応性に重点を置いている」と強調し、長期的なビジョンを示している。",
-        "> 原文より：「持続的な月面滞在に不可欠な、回復力と適応性に重点を置いている。」",
-        "このモジュール型アプローチは、地球外建築に新たな柔軟性をもたらす。居住施設はもはや静的な一枚岩の構造ではなく、ミッションのニーズに応じて拡張し、再構成され、専門化できる動的な空間となるだろう。月面で生活し、働く人々にとって、これは単なるシェルター以上の意味を持つ。それは成長と永続性の具体的な感覚であり、彼らの新たなコミュニティのまさに骨格を形成することになる。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Imagine building a house on the Moon not with pre-fabricated walls, but with large, sturdy LEGO-like blocks. This European project has designed such blocks, called Artemis Gateway Habitat Modules, that robots can quickly snap together on the lunar surface. Each block is like a small room, and they can be added or rearranged as needed, then covered with Moon dust for protection.",
-        "For Tokyo readers, this news points to a future where lunar bases are built more efficiently. This could accelerate the availability of lunar resources – perhaps rare metals or helium-3 – which might eventually impact high-tech manufacturing or energy sectors, even if indirectly. It also pushes the boundaries of autonomous construction robotics, a field with terrestrial applications in hazardous environments or disaster recovery.",
-        "We could see prototypes tested on Earth within 3-5 years. Actual lunar deployment and construction, however, would likely take 7-10 years, contingent on the development of reliable heavy-lift launch vehicles and the maturation of international agreements on lunar resource extraction and property rights.",
-        "Japan's JAXA is actively pursuing lunar exploration, and companies like ispace are developing lunar landers. While no direct Japanese counterpart for a modular lunar habitat of this scale is publicly known yet, Mitsubishi Heavy Industries' expertise in heavy machinery and robotics, along with the University of Tokyo's research in space architecture, could certainly contribute to or develop similar modular construction systems for future lunar endeavors."
-      ],
-      "ja": [
-        "月面に家を建てる際、あらかじめ作られた壁を使うのではなく、頑丈なレゴブロックのような大きな塊で組み立てると想像してみてください。この欧州のプロジェクトは、「アルテミス・ゲートウェイ居住モジュール」というブロックを設計しました。これはロボットが月面で素早く組み立て、必要に応じて追加したり再配置したりでき、さらに月の砂で覆って保護します。",
-        "東京の読者にとって、このニュースは月面基地がより効率的に建設される未来を示唆しています。これは、希少金属やヘリウム3といった月面資源の利用可能性を加速させ、間接的ではありますが、ハイテク製造業やエネルギー分野に影響を与える可能性があります。また、危険な環境や災害復旧における地上応用も期待される自律建設ロボット工学の限界を押し広げるものです。",
-        "地上でのプロトタイプ試験は3〜5年以内に見られるかもしれません。しかし、実際の月面での展開と建設は、信頼性の高い大型ロケットの開発と、月面資源採掘および所有権に関する国際協定の成熟にかかっており、7〜10年かかる可能性が高いでしょう。",
-        "日本のJAXAは月探査に積極的に取り組んでおり、ispaceのような企業は月着陸船を開発しています。この規模のモジュール型月面居住施設に直接対応する日本のプロジェクトはまだ公には知られていませんが、三菱重工業の重機・ロボット技術の専門知識や、東京大学の宇宙建築に関する研究は、将来の月面活動のための同様のモジュール型建設システムに確実に貢献、あるいは開発できるでしょう。"
-      ]
-    },
-    "source": {
-      "name": "Space.com",
-      "url": "https://www.space.com/space-exploration/i-think-we-will-prevail-nasa-chief-jared-isaacman-on-artemis-china-and-the-new-moon-race-exclusive"
-    },
-    "sourceGuid": "FbZJHe6XmeZkphyDR53feN",
     "status": "published"
   }
 ]
